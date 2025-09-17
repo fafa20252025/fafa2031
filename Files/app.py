@@ -3,6 +3,8 @@ import base64
 import requests
 import binascii
 import os
+from datetime import timezone
+from datetime import datetime, timedelta
 
 # Define a fixed timeout for HTTP requests
 TIMEOUT = 15  # seconds
@@ -15,6 +17,7 @@ fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 """
 
+
 # Base64 decoding function
 def decode_base64(encoded):
     decoded = ""
@@ -26,36 +29,91 @@ def decode_base64(encoded):
             pass
     return decoded
 
+
 # Function to decode base64-encoded links with a timeout
 def decode_links(links):
     decoded_data = []
     for link in links:
         try:
+            # Parse GitHub link to extract owner, repo, and file_path
+            parts = link.split("/")
+            owner, repo = parts[3], parts[4]
+            # Remove 'master', 'main', or 'refs/heads/main' from file_path if present
+            file_path_parts = parts[5:]
+            if file_path_parts and file_path_parts[0] in ["master", "main"]:
+                file_path_parts = file_path_parts[1:]
+            elif file_path_parts[:3] == ["refs", "heads", "main"]:
+                file_path_parts = file_path_parts[3:]
+            file_path = "/".join(file_path_parts)
+
+            # Check if the link is updated within the last 48 hours
+            url = f"https://api.github.com/repos/{owner}/{repo}/commits"
+            params = {"path": file_path, "page": 1, "per_page": 1}
+            res = requests.get(url, params=params, timeout=TIMEOUT)
+            res.raise_for_status()
+            data = res.json()
+
+            if isinstance(data, list) and len(data) > 0:
+                commit_time = data[0]["commit"]["committer"]["date"]
+                commit_datetime = datetime.strptime(commit_time, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+                if datetime.now(timezone.utc) - commit_datetime > timedelta(hours=48):
+                    print(f"Skipping outdated link: {link}")
+                    continue
+                    # Fetch and decode the link content
             response = requests.get(link, timeout=TIMEOUT)
+            response.raise_for_status()
             encoded_bytes = response.content
             decoded_text = decode_base64(encoded_bytes)
             decoded_data.append(decoded_text)
-        except requests.RequestException:
-            pass  # If the request fails or times out, skip it
+        except (requests.RequestException, KeyError, IndexError) as e:
+            print(f"Error processing link {link}: {e}")
+            continue
     return decoded_data
+
 
 # Function to decode directory links with a timeout
 def decode_dir_links(dir_links):
     decoded_dir_links = []
     for link in dir_links:
         try:
+            # Parse GitHub link to extract owner, repo, and file_path
+            parts = link.split("/")
+            if "githubusercontent.com" in link and len(parts) > 5:
+                owner, repo = parts[3], parts[4]
+                file_path_parts = parts[5:]
+                if file_path_parts and file_path_parts[0] in ["master", "main"]:
+                    file_path_parts = file_path_parts[1:]
+                elif file_path_parts[:3] == ["refs", "heads", "main"]:
+                    file_path_parts = file_path_parts[3:]
+                file_path = "/".join(file_path_parts)
+
+                # Check if the link is updated within the last 48 hours
+                url = f"https://api.github.com/repos/{owner}/{repo}/commits"
+                params = {"path": file_path, "page": 1, "per_page": 1}
+                res = requests.get(url, params=params, timeout=TIMEOUT)
+                res.raise_for_status()
+                data = res.json()
+                if isinstance(data, list) and len(data) > 0:
+                    commit_time = data[0]["commit"]["committer"]["date"]
+                    commit_datetime = datetime.strptime(commit_time, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+                    if datetime.now(timezone.utc) - commit_datetime > timedelta(hours=48):
+                        print(f"Skipping outdated link: {link}")
+                        continue
+
             response = requests.get(link, timeout=TIMEOUT)
             decoded_text = response.text
             decoded_dir_links.append(decoded_text)
-        except requests.RequestException:
-            pass  # If the request fails or times out, skip it
+        except (requests.RequestException, KeyError, IndexError) as e:
+            print(f"Error processing dir link {link}: {e}")
+            continue
     return decoded_dir_links
+
 
 # Filter function to select lines based on specified protocols and remove duplicates (only for config lines)
 def filter_for_protocols(data, protocols):
     filtered_data = []
     seen_configs = set()
-    
+
     # Process each decoded content
     for content in data:
         if content and content.strip():  # Skip empty content
@@ -72,7 +130,6 @@ def filter_for_protocols(data, protocols):
     return filtered_data
 
 
-
 # Create necessary directories if they don't exist
 def ensure_directories_exist():
     output_folder = os.path.join(os.path.dirname(__file__), "..")
@@ -85,6 +142,7 @@ def ensure_directories_exist():
 
     return output_folder, base64_folder
 
+
 # Main function to process links and write output files
 def main():
     output_folder, base64_folder = ensure_directories_exist()  # Ensure directories are created
@@ -93,7 +151,7 @@ def main():
     print("Cleaning existing files...")
     output_filename = os.path.join(output_folder, "All_Configs_Sub.txt")
     main_base64_filename = os.path.join(output_folder, "All_Configs_base64_Sub.txt")
-    
+
     if os.path.exists(output_filename):
         os.remove(output_filename)
         print(f"Removed: {output_filename}")
@@ -112,7 +170,7 @@ def main():
             print(f"Removed: {filename_base64}")
 
     print("Starting to fetch and process configs...")
-    
+
     protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"]
     links = [
         "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
@@ -146,7 +204,7 @@ def main():
     print("Fetching base64 encoded configs...")
     decoded_links = decode_links(links)
     print(f"Decoded {len(decoded_links)} base64 sources")
-    
+
     print("Fetching direct text configs...")
     decoded_dir_links = decode_dir_links(dir_links)
     print(f"Decoded {len(decoded_dir_links)} direct text sources")
@@ -169,7 +227,7 @@ def main():
     print("Creating base64 version...")
     with open(output_filename, "r", encoding="utf-8") as f:
         main_config_data = f.read()
-    
+
     main_base64_filename = os.path.join(output_folder, "All_Configs_base64_Sub.txt")
     with open(main_base64_filename, "w", encoding="utf-8") as f:
         encoded_main_config = base64.b64encode(main_config_data.encode()).decode()
@@ -187,7 +245,7 @@ def main():
     print(f"Splitting into {num_files} files with max {max_lines_per_file} lines each")
 
     for i in range(num_files):
-        profile_title = f"🆓 Git:barry-far | Sub{i+1} 🔥"
+        profile_title = f"🆓 Git:barry-far | Sub{i + 1} 🔥"
         encoded_title = base64.b64encode(profile_title.encode()).decode()
         custom_fixed_text = f"""#profile-title: base64:{encoded_title}
 #profile-update-interval: 1
@@ -207,7 +265,7 @@ def main():
 
         with open(input_filename, "r", encoding="utf-8") as input_file:
             config_data = input_file.read()
-        
+
         base64_output_filename = os.path.join(base64_folder, f"Sub{i + 1}_base64.txt")
         with open(base64_output_filename, "w", encoding="utf-8") as output_file:
             encoded_config = base64.b64encode(config_data.encode()).decode()
@@ -218,9 +276,10 @@ def main():
     print(f"Total configs processed: {len(merged_configs)}")
     print(f"Files created:")
     print(f"  - All_Configs_Sub.txt")
-    print(f"  - All_Configs_base64_Sub.txt") 
+    print(f"  - All_Configs_base64_Sub.txt")
     print(f"  - {num_files} split files (Sub1.txt to Sub{num_files}.txt)")
     print(f"  - {num_files} base64 split files (Sub1_base64.txt to Sub{num_files}_base64.txt)")
+
 
 if __name__ == "__main__":
     main()
