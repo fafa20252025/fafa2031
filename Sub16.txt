@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.218.93.159:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.210:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇮🇸@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.210:8880?mode=gun&security=&encryption=none&authority=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&type=grpc#🇮🇸@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.210:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.210:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2rayAlpha--4
@@ -501,5 +503,3 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/?ed=2048@Hi
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@92.118.232.28:443?path=/&security=tls&encryption=none&fp=chrome&type=ws#@meli_proxyy
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@92.118.232.28:443?path=/&security=tls&encryption=none&fp=chrome&type=ws#r♡ya
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@92.118.232.28:443?path=/&security=tls&encryption=none&fp=chrome&type=ws#t.me/entryNET/config=1849230680394956
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?encryption=none&type=ws&host=smart.trevanda.info&path=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=smart.trevanda.info&alpn=h3,h2#🇺🇸 | @EVAY_VPN
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?encryption=none&type=ws&host=smart.trevanda.info&path=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=smart.trevanda.info&alpn=h3,h2#🇺🇸 | @EVAY_VPN
