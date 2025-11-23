@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://0e0c9c2a-6166-4337-bdfc-675602365807@141.94.204.212:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/141.94.204.212=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A533
+trojan://0b5ea56a-056b-4917-9a47-b20ecfb78ad9@188.132.129.199:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/188.132.129.199=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A534
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpES3lSZG9xUUllYmRLWlZZczVHelc4@45.150.32.13:14628#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD5
+trojan://telegram-id-privatevpns@52.57.38.0:22222?sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A535
+trojan://1a758d17-149a-47f3-9336-d1cc33232cc9@91.103.253.193:443?sni=joss.gpj1.web.id#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD18
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzYiLCJhZGQiOiI0Ny44My4xOC4xMCIsInBvcnQiOiIzNjk2OCIsImlkIjoiMTc2YmYxZGQtNjQ3Zi00YzA5LTg5MmUtNWY5MjIzZGM4NjE3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzNiJ9
+trojan://6ead60c4-4321-45d5-81a9-ba4835f7c692@45.159.251.8:81?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A537
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD6
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.81.84:3169?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
+trojan://e04af4a8-ce76-4026-8480-82d0e35dd239@94.177.199.119:8443?type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/94.177.199.119=8443&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A538
 trojan://2302eb2b-9401-4176-a4da-b41d4cd55756@185.247.184.186:8443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/185.247.184.186=8443&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A539
 trojan://a69221dc-069f-4526-b137-de487c746ec9@65.109.211.85:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/65.109.211.85=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A540
 trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443?type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/81.22.132.183=443&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A541
@@ -493,13 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#🇳🇱@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:50.69ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#@EXPRESSVPN_420
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#⚜️Telegram: @EXPRESSVPN_420
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#🇳🇱@FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@115.161.136.145:10099#🇰🇷45@vpnserverrr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxU0lUUFljMmszZGtYcENjMXdNbHNU@194.87.45.189:443#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:45ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#@V2rayNG3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#All-@V2ray_Alpha--1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#MTN-@IRAN_V2RAY1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#@V2rayNG3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#@V2rayNG3
