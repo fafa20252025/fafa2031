@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.137.185:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.141.42:443?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#AZADIV2RAYY جدید ✅️
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.240.122:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#https://t.me/v2raynplus |🇩🇪
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss49730.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@vmesskhodam
@@ -501,5 +503,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=/&security=t
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.134.72:443?encryption=none&security=tls&sni=ppAL03.emANueL-kUhn.woRKERs.dEv&alpn=h2,http/1.1&fp=chrome&type=ws&host=ppAL03.eMAnueL-kuhn.WoRKErS.DEv&path=/gSx3HnoD5HyvSRzZ?ed=2560#😃Tel: @pPal03😃جوین بده😃
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?encryption=none&security=tls&sni=pPAL03.sERgeY-wylie.WORkerS.dEv&alpn=h2,http/1.1&fp=chrome&type=ws&host=PpAL03.sErgEy-WYLIe.WORkeRs.Dev&path=/I0EH91fid6sOOJYB?ed=2560#🐅Ch: @pPal03🐅جوین بدید🐅
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?encryption=none&security=tls&sni=PPal03.sERgEY-wYLIe.woRKERS.dEv&alpn=h2,http/1.1&fp=chrome&type=ws&host=pPal03.SerGeY-wYLIe.wOrkers.DEV&path=/mgsKWivswrMllw73?ed=2560#🐅Ch: @pPal03🐅جوین بدید🐅
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.98.57:80?encryption=none&security=none&type=ws&host=proud-queen-55500071.cexonoc962.workers.dev&path=/?ed=2560#〽️Ch: @pPal03〽️جوین بدید〽️
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80?path=Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@CaV2ray ⚡️
