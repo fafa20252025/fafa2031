@@ -1,1 +1,14 @@
-
+{
+  "v": "2",
+  "ps": "Asiacell_Free_VPN",
+  "add": "ar1.vpnjantit.com",
+  "port": "10002",
+  "id": "0868fcfc-ccc2-11f0-a498-5254f8824680",
+  "aid": "0",
+  "net": "ws",
+  "type": "none",
+  "host": "www.asiacell.com",
+  "path": "/",
+  "tls": "tls",
+  "sni": "www.asiacell.com"
+}
