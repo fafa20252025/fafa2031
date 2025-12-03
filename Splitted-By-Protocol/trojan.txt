@@ -975,3 +975,4 @@ trojan://79314e99f0a473fe86efc7827942ad00@160.16.81.84:4054?security=tls&sni=www
 trojan://79314e99f0a473fe86efc7827942ad00@58.152.18.192:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.18.192-0325
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:2760?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.6-0332
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.6-0331
+trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#%40Filter_breaker-6
