@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#All-@V2rayAlpha--15
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&type=ws&sni=gb-8981.shenzogmbh.com#All-@V2ray_Alpha--14
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@45.139.196.153:443?path=/api/v1&security=tls&encryption=none&fp=chrome&type=ws#MCI--@IRAN_V2RAY1
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#WiFi-@V2ray_Alpha--13
@@ -145,7 +146,6 @@ vless://669be00c-67b4-4b87-b08f-311c45abced2@178.17.53.248:8443?security=reality
 vless://669be00c-67b4-4b87-b08f-311c45abced2@178.17.53.248:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#@MARAMBASHI 🇩🇪
 vless://669be00c-67b4-4b87-b08f-311c45abced2@178.17.53.248:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#⚡ @Fast78_Channel | Best Free Configs
 vless://669be00c-67b4-4b87-b08f-311c45abced2@178.17.53.248:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#🇩🇪@FreakConfig
-vless://669be00c-67b4-4b87-b08f-311c45abced2@185.168.208.86:443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=chrome&spx=/telegram cafe_vpn2/telegram cafe_vpn2/telegram cafe_vpn2/telegram cafe_vpn2/telegram cafe_vpn2&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#t.me/entryNET/config=1850530496088474
 vless://669be00c-67b4-4b87-b08f-311c45abced2@202.148.53.117:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#🇫🇷@FreakConfig
 vless://669be00c-67b4-4b87-b08f-311c45abced2@212.111.87.23:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=static.rutube.ru&fp=chrome&security=reality&pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&sid=ffffffffff#🔥73@oneclickvpnkeys
 vless://669be00c-67b4-4b87-b08f-311c45abced2@212.111.87.23:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=static.rutube.ru&fp=chrome&security=reality&pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&sid=ffffffffff#🔥80@oneclickvpnkeys
