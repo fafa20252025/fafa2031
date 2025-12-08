@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--37
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&type=grpc#MCi--@IRAN_V2RAY1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?mode=gun&security=none&encryption=none&type=grpc#MCi--@IRAN_V2RAY1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#azadiiivpn 🎀
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#✅سرورهایبیشتردرکانال:prrofile_purple@✅
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.141:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@Maznet-46197-1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.27:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.27:8880?mode=gun&security=none&encryption=none&type=grpc#All--@V2rayAlpha-31
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
@@ -503,3 +493,13 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=/&securi
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=/?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&alpn=h3,h2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#@HiByeVPNN👈🌿💎
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=KlIi9Yc11L.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=KlIi9Yc11L.lIrA0xC8.iNfO#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&encryption=none&host=qjms2367w2.giti4.org&type=ws&sni=qjms2367w2.giti4.org#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@www.speedtest.net:2096?path=/&security=tls&encryption=none&insecure=0&host=smart.zarnovia.info&type=ws&allowInsecure=0&sni=smart.zarnovia.info#Channel : @Mrsoulb 🏴🏳
+vless://e9c011b3-5e03-4496-c030-3dba558d87d3@165.232.120.27:443?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#✅ @prrofile_purple (تلگرام)
+vless://e9c011b3-5e03-4496-c030-3dba558d87d3@165.232.120.27:443?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--17
+vless://e9c011b3-5e03-4496-c030-3dba558d87d3@165.232.120.27:443?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--41
+vless://e9c011b3-5e03-4496-c030-3dba558d87d3@165.232.120.27:443?mode=gun&security=none&encryption=none&type=grpc#✅ @prrofile_purple (تلگرام)
+vless://e9cf7de8-33a6-42da-badd-c40ec172b5a0@159.69.21.66:80?type=ws&encryption=none&path=/stream&host=www.movieee.ir&security=none#@Free_HTTPCustom-48h
+vless://e9cf7de8-33a6-42da-badd-c40ec172b5a0@159.69.21.66:80?type=ws&encryption=none&path=/stream&host=www.movieee.ir&security=none#@Free_HTTPCustom-48h   آموزش اتصال  خرید کانفیگ اختصاصی
+vless://e9db60cd-83df-430a-960e-b77c56dc6ede@norman.ns.cloudflare.com:443?path=/lzummpws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639003456258253450.mustang-amsit.info#Channel : @Mrsoulb 🏴🏳
