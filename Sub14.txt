@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://636a7036-3875-4886-a32d-161bd65b1deb@Evay_vpn.heloisfood.ir:1530?type=xhttp&mode=auto&host=evay.com&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#2🇫🇮 @Evay_vpn
 vless://63b4093e-bf06-4bb8-9927-d6c883d789c7@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=sme.global.ssl.fastly.net&type=xhttp#@CaV2ray ⚡️
 vless://63d7714a-2ac5-46ac-93be-96cea00300f8@104.24.222.17:80?encryption=none&security=none&type=ws&host=winter-unit-b41d-ppal03.daxesac157.workers.dev&path=/?ed=2560#🧶Ch: @pPal03🧶جوین بدید عزیزانم🧶
 vless://63d7714a-2ac5-46ac-93be-96cea00300f8@172.64.88.159:80?encryption=none&security=none&type=ws&host=winter-unit-b41d-ppal03.daxesac157.workers.dev&path=/?ed=2560#🧶Ch: @pPal03🧶جوین بدید عزیزانم🧶
@@ -502,4 +503,3 @@ vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss49730.tas-bazi.com:443?mode=stre
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss55501.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss57281.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#@vmesskhodam
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@vmesskhodam
-vless://76338a96-f25c-4afe-9ea8-1a5c3b58f6a8@91.107.128.190:1580?path=/&security=none&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
