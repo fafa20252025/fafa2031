@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-
 #بمب_اختصاصی 💣❤️ #ایرانسل 🚀  trojan://Go5e2nJM8U@45.85.119.29:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN🚀 trojan://Go5e2nJM8U@45.85.119.0:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN📂 آموزش استفاده از کانفیگ ها 📱🍎• More: @beta_v2ray 🗿
 
 سلام 👋ربات فعال شد میتونید استفاده کنید. 📌نکته: فقط کانفیگ هارو بصورت محدود زدیم و در قسمت سرور ها سرور لهستان و vmess انتخاب کنید و خریدتونو انجام بدید 🔸#توجه_کنید: داخل ربات قیمت هارو بصورت پایین زدیم 😁✅ @vip_vpn_2022_bot 👍
@@ -503,3 +502,4 @@ vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=%2F%3FTELEGRA
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.113.54:80?encryption=none&security=none&sni=vless.hubp.de&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=vless.hubp.de&path=t.me%2Fv2Line#%3E%3E%40v2line%3A%3AUS
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#%3E%3E%40DailyV2RY%3A%3AUS
 vless://33676069-bc5a-443c-bb64-14a215544f2b@deu711.deulucker.org:444?mode=auto&path=%2Fapi%2Fv1%2F&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&fp=chrome&type=xhttp&sni=deu711.deulucker.org#%3E%3E%40v2rayngvpn%3A%3ANL
+vless://3513666b-d8ca-414f-856b-4ce192a0071b@eng25.netliberated.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.halfords.com#%3E%3E%40FreakConfig%3A%3AXX
