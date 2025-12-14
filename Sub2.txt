@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+hy2://16461a78-363c-457a-92f9-83b0a68edc37@sg2.eyucdn.xyz:2056/?insecure=1&sni=sg2.eyucdn.xyz#新加坡
+hy2://16461a78-363c-457a-92f9-83b0a68edc37@sg3.eyucdn.xyz:2056/?insecure=1&sni=sg3.eyucdn.xyz#新加坡
+hy2://16461a78-363c-457a-92f9-83b0a68edc37@zp1.eyucdn.xyz:2056/?insecure=1&sni=zp1.eyujichang.xyz#JP
 hy2://16461a78-363c-457a-92f9-83b0a68edc37@zp1.eyucdn.xyz:2056/?insecure=1&sni=zp1.eyujichang.xyz#东京
 hy2://3C8h8X6kimbOX68joVe3kTERw@206.189.20.193:7197/?insecure=1&sni=bing.com#UK
 hy2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.217.4:22509/?insecure=1&sni=bing.com#SG
@@ -500,6 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNd2xfUXBfRUgxbWkzTDdpRDVJOE9n@65.21.157.131:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNdC1FaVRpR3dmNS1qRUF1T09BRVJn@83.143.112.115:1080?note=--Telegram--@NetifyVPN--#🇫🇮[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMmVUOEYtQmpOQmJELTVaay1OR1hnOUZGZ011NzdweA==@45.12.145.61:1234#@Broz_time > کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORFJ5U0lBQkFSYkVyTklWc0NOVmt5WUFIaUJ6aHZlVA==@23.95.75.146:443#WiFi-@V2ray_Alpha--4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORFJ5U0lBQkFSYkVyTklWc0NOVmt5WUFIaUJ6aHZlVA@23.95.75.146:443#⚙️70@oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#All-@V2rayAlpha--1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOcm9HelNkZERzMUFhVnYwK0dZMTRHcGt5S3YzcHVzZ2RTTXlHT3NQMXZJPQ==@3.70.23.209:2087#@daredevill_404
