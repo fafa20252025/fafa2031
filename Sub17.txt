@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e5979603-c215-4d5f-811a-316b45f6df17@167.71.8.192:23313?flow=&type=ws&host=&path=/&security=none#Channel : @vmessorg🏴🏳
 vless://e5a6e242-6434-4d9b-fed1-03da3ffcf134@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@Broz_time > کانفیگ رایگان
 vless://e5a6e242-6434-4d9b-fed1-03da3ffcf134@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@V2ray1_Ng
 vless://e5a6e242-6434-4d9b-fed1-03da3ffcf134@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@MARAMBASHI 🇮🇹
@@ -503,3 +502,4 @@ vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?type=xhttp&path=/
 vless://f6f74d98-8e6b-4f4a-8f88-79ae32f28edb@bonefletcher.fonixapp.org:443?security=reality&encryption=none&pbk=ks76ikSkP9d-_uHJ5Ms_aEI6wjkXWvw7GEUxNBSp5T0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=12d75b#All-@V2rayAlpha--11
 vless://f6f74d98-8e6b-4f4a-8f88-79ae32f28edb@bonefletcher.fonixapp.org:443?security=reality&encryption=none&pbk=ks76ikSkP9d-_uHJ5Ms_aEI6wjkXWvw7GEUxNBSp5T0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=12d75b#🇩🇪@FreakConfig
 vless://f705e93c-d031-4a03-9889-f8cf32c94451@151.101.3.8:80?mode=auto&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#@bored_vpn
+vless://f7140d34-dcc0-440c-bb51-bbd8ed7d8b11@paris.fonixapp.org:16607?security=reality&encryption=none&pbk=MIDSDaDAnyD3LPtHE8oLcGJjQP2Qj1RVJR853N1T924&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=expedia.com&sid=78#All-@V2rayAlpha--16

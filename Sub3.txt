@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbkZKSlNXM0pCM0J3MlozbTFlczE1@212.18.104.228:56636?note=--Telegram--@NetifyVPN--#🇺🇸[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUXlBVUl0YWZVbW1PM0VaWng5VWJpWDZJR3lkU0JnTA==@45.12.144.18:443#All--@V2rayAlpha--1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUXlBVUl0YWZVbW1PM0VaWng5VWJpWDZJR3lkU0JnTA==@45.12.144.18:443#🇱🇺18@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMZTZkVldOM3FyNkZxV3BuWnB6N0Zz@89.185.84.185:443#SS-@V2rayAlpha--77
@@ -503,3 +502,4 @@ trojan://BmVsa+yhb-QwGYXD7t.LKPNnRMqeI@95.179.210.231:25075/?type=tcp&security=t
 trojan://BxceQaOe@153.121.51.221:1821?security=tls&headerType=none&type=tcp&sni=t.me/ripaojiedian#@IRAN_V2RAY1 🇯🇵
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#香港
 trojan://BxceQaOe@58.152.26.173:443?security=tls&headerType=none&type=tcp&sni=t.me/ripaojiedian#@HiByeVPNN❤️‍🔥🏆💫
+trojan://BxceQaOe@58.152.30.120:443/?type=tcp&security=tls&allowInsecure=1#💠75@oneclickvpnkeys

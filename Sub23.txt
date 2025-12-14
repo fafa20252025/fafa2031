@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-
-
 ✅ مناسب وب گردیvless://9da7e1ad-9991-427e-909a-0413bdd45c0f@benz.pmpads.com:63028?encryption=none&security=tls&sni=benz.pmpads.com&type=ws&path=%2F#%40RIP_VPN%201vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBSSVBfVlBOIDIiLA0KICAiYWRkIjogInZ2Lm1vZWRvdmUuY29tIiwNCiAgInBvcnQiOiAiNTM4MTgiLA0KICAiaWQiOiAiZjQ2OGQ5MDAtMjEzMy00OTU5LTliMzctOGY2ZWUwMzMwOGNkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICJtamd2ZyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
 
 
@@ -503,3 +501,5 @@ vless://f028a8c0-6763-4558-aee3-2563db9d7825@173.245.58.220:443?path=%2Fxxvclws&
 vless://efe47594-d246-4823-9bb8-d828160720ab@us2.candyfans.win:443/?type=ws&encryption=none&flow=&host=us2.candyfans.win&path=%2Fndhfws&security=tls&sni=us2.candyfans.win&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://e64c5bbb-a4b8-498e-b374-4462d961c8a2@38.60.196.27:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=j_b7jaRqL2-82XSGRL0IYkNJ2Y3hrhhgq5kIBIK76lk&sid=#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://ee41a97f-e3b7-4ab2-97cf-f12f93d69698@158.220.82.224:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=tTyX27Ray_QxyZv9ICeurhJkRaTp7t98UrBI1EDYVi8&sid=#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://f2045695-8c88-44f3-a26e-f41ea43f7255@m33a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%3E%3E%40DailyV2RY%3A%3AXX
+vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?encryption=none&security=tls&sni=freudd.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=freudd.info&path=%2Fxxvclws#%3E%3E%40v2ray_configs_pool%3A%3AXX
