@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?mode=gun&security=none&encryption=none&type=grpc#WiFi_21--@V2rayAlpha
-vless://2ee3d326-7898-4910-81b4-cff9fd5cdd56@51.75.82.192:8080?security=none&type=ws&path=/DarkTeam_VPN&host=www.speedtest.net&encryption=none#[🇩🇪]t.me/ConfigsHub
 vless://2ee3d326-7898-4910-81b4-cff9fd5cdd56@51.75.82.192:8080?security=none&type=ws&path=/DarkTeam_VPN&host=www.speedtest.net&encryption=none#t.me/entryNET/config=1851523287641945
 vless://2efbb638-c1ae-46bd-b418-b1f9c265e2d1@lifestealer.fonixapp.org:36134?security=reality&encryption=none&pbk=6-45Hxz3UsSI3vDzHSGGuDqqEzqwFxEQyl_0sZoMejs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=86e86c#IR-@V2rayAlpha--13
 vless://2f0f5525-5376-4820-a9b5-90064664a35d@soren1.mahmouditravelers.top:26779?mode=auto&path=/landing/used/?utm_source=DKHEADER&utm_medium=HEADERBTM&utm_campaign=DKHEADER-USED&utm_id=DK-HEADER-USEDLANDING&security=none&encryption=none&host=digikala.com&type=xhttp#➪+@FILTERK0SH++منبع+کانفیگ+رایگان
@@ -503,3 +501,5 @@ vless://40b63324-6e84-4501-bd00-68ca4d8daa0e@77.221.152.27:26480?security=realit
 vless://40b63324-6e84-4501-bd00-68ca4d8daa0e@77.221.152.27:26480?security=reality&encryption=none&pbk=15ZlM5p8DB5Fp4mtva2pvtC4IBtcxSxqeuZ0R7ffkRk&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=4b8f669536c45c2b#@MARAMBASHI 💙
 vless://40b63324-6e84-4501-bd00-68ca4d8daa0e@77.221.152.27:26480?security=reality&encryption=none&pbk=15ZlM5p8DB5Fp4mtva2pvtC4IBtcxSxqeuZ0R7ffkRk&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=4b8f669536c45c2b#@V2RAYROZ
 vless://40bbf4bd-a66a-4a01-9e72-2fd3eff6e875@104.19.118.80:2083?type=ws&path=/&host=&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=cdn-zxp.zantrix.shop#✅@v2ray_configs_pools
+vless://40c4812d-b1fe-4ff1-922b-a10e95ee1d70@45.10.59.218:15833?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=canva.com&pbk=8z6qPN2t7wZ0nmOGhSTYaq__XqP8gDZar85XauwP4i0&sid=d0&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇫🇷 @Evay_vpn
+vless://40c4812d-b1fe-4ff1-922b-a10e95ee1d70@paris.fonixapp.org:15833?security=reality&encryption=none&pbk=8z6qPN2t7wZ0nmOGhSTYaq__XqP8gDZar85XauwP4i0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=d0#@IRAN_V2RAY1--MCI

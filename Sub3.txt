@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY25yd1EwSWsxN29RNVdsakZYYlRw@62.133.63.21:65262#Join Sho : @IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBcVpidDFRQ3MzbmdFZlhvMXA3VC13@81.200.158.206:1080#@MARAMBASHI 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBcVpidDFRQ3MzbmdFZlhvMXA3VC13@81.200.158.206:1080#https://t.me/v2raynplus |🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBdWpRVjlFUm1KU1JRZkZqZ3hLQlB4@h110vpnde.outlinekeys.net:7048#https://t.me/v2raynplus |🇩🇪
@@ -503,3 +501,5 @@ trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?path=/Free-VPN-CF-
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#MCI-IR--@V2rayAlpha-20
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Join Sho:@IRAN_V2RAY1 🇯🇵
 trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅86@oneclickvpnkeys
+trojan://3SdlLXC#8QNWgRc509omc@46.62.199.132:12247/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅100@oneclickvpnkeys
+trojan://4Jt6CN#21.rzQjTEUeDHM@217.170.199.80:21363/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅91@oneclickvpnkeys

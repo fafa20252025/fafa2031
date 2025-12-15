@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&encryption=none&host=smart.confappha.com&type=ws&sni=smart.confappha.com#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-vless://0d25085e-b6c4-410a-b206-4dde607cff6c@V2ngfast.heloisfood.ir:2718?mode=gun&security=&encryption=none&type=grpc&serviceName=@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast#[🇩🇪]t.me/ConfigsHub
 vless://0d25085e-b6c4-410a-b206-4dde607cff6c@V2ngfast.heloisfood.ir:2718?security=none&type=grpc&mode=gun&serviceName=@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&encryption=none#[🇩🇪]t.me/ConfigsHub
 vless://0d25085e-b6c4-410a-b206-4dde607cff6c@V2ngnet.heloisfood.ir:4488?mode=gun&security=&encryption=none&type=grpc&serviceName=@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet#[🇩🇪]t.me/ConfigsHub
 vless://0d25085e-b6c4-410a-b206-4dde607cff6c@V2ngnet.heloisfood.ir:4488?security=none&type=grpc&mode=gun&serviceName=@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet&encryption=none#[🇩🇪]t.me/ConfigsHub
@@ -503,3 +501,5 @@ vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=/?ed=2560&se
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.181.110:80?encryption=none&security=none&type=ws&host=pari.parinazz.dpdns.org&path=/?ed=2580#@CaV2ray ⚡️
 vless://1f5056ca-fb4c-4b51-a31e-891083588351@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=pamchall.com.&type=ws#@CaV2ray ⚡️
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss1175.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&host=Join----azadiizadiiivpn---Join----azadiiivpn----Join----azadiiivpn----Join----azadiìivpn&type=xhttp#Azadiiivpn 🎀
+vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss1175.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&host=Join---azadiiivpn---Join---azadiiivpn---Join---azadiiivpn---Join---azadiiivpn&type=xhttp#azadiiivpn 🎀 ²
+vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss1175.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&host=Join---azadiiivpn---Join---azadiiivpn---Join---azadiiivpn---Join---azadiiivpn&type=xhttp#azadiiivpn🎀
