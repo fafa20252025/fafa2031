@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7472df53-1660-4cee-e327-b5f5a27115a6@deadseectelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@sunflowerplato🌻
-vless://747d4612-b3e5-4165-879a-42d861e4c4b7@65.109.183.203:10000?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://7487d006-b674-4ff1-cdbf-c6a65f458b7c@www.speedtest.net:8080?type=xhttp&encryption=none&path=/@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android?ed=2048&host=Allow.amin-1.ir&mode=auto&security=none#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠همه اپراتورها
 vless://7489c971-5f82-48ff-96e5-b80fd581318f@46.62.214.228:443?path=/&security=tls&encryption=none&host=cyrus.v2bazzar.ir&type=ws&sni=cyrus.v2bazzar.ir#All---@IRAN_V2RAY1
 vless://7489c971-5f82-48ff-96e5-b80fd581318f@46.62.214.228:443?path=/&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#All---@IRAN_V2RAY1
@@ -503,3 +501,5 @@ vless://8997a0a4-0e51-43b9-b13d-210265d00d3a@51.79.29.17:443?path=/linkws?ed=256
 vless://8997a0a4-0e51-43b9-b13d-210265d00d3a@51.79.29.17:443?path=/linkws?ed=2560&security=none&encryption=none&host=51.79.29.17&type=ws&sni=51.79.29.17#🇨🇦
 vless://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@cf.090227.xyz:80/?type=ws&encryption=none&flow=&host=xn--wgv71a.xn--4gqza090la383cba657a9rw23a362bz35amu9c.site&path=/#🇯🇵日本
 vless://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@sg2.gzcloud.shop:11451/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#🇸🇬新加坡
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@103.21.244.118:80?encryption=none&security=none&type=ws&host=plain-thunder-a1d0-ppal03.dakox63637.workers.dev&path=/?ed=2560#💎Ch: @pPal03💎جوین بدید💎
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.105.66:80?encryption=none&security=none&type=ws&host=plain-thunder-a1d0-ppal03.dakox63637.workers.dev&path=/?ed=2560#💎Ch: @pPal03💎جوین بدید💎
