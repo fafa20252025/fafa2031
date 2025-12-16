@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443?path=/sghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=1&sni=terazhedi.info&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443?path=/sghiyws&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#@TEHRANARGO کانالمون 👀
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@162.159.38.176:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=/sghiyws&security=tls&sni=terazhedi.info&allowInsecure=1#t.me/entryNET/config=1851575517893933
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@162.159.38.176:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=/sghiyws&security=tls&sni=terazhedi.info&allowInsecure=1#🔷12@oneclickvpnkeys
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@162.159.38.176:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&allowInsecure=1&type=ws&path=/sghiyws#t.me/v2Line | Free | 3190 | Cloudflare
@@ -500,6 +503,3 @@ vless://2ad3d767-3527-4f11-b277-5c5e9105bc96@DEADSEECtelegram.slimshopboyss.ir:8
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus |🇳🇱31
 vless://2aeaa2b8-ddaf-4898-a6f9-08e08386e5d2@172.235.154.239:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram 🌺 v2ray_configs_pools
 vless://2aeaa2b8-ddaf-4898-a6f9-08e08386e5d2@172.235.154.239:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram 🎪 v2ray_configs_pools
-vless://2aff3c47-ccdc-4c17-b726-73539e2103b2@all71-vip.f-sub.com:4928?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@Hddify
-vless://2aff3c47-ccdc-4c17-b726-73539e2103b2@all85-vip.f-sub.com:2434?security=reality&encryption=none&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA&headerType=none&fp=chrome&type=tcp&sni=www.chess.com#@Hddify
-vless://2b1ac6e5-d70b-49f9-c0c7-f9d27454505e@tgju.org:80?type=ws&encryption=none&path=/olem/ws?ed=1024&host=de.channel.digicyber.click&security=none#@melov2ray🇩🇪
