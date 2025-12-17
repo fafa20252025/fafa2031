@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.59:1092#HongKong (1)
-ss://YWVzLTI1Ni1nY206ODM2ZDdmYWMtMDYzZS00MmEwLWJhZjUtYjZlY2QyZGIxOGZj@193.228.128.82:443#⭕11@oneclickvpnkeys
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#🇬🇧@FreakConfig
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#🇩🇪0@vpnserverrr
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#🇩🇪@FreakConfig
 ss://YWVzLTI1Ni1nY206QUp0VjRWQ0xhVlFVS0dINGcxQURTeXF2ekNBMG1TcE40NmFuMTJaZUlLaHg@216.132.112.116:34958#@Geek_Spot
@@ -503,3 +500,6 @@ vless://0a06d540-6fdd-416c-bdc3-54686f1f3659@m37a.vip784.com:33801?security=none
 vless://0a079dd2-86dc-4209-b2b2-0069c5d6f1de@norman.ns.cloudflare.com:443?path=/kbsozzws&security=tls&encryption=none&host=638990351278603478.civic-amshz.info&type=ws&sni=638990351278603478.civic-amshz.info#All-@V2ray_Alpha--20
 vless://0a0d846f-8f54-4db4-940b-b373b1b02e4c@94.131.100.173:443/?type=ws&encryption=none&flow=&host=639010645287857140.accord-lmnxa.info&path=/coxzfsws&security=tls&sni=www.vk.com&allowInsecure=1#✅93@oneclickvpnkeys
 vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?mode=gun&security=reality&encryption=none&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&fp=chrome&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&sid=9c8d68d581a08ea5#r♡ya
+vless://0a3086ff-f4e4-4ab6-b2dd-ae9cb091bc10@V2ngFast.huqpmfood.ir:1146?encryption=none&type=xhttp&mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#🇩🇪 @V2ngFast
+vless://0a5f2013-6162-4c19-8f08-08f4ce345c2e@www.speedtest.net:8443?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=root.dns-23.ir&fp=chrome&type=ws&sni=root.dns-23.ir#🇺🇦@Alfred_Config
+vless://0a5f2013-6162-4c19-8f08-08f4ce345c2e@www.speedtest.net:8443?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=root.dns-23.ir&fp=chrome&type=ws&sni=root.dns-23.ir#🇺🇦@V2RAYNG_IP
