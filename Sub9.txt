@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.109.47:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#@FarazV2ray
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.109.47:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#⚡ @Fast78_Channel | Best Free Configs
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.24.245:4249?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#@MARAMBASHI 💜
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:4248?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#@Daily_Configs
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:4248?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#@sunflowerplato🌻
@@ -503,3 +501,5 @@ vless://60ba0849-348a-4fe2-9b32-a6800232a357@www.speedtest.net:80?type=ws&path=/
 vless://60d955c2-c8b5-492c-a457-af3ffe2ca6a2@99.199.73.53:6068?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://61545806-60b6-4b38-9d2f-884081a5a913@188.132.141.112:33727?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1🇹🇷
 vless://61545806-60b6-4b38-9d2f-884081a5a913@188.132.141.112:410?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1[🇹🇷]
+vless://61545806-60b6-4b38-9d2f-884081a5a913@45.140.169.69:33727?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1 [🇷🇺]
+vless://61545806-60b6-4b38-9d2f-884081a5a913@46.246.96.224:33727?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1[🇸🇪]
