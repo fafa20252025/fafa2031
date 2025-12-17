@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://89fd10a1-8f7c-407b-b670-f20b93dc0680@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=18l7-wCCLwKZn-slnEV1HlM-ocxV94nau8CHNEpv3Ew&fp=chrome&type=xhttp&sni=stackoverflow.com&sid=077dc29a23d311f2#🇩🇪 @V2ngFast
 vless://8a009663-9afa-4f0f-aac0-23e743a89e08@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638895562737046416.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638895562737046416.amsterdam-prx-dnraaal.info&path=/zwtnbvws#telegram 🌺 v2ray_configs_pools
 vless://8a009663-9afa-4f0f-aac0-23e743a89e08@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/zwtnbvws&security=tls&encryption=none&host=638899133731250519.amsterdam-prx-dnraaal.info&type=ws&sni=638899133731250519.amsterdam-prx-dnraaal.info#telegram 🎪 v2ray_configs_pools
 vless://8a009663-9afa-4f0f-aac0-23e743a89e08@www.speedtest.net:2096?path=/zwtnbvws&security=tls&encryption=none&host=638879176706396454.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706396454.amsterdam-prx-dnraaal.info#🆔@DarkHub_VPN🇬🇧
@@ -503,3 +502,4 @@ vless://Own3dByHELiX@magazine.sentry-warrunner.xyz:443?mode=gun&security=reality
 vless://Parsashonam-291@185.146.173.39:8880?path=/v2ray_configs_pools/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#✅ @v2ray_configs_pools (تلگرام)
 vless://Parsashonam-296@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://Parsashonam-298@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://Parsashonam-300@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#✅سرورهایبیشتردرکانال:prrofile_purple@✅

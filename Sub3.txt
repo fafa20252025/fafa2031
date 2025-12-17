@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKR3Y2MTZoTVdkamZ1WjAwallmcTdYa0JISlpyT0JyZw@87.121.162.249:443#Channel id: @ShadowProxy66 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#SS-@V2rayAlpha--83
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#WiFi-@V2rayAlpha--0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#SS-@V2rayAlpha--22
@@ -503,3 +502,4 @@ ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@3.107.178.116:80#@Hddify
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@3.107.184.53:80#@Hddify
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.81.226.31:80#@Hddify
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.90.226.121:80#@HiByeVPNN❤️‍🔥🔥✨
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#All-#V2rayAlpha--2
