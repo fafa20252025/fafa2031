@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://609cbb2a-8bd3-4c3d-ad54-220863b5d670@95.38.104.119:1919?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://60ba0849-348a-4fe2-9b32-a6800232a357@www.speedtest.net:80?type=ws&path=/Telegram,@v2ray_configs_pools/Telegram,@v2ray_configs_pools?ed=2080&host=zZz.ZzZ.zZz.snap-Iranian-ali.Dai.sub420-mohamad.onlinE.&security=none#telegram 🌺 v2ray_configs_pools
-vless://60d955c2-c8b5-492c-a457-af3ffe2ca6a2@99.199.73.53:6068?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://61545806-60b6-4b38-9d2f-884081a5a913@188.132.141.112:33727?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1🇹🇷
-vless://61545806-60b6-4b38-9d2f-884081a5a913@188.132.141.112:410?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1[🇹🇷]
 vless://61545806-60b6-4b38-9d2f-884081a5a913@45.140.169.69:33727?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1 [🇷🇺]
 vless://61545806-60b6-4b38-9d2f-884081a5a913@46.246.96.224:33727?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1[🇸🇪]
 vless://61545806-60b6-4b38-9d2f-884081a5a913@85.90.207.47:33727?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1 [🇦🇲]
@@ -503,3 +498,8 @@ vless://75724a4a-3e8b-405d-b830-2bbc6949ea03@194.182.79.105:23920?mode=gun&secur
 vless://7578f457-0f1f-416d-b136-f833f4544e24@newsletter.mydailynews.info:443?path=/ray&security=tls&encryption=none&host=newsletter.mydailynews.info&type=ws#🇩🇪@FreakConfig
 vless://7578f457-0f1f-416d-b136-f833f4544e24@newsletter.mydailynews.info:443?security=tls&type=ws&path=/ray&host=newsletter.mydailynews.info&sni=newsletter.mydailynews.info&fp=chrome&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://7578f457-0f1f-416d-b136-f833f4544e24@newsletter.mydailynews.info:443?security=tls&type=ws&path=/ray&host=newsletter.mydailynews.info&sni=newsletter.mydailynews.info&fp=chrome&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_12 🧭 5.2MB/s
+vless://7583af76-66b0-4adf-e8ff-448966ea4634@fr.irimcs.org:2096?type=grpc&serviceName=Telegram:@catvpns&security=reality&pbk=FLNExbTRe2xr1_ULubE3XL0l9AoeZ7Afx5EdfRy4-Ds&fp=chrome&sni=greenpepper.ir&sid=b4c9&spx=/#🇩🇪🎮-@CatVpns-German
+vless://75a97d88-6a45-4910-b4db-13f0484c8322@a.confignor.site:35493?mode=gun&security=reality&encryption=none&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&spx=/&type=grpc&serviceName=چنل سازنده اصلی کانفیگ @ConfigFree&sni=www.cdn77.com&sid=9c24#@V2rayNGVPN <= کانفیگ رایگان
+vless://75a97d88-6a45-4910-b4db-13f0484c8322@a.confignor.site:35493?mode=gun&security=reality&encryption=none&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&spx=/&type=grpc&serviceName=چنل سازنده اصلی کانفیگ @ConfigFree&sni=www.cdn77.com&sid=9c24&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
+vless://75a97d88-6a45-4910-b4db-13f0484c8322@a.confignor.site:35493?type=grpc&encryption=none&serviceName=چنل+سازنده+اصلی+کانفیگ+@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=www.cdn77.com&sid=9c24&spx=/#دیگه+به+فیلترشکن+پولی+نده+@ConfigFree
+vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=/ShadowProxy66-ShadowProxy66&security=none&encryption=none&host=a.kadoo.sbs.&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@

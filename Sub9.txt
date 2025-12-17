@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.106.64:443?mode=gun&security=reality&encryption=none&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&fp=chrome&type=grpc&serviceName=xyz&sni=cloudflare.com&sid=123abc#WiFi-@V2rayAlpha--13
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.106.64:443?mode=gun&security=reality&encryption=none&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&fp=chrome&type=grpc&serviceName=xyz&sni=cloudflare.com&sid=123abc#✅سرورهایبیشتردرکانال:prrofile_purple@✅
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.106.64:443?mode=gun&security=reality&encryption=none&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&fp=chrome&type=grpc&serviceName=xyz&sni=cloudflare.com&sid=123abc#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.109.47:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#@Broz_time > کانفیگ رایگان
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.109.47:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#@Daily_Configs
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.109.47:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#@FarazV2ray
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.109.47:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#⚡ @Fast78_Channel | Best Free Configs
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.24.245:4249?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#@MARAMBASHI 💜
@@ -503,3 +498,8 @@ vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=/snippets/ip=tp
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://60442b18-0c2c-4210-8324-6b6fda5d106e@146.75.119.82:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
 vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.26.226:443?type=xhttp&path=/&host=&mode=stream-one&security=none#telegram 🌺 v2ray_configs_pools
+vless://609cbb2a-8bd3-4c3d-ad54-220863b5d670@95.38.104.119:1919?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://60ba0849-348a-4fe2-9b32-a6800232a357@www.speedtest.net:80?type=ws&path=/Telegram,@v2ray_configs_pools/Telegram,@v2ray_configs_pools?ed=2080&host=zZz.ZzZ.zZz.snap-Iranian-ali.Dai.sub420-mohamad.onlinE.&security=none#telegram 🌺 v2ray_configs_pools
+vless://60d955c2-c8b5-492c-a457-af3ffe2ca6a2@99.199.73.53:6068?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://61545806-60b6-4b38-9d2f-884081a5a913@188.132.141.112:33727?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1🇹🇷
+vless://61545806-60b6-4b38-9d2f-884081a5a913@188.132.141.112:410?security=none&encryption=none&headerType=http&type=tcp#Join Sho:@IRAN_V2RAY1[🇹🇷]
