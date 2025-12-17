@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vmess://ewogICAgImFkZCI6ICIxMDMuNjEuMTM5LjEzNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZjhkOTNjZmItM2Q1ZC00NDdjLWE2OTctMTY0OTZkZDc0Njk3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwNTIxLAogICAgInBzIjogIvCfh7nwn4e8VFctMTAzLjYxLjEzOS4xMzctNTQxOCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+hy2://16461a78-363c-457a-92f9-83b0a68edc37@de.eyucdn.xyz:2056/?insecure=1&sni=de.eyucdn.xyz#法兰克福
+hy2://16461a78-363c-457a-92f9-83b0a68edc37@hk.eyucdn.xyz:2056/?insecure=1&sni=hk.eyucdn.xyz#香港
+hy2://16461a78-363c-457a-92f9-83b0a68edc37@sg2.eyucdn.xyz:2056/?insecure=1&sni=sg2.eyucdn.xyz#新加坡
 hy2://16461a78-363c-457a-92f9-83b0a68edc37@sg3.eyucdn.xyz:2056/?insecure=1&sni=sg3.eyucdn.xyz#新加坡
 hy2://16461a78-363c-457a-92f9-83b0a68edc37@zp1.eyucdn.xyz:2056/?insecure=1&sni=zp1.eyujichang.xyz#JP
 hy2://16461a78-363c-457a-92f9-83b0a68edc37@zp1.eyucdn.xyz:2056/?insecure=1&sni=zp1.eyujichang.xyz#东京
@@ -499,7 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRTFhrRXE1OTdpM29HQUd6akU0cVM2NHVQR2hqeFdwUGl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRTFhrRXE1OTdpM29HQUd6akU0cVM2NHVQR2hqeFdwUGlxd3dCQXJLYnNxWVBVTnBRQndkZ0hMNktvRFNSR0U5YmpTZG4zcDRVYURZTVZtNnMxd01vaWZhdm5pclI1Tjg@94.131.22.134:40565?note=@freeOnlineVPN#🇪🇸 - ES - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#@HiByeVPNNBot✨❤️‍🔥💥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#@MARAMBASHI 🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#🔸@IRAN_V2RAY1💘
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSbTVHdnFLeU9Ma3ZNWWd6Z0FFMUtH@46.246.96.42:12346#@MARAMBASHI 💜
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpScVZmT3czWFBNZlhzRUZjMUF3T2FI@62.133.60.60:7048#@MARAMBASHI 🇩🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpScVZmT3czWFBNZlhzRUZjMUF3T2FI@62.133.60.60:7048#🇩🇪@FreakConfig
