@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@103.21.244.118:80?encryption=none&security=none&type=ws&host=plain-thunder-a1d0-ppal03.dakox63637.workers.dev&path=/?ed=2560#💎Ch: @pPal03💎جوین بدید💎
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.105.66:80?encryption=none&security=none&type=ws&host=plain-thunder-a1d0-ppal03.dakox63637.workers.dev&path=/?ed=2560#💎Ch: @pPal03💎جوین بدید💎
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.168.54:80?encryption=none&security=none&type=ws&host=white-sun-1317-ppal03.hofix12166.workers.dev&path=/?ed=2560#😨Ch: @pPal03😨جوین بدید😨
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.188.41:80?encryption=none&security=none&type=ws&host=proud-queen-55500071.cexonoc962.workers.dev&path=/?ed=2560#〽️Ch: @pPal03〽️جوین بدید〽️
@@ -503,3 +502,4 @@ vless://9f9d4806-87bf-4e2c-bb79-acaf4776602a@trt.fastlynew.hosting-ip.com:80?mod
 vless://9f9d4806-87bf-4e2c-bb79-acaf4776602a@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#🇫🇷@FreakConfig
 vless://9f9d4806-87bf-4e2c-bb79-acaf4776602a@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#@MARAMBASHI 🇧🇷
 vless://9f9d4806-87bf-4e2c-bb79-acaf4776602a@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆⁵
+vless://9f9d4806-87bf-4e2c-bb79-acaf4776602a@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#🇫🇷@FreakConfig
