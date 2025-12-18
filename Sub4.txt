@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://pk9Cl5J4dpSzj-.O21q0L@64.176.184.129:18756/?type=tcp&security=tls&sni=io.ozone.ru&allowInsecure=1#🧢10@oneclickvpnkeys
-trojan://pk9Cl5J4dpSzj-.O21q0L@64.176.184.129:18756?security=tls&headerType=none&type=tcp&sni=io.ozone.ru#All-@V2rayAlpha--2
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#@CaV2ray ⚡️
 trojan://rV3TjWB8R1EiK1xhmnypsgeo@172.236.2.42:19872/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨74@oneclickvpnkeys
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@CaV2ray ⚡️
@@ -503,3 +501,5 @@ vless://0f4865d9-9405-4703-a282-46e326e6d9e7@BeWilDerED-poEM.SEOtooLsfOrYOu.cO.u
 vless://0f4865d9-9405-4703-a282-46e326e6d9e7@BeWilDerED-poEM.SEOtooLsfOrYOu.cO.uk:80?path=/&security=none&encryption=none&type=ws#Join -to▶️ @DarkHub_VPN
 vless://0f4865d9-9405-4703-a282-46e326e6d9e7@BeWilDerED-poEM.SEOtooLsfOrYOu.cO.uk:80?path=/&security=none&encryption=none&type=ws#Join -to▶️ @DarkHub_VPN                                       25🇩🇪
 vless://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#JOIN ➪@FILTERK0SH
+vless://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@v2ray_configs_pools❤️‍🔥⚡
+vless://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#✅@v2ray_configs_pools
