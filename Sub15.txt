@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c32e86eb-293d-468b-b449-30facbb26029@165.232.47.238:443?path=/rnugdhws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=api.avito.ru&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇬🇧]t.me/Raiv2mmr
-vless://c32e86eb-293d-468b-b449-30facbb26029@165.232.47.238:443?path=/rnugdhws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇬🇧@FreakConfig
 vless://c332c262-b173-4bb2-aba0-cca85eebc5f6@49.13.29.218:443?path=/linkws?ed&security=none&encryption=none&host=49.13.29.218&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://c333a898-d76e-479a-8e32-c4e8d17d6080@vip.ezrael.shop:2089?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Hddify
 vless://c338c927-32d0-476c-a65d-6b632ee1d08d@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=DaNgerOus-InsTruMent.oneeat.CO&type=ws#telegram 🌟 v2ray_configs_pools
@@ -503,3 +501,5 @@ vless://d7e2c1ec-b2ba-4a4c-a73a-c08f5bd7923b@45.92.176.55:2243?security=reality&
 vless://d7e2c1ec-b2ba-4a4c-a73a-c08f5bd7923b@45.92.176.55:2243?security=reality&encryption=none&pbk=_ee-ouMazAzx7Q4_cYhWbu6pw53-8VVpt7tuBuCXziU&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=e3cbc70477#@MARAMBASHI 🇧🇷
 vless://d7ea444a-2c80-4019-8795-5235b076596e@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#2nchsww6
 vless://d7ea444a-2c80-4019-8795-5235b076596e@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#2nchsww6  🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+vless://d7ed8991-e019-47c1-b578-93a8d8443830@188.245.200.119:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://d7ed8991-e019-47c1-b578-93a8d8443830@188.245.228.94:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
