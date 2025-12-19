@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://49b3e9b9-dedb-4abd-ac4d-05bc64e7edcb@46.224.141.141:2025?mode=gun&security=reality&encryption=none&pbk=hGlEVjlgkbHz7APkZPO6ZV3WEtCJW3Wkdx7xOISyP3Y&fp=chrome&spx=/&type=grpc&serviceName=t.me/entryNET&sni=miro.com&sid=d9#t.me/entryNET/config=1851868066201121
+vless://49bf382e-4eee-49c0-b22e-c16daa1f19cc@london.fonixapp.org:44478?security=reality&encryption=none&pbk=UJt_5rWa8ZDvpVS-oDKKHiPwm__36IvHNI1KDfvja3Y&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=medicalnewstoday.com&sid=ee84f20171b2ae#MCI-@V2rayAlpha--6
 vless://49bf382e-4eee-49c0-b22e-c16daa1f19cc@london.fonixapp.org:44478?security=reality&encryption=none&pbk=UJt_5rWa8ZDvpVS-oDKKHiPwm__36IvHNI1KDfvja3Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=medicalnewstoday.com&sid=ee84f20171b2ae#🇬🇧AZARBAYJAB1
 vless://49c1fa3e-85b2-40c2-89e8-9376adf79b90@bonefletcher.fonixapp.org:49873?security=reality&encryption=none&pbk=CrczDkPBN0FU0Ohui0vxOpHGMGHSwnzz0Vqujr7jUSk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=indeed.com&sid=12d75b#IR-@V2rayAlpha--10
 vless://49d6d5dd-bc9b-4ff9-ade9-3b9c25ca5f25@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638901790535256085.brussels-prx-dnraaal.info&type=ws&alpn=&host=638901790535256085.brussels-prx-dnraaal.info&path=/citxcbws#telegram 🚀 v2ray_configs_pools
@@ -501,5 +503,3 @@ vless://5dfe11a3-566d-41d1-b697-94c6277b7620@212.183.88.1:2052?encryption=none&s
 vless://5e224146-17b3-49c6-a928-61cab2b75d85@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46172-1
 vless://5e2581cf-75e4-41b7-8f92-7e68fdf60b69@movaghat50.goldspeed.org:23143?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#All-@V2rayAlpha--21
 vless://5e2581cf-75e4-41b7-8f92-7e68fdf60b69@movaghat50.goldspeed.org:23143?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-vless://5e648623-1ced-4397-dace-57f5b20aaa8a@Free.fast199.hosting-ip.com:80?type=xhttp&encryption=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeamhost=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-6w2cyadk
-vless://5ea7274d-fd0c-42ba-bc07-dbcf88f91680@185.153.183.22:443/?type=ws&encryption=none&flow=&path=/haaroows&security=tls&sni=ads.x5.ru&allowInsecure=1#✅40@oneclickvpnkeys
