@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#https://t.me/v2raynplus |🇦🇿
 vless://8953525e-e6ef-45db-85fe-9c360f6c4096@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@192.248.181.36:443?mode=gun&security=none&encryption=none&type=grpc#All_36--@V2rayAlpha
 vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@192.248.181.56:443?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@MARAMBASHI 🇩🇪
@@ -502,4 +503,3 @@ vless://9f9d4806-87bf-4e2c-bb79-acaf4776602a@trt.fastlynew.hosting-ip.com:80?mod
 vless://9f9d4806-87bf-4e2c-bb79-acaf4776602a@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#@sunflowerplato🌻
 vless://9f9d4806-87bf-4e2c-bb79-acaf4776602a@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#All_7--@V2rayAlpha
 vless://9f9d4806-87bf-4e2c-bb79-acaf4776602a@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#Channel : @Mrsoulb 🏴🏳
-vless://9f9d4806-87bf-4e2c-bb79-acaf4776602a@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
