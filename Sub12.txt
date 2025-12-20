@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@80.240.21.83:443?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@95.179.241.11:443?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@MARAMBASHI 🇩🇪
 vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@95.179.241.11:443?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@95.179.241.11:443?mode=gun&security=none&encryption=none&type=grpc#✅سرورهایبیشتردرکانال:prrofile_purple@✅
@@ -503,3 +502,4 @@ vless://9f79b942-753c-48f6-82d0-5575f03e7f32@DEADSEECtelegram.slimshopboyss.ir:8
 vless://9f9d4806-87bf-4e2c-bb79-acaf4776602a@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=#/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#@MARAMBASHI 🇫🇷
 vless://9f9d4806-87bf-4e2c-bb79-acaf4776602a@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#🇫🇷@FreakConfig
 vless://9f9d4806-87bf-4e2c-bb79-acaf4776602a@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#@MARAMBASHI 🇧🇷
+vless://9f9d4806-87bf-4e2c-bb79-acaf4776602a@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆⁵
