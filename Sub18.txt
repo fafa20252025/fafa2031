@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=smart.trevanda.info#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=KlIi9Yc11L.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=KlIi9Yc11L.lIrA0xC8.iNfO#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&encryption=none&host=qjms2367w2.giti4.org&type=ws&sni=qjms2367w2.giti4.org#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@www.speedtest.net:2096?encryption=none&security=tls&sni=smart.zarnovia.info&insecure=0&allowInsecure=0&type=ws&host=smart.zarnovia.info&path=/#@Daily_Configs
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@www.speedtest.net:2096?path=/&security=tls&encryption=none&host=smart.zarnovia.info&type=ws&sni=smart.zarnovia.info#@Maznet-46211-2
@@ -499,7 +503,3 @@ vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&
 vless://f6ab4c87-990f-49a2-9a86-ddd8b012cb1c@france18.clearorbitllc.com:443?security=reality&encryption=none&pbk=oV1AkWgsWXKrDF1KLj1-qdzn87iamZq754qI_CoDrgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=france18.clearorbitllc.com&sid=6724d5c47a#@sunflowerplato
 vless://f6cd8cb7-65f0-4d3a-fc45-14926a5761c6@test3.amin8263.ir:2095?type=ws&encryption=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048=test2.amin8263.ir&security=none#🇩🇪 | XpnTeam - Telegrams-nwscpppb
 vless://f6d86cdf-4f07-460b-ca9e-dbe1383075b1@binex.tc.azinpsn.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#BinexTiFy🥦-ky3jebrv
-vless://f6ec9d7a-ab86-4ac7-9cea-cb55ba5cf0d9@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46169-1
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@135.148.232.166:443?mode=stream-one&path=/sef&security=none&encryption=none&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.184:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram 🍊 v2ray_configs_pools
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.78.9:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram 🍀 v2ray_configs_pools
