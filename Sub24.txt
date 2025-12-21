@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+
 🟢V2ray✅MTNIRANCELL(ایرانسل)🗺Location: 🇫🇮 Finland 🇫🇮vmess://eyJhZGQiOiIxMzUuMTgxLjE3Mi4yMjUiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOWViYjUwYzktZGE3My00ZmFhLWQ5ODEtZDRlYTBjN2IyNGNkIiwibmV0Ijoia2NwIiwicGF0aCI6IkZZWHRmVUdLN0ciLCJwb3J0IjoiNDA1NiIsInBzIjoiVGVsZWdyYW06QE5ldHdvcmtfNDQy8J+Hq/Cfh64iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9📱NapsternetV(iOS)📥v2flyNG(Android)📥v2rayNG(Android)📥Matsuri(Android)@Network_442
 
 
@@ -451,9 +452,6 @@ hysteria2://c09f13ce-2cca-49b6-ad1e-597566cc89c6@5.83.150.108:49187/?sni=imafake
 hysteria2://c50f9480-2e1d-40db-9458-630e79636663@5.83.150.108:49187/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 
 
-hysteria2://c6e0562f-7ad1-40fb-a255-26194b2de84a@5.83.150.108:49187/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
-
-
 hysteria2://d0e97ee2-c6de-48f8-bd4a-8e63a9cd9e89@5.83.150.108:49187/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 
 
@@ -503,3 +501,5 @@ vless://568db765-6970-40c8-8087-83ea9ba2429e@bitpay.com:443?security=tls&sni=rAy
 vless://5ac0a5b2-33dd-44d4-ad2b-838cead54f7d@148.113.207.224:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20CA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://5ac0a5b2-33dd-44d4-ad2b-838cead54f7d@cdnjs.com:443?security=tls&sni=rAyAn-cOnFiG-ca-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ca-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%201.11
+
+vless://5ac0a5b2-33dd-44d4-ad2b-838cead54f7d@cdnjs.com:443?security=tls&sni=rAyAn-cOnFiG-ca-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ca-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%201.1
