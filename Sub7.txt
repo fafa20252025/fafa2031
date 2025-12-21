@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2e9177ce-d1cc-45cd-b27f-f16f8fbc117a@fs.ir-sub.fun:80?path=/ZEDMODEON-ZEDMODEON-bia-ZEDMODEON&security=&encryption=none&host=zedd.global.ssl.fastly.net&type=ws#@V2ray_confing33
 vless://2e9177ce-d1cc-45cd-b27f-f16f8fbc117a@fs.ir-sub.fun:80?path=/ZEDMODEON-ZEDMODEON-bia-ZEDMODEON&security=none&encryption=none&host=zedd.global.ssl.fastly.net&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://2eadb4d6-2b9a-4f7a-86b0-cfce53e24bcd@V2ngFast.huqpmfood.ir:1146?encryption=none&type=xhttp&mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#🇩🇪 @V2ngFast
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
@@ -502,4 +503,3 @@ vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@power.teampluss.ir:80?path=/Pak91jq
 vless://3bf32aef-fceb-48e9-ff30-5cb6a211aeb8@157.230.124.41:443?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://3c1a04bb-165a-476d-af02-3dc5590f8742@91.98.22.20:22933?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🇩🇪 | @External_Net
 vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@103.21.244.75:80?encryption=none&security=none&type=ws&host=little-haze-1600-ppal03.gabonim122.workers.dev&path=/?ed=2560#🥑Tel: @pPal03🥑Join🥑
-vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@104.16.8.237:80?encryption=none&security=none&type=ws&host=little-haze-1600-ppal03.gabonim122.workers.dev&path=/?ed=2560#🥑Tel: @pPal03🥑Join🥑
