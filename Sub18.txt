@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://eb577431-3b16-4a8f-953b-7bcfb573b025@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=638901446244340634.dezful-prx-dnraabg.info&type=ws&alpn=&host=638901446244340634.dezful-prx-dnraabg.info&path=/kskoxmws#telegram 🚀 v2ray_configs_pools
-vless://eb5e2adb-8466-450f-a962-83b3228efa2d@172.67.146.171:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#🇩🇪+@bored_vpn
 vless://eb5e2adb-8466-450f-a962-83b3228efa2d@46.224.119.100:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#🇩🇪+@bored_vpn
 vless://eb5e2adb-8466-450f-a962-83b3228efa2d@test2.amin8263.ir:2095?type=ws&encryption=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=test3.amin8263.ir&security=none#🇩🇪 | XpnTeam - Telegrams-230nj6j4
 vless://eb6b1d2d-f4e6-499d-bce9-eeda18ed532c@109.122.247.103:2070?security=none&encryption=none&headerType=none&type=tcp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
@@ -503,3 +501,5 @@ vless://fabc8a38-76c5-48fe-ada7-a9e52dd16225@179.61.251.78:443?security=reality&
 vless://fabc8a38-76c5-48fe-ada7-a9e52dd16225@179.61.251.78:443?security=reality&type=tcp&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&sid=0ff58d687a4c6c&pbk=esHsu3-Fj0aZ0xuNBV6qW1zu1hLbas8YDn7AO0QGsBw&encryption=none&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?security=reality&encryption=none&pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a31a8d04622560#telegram🇬🇧⤿@V2WRAY
 vless://fad329ac-313b-471c-8d94-a6e8f598990e@104.27.80.66:80?mode=auto&path=/&security=&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆¹
+vless://fad329ac-313b-471c-8d94-a6e8f598990e@104.27.80.66:80?mode=auto&path=/&security=none&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#MCI-@V2rayAlpha--1
+vless://fad329ac-313b-471c-8d94-a6e8f598990e@188.114.97.139:80?mode=auto&path=/&security=none&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#MCI-@V2rayAlpha--2
