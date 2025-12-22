@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://94b7bf59-dd31-4605-f9f0-594e3bae1f32@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=vangoghh.info&insecure=0&allowInsecure=0&type=ws&host=vangoghh.info&path=/tixvuws#@Daily_Configs
 vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=vangoghh.info&insecure=1&allowInsecure=1&type=ws&host=vangoghh.info&path=/tixvuws#@Daily_Configs
 vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443?path=/tixvuws&security=tls&encryption=none&host=vangoghh.info&type=ws&sni=vangoghh.info#🇳🇱@FreakConfig
 vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443?path=/tixvuws&security=tls&encryption=none&insecure=0&host=vangoghh.info&type=ws&allowInsecure=0&sni=vangoghh.info#@Daily_Configs
@@ -501,5 +503,3 @@ vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=none&encryption=
 vless://Warpi-Free-Vpn-In-GooglePlay@vp10.myphotomoments.ir:443?security=none&encryption=none&headerType=none&type=tcp#All-@V2rayAlpha--12
 vless://Warpi-Free-Vpn-In-GooglePlay@vp4.myphotomoments.ir:443?security=none&encryption=none&headerType=none&type=tcp#All-@V2rayAlpha--14
 vless://Warpi-Free-Vpn-In-GooglePlay@vp5.myphotomoments.ir:443?security=none&encryption=none&headerType=none&type=tcp#Join Sho:@IRAN_V2RAY1🇩🇪
-vless://Warpi-Free-Vpn-In-GooglePlay@vp9.myphotomoments.ir:443?security=none&encryption=none&headerType=none&type=tcp#All--@IRAN_V2RAY1🇩🇪
-vless://Warpi-Free-Vpn-In-GooglePlay@vp9.myphotomoments.ir:443?security=none&encryption=none&headerType=none&type=tcp#All-@V2rayAlpha--25
