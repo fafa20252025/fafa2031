@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷[@EXPRESSVPN_420
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.101:8880?mode=gun&security=&encryption=none&authority=Join----TM (@AZARBAYJAB1)---Join----TM (@AZARBAYJAB1)----Join----TM (@AZARBAYJAB1)----Join----TM (@AZARBAYJAB1)&type=grpc&sni=/?---@Azarbayjab1_Net---@Azarbayjab1_Net---@azarbayjab1_Net---@azarbayjab1_Net---@Azarbayjab1_Net#🇹🇷TM (@AZARBAYJAB1) gprs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.101:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&type=grpc#🇹🇷Telegram:@AZARBAYJAB1
@@ -503,3 +502,4 @@ vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@92.118.231.167:443?path=/hormoz&sec
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@92.118.231.167:443?path=/hormoz&security=tls&encryption=none&type=ws&sni=fuck.rkn#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.108:443/?type=ws&encryption=none&flow=&path=/hormoz&security=tls&sni=github.com&allowInsecure=1#🎲16@oneclickvpnkeys
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.108:443?path=/hormoz&security=tls&encryption=none&type=ws&sni=github.com#WiFi-@V2rayAlpha--17
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.108:443?path=/hormoz&security=tls&encryption=none&type=ws&sni=github.com#🇵🇹@FreakConfig
