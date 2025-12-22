@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://44707137-b0ca-4e1e-b653-5153e5cc8747@lbs.penubit.com:151?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=hG9KBeeA2zzWVIZq4EnigRVx8VUCvQeokU5_PnBK2Ds&sid=be8dc2a762216585&spx=/wp-admin#AKLISvpn🇨🇦CA
-vless://447f616b-0250-4b95-8385-55549cfdc4dd@vps4.myphotomoments.ir:443?security=none&encryption=none&headerType=none&type=tcp#All-@V2rayAlpha--22
-vless://448c322f-c673-4a24-9fa0-fb8dda5e28b0@172.66.40.99:8880?encryption=none&type=ws&host=websocket.network.www.speedtest.net.kkoccashor.vegaskala.com.&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048&security=none#qvdyfs4z
-vless://44a6fabd-afbc-4150-a696-58eac865c578@91.99.92.127:8880?security=reality&encryption=none&pbk=pNtsKb6dyTS0BnkfswffcWGi-oGDxJVPWZLkeDyLGwg&headerType=&fp=chrome&type=tcp&sni=cp.cloudflare.com&sid=66d4e033f43b27#JOIN ➪@FILTERK0SH【🇩🇪】
 vless://44a6fabd-afbc-4150-a696-58eac865c578@91.99.92.127:8880?security=reality&encryption=none&pbk=pNtsKb6dyTS0BnkfswffcWGi-oGDxJVPWZLkeDyLGwg&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/cdn/image.jpg&type=tcp&sni=cp.cloudflare.com&sid=66d4e033f43b27#🇩🇪 | @External_Net
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=&encryption=none&headerType=none&type=tcp#@Maznet-46198-4
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&headerType=none&type=tcp#@Maznet-46197-4
@@ -503,3 +499,7 @@ vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@cosmin.ns.cloudflare.com:443?path=/
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&host=638987972960682357.prius-amsht.info&type=ws&sni=638987972960682357.prius-amsht.info#All-@V2rayAlpha--35
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&host=638987972960682357.prius-amsht.info&type=ws&sni=638987972960682357.prius-amsht.info#🇨🇦@AZARBAYJAB1
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639008791593418731.jimny-amsix.info#Channel : @Mrsoulb 🏴🏳
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=639008791615856318.golf-amsix.info&insecure=1&allowInsecure=1&type=ws&host=639008791615856318.golf-amsix.info&path=/cahttingws#@Daily_Configs
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&host=638987647974712110.outback-amshs.info&type=ws&sni=638987647974712110.outback-amshs.info#All-@V2rayAlpha--18
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&host=639001966536690941.prius-amsiq.info&type=ws&sni=639001966536690941.prius-amsiq.info#All-@V2rayAlpha-30
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&insecure=1&host=639008791615856318.golf-amsix.info&type=ws&allowInsecure=1&sni=639008791615856318.golf-amsix.info#⚡ @Fast78_Channel | Best Free Configs
