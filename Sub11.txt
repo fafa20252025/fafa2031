@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir/?&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://7ba08646-09b3-4295-ac25-fff7f27b07da@NOADS.TORPROSPEED.IR:223?security=reality&encryption=none&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&headerType=none&fp=chrome&spx=/&type=tcp&sni=cloudflare.com&sid=c7f175a94bd79f8d#🇸🇪 𓏺 @EXPRESSVPN_420
@@ -500,6 +503,3 @@ vless://921290a9-6e24-4661-82fb-844d88164b74@167.99.91.171:443/?type=ws&encrypti
 vless://921290a9-6e24-4661-82fb-844d88164b74@167.99.91.171:443?path=/sbqbfows&security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws&allowInsecure=1&sni=api.avito.ru#@MARAMBASHI 🇫🇷
 vless://921290a9-6e24-4661-82fb-844d88164b74@167.99.91.171:443?path=/sbqbfows&security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws&allowInsecure=1&sni=api.avito.ru#⚡ @Fast78_Channel | Best Free Configs
 vless://921290a9-6e24-4661-82fb-844d88164b74@167.99.91.171:443?path=/sbqbfows&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=api.avito.ru#@Daily_Configs
-vless://921290a9-6e24-4661-82fb-844d88164b74@167.99.91.171:443?path=/sbqbfows&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=api.avito.ru&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇬🇧]t.me/Raiv2mmr
-vless://921290a9-6e24-4661-82fb-844d88164b74@167.99.91.171:443?path=/sbqbfows&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇬🇧@FreakConfig
-vless://9220f214-d7b9-4d49-c259-6b2676ca01e5@104.17.147.22:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@bored_vpn
