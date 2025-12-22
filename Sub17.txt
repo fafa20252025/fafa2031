@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.137:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=github.com#@Daily_Configs
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.137:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=github.com#⚡ @Fast78_Channel | Best Free Configs
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.137:443?path=/hormoz&security=tls&encryption=none&type=ws&sni=github.com#@FarazV2ray
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.137:443?path=/hormoz&security=tls&encryption=none&type=ws&sni=github.com#All-@V2rayAlpha--17
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.137:443?path=/hormoz&security=tls&encryption=none&type=ws&sni=github.com#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.137:443?path=/hormoz&security=tls&encryption=none&type=ws&sni=github.com#🏴‍☠️@FreakConfig
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.137:443?path=/hormoz&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=ws&sni=github.com#برای اتصال دائمی جوین شو🖲️ TelegramID ⌲TEHRANARGO
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.38:443?path=/hormoz&security=tls&encryption=none&type=ws&sni=github.com#All_29--@V2rayAlpha
@@ -503,3 +498,8 @@ vless://f64ec975-bed6-4c91-b02b-80e5fdad363b@51.222.84.252:25429?security=none&e
 vless://f65006fc-2fa4-4860-b036-0cdb11a10e24@172.66.40.99:80?path=/telegram-v2ray_configs_pools,telegram-v2ray_configs_,telegram-v2ray_conf?ed=80&security=none&encryption=none&host=ab.shangoli5.motorphrotan.ir.&type=ws#telegram ⚡️ v2ray_configs_pools
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#❄️63@oneclickvpnkeys
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#📡81@oneclickvpnkeys
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=0e#🇦🇲 ⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 @V2WRAY
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://f6ab4c87-990f-49a2-9a86-ddd8b012cb1c@france18.clearorbitllc.com:443?security=reality&encryption=none&pbk=oV1AkWgsWXKrDF1KLj1-qdzn87iamZq754qI_CoDrgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=france18.clearorbitllc.com&sid=6724d5c47a#@sunflowerplato
+vless://f6cd8cb7-65f0-4d3a-fc45-14926a5761c6@test3.amin8263.ir:2095?type=ws&encryption=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048=test2.amin8263.ir&security=none#🇩🇪 | XpnTeam - Telegrams-nwscpppb
+vless://f6d86cdf-4f07-460b-ca9e-dbe1383075b1@binex.tc.azinpsn.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#BinexTiFy🥦-ky3jebrv
