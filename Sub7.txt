@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2c6a010e-bfcf-46d4-b08e-cfe3b3be7d86@144.31.143.175:80?path=/w&security=&encryption=none&type=ws#@TapsiVpn
-vless://2c6a010e-bfcf-46d4-b08e-cfe3b3be7d86@144.31.143.175:80?path=/w&security=none&encryption=none&type=ws#@Daily_Configs
-vless://2c8aaf87-b1e3-4fc6-915b-0e48a26b1cd6@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=Aame.global.ssl.fastly.net&type=xhttp#@CaV2ray ⚡️
-vless://2c8adcaa-e428-4cea-9c88-e88166651ab3@78.159.246.66:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34#🎄46@oneclickvpnkeys
-vless://2c8adcaa-e428-4cea-9c88-e88166651ab3@89.169.137.193:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34#🎄50@oneclickvpnkeys
 vless://2cb6a58c-00df-47e8-be1f-8b2372035b3b@54.36.117.130:25366?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://2ce0d16a-098d-463f-9aaf-9a142f88c59f@V2ngFast.byte-server.ir:4455?encryption=none&type=xhttp&mode=auto&path=/@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#🇩🇪 @V2ngNet
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -503,3 +498,8 @@ vless://38f418af-9af3-40c1-a09c-7dad003b77f7@V2ngFast.huqpmfood.ir:1146?mode=aut
 vless://38f898e5-8a8c-41c0-8c36-72ecefdd01a1@tgju.org:80?path=/?ed=2048&security=&encryption=none&host=pOISED-JOUrney.ONEeaT.Co&type=ws#telegram 🍀 v2ray_configs_pools
 vless://38f898e5-8a8c-41c0-8c36-72ecefdd01a1@tgju.org:80?path=/?ed=2048&security=&encryption=none&host=pOISED-JOUrney.ONEeaT.Co&type=ws#telegram 🍊 v2ray_configs_pools
 vless://39051b26-3165-4898-a552-c777a89aaf10@78.157.49.210:32197/?encryption=none&host=vasaham.com&type=tcp&headerType=http#@Geek_Spot
+vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=/&security=none&encryption=none&fp=chrome&type=ws#Bya To:@IRAN_V2RAY1
+vless://3949130a-a1d6-453b-91a9-870c3ba7abad@a.confignor.site:35493?type=grpc&encryption=none&serviceName=چنل+سازنده+اصلی+کانفیگ+@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=www.cdn77.com&sid=9c24&spx=/#دیگه+به+فیلترشکن+پولی+نده+@ConfigFree
+vless://3949130a-a1d6-453b-91a9-870c3ba7abad@a.confignor.site:35493?type=grpc&encryption=none&serviceName=چنل+سازنده+اصلی+کانفیگ+@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=www.cdn77.com&sid=9c24&spx=/#ما+همیشه+در+کنار+شما+هستیم+@ConfigFree
+vless://39584f02-a282-437c-945b-e11805297ad0@bonefletcher.fonixapp.org:24888?security=reality&encryption=none&pbk=CrczDkPBN0FU0Ohui0vxOpHGMGHSwnzz0Vqujr7jUSk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=indeed.com&sid=12d75b#All-@V2ray_Alpha--34
+vless://397cca10-b921-44ee-baf5-5ffa58ae03ba@clyde.ns.cloudflare.com:443?path=/ltyhduws&security=tls&encryption=none&host=639009270246638675.golf-amsiy.info&type=ws&sni=639009270246638675.golf-amsiy.info#All--@V2rayAlpha-3
