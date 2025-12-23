@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://telegram-id-privatevpns@52.28.126.163:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.93.101.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1852315315411061
+trojan://tg-dns68@45.154.98.14:1010?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=/?ed=2560&fp=chrome&alpn=h3#[🇳🇱]t.me/ConfigsHub
+trojan://tg-dns68@45.154.98.14:1010?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=/?ed=2560&fp=chrome&alpn=h3#t.me/entryNET/config=1852317275395556
 trojan://tgegXRzYrR@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-m2uv025p
 trojan://trojan@109.234.211.66:2087?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&security=tls&type=ws&sni=store.timimi.dpdns.org#🔥Join Telegram:@AZARBAYJAB1🟣
 trojan://ttfang@5.182.85.194:2096?path=Telegram@Config_Rayegan&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -499,7 +503,3 @@ vless://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.u
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?mode=auto&path=/ds&security=&encryption=none&type=xhttp#@v2ray_configs_pools
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#Channel-@vmesskhodam
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?type=xhttp&path=/ds&host=&mode=auto&security=none#@NIM_VPN_ir
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.228.179:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#@vmesskhodam
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.228.179:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.228.179:443?type=xhttp&path=/ds&host=&mode=auto&security=none#telegram 🌟 v2ray_configs_pools
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.233.77:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#➪+@FILTERK0SH++منبع+کانفیگ+رایگان
