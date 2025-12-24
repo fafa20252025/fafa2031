@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#@V2rayNGVPN <= کانفیگ رایگان
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#@V2rayNGVPN+<=+کانفیگ+رایگان
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#🇪🇸@GozarXbot
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740?note=--Telegram--@NetifyVPN--#🇷🇺[Telegram:NetifyVpn]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740?note=--Telegram--@V2ray_official--#[⚡] ➠ @V2ray_official
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740?note=@freeOnlineVPN#🇪🇸 - ES - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRYRDRwb2p2b3JtVldSaUhnSWZ2@83.217.9.17:25232#https://t.me/v2raynplus |🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZUUNTS29DRjNRYXpXOFlsdkRCV0E0@109.71.246.210:56689#WiFi_7--@V2rayAlpha
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVTh3cmZHTDJ1Y0JIS1N1cDlOQUZR@87.120.84.173:777#🇩🇪3@vpnserverrr
@@ -503,3 +496,10 @@ trojan://c16a577c-1dbd-41b0-90c7-d7177ce0bd1f@194.147.33.207:443?mode=auto&path=
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 3236 | Iceland
 trojan://cwCv14UD6o-XbGm7NKjHWPJ819FL@155.138.222.121:29014/?type=tcp&security=tls&sni=web.max.ru&fp=chrome#🎄53@oneclickvpnkeys
 trojan://cwCv14UD6o-XbGm7NKjHWPJ819FL@45.32.220.19:29014/?type=tcp&security=tls&sni=vk.com&fp=chrome#🎄67@oneclickvpnkeys
+trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?path=/azadnet-bdr.pages.dev/?ed=2560&PROT_TYPE=trojan&security=tls&host=azadnet-bdr.pages.dev&type=ws&sni=azadnet-bdr.pages.dev#@Hddify
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.89.176:702?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#All-@V2rayAlpha--5
+trojan://e2722c0fb503f8a592436c12bce0509a@112.118.116.8:443?security=tls&insecure=0&host=TM-AZARBAYJAB1.vip.ne.net&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#🇭🇰TM (@AZARBAYJAB1) Trojan-server
+trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443/?type=ws&host=bisque.qzz.io&path=/66.135.4.222:8443&security=tls&sni=bisque.qzz.io&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
+trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443/?type=ws&host=bisque.qzz.io&path=/66.135.4.222:8443&security=tls&sni=bisque.qzz.io&allowInsecure=1#🧑‍🎄13@oneclick
+trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#🇫🇷AZARBAYJAB1
+trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#All-@IRAN_V2RAY1
