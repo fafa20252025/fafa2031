@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443?path=/?ed=2048@v2ray_configs_pools&security=tls&encryption=none&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.16:443?path=/?ed=2048@v2ray_configs_pools&security=tls&encryption=none&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=/&security=tls&encryption=none&type=ws#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=/?ed=2048@v2ray_configs_pools&security=tls&encryption=none&fp=chrome&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
@@ -503,3 +502,4 @@ vless://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443/?type=ws&encrypt
 vless://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443?path=/amuggqws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#https://t.me/v2rayNplus |🇬🇧
 vless://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443?path=/amuggqws&security=tls&encryption=none&type=ws&sni=ozon.ru#[🚀] ➠ @V2ray_official
 vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-us4-cdn.fastfilecdn.org:2052?security=none&encryption=none&host=dl5-us4-cdn.fastfilecdn.org&type=ws&sni=dl5-us4-cdn.fastfilecdn.org#🇺🇸 | @External_Net
+vless://8efcae96-9dc7-4612-b17c-9a372ed84ddd@151.101.205.194:80?mode=auto&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&extra={"xPaddingBytes":"10-100", "noSSEHeader":true}&host=e1.ir&type=xhttp#@Broz_time > کانفیگ رایگان

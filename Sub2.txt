@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All-@V2rayAlpha--40
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All-@V2rayAlpha--42
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All-@V2rayAlpha--6
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All-@V2ray_Alpha--11
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaV014Tg@fr1.opensocks.site:8388?note=Telegra
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaak0za3V1ZDZHVTBDREJMeXZ0QWxi@62.133.60.60:7048?note=--Telegram--@V2ray_official--#[🛸] ➠ @V2ray_official
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabURyQnNLZnEzaWF1ZlBKNWw4Snds@62.133.60.60:7048#✅ @prrofile_purple (تلگرام)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpac0dqTlk2ZUNCWWw2emZoRk80Z01p@194.87.45.189:443#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpad3dCYlE2MnJqR1BIeXJEMXo2clNt@185.143.179.164:8443#سرور های بیشتر در کانال NapsternetV20@✅
