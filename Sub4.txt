@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443/?type=ws&host=bisque.qzz.io&path=/66.135.4.222:8443&security=tls&sni=bisque.qzz.io&allowInsecure=1#🧑‍🎄13@oneclick
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#🇫🇷AZARBAYJAB1
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#All-@IRAN_V2RAY1
 trojan://fri4wn77p7urww5on3bt@185.212.171.204:58670?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#All-@V2rayAlpha--4
@@ -502,4 +503,3 @@ vless://0deffff7-0f84-4e15-9adf-439a3d554ad6@masterserver1.huqpmfood.ir:1331?mod
 vless://0e266513-0600-4741-b8f3-b7a5aa157684@b.confignor.site:35493?type=grpc&encryption=none&serviceName=چنل+سازنده+اصلی+کانفیگ+@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=www.cdn77.com&sid=9c24&spx=/#اگه+قطع+شد+مجدد+به+کانال+سر+بزن+@ConfigFree
 vless://0e2ca1a0-8ff3-414a-a210-6bec2eb49de9@45.140.147.142:443?path=/phbwoqws&security=tls&encryption=none&type=ws#@Maznet-46213-1
 vless://0e5d0824-dda0-452f-b46c-8b6624313f26@mci-mmnoon.r-sgoone.ir:80?encryption=none&security=none&type=httpupgrade&path=/# @NIM_VPN_ir
-vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#Bya To:@IRAN_V2RAY1

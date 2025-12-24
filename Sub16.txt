@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d7e2c1ec-b2ba-4a4c-a73a-c08f5bd7923b@45.92.176.55:2243?security=reality&encryption=none&pbk=_ee-ouMazAzx7Q4_cYhWbu6pw53-8VVpt7tuBuCXziU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=e3cbc70477#All-@V2rayAlpha--43
 vless://d7ea444a-2c80-4019-8795-5235b076596e@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#2nchsww6
 vless://d7ea444a-2c80-4019-8795-5235b076596e@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#2nchsww6  🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 vless://d7ed8991-e019-47c1-b578-93a8d8443830@188.245.200.119:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -502,4 +503,3 @@ vless://dff1412c-ed90-4214-b076-3dde8425a02f@172.66.156.81:80?path=/@Shh_Proxy--
 vless://e0012501-ce2c-456f-b928-c1d988e7ba96@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=18l7-wCCLwKZn-slnEV1HlM-ocxV94nau8CHNEpv3Ew&fp=chrome&type=xhttp&sni=stackoverflow.com&sid=077dc29a23d311f2#🇩🇪 @V2ngFast
 vless://e0106b16-1d2d-45bc-c306-e31f422d9221@136.244.85.36:443?mode=gun&security=none&encryption=none&type=grpc#All_33--@V2rayAlpha
 vless://e0106b16-1d2d-45bc-c306-e31f422d9221@136.244.85.36:443?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-vless://e0106b16-1d2d-45bc-c306-e31f422d9221@45.77.64.62:443?mode=gun&security=none&encryption=none&type=grpc#All_23--@V2rayAlpha
