@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://7b9a9505-ec90-47b5-951e-fc47049485da@b.confignor.site:35493?type=grpc&encryption=none&serviceName=چنل+سازنده+اصلی+کانفیگ+@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=www.cdn77.com&sid=9c24&spx=/#مارا+به+دوستان+خود+معرفی+کنید+@ConfigFree
@@ -503,3 +502,4 @@ vless://9113f495-b6be-4002-ad3c-098996fc8875@165.232.98.129:443/?type=ws&encrypt
 vless://91228483-f74b-47c0-aa8d-d459c9a3e541@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46184-1
 vless://9122baad-3302-4709-81b1-00b738500402@51.89.176.241:4455?encryption=none&type=xhttp&mode=auto&path=/@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet&security=reality&fp=chrome&sni=stackoverflow.com&pbk=KGxeQdRMT6IDZdC9zyM1_rkuTbT3Enf211hEBCrRET4&sid=4d1261352419e82f#🇬🇧 @V2ngNet
 vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443/?type=ws&encryption=none&flow=&path=/ulptgqws&security=tls&sni=api.avito.ru#🎄24@oneclickvpnkeys
+vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443/?type=ws&encryption=none&flow=&path=/ulptgqws&security=tls&sni=api.avito.ru&allowInsecure=1#🎲25@oneclickvpnkeys

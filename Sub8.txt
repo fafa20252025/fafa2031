@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.205:80?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&type=grpc#🇺🇲TM 💕@AZARBAYJAB1 💕 GPRS
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.217:80?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&type=grpc#🇺🇲TM 💕@AZARBAYJAB1 💕 GPRS
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.248:80?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&type=grpc#🇺🇲TM 💕@AZARBAYJAB1 💕 GPRS
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.248:80?mode=gun&security=none&encryption=none&type=grpc#@Hddify
@@ -503,3 +502,4 @@ vless://4e3c4cb5-325b-495d-aa6b-b1ad09ed72d0@141.227.168.93:40114?mode=gun&secur
 vless://4e52ce91-87c8-46df-8166-8ef487e9dd76@51.195.25.127:443?path=/@MaxFree---@MaxFree---@MaxFree---@MaxFree---@MaxFree&security=&encryption=none&host=51.195.25.127&type=xhttp#VLESS
 vless://4e5a0939-483c-4571-a1b1-fccbfe053923@usa82.freednet.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.utexas.edu#@sunflowerplato🌻
 vless://4e5a0939-483c-4571-a1b1-fccbfe053923@usa82.freednet.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.utexas.edu#All-@V2ray_Alpha--26
+vless://4e66694c-24a5-4176-9bb3-42f1f2de5040@2.59.162.190:41545?security=reality&encryption=none&pbk=u1LI2HYIt_6QVVhlRXDvD-tqYHDXB1RfcpqbTTfxTUQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=37e32b2df528fba1#azadiiivpn
