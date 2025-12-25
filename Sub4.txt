@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://ZQriWm1YdUESx8uJhn_yz@144.202.70.252:19986/?type=tcp&security=tls&sni=static.rutube.ru&fp=chrome#🎄74@oneclickvpnkeys
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158/?type=tcp&security=tls&sni=api.avito.ru#🎄36@oneclickvpnkeys
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&sni=ads.x5.ru#🎄10@oneclickvpnkeys
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#All_14--@V2rayAlpha
@@ -502,4 +503,3 @@ vless://0ea5f0d4-a07d-45de-ce4f-4e85b4d6f74d@Free.fast199.hosting-ip.com:80?type
 vless://0ea84d1f-2687-467d-97dd-ed8d5e8f3f42@144.31.14.38:49755?security=reality&encryption=none&pbk=mRAHp8TZKKn1-OieCe3djeBIzuJ-4Pqeu5Kpqmpq6Wg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=20b5588c732e60#@Daily_Configs
 vless://0ea84d1f-2687-467d-97dd-ed8d5e8f3f42@64.188.115.219:443?security=reality&encryption=none&pbk=lH-huUA9Ek_XYglIopgfGL3lJ-qn8rXK8iG1tlXrxls&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=1c#@Daily_Configs
 vless://0ea84d1f-2687-467d-97dd-ed8d5e8f3f42@64.188.115.219:443?security=reality&encryption=none&pbk=lH-huUA9Ek_XYglIopgfGL3lJ-qn8rXK8iG1tlXrxls&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=1c#@MARAMBASHI 🩵
-vless://0eaab689-82c5-4678-8ac6-d58ef4357dbe@152.53.133.132:44393?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=lowes.com&pbk=QRguoAi4mjGas5PjOd-JCgcAlgZTmr8tqM8VC0ZvZSM&sid=05&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪@Evay_vpn
