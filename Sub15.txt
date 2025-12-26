@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c27bdfe9-929c-45cd-a917-aa47dae1cff7@172.67.166.211:443?path=/eyJqdW5rIjoiM0tYeXg5RVVNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==&security=tls&encryption=none&host=soft98m.dpdns.org&type=ws&sni=soft98m.dPdNS.OrG#@Selinc
 vless://c27bdfe9-929c-45cd-a917-aa47dae1cff7@172.67.166.211:443?path=/eyJqdW5rIjoiM0tYeXg5RVVNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==&security=tls&encryption=none&host=soft98m.dpdns.org&type=ws&sni=soft98m.dPdNS.OrG#ALL@azadiiivpn
 vless://c27bdfe9-929c-45cd-a917-aa47dae1cff7@172.67.166.211:443?path=/eyJqdW5rIjoiM0tYeXg5RVVNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==&security=tls&encryption=none&host=soft98m.dpdns.org&type=ws&sni=soft98m.dPdNS.OrG#All-@V2ray_Alpha--18
 vless://c27e0180-7b4a-49ba-a862-a62f5e2bc17d@94.182.142.16:2020?security=none&encryption=none&headerType=none&type=tcp#@CaV2ray ⚡️
@@ -503,3 +502,4 @@ vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?encry
 vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=/fwgisws&security=tls&encryption=none&host=hazmkardan.info&type=ws&sni=hazmkardan.info#[⚡] ➠ @V2ray_official
 vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=/fwgisws&security=tls&encryption=none&host=hazmkardan.info&type=ws&sni=hazmkardan.info#🇫🇷@FreakConfig
 vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=/fwgisws&security=tls&encryption=none&insecure=0&host=hazmkardan.info&type=ws&allowInsecure=0&sni=hazmkardan.info#@Daily_Configs
+vless://d39a768e-e3f7-42cd-8880-2d54bd187733@195.201.32.169:42671?security=none&encryption=none&headerType=none&type=tcp#✅سرورهایبیشتردرکانال:prrofile_purple@✅

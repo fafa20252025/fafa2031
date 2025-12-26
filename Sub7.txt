@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#@FarazV2ray
 vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#@Selinc
 vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#@V2ray1_Ng
 vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#All_22--@V2rayAlpha
@@ -503,3 +502,4 @@ vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?security=reali
 vless://36b3da92-5318-452a-80f4-9025e8c9b87a@m72a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🔷️8🌐
 vless://36de8322-91ef-442a-bdff-b0d3be794482@66.42.61.103:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=GzxM2bh0UoMV3QnP2VJK1NTLlsSVMPUKFi53k1sa_Ss&sid=63a41c2f9ac8bea4#🧑‍🎄82@oneclickvpnkeys
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️

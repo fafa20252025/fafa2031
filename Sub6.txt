@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=&encryption=none&headerType=none&type=tcp#✅ @ConfigV2RayNG (تلگرام)
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=&encryption=none&headerType=none&type=tcp#🇬🇧@FreakConfig
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
@@ -503,3 +502,4 @@ vless://291a2db3-04b5-4089-af90-adb5d1ce05ff@79.127.133.77:8443?security=reality
 vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#🇫🇷@FreakConfig
 vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#@Daily_Configs
+vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#@FarazV2ray
