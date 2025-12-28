@@ -5,9 +5,6 @@
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
 
-🟢V2ray✅ALL(اکثرنتا)🗺Location: 🇷🇺 Russia 🇷🇺vless://64253262-ca33-4cc3-d80c-6788cd8a35a5@vpncustomize2.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ru.verver.cam#Telegram%3A%40Network_442%F0%9F%87%B7%F0%9F%87%BA➖وصل شدید ری اکشن بزنیدموفق و پیروز باشید ❤️📱NapsternetV(iOS)📥v2flyNG(Android)📥v2rayNG(Android)@Network_442
-
-
 🟢V2ray✅MTNIRANCELL(ایرانسل)🗺Location: 🇫🇷 France 🇫🇷vmess://eyJhZGQiOiIxMzYuMjQ0LjExOC40NyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiYzYxMGU2OC0zNWYyLTRlNzQtODkwMS05ZjEzNDY2MjlhODEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyOTc2MyIsInBzIjoiVGVsZWdyYW06QE5ldHdvcmtfNDQy8J+Hq/Cfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9📱NapsternetV(iOS)📥v2flyNG(Android)📥v2rayNG(Android)📥Matsuri(Android)@Network_442
 
 
@@ -503,3 +500,6 @@ vless://4ea236b3-c40b-42df-9cd4-f9b76dca5ab4@ns1.cloudflare.com:443?security=tls
 
 vless://5408b813-0a75-41de-9a4f-d5df4c10087b@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
+vless://5408b813-0a75-41de-9a4f-d5df4c10087b@tfl.gov.uk:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.8
+
+vless://5408b813-0a75-41de-9a4f-d5df4c10087b@transferwise.com:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.88
