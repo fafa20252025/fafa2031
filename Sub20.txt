@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f9ab068c-c4ce-4d34-8bee-1d8304014665@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
+vless://f9ad1a11-4105-4e83-8356-b1888699b258@shadowshaman.fonixapp.org:2083?security=reality&encryption=none&pbk=TiX4irJ1XZjFpCZmPaBPnS2GurYaqZ2qsIaV-N87In4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=init.itunes.apple.com&sid=d0#All--@V2rayAlpha-19
+vless://fa-8488088495-1766513922045174@62.3.12.221:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇹🇷]t.me/Raiv2mmr
 vless://fa-8488088495-1766513922045174@62.3.12.221:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#@Daily_Configs
 vless://fa-8488088495-1766513922045174@62.3.12.221:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️💠🔷️53🌐🌍
 vless://fa-8488088495-1766513922045174@62.3.12.221:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#⚡ @Fast78_Channel | Best Free Configs
@@ -498,8 +501,5 @@ vmess://eyJhZGQiOiJmcmFybWJjLjc2ODk4MTAyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoi
 
 
 vmess://eyJhZGQiOiJiYXNibGFtZC43Njg5ODEwMi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjVmOWM3YmRhLTMzZjktM2RkMC1iY2Y1LWFjYTMyNDQxOGUzMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ieHNtaWFvIiwicG9ydCI6MjA1MiwicHMiOiLlt7Topb8zIHwgMC4zeF8xIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
-
-
-vmess://eyJhZGQiOiJiYXNibGFtZC43Njg5ODEwMi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImVhZWZjYjY0LTI3NzYtMzcwNi1iOTYzLWExOWEyNDMzNzU1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ieHNtaWFvIiwicG9ydCI6MjA1MiwicHMiOiLlt7Topb8zIHwgMC4zeF8yIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
 
 
