@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://51191f5d-7561-4dcf-d600-e2066a1de6e1@159.69.112.17:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@bored_vpn
 vless://51191f5d-7561-4dcf-d600-e2066a1de6e1@159.69.112.17:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@mehrosaboran
 vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus |🇩🇪2
 vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -502,4 +503,3 @@ vless://669be00c-67b4-4b87-b08f-311c45abced2@fr.atlanta-internet.ru:8443?securit
 vless://669be00c-67b4-4b87-b08f-311c45abced2@fr.atlanta-internet.ru:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://669be00c-67b4-4b87-b08f-311c45abced2@nl-3.atlanta-internet.ru:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=chrome&spx=/---&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#@Arshiavpn12 جوین شو قطع نشی
 vless://669be00c-67b4-4b87-b08f-311c45abced2@nl-3.atlanta-internet.ru:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#All-@V2rayAlpha-27
-vless://669be00c-67b4-4b87-b08f-311c45abced2@nl-3.atlanta-internet.ru:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🔷️15🌐
