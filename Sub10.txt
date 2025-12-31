@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#@Selinc
-vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#@sunflowerplato🌻
-vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#All_37--@V2rayAlpha
 vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @SkyPro_Vpn
@@ -503,3 +500,6 @@ vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security
 vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?security=none&encryption=none&headerType=none&type=tcp#All-@V2rayAlpha--17
 vless://63ffe4ab-f586-41fc-8f25-d824e4d3224d@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=CUrvY-mouTH.oNeeAt.cO&type=ws#@NIM_VPN_ir
+vless://641defa4-4a7f-4aa2-8efd-255d70bad102@151.101.205.194:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=e1.ir&extra={"xPaddingBytes":"10-100", "noSSEHeader":true}&type=xhttp#tm⚡|@lightning6
+vless://642c8b3122424e2b9c14f252d3f5e49c@79.141.174.148:8443?mode=auto&path=/x&security=reality&encryption=none&pbk=CII8qTx-cNDEjvAqdmLhjJKMHP3QFDLtR5bRhzPvels&fp=chrome&type=xhttp&sni=apple.com&sid=aabbccdd#Channel : @Mrsoulb 🏴🏳
+vless://642c8b3122424e2b9c14f252d3f5e49c@79.141.174.148:8443?mode=auto&path=/x&security=reality&encryption=none&pbk=CII8qTx-cNDEjvAqdmLhjJKMHP3QFDLtR5bRhzPvels&fp=chrome&type=xhttp&sni=apple.com&sid=aabbccdd#𝗝𝗼𝗶𝗻 ➠ @Daily_Configs 🫆
