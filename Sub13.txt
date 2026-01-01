@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@linux.do:2095?security=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.cf&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5@93.127.180.224:123?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#JOIN ➪@FILTERK0SH
 vless://871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5@93.127.180.224:8586?security=none&encryption=none&headerType=none&type=tcp#JOIN ➪@FILTERK0SH
 vless://872127f0-e085-4548-a29e-543dc625bbc8@151.101.205.194:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=e1.ir&extra={"xPaddingBytes":"10-100", "noSSEHeader":true}&type=xhttp#tm⚡|@lightning6
@@ -502,4 +503,3 @@ vless://9c6e7030-fa74-47bd-989b-a01cb4b03d1c@144.31.119.240:6443/?type=tcp&encry
 vless://9c6e7030-fa74-47bd-989b-a01cb4b03d1c@185.144.70.14:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ign.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🥶58@oneclickvpnkeys
 vless://9c6e7030-fa74-47bd-989b-a01cb4b03d1c@185.144.70.28:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ign.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🥶51@oneclickvpnkeys
 vless://9c6e7030-fa74-47bd-989b-a01cb4b03d1c@185.144.70.35:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ign.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🥶52@oneclickvpnkeys
-vless://9c6e7030-fa74-47bd-989b-a01cb4b03d1c@185.144.70.59:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ign.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🥶9@oneclickvpnkeys

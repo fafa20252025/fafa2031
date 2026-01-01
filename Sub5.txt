@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@140.82.35.244:20994?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#WiFi_9--@V2rayAlpha
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.153.36:20994/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨26@oneclickvpnkeys
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨7@oneclickvpnkeys
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443/?type=ws&host=free-de-3.undef.network&path=/f2fc2a1f&security=tls&sni=free-de-3.undef.network#🎊48@oneclickvpnkeys
@@ -502,4 +503,3 @@ vless://109eed5b-830b-43b2-ab65-ef88de45fbc1@facelessvoid.fonixapp.org:2083?secu
 vless://10a1ffcb-ca7a-499a-d2e2-d166d3e074c7@Def.irimcs.org:2053?type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns&security=reality&pbk=r_tJUcl3b84e8a06QHqTbFrMtlS552kklJsdzLoAChk&fp=chrome&sni=dnschecker.org&sid=920967&spx=/#@Catvpns-🇩🇪--Channel
 vless://10a1ffcb-ca7a-499a-d2e2-d166d3e074c7@Def.irimcs.org:2053?type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns&security=reality&pbk=zBXh4WorRzQ9RKVhaZR2flBf0jvY6ncL1HLAPE1vPyw&fp=chrome&sni=gstatic.com&sid=&spx=/#@Catvpns-🇩🇪--Channel
 vless://10a1ffcb-ca7a-499a-d2e2-d166d3e074c7@def.irimcs.org:2053?type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns&security=reality&pbk=Z3gYwmi8oG80IZr8krZ2A08Y1liJj8RCl0d73nKLUmg&fp=chrome&sni=greenpepper.ir&sid=529c51346f66&spx=/#@Catvpns-🇩🇪--Channel
-vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn2.azkhaktakhane.ir#@v2ray_configs_pools👈⚡❤️‍🔥

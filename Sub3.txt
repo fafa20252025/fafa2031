@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#28YB5qK!5t#U&insecure=1&sni=nalog.ru#🇫🇮h@ConfigV2RayNG
 hysteria2://gZBgjlPmPF@85.9.197.203:2083?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇺🇲@V2RayyNGvpn🇺🇲همه اوپراتور ها
 hysteria2://infowild:Y7clYy8e6T9B5F9yKaiTI6rVluNvgBHC@gamingger02.wilduser.org:2087?security=tls&obfs=salamander&obfs-password=7suXl4gmts7Zkb2BTlJGcDr4NEF9mQGh&insecure=1&pinSHA256=C0:64:C1:D9:49:CB:4E:A7:D2:FD:9D:E4:71:C9:33:2F:CF:33:48:4E:DC:31:31:3D:D9:E9:84:99:7C:93:68:B8&sni=bts.com#p🇩🇪اضطراری
 hysteria2://infowild:Y7clYy8e6T9B5F9yKaiTI6rVluNvgBHC@gamingger02.wilduser.org:2087?security=tls&obfs=salamander&obfs-password=7suXl4gmts7Zkb2BTlJGcDr4NEF9mQGh&insecure=1&pinSHA256=C0:64:C1:D9:49:CB:4E:A7:D2:FD:9D:E4:71:C9:33:2F:CF:33:48:4E:DC:31:31:3D:D9:E9:84:99:7C:93:68:B8&sni=bts.com#r♡ya@V2rayBaaz|اضطراری
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#SS-@V2rayAlpha--55
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#r♡ya@V2rayBaaz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#کانال کانفیگ تلگرام : @Vpn_Sky
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#⚡ @Fast78_Channel | Best Free Configs
