@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://fbbd87c3-170b-4249-8139-aa6b23ad5133@151.101.25.242:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#@Daily_Configs
 vless://fbbd87c3-170b-4249-8139-aa6b23ad5133@151.101.25.242:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#@sunflowerplato🌻
 vless://fbbd87c3-170b-4249-8139-aa6b23ad5133@151.101.25.242:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#All_19--@V2rayAlpha
 vless://fbbd87c3-170b-4249-8139-aa6b23ad5133@151.101.25.242:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#Channel : @Mrsoulb 🏴🏳
@@ -502,4 +503,3 @@ vmess://eyJhZGQiOiJzOC5yb29rYXJpLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJwYXRoIjoiIiwidHlwZSI6Im5vbmUiLCJwcyI6IiVGMCU5RiU4RiVCMyUyMCU0MEVWQVlfVlBOIiwiYWRkIjoiYXJkYTEwMS5hcmRhc2VydmVyLnNpdGUiLCJuZXQiOiJ0Y3AiLCJzY3kiOiJhdXRvIiwicG9ydCI6IjM0MTY3IiwiaWQiOiI1NzFjZDRhMy1lMmFmLTRiYWItYTZmNS0zYjU5MDZhZmMxMTEiLCJob3N0IjoiIn0=
 vmess://eyJwYXRoIjoiXC8iLCJpZCI6IjI2NDAyYmM3LTc4OTUtNGRkMC1hZTZlLTE1MWEwMGM3MTE0NSIsIm5ldCI6InRjcCIsImhvc3QiOiJ1cGxvYWRib3kuY29tIiwic2N5IjoiIiwicG9ydCI6IjEwMCIsInBzIjoiJUYwJTlGJTg3JUI5JUYwJTlGJTg3JUI3JTIwJTQwRXZheV92cG4iLCJhZGQiOiJjcGFuZWwubmF2YXIxLmlyIn0=
 vmess://eyJwcyI6IiVGMCU5RiU4NyVBOSVGMCU5RiU4NyVBQSUyMCU0MEV2YXlfdnBuIiwicG9ydCI6IjEwMCIsImFkZCI6ImNwYW5lbC5uYXZhcjIuaXIiLCJuZXQiOiJ3cyIsImlkIjoiMjY0MDJiYzctNzg5NS00ZGQwLWFlNmUtMTUxYTAwYzcxMTQ1IiwicGF0aCI6IlwvP0BFdmF5X3Zwbi0tLS1ARXZheV92cG4tLS0tQEV2YXlfdnBuLS0tLUBFdmF5X3Zwbi0tLS1ARXZheV92cG4tLS0tQEV2YXlfdnBuLS0tLUBFdmF5X3ZwbiIsImhvc3QiOiJ1cGxvYWRib3kuY29tIiwic2N5IjoiIn0=
-#profile-title: base64:UFNHIHwgTUlY

@@ -4,6 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+
 🔐Alpha v2ray🔝V3.3.4(27)Updated: Jan 9, 2023✓ مبتنی بر(Vmess،VLESS،Trojan،shadowsocks)✅ سرورهای بخش Daily V2RAY مخصوص ایران هست و متصل میشود برای بارگیری سرورهای این بخش با وی پی ان روشن پایین سمت راست علامت بارگیری را بزنید و بعد به سرورهای مخصوص ایران متصل شوید(سرور ها همانطور که از اسمشون پیداست هر روز آپدیت میشن)این سرورها بستگی به نتتون وصل میشن مثلا یکی برای ایرانسل وصله یکی برای همراه یکی برای رایتل*نکته باید پکیج All in one را انتخاب کنید❤️  (البته بقیه رو هم تست کنید چون هر موقع یکی کار میده)🔗Google play store link➖➖➖➖➖➖➖➖➖➖Jᴏɪɴ @vpn_442Group @vpn_442GP
 
 🟢V2ray✅IR MCI(همراه اول)🗺Location: 🇩🇪 Germany 🇩🇪vmess://eyJhZGQiOiIxLmFyc2FsYW52My5zYnMiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMzAzNTJlMDAtNGEzZS00NGRhLWZjOTItZGExMDJmMDEyZjc5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDk1IiwicHMiOiJUZWxlZ3JhbTpATmV0d29ya180NDLwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==📱NapsternetV(iOS)📥v2flyNG(Android)📥v2rayNG(Android)📥Matsuri(Android)@Network_442
@@ -502,4 +503,3 @@ vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443/?type=ws&encrypti
 vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80?encryption=none&type=ws&host=elegaNt-PrOJECt4lB40WUCws.wiNDLEr.Co.uK&path=/&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AXX
 vless://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443/?type=ws&encryption=none&flow=&host=blueivy.qzz.io&path=%2F192.252.182.52%3A7602&security=tls&sni=blueivy.qzz.io#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#%3E%3E%40freev2rayssr%3A%3AXX
-vless://e258977b-e413-4718-a3af-02d75492c349@162.159.62.23:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=tw.xmm9527.xyz&type=ws&sni=tw.xmm9527.xyz#%3E%3E%40flyv2ray%3A%3AUS
