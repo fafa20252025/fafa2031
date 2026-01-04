@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-سلام 👋ربات فعال شد میتونید استفاده کنید. 📌نکته: فقط کانفیگ هارو بصورت محدود زدیم و در قسمت سرور ها سرور لهستان و vmess انتخاب کنید و خریدتونو انجام بدید 🔸#توجه_کنید: داخل ربات قیمت هارو بصورت پایین زدیم 😁✅ @vip_vpn_2022_bot 👍
-
-
-📌 #کانفیگ_یک_روزه_ایفون_اندروید⏰vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2aXBfdnBuXzIwMjIiLAogICJhZGQiOiAiYXdlLTY0LmYtc3ViLnh5eiIsCiAgInBvcnQiOiAxNzc1OCwKICAiaWQiOiAiYTkwMWQ1MWMtNWE3Yy00ZmExLWM0NGMtMDA5NWVhMjdhZjJjIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAiaHR0cCIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogInRscyIKfQ==#v2rayng 🤍🆘#اپراتور_های_قابل_اتصال⏳#ایرانسل✅برای لینک اختصاصی خودت سرعت بالا به ایدی زیر پیام بده👇✔️ @owner_servic__________________________________❣️مارو به دوستاتون معرفی کنید 👑🌐 @vip_vpn_2022---------------------------------------------------
-
-
-✨🇻​🇵​🇳​✨🇻​🇮​🇵​✨ pinned «📌 #کانفیگ_یک_روزه_ایفون_اندروید⏰  vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2aXBfdnBuXzIwMjIiLAogICJhZGQiOiAiYXdlLTY0LmYtc3ViLnh5eiIsCiAgInBvcnQiOiAxNzc1OCwKICAiaWQiOiAiYTkwMWQ1MWMtNWE3Yy00ZmExLWM0NGMtMDA5NWVhMjdhZjJjIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsC…»
-
-
-سلام دوستان📌 ربات شارژ شده میتونید خرید انجام بدید ⏰🏓 بخش vless و vmess25 گیگ با 40 گیگ فعلا شارژ شدن ✔️@vip_vpn_2022_bot
-
-
-
 ✨🇻​🇵​🇳​✨🇻​🇮​🇵​✨ pinned «سلام دوستان 📌 ربات شارژ شده میتونید خرید انجام بدید ⏰ 🏓 بخش vless و vmess 25 گیگ با 40 گیگ فعلا شارژ شدن ✔️  @vip_vpn_2022_bot»
 
 
@@ -503,3 +490,16 @@ vless://12345678-1234-1234-1234-123456789123@195.85.23.61:2096?path=%2Fsnippets&
 vless://12345678-1234-1234-1234-123456789123@74.49.215.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#%3E%3E%40v2nodes%3A%3AIL
 vless://13e71ddb-908c-45e0-993c-da482d848c88@104.20.28.242:443?flow=&type=ws&host=&path=/156.254.114.120:30011&security=tls&sni=seashell.qzz.io&fp=chrome&allowInsecure=0#%3E%3E%40vmessorg%3A%3AUS
+vless://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443/?type=ws&encryption=none&flow=&host=seashell.qzz.io&path=%2F156.254.114.120%3A30011&security=tls&sni=seashell.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@138.197.234.185:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
+vless://161fa2ac-9618-4a3c-bc9b-5420ecc1826e@104.21.47.6:443?security=tls&type=ws&path=%2F%3F%40V2rayBaaz------%40V2rayBaaz&host=v2ray-vmess-free.irnoen.workers.dev&sni=v2ray-vmess-free.irnoen.workers.dev&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
+vless://1953c1e6-af68-4c60-a6f8-f8194de580f6@172.67.209.105:2082?security=none&type=ws&path=%2F%3Fed%3D2048&host=worker-ancient-bonus-70e8.96dc4cc80bfb.workers.dev&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
+vless://1953c1e6-af68-4c60-a6f8-f8194de580f6@172.67.209.105:2087?security=tls&type=ws&path=%2F&host=worker-ancient-bonus-70e8.96dc4cc80bfb.workers.dev&sni=worker-ancient-bonus-70e8.96dc4cc80bfb.workers.dev&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid=#%3E%3E%40EliV2ray%3A%3AUS
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.125.5:80?security=none&type=ws&path=%2F%3Fed%3D2048&host=lively-brook-c471.nedena3319.workers.dev&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@saas.sin.fan:443?security=tls&type=ws&path=%2F%3Fed&host=lively-brook-c471.nedena3319.workers.dev&sni=lively-brook-c471.nedena3319.workers.dev&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@cloudflare.182682.xyz:443?security=tls&type=ws&path=%2F%3Fed%3D2048&host=lively-brook-c471.nedena3319.workers.dev&sni=lively-brook-c471.nedena3319.workers.dev&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
+vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443/?type=ws&encryption=none&flow=&path=%2Fpanika#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@172.64.146.20:2096/?type=ws&encryption=none&flow=&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.cc.cd&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.555vpn.nl:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2014.ir&type=xhttp#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
