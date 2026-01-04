@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3121850a-24aa-41f9-936d-dbdf10a3b31f@89.23.123.17:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#@Maznet-46211-1
 vless://3121850a-24aa-41f9-936d-dbdf10a3b31f@89.23.123.17:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#All--@V2rayAlpha--10
 vless://31303020-3130-4120-b938-203532203535@213.108.198.158:8442?encryption=none&flow=xtls-rprx-vision&security=reality&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&headerType=none#[@AstroVPN_Official] 🇩🇪
 vless://31303220-3533-4035-b320-393720313032@92.112.126.22:8442?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=creativecommons.org&sid=59b75803#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -502,4 +503,3 @@ vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.200:443?path=/?ed=443&s
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=/?ed=443&security=tls&encryption=none&host=1001co.com.wnticacenich1.mapircdn.com&fp=chrome&type=ws&sni=1001co.com#@CaV2ray ⚡️
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=/?ed=443&security=tls&encryption=none&host=alef.ir.oadeflantrogm.mahanmapcdn.com&fp=chrome&type=ws&sni=alef.ir#@CaV2ray ⚡️
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=/?ed=443&security=tls&encryption=none&host=ikco.ir.oadeflantrogmnl1.mahanmapcdn.com&fp=chrome&type=ws&sni=ikco.ir#@CaV2ray ⚡️
-vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=/?ed=443&security=tls&encryption=none&host=myrightelapp.ir.wnticacenide9.abrirmahan.com&fp=chrome&type=ws&sni=myrightelapp.ir#@CaV2ray ⚡️

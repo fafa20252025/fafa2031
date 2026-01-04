@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://be66c8de-41f5-465b-a417-37d56547d0c3@64.188.74.220:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ign.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#AKLISvpn🇱🇺
 vless://be66c8de-41f5-465b-a417-37d56547d0c3@ee.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#@V2ray_confing33
 vless://be66c8de-41f5-465b-a417-37d56547d0c3@ee.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#Channel : @Mrsoulb 🏴🏳
 vless://be66c8de-41f5-465b-a417-37d56547d0c3@ee.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#𝗝𝗼𝗶𝗻 ➠ @Daily_Configs 🫆
@@ -502,4 +503,3 @@ vless://d00d13b2-5cd3-4648-afa9-807983647ed8@[2a0e:d600:0:2f8::2]:443?encryption
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=a.azadnet002.ddns-ip.net#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://d02efe87-40d6-40a6-a449-3cfd02ed5e54@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#@sunflowerplato🌻
 vless://d02efe87-40d6-40a6-a449-3cfd02ed5e54@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#All_9--@V2rayAlpha
-vless://d03d8815-a06f-408f-a62f-6c84869b96a9@ELegAnt-CoRpoRaTION.sEOtOOLsFORYOU.cO.UK:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus |🇩🇪23
