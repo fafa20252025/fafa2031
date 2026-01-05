@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bpath=%252Fhowdy&amp%3Bsni=de1.test3.net&amp%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro
+trojan://78f9bf50-bce8-11ee-8913-1239d0255272@de1.test3.net:443/chatbuzzteambhm.chatbuzzt7150.workers.dev?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40teamvpnpro
 vless://05a458e1-bc26-476a-dcf1-156a17a6a27b@uae.speedvip.fun:51436?type=tcp&amp%3Bpath=%2F&amp%3Bhost=speedtest.net&amp%3BheaderType=http&amp%3Bsecurity=none#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40teamvpnpro
 trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bpath=%252Fhowdy&amp%3Bsni=de1.test3.net&amp%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro
 vless://a5368290-9ce5-4fc4-9652-06221e6689fa@iran4.yasinvps.sbs:8880?type=ws&amp%3Bpath=%2F&amp%3Bhost=cdn1.yasinvps.sbs#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40teamvpnpro
@@ -501,5 +503,3 @@ vmess://eyJhZGQiOiJhaXN1Z3ZkaXUuMTE0NTE0NzgyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlk
 
 vmess://eyJhZGQiOiJncmVlbmNsb3Vka3NzLjExNDUxNDc4Mi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjVmOWM3YmRhLTMzZjktM2RkMC1iY2Y1LWFjYTMyNDQxOGUzMSIsIm5ldCI6IndzIiwicGF0aCI6Ii91c2RiZmFpdXdzIiwicG9ydCI6ODg4MCwicHMiOiLnvo7lm70zIHwgMXhfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
 
-
-vmess://eyJhZGQiOiJncmVlbmNsb3Vka3NzLjExNDUxNDc4Mi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImVhZWZjYjY0LTI3NzYtMzcwNi1iOTYzLWExOWEyNDMzNzU1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii91c2RiZmFpdXdzIiwicG9ydCI6ODg4MCwicHMiOiLnvo7lm70zIHwgMXhfMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
