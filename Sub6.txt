@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.158.133.158:2096?path=/?ed=2560&&security=tls&encryption=none&insecure=0&host=sni.111000.de5.net&type=ws&allowInsecure=0&sni=sni.111000.de5.net#کانال کانفیگ رایگان مناسب نت ملی : @Vpn_Sky
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.158.133.158:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#[⚡] ➠ @V2ray_official
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.193.28.168:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.army&type=ws&allowInsecure=0&sni=sni.111000.v6.army#🇳🇱@FreakConfig
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.193.28.168:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.army&type=ws&allowInsecure=0&sni=sni.111000.v6.army#🏴‍☠️@FreakConfig
@@ -503,3 +502,4 @@ vless://1b6c4b21-8f28-43ba-9b33-37991d9d3572@158.160.182.134:443/?type=tcp&encry
 vless://1b6c4b21-8f28-43ba-9b33-37991d9d3572@158.160.198.23:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#24♾️@oneclickvpnkeys
 vless://1b6c4b21-8f28-43ba-9b33-37991d9d3572@158.160.198.23:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#25♾️@oneclickvpnkeys
 vless://1b6c4b21-8f28-43ba-9b33-37991d9d3572@212.233.95.237:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#18♾️@oneclickvpnkeys
+vless://1b6c4b21-8f28-43ba-9b33-37991d9d3572@83.166.237.115:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#♂️41@oneclickvpnkeys
