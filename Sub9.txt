@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.171:80?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&type=grpc#🇺🇲TM 💕@AZARBAYJAB1 💕 GPRS
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.171:80?mode=gun&security=none&encryption=none&type=grpc#@Hddify
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.175:80?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&type=grpc#🇺🇲TM 💕@AZARBAYJAB1 💕 GPRS
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.205:80?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&type=grpc#🇺🇲TM 💕@AZARBAYJAB1 💕 GPRS
@@ -503,3 +502,4 @@ vless://4fc8707b-0c0d-494c-af35-024840f9a5b9@http.hexo-music.ir:2095?flow=&type=
 vless://4fc8707b-0c0d-494c-af35-024840f9a5b9@http.hexo-music.ir:2095?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🛸] ➠ @V2ray_official
 vless://4fc8707b-0c0d-494c-af35-024840f9a5b9@http.hexo-music.ir:2095?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram@V2rayBaaz◇⃟💜
 vless://4fc8707b-0c0d-494c-af35-024840f9a5b9@http.hexo-music.ir:2095?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪@FreakConfig
+vless://4fc8707b-0c0d-494c-af35-024840f9a5b9@http.hexo-music.ir:2095?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Broz_time+>+کانفیگ+رایگان
