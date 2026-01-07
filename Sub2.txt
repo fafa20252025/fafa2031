@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOSIsImFkZCI6Inp1bGEuaXIiLCJwb3J0IjoiODA4MCIsImlkIjoibmFzbmV0IiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkPTI1NjAiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI5In0=
-trojan://5a2c16f9@158.180.69.78:12198?sni=snippets.kkii.eu.org#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD11
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?security=tls&type=ws&sni=_acme-challenge.2go.cloudns.be&path=/&host=_acme-challenge.2go.cloudns.be#%E6%9C%AA%E7%9F%A510
-trojan://5a2c16f9@135.84.73.238:2096?sni=snippets.kkii.eu.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEiLCJhZGQiOiIxNzIuNjcuMjIwLjgzIiwicG9ydCI6IjQ0MyIsImlkIjoiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoibGluamEwNS5od2Nhci5zYnMiLCJwYXRoIjoiL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6ImxpbmphMDUuaHdjYXIuc2JzIiwidGVzdF9uYW1lIjoiMTEifQ==
 trojan://5a2c16f9@168.138.170.211:53702?sni=snippets.kkii.eu.org#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD12
 trojan://5a2c16f9@168.138.46.67:443?sni=snippets.kkii.eu.org#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
 trojan://5a2c16f9@185.18.222.208:2053?sni=snippets.kkii.eu.org#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC5
@@ -503,3 +497,9 @@ vless://03f996ff-14f3-47b4-b69a-d6aa927f2eef@ip1-fast.tyryqyserver.ir:80?path=/?
 vless://03f996ff-14f3-47b4-b69a-d6aa927f2eef@speedtest.net:80?flow=&type=ws&host=norbertfn1.global.ssl.fastly.net&path=/?ed=2052&security=none#vmessorg
 vless://03f996ff-14f3-47b4-b69a-d6aa927f2eef@speedtest.net:80?flow=&type=ws&host=norbertfn1.global.ssl.fastly.net&path=/?ed=2052&security=none#📍 Join to @vmessorg
 vless://0415dbea-edbd-4d53-91f2-fe367ca48067@d.mrtech.com.tr:443?path=/---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---&security=tls&alpn=h2&encryption=none&host=sl2.mrtech.com.tr&fp=chrome&type=httpupgrade&sni=sl2.mrtech.com.tr#---V2RAYNGCLOUD---
+vless://0415dbea-edbd-4d53-91f2-fe367ca48067@d.mrtech.com.tr:443?path=/---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---V2RAYNGCLOUD---&security=tls&alpn=h2&encryption=none&host=sl2.mrtech.com.tr&fp=chrome&type=httpupgrade&sni=sl2.mrtech.com.tr#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:65.99ms
+vless://044f94e9-a61d-4c43-a4b8-dae2ff823256@a-lf-0.okamii.ir:2095?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#mahsa NG { کانفیگ های عمومی }
+vless://05071212-5966-430d-a53b-d4472581ddc8@144.31.0.77:8443?mode=gun&security=reality&encryption=none&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&fp=chrome&type=grpc&serviceName=google.com&sni=google.com&sid=cdce15b3e2179ce8#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://0518ca46-4313-45ce-df4d-5268c1b30cf2@104.21.112.1:8080?path=/olem/ws?ed=1024&security=none&encryption=none&host=shad.ir.fin.test.digicyber.click.&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://051b4552-b516-485c-b4a0-fe18ab4ec7ee@185.117.0.185:651?mode=gun&security=reality&encryption=none&authority=&pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&fp=chrome&type=grpc&serviceName=&sni=www.stackoverflow.com&sid=86ba053c74aaba8e#@Broz_time+>+کانفیگ+رایگان
+vless://051b4552-b516-485c-b4a0-fe18ab4ec7ee@80.211.139.106:651?mode=gun&security=reality&encryption=none&authority=&pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&fp=chrome&type=grpc&serviceName=&sni=stackoverflow.com&sid=86ba053c74aaba8e#@Broz_time+>+کانفیگ+رایگان
