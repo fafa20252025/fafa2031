@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://telegram-turboo-server@server.ultra-irancell.com:80?path=/ed=2056&security=&encryption=none&host=jone-turboo-server.com&type=ws#[⚡] ➠ @V2ray_official
 vless://telegram-turboo-server@server.ultra-irancell.com:80?path=/ed=2056&security=none&encryption=none&host=jone-turboo-server.com&type=ws#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://telegram-turboo-server@server.ultra-irancell.com:80?path=/ed=2056&security=none&encryption=none&host=jone-turboo-server.com&type=ws#@sunflowerplato🌻
 vless://telegram-turboo-server@server.ultra-irancell.com:80?path=/ed=2056&security=none&encryption=none&host=jone-turboo-server.com&type=ws&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
@@ -503,3 +502,4 @@ vless://f97c7f12-e303-4679-8723-80edf65bbe37@antipingfree.antimelinet.click:3985
 vless://f97c7f12-e303-4679-8723-80edf65bbe37@antipingfree.antime…<:/div>#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40freev2raym
 vless://f97c7f12-e303-4679-8723-80edf65bbe37@91.107.160.74:39851?security=none&amp%3Bencryption=none&amp%3BheaderType=http&amp%3Btype=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40freev2raym
 vless://7b0066b1-5c34-4cf4-bf89-6d98da423807@37.152.179.33:777?security=none&amp%3Bencryption=none&amp%3BheaderType=none&amp%3Btype=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40freev2raym
+trojan://ziIjOlyGbM@91.107.141.0:23825?type=tcp&amp%3Bpath=%2F&amp%3BheaderType=http&amp%3Bsecurity=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40freev2raym
