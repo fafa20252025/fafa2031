@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://42c102ba-f4a6-4c9d-8d78-7e8f64bc5c3d@68.183.3.107:21790?path=/&security=none&encryption=none&type=ws#@vmesskhodam
 vless://42c62a5a-cd31-4551-e0ef-908732370287@skk.moe:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cm.6691888.xyz&path=/star/&security=tls&sni=cm.6691888.xyz&type=ws#♂️55@oneclickvpnkeys
 vless://42d3e6ab-9260-4264-8763-35712c3ac440@84.201.149.75:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&host=&headerType=none&spx=/&type=tcp&flow=xtls-rprx-vision&sni=moodle.sligvpn.ru#@Arshiavpn12 جوین شو قطع نشی
 vless://42de7f55-118f-4986-ab53-47427b33ca2a@Barayeazadi.vigilante.ir:443?mode=gun&security=reality&encryption=none&pbk=rVmhAxDPnbV3hqVqmL6_67QZ3oBtcApD_eFyYfROX0Q&fp=chrome&spx=/&type=grpc&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=443&sni=DigiKala.com#@Daily_Configs : بیا کانال
@@ -502,4 +503,3 @@ vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server271816966957306554.tas-bazi.c
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server422977785106074358.tas-bazi.com:443?type=xhttp&path=/frf&host=&mode=stream-one&security=none#telegram 🚀 v2ray_configs_pools
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server510120227793510198.tas-bazi.com:443?mode=stream-one&path=/frf&security=&encryption=none&type=xhttp#telegram ☂️ v2ray_configs_pools
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server510120227793510198.tas-bazi.com:443?mode=stream-one&path=/frf&security=&encryption=none&type=xhttp#telegram 🎪 v2ray_configs_pools
-vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server510120227793510198.tas-bazi.com:443?mode=stream-one&path=/frf&security=&encryption=none&type=xhttp#telegram 🎯 v2ray_configs_pools
