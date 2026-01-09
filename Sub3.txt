@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?mode=gun&security=none&encryption=none&type=grpc#@v2rayngzendegimamad🕊️
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#@v2rayngzendegimamad🕊️
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=1&type=grpc&allowInsecure=1&sni=pqh27v5.hiddendom.shop#[78615] - Telegram : @V2All
 vless://e5017995-2093-491b-a0fa-d4890782d42a@megaf.takovpn.ru:443?security=reality&encryption=none&pbk=SxkcgZSO_Ek3EjJqudyx3UTwQIIUgB1fJyiDGmDI7mw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=99dfc27e5f2415dc#✅سرورهابیشتردرکانال:prrofile_purple@✅
 vless://e523d495-1730-405f-97cd-605e07c570dc@serena.ns.cloudflare.com:8080?mode=auto&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.130:443?path=/hormoz&security=tls&encryption=none&fp=chrome&type=ws#@v2rayngzendegimamad🕊️
@@ -503,3 +500,6 @@ trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&am
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=cr7.traneh.dpdns.org&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=cr7.traneh.dpdns.org#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vpn_ocean
 vmess://eyJhZGQiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwiYWlkIjoiMCIsImhvc3QiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwiaWQiOiJlYTQ5MDllZi03Y2E2LTRiNDYtYmYyZS02YzA3ODk2ZWYzMzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4LXZtIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7ggVVMgfCBWTUVTUyB8IEB2cG5nYXRlX2NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
 vless://30254c31-8e12-4943-b6cb-0ca037ef6f47@104.21.43.168:2087?path=/random&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=peacefulpigs.adaspoloandco.com&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=peacefulpigs.adaspoloandco.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vpnowl
+vless://72ed83a8-ec33-4a36-8595-83cc77ce83b3@162.159.153.4:443?path=/vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Bhost=work-86a.pages.dev&amp%3Btype=ws&amp%3Bsni=work-86a.pages.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vpnowl
+vless://4e125438-1a39-440e-95fc-36b9dec03e5f@104.21.43.168:443?path=/random&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Bhost=adderall.adaspoloandco.com&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=adderall.adaspoloandco.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vpnowl
+vless://3d4b62fa-1fd5-459e-86a9-4b0df88736da@ip2-fast.tyryqyserver.ir:80?path=/%3Fed%3D2052&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=norbertfn1.global.ssl.fastly.net&amp%3Btype=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40vpnplusee_free
