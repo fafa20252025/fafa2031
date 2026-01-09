@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxTUFuZ0pGRVFvcjlPNWZtUktLTTln@78.129.140.11:443#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNUdDUTVHSWJHeEFFT1VIWW1VZ01J@62.210.88.22:443#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%B7`
+vless://fc0e82dd-531a-4ac1-9ebc-b68ffeab7912@91.186.217.108:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pinova.io&security=reality&pbk=bn4nV9O7aOI_pzbJsgqnyYxPX8a7efYDXqrYbxsL6V8&sid=&packetEncoding=xudp#%40Geek_Spot
+vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&packetEncoding=xudp#%40Geek_Spot
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTllMzU5YTJmMGM0ZjVm@51.68.83.117:11201#%40Geek_Spot
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OWZhNTU0MWQxZDljY2Nl@141.95.104.30:11201#%40Geek_Spot
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NGMzMDNjMjg2NmM4Mzk5@141.95.105.216:11201#%40Geek_Spot`
