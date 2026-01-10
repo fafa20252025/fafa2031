@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://437f4b2a-bdb7-4a00-a945-309b8263697d@re.alphanet01.com:2070?security=none&encryption=none&host=nasa.gov&headerType=http&type=tcp#[79083] - Telegram : @V2All
-vless://43903c8d-5c42-4cb8-9da8-9d42178379c1@31.56.146.225:53440?security=none&encryption=none&headerType=none&type=tcp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
-vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#WiFi-@V2rayAlpha-21
 vless://47e58d7e-87df-435f-9c64-e5c375d30c54@fastly.aireacondicionadoalicante.eu:80?mode=auto&path=/&security=none&encryption=none&host=r8x-net.global.ssl.fastly.net&type=xhttp#[79059] - Telegram : @V2All
 vless://47e58d7e-87df-435f-9c64-e5c375d30c54@fastly.aireacondicionadoalicante.eu:80?mode=auto&path=/&security=none&encryption=none&host=r8x-net.global.ssl.fastly.net&type=xhttp#✅سرورها بیشتردرکانال:prrofile_purple@✅
 vless://48c43abe-ac04-481e-85c7-5c9a85725685@104.16.53.11:2082?path=/speedtest.net/zirakomamle.com?ed=2048&security=none&encryption=none&host=fInLaND.ziRakOmaMle.coM&type=httpupgrade#✅سرورها بیشتردرکانال:prrofile_purple@✅
@@ -503,3 +500,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=t
 vless://e9d6e362-120d-4328-8cbf-c611bdaca27b@46.224.198.130:54663?type=tcp&encryption=none&path=/@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20&host=www.speedtest.net&headerType=http&security=none#A --@napsternetv20 کانال تلگرام   W
 vless://ea62d3af-a6a5-43ab-895a-7237448815ed@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇺🇸
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@144.31.178.168:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tbankru.outlinekeys.net#ALL-@V2rayAlpha--23
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.107.234.38:443?security=reality&encryption=none&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=maxru.outlinekeys.net#IR--@V2rayAlpha-16
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tbankru.outlinekeys.net&fp=chrome&security=reality&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#[79082] - Telegram : @V2All
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tbankru.outlinekeys.net#ALL-@V2rayAlpha--36
