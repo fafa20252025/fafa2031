@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.87.174:4006?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.87.174:1933?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNjExMDI3YS03YjU1LTRmNjQtYjhkZi0yNThmMmQ3ZWY5NWM@e4d7a1c2f3b80976a5e2c1d4b3f0a987.358.onl:18005#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40stairnode
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@27.255.82.135:3733#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%7C%40stairnode
@@ -502,4 +503,3 @@ vless://4352f2a7-d620-474e-9249-e866774a2c81@80.93.215.62:443?security=tls&sni=g
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.14.65:80?path=/&security=none&encryption=none&host=us1.rtacg.com&type=ws#t.me/entryNET/config=1853872576348038
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.184.170:80?security=none&type=ws&host=us3.rtacg.com&path=/#[79078] - Telegram : @V2All
 vless://43660f19-e968-424d-bd9d-cfcfdd638e4a@144.31.3.255:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#All-@V2rayAlpha--18
-vless://437f4b2a-bdb7-4a00-a945-309b8263697d@re.alphanet01.com:2070?security=none&encryption=none&host=nasa.gov&headerType=http&type=tcp#[79083] - Telegram : @V2All
