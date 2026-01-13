@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0f:5707:aaf1:4d5b::1]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ConfigV2RayNG
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0f:5707:aaf1:8453::1]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ConfigV2RayNG
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0f:5707:aaf1:c427::1]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#@ConfigV2RayNG
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#ConfigV2RayNG
+hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#28YB5qK!5t#U&insecure=1&sni=nalog.ru#🇫🇮h@ConfigV2RayNG
+hysteria2://yhqy5AHofQq@channel3.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#28YB5qK!5t#U&insecure=1&sni=www.google.com#⛄11@ConfigV2RayNG
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WFJaZG93U3o0SUJQNkpNZmJZamJKQ1BFSStDVGVRMFNkdml1VzNRMTloOD06dU4xT3B4TE8xVmE2aWNVVWdaMTNVWGdkZTBhY3pPZEE2K1VsdlNEbzJsTT0@94.183.156.101:51694#✅سرورها بیشتردرکانال:prrofile_purple@✅
 ss://NDUzNGQ3YzktYzVkZC00OTBhLTlmMTQtNzUyNDVmNThhZTAxOg==@51.195.149.115:26475#t.me/entryNET/config=1854189290337322
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#@v2rayngzendegimamad🕊️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#IR--@V2rayAlpha-3
@@ -496,10 +503,3 @@ vless://840b56da-7b6b-4a08-fef2-e2dabf03e6f6@abiidar-free.avamovie1.top:9004?sec
 vless://843dcb73-31a7-48eb-877e-c0764dc4a55b@109.122.247.27:2041?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#فقط مصرف ضروری | YamYamProxy
 vless://843dcb73-31a7-48eb-877e-c0764dc4a55b@37.152.175.93:2002?path=/lklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwjlklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwjlklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwjlklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwjlklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwjlklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwjlklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwjlklklkopkpwqkepoqwejdiojqowijedopjqwepdijqwedjpqwoejopjdwj?ed=4096&security=none&encryption=none&type=ws#فقط مصرف ضروری | YamYamProxy
 vless://843dcb73-31a7-48eb-877e-c0764dc4a55b@37.152.175.93:9929?mode=gun&security=none&encryption=none&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#فقط مصرف ضروری | YamYamProxy
-vless://843dcb73-31a7-48eb-877e-c0764dc4a55b@89.44.242.247:2041?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#فقط مصرف ضروری | YamYamProxy
-vless://843dcb73-31a7-48eb-877e-c0764dc4a55b@89.44.242.249:9929?mode=gun&security=none&encryption=none&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#فقط مصرف ضروری | YamYamProxy
-vless://843dcb73-31a7-48eb-877e-c0764dc4a55b@89.44.242.255:2001?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#فقط مصرف ضروری | YamYamProxy
-vless://843dcb73-31a7-48eb-877e-c0764dc4a55b@89.44.242.255:2011?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#فقط مصرف ضروری | YamYamProxy
-vless://848178e4-78ac-4dbc-9fab-3d2f1e614ac0@Evay-vpn.octacityroleplay.ir:1122?encryption=none&type=xhttp&host=join-bede-evay_vpn.org&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=www.slideshare.net&pbk=4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI&sid=4c7b0ea36fc7f0c4#🇩🇪 | @EVAY_VPN
-vless://84f66368-8a37-468e-ae95-5622255fd4db@217.170.199.132:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#@v2rayngzendegimamad🕊️
-vless://8540e914-1ecd-4b95-8f9a-ab83ab8864f4@151.101.205.194:80?encryption=none&security=none&type=xhttp&host=iranair.ir&path=/-ViV2ry@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN?ed=2048&mode=auto#@V2RIRAN
