@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-
-کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : Germanyvmess://eyJhZGQiOiI5MS4xMDcuMTMxLjgiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZjNkZWYwOWUtOTI2Mi00Y2M1LWMzMjYtYjA0NGU0MjhhMjVjIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJpY2Vzb3VyY2UiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
-
-
 کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : Germanyvmess://eyJhZGQiOiI3OC40Ny4xMjAuMTczIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiaWNlc291cmNlIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
 
 
@@ -503,3 +499,7 @@ vless://40d47607-e51d-40d6-a723-e536da630311@www.visa.com.br:443?security=tls&sn
 vless://40d47607-e51d-40d6-a723-e536da630311@www.visa.com.br:443?security=tls&sni=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%203.3
 
 vless://513f699d-ed8c-4a47-a225-0736fc2213e7@94.131.123.236:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20TR%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://513f699d-ed8c-4a47-a225-0736fc2213e7@bitpay.com:443?security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%209.9
+
+vless://513f699d-ed8c-4a47-a225-0736fc2213e7@ns1.cloudflare.com:443?security=tls&sni=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%209.99
