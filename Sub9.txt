@@ -5,6 +5,11 @@
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
 
+
+✅ مناسب وب گردیvless://9da7e1ad-9991-427e-909a-0413bdd45c0f@benz.pmpads.com:63028?encryption=none&security=tls&sni=benz.pmpads.com&type=ws&path=%2F#%40RIP_VPN%201vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBSSVBfVlBOIDIiLA0KICAiYWRkIjogInZ2Lm1vZWRvdmUuY29tIiwNCiAgInBvcnQiOiAiNTM4MTgiLA0KICAiaWQiOiAiZjQ2OGQ5MDAtMjEzMy00OTU5LTliMzctOGY2ZWUwMzMwOGNkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICJtamd2ZyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
+
+
+
 ✅ مناسب وب گردیvless://edddb2ac-f347-41f8-b158-6c263b3058d8@web.biatochannelv271g.shop:2083?encryption=none&security=tls&sni=web.biatochannelv271g.shop&type=grpc&serviceName=A&mode=gun#%40RIP_VPN╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
 
 
@@ -498,8 +503,3 @@ vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:2087/?type=ws&encryption
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087/?type=ws&encryption=none&flow=&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:443/?type=ws&encryption=none&flow=&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://7d12bf9a-63d6-4989-a27b-c9ddb2d6c0b6@de23.ariyanln.com:7945?security=none&encryption=none&host=mmg.whatsapp.net&headerType=http&type=tcp#%3E%3E%40prrofile_purple%3A%3ADE
-vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443/?type=ws&encryption=none&flow=&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&path=%2F%3Fed%3D2560&security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://8287e81d-2560-4aaf-ebc8-f6873c521f83@45.77.87.33:37795/?type=tcp&encryption=none&flow=&sni=www.lovelive-anime.jp&fp=chrome&security=reality&pbk=4comh-7Jm_wZXJQ5QiLSCbVGQIbMUzHUIBdb0aFtLzM&sid=#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@wangcai253.cloudflare.182682.xyz:8880?security=none&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&host=kazuhikosvpn.kazuhikolzk.workers.dev&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
-vless://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=live.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.134.117:2095/?type=ws&encryption=none&flow=&host=snippets.pusytroller.cf&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
