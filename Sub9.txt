@@ -4,10 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-
-✅ مناسب وب گردیvmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBSSVBfVlBOICDYqNix2KfbjCDYs9ix2YjYsSDZh9in24wg2KjbjNi02KrYsSDYrNmI24zZhiDYqNi024zYryIsDQogICJhZGQiOiAiMTMuNDguNDguNDQiLA0KICAicG9ydCI6ICIxMTExMSIsDQogICJpZCI6ICI3Y2I3Mjg4My05NjM1LTQ2ZWItODUzMS04ZDY5NzkyN2ZmMDQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
-
-
 ✅ مناسب وب گردیvmess://eyJhZGQiOiJxcS5maWxtb28uc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiIwYmM2MTAwZS1hNGI3LTRjNDQtYjcyZi1lMGQyMjJmZTllM2MiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0NjQyIiwicHMiOiLinIUgQFZvclRleElSTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=💠 آموزش استفاده از کانفینگ مورد نظر 🔝╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
 
 
@@ -503,3 +499,7 @@ vless://e258977b-e413-4718-a3af-02d75492c349@104.18.34.125:443/?type=ws&encrypti
 vless://e258977b-e413-4718-a3af-02d75492c349@108.162.192.179:443/?type=ws&encryption=none&flow=&host=ww20.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.sgxaniu.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.60.204:443/?type=ws&encryption=none&flow=&host=sg.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=sg.aniuge.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.17.203:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://e258977b-e413-4718-a3af-02d75492c349@172.64.35.193:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://e258977b-e413-4718-a3af-02d75492c349@172.64.145.118:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://e258977b-e413-4718-a3af-02d75492c349@172.64.79.60:443/?type=ws&encryption=none&flow=&host=ww20.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.sgxaniu.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://e258977b-e413-4718-a3af-02d75492c349@104.17.15.242:443/?type=ws&encryption=none&flow=&host=tw20.aniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=tw20.aniusnippets.qzz.io&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
