@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://da72ff28-8ec0-43ec-a3c4-f37fe46853d1@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=securet.global.ssl.fastly.net&type=xhttp#@vpnbaz | نت ملی
 vless://da72ff28-8ec0-43ec-a3c4-f37fe46853d1@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=securet.global.ssl.fastly.net&type=xhttp#telegram@V2rayBaaz◇⃟💜
 vless://db2c8a95-f751-46e3-b05e-d2def66850fb@104.18.42.163:443?path=/Telegram@V2rayAlpha/ed=2560&security=tls&encryption=none&insecure=0&host=ayanamirei.11160321.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ayanamirei.11160321.xyz#IR--@V2rayAlpha-19
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@104.26.12.140:443?path=/assets?ed&security=tls&encryption=none&host=Arc-EMS.pages.dev&fp=chrome&type=ws&sni=Arc-EMS.pages.dev#@hopev2ray🤎
@@ -503,3 +502,4 @@ vless://3d42bd31-5640-4e5e-a7e5-59e59a040341@deadseectelegram.slimshopboyss.ir:8
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=gaosir.unfeeling.sbs&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=gaosir.unfeeling.sbs#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20%40prrofile_purple
 vless://turboo-server@fr.turboo-server.xyz:443?security=none&amp%3Bencryption=none&amp%3Bhost=bmw.com&amp%3BheaderType=http&amp%3Btype=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40public504
 vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&amp%3Bsecurity=reality&amp%3Bpbk=ipM5-HQ6sNBZhPGNLNpq8voqMvgxBeL9LDZY4sQ5Yyk&amp%3Bfp=chrome&amp%3Bsni=zula.ir&amp%3Bsid=d2bab77a&amp%3Bspx=/#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40qeshmserver
+vless://baadf496-921b-41b1-a7ae-fde0ddc6793d@140.82.54.120:443/?type=tcp&amp%3Bsecurity=reality&amp%3Bpbk=0O2wxSFr76Y9Sp2y5Bc1shI5yA1rkp1zKHZbkKsOE3E&amp%3Bfp=firefox&amp%3Bsni=%2A.zarairan.top&amp%3Bsid=28e21203&amp%3Bspx=/&amp%3Bflow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40qeshmserver
