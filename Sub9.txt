@@ -4,14 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-vless://29ec784e-e17f-4527-d2be-4a40d74dc346@s356.nba203.sbs:22907?security=none&encryption=none&host=ilovepdf.com&headerType=http&type=tcp#%D8%AD%D8%A7%D9%B0%D8%AC%DB%9A%DD%BA%E0%A3%AE+%40soscwتست شده با ایرانسل رایتل سرعت گاد ✅با خط های دیگ تست کنید کامنت کنید🤛ری اکشن ندید خاموش میکنم🫠♥️ JOIN @YtTe3la
-
-
-vless://277f3779-aba6-4df8-f746-b9dc91bce8d0@legenderyserversirn.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LegenderY_Servers&sni=wel.mrphh.me#%D8%AD%D8%A7%D9%B0%D8%AC%DB%9A%DD%BA%E0%A3%AE+%40soscwتست شده با ایرانسل سرعت گاد ✅ری اکشن ندید خاموش میکنم🫠♥️ JOIN @YtTe3la
-
-
-trojan://2B9cZhVM0V@c.netnor.xyz:23570?security=tls&headerType=none&type=tcp#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%D8%AD%D8%A7%D9%B0%D8%AC%DB%9A%DD%BA%E0%A3%AE+%40soscwتست شده با ایرانسل سرعت گاد ✅ری اکشن ندید خاموش میکنم🫠♥️ JOIN @YtTe3la
-
 ✅ فروش سرور اختصاصی (VPN) برای دور زدن نت ملی ✅🌐  در تمام طول روز وصل بدون قطعی  24    ساعته حتا در مواقع نت ملی و قطعی ⬇️ مناست گیم 🖲️ ترید 🔥 وب گردی و.. ⭐🖥 برای ios و اندروید و ویندوزسازگار با همه اپراتور ها 👍😂😍😎کانفینگ ها به صورت🌐Http custom🌐V2rayNG🌐NapsternetV 🌐E-V2rayموجود هست ❤️تمامی سرور ها کانفینگ های (vmess-vless)میخورند به انتخاب شما هست✅ با مناسب ترین قیمت و بهترین کیفیت🏃‍♂️حجم به انتخاب خودتون هست ولی زیر ۲۰ گیگ هم موجود نیست🔔با این vpn دیگه نگران اینترنت نیسی چون همیشه با سرعت بالا وصلی 📢پشتیبانی 24 ساعته ✅از الان میتونید  یه سرویس بگیرید که نت ملی اذیت نشید ☑️جهت خرید به آیدی زیر پیام دهید 🌹Pv: @imSirTe3la ✅channel: @Ytte3la ✔️
 
 
@@ -503,3 +495,11 @@ vless://e258977b-e413-4718-a3af-02d75492c349@162.159.19.174:443/?type=ws&encrypt
 vless://e258977b-e413-4718-a3af-02d75492c349@104.18.45.47:443/?type=ws&encryption=none&flow=&host=x-hk20.xaniusnippets.qzz.io&path=%2F&security=tls&sni=x-hk20.xaniusnippets.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://e258977b-e413-4718-a3af-02d75492c349@103.160.204.5:443/?type=ws&encryption=none&flow=&host=x-hk24.xaniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=x-hk24.xaniusnippets.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://e258977b-e413-4718-a3af-02d75492c349@104.18.30.238:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://e258977b-e413-4718-a3af-02d75492c349@103.160.204.249:443/?type=ws&encryption=none&flow=&host=ww23.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww23.sgxaniu.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://e258977b-e413-4718-a3af-02d75492c349@104.18.31.15:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://e258977b-e413-4718-a3af-02d75492c349@172.64.35.193:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://e258977b-e413-4718-a3af-02d75492c349@172.64.145.118:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://e258977b-e413-4718-a3af-02d75492c349@162.159.7.223:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://e258977b-e413-4718-a3af-02d75492c349@162.159.60.204:443/?type=ws&encryption=none&flow=&host=sg.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=sg.aniuge.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://e258977b-e413-4718-a3af-02d75492c349@103.160.204.12:443/?type=ws&encryption=none&flow=&host=ww23.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww23.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://e258977b-e413-4718-a3af-02d75492c349@108.162.192.179:443/?type=ws&encryption=none&flow=&host=ww20.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.sgxaniu.qzz.io&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
