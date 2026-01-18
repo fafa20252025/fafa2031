@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://513f699d-ed8c-4a47-a225-0736fc2213e7@94.131.123.236:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20TR%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 vless://513f699d-ed8c-4a47-a225-0736fc2213e7@bitpay.com:443?security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%209.9
 
@@ -502,4 +503,3 @@ vless://fc0e82dd-531a-4ac1-9ebc-b68ffeab7912@91.186.217.108:443/?type=tcp&encryp
 vless://b2744521-78b7-4c24-86f2-4f751d1cb7bf@104.21.43.168:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=private.digikala.lat&fp=chrome&type=ws&sni=Ggjd.digikala.lat#%F0%9F%A6%9C%F0%9F%A6%961
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F&security=tls&encryption=none&host=hzr27.sepiol.name.NG&fp=firefox&type=ws&sni=hzr27.sepiol.name.NG#Telegram%3A%20%40v2node
 vless://160e9c18-c548-42bf-9c00-905aed8ef96f@43.250.54.155:49000?mode=gun&security=reality&encryption=none&pbk=2K2NO2jXF45pA0-eUobqo-gnur61TadbWD4B93Zl_Vc&fp=chrome&type=grpc&serviceName=dropbox.com&sni=google.com&sid=170f8a2036#%F0%9F%8C%BD%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A96
-vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80?path=%2F&security=none&encryption=none&host=oon.visaups.ir&type=ws#%40Ken0Tim%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85`
