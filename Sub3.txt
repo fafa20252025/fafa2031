@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://613725ab-ca86-4d54-852e-a0bf45e812de@45.139.26.133:443?security=reality&encryption=none&pbk=IU2t096hBC7gAQ_rY1qwYsAtgiegzYI6loivZJxpx1E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alisa.kosmolet.xyz&sid=28e1270764a2464b#@v2rayngzendegimamad🕊️
 vless://613725ab-ca86-4d54-852e-a0bf45e812de@45.144.51.14:443?security=reality&encryption=none&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aneta.kosmolet.xyz&sid=a67894cec8a930c4#WiFi-@V2rayAlpha-23
 vless://6257bd0f-18d6-41cc-8e41-fe183cf63881@quarenty.site:8443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=205748bc0f24a747#All-@V2rayAlpha--5
 vless://636728f4-c7b1-47a3-91b0-243b258f997e@ab.fxgoldensignals.com:8443?security=none&encryption=none&host=alibaba.com&headerType=http&type=tcp#WiFi-@V2rayAlpha-15
@@ -503,3 +502,4 @@ vless://e28e7f77-262a-44f4-b8ea-addf20a0b874@185.228.236.237:80?path=/preply&sec
 vless://e28e7f77-262a-44f4-b8ea-addf20a0b874@185.228.236.241:443?path=/preply&security=tls&encryption=none&insecure=1&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&allowInsecure=1&sni=app.gplance.com,nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir#[82965] - Telegram : @V2All
 vless://e28e7f77-262a-44f4-b8ea-addf20a0b874@2.144.5.178:80?path=/preply&security=none&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#[82964] - Telegram : @V2All
 vless://e28e7f77-262a-44f4-b8ea-addf20a0b874@62.60.193.40:85?path=/preply&security=none&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#[82961] - Telegram : @V2All
+vless://e28e7f77-262a-44f4-b8ea-addf20a0b874@62.60.206.61:80?path=/preply&security=none&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#[82963] - Telegram : @V2All
