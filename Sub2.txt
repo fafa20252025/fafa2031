@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#✅سرورهایبیشتردرکانال:prrofile_purple@✅
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#telegram@V2rayBaaz◇⃟💜
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptV3pwZjRTQkNhZ1JhS2VZcVhCRDNO@62.133.60.60:7048#✅سرورهای بیشتردرکانال:prrofile_purple@✅
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#@v2rayngzendegimamad🕊️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆²
-ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:11696#🇲🇾 马来西亚
-ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:22039#🇯🇵 日本
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:27186#🇭🇰 香港
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:29586#🇹🇼 台湾
 ss://YWVzLTEyOC1nY206dThncDE0OGl6OTBkZG9vNm1zMzc=@146.70.90.196:17454#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆⁵
@@ -503,3 +496,10 @@ vless://805b52df-0581-495b-b8b5-b99594424053@gos9.portal-guard.com:8443?security
 vless://8153220491-client-b37@77.110.115.143:2087?path=/assets/img/banner_v3.webp/#&security=none&encryption=none&host=ws.usa1.tunnelx.space&type=ws#@v2rayngzendegimamad🕊️
 vless://8153220491-client-f8d@5.253.41.68:2087?path=/data-x1a3p/#&security=none&encryption=none&host=ws.jp.tunnelx.space&type=ws#@v2rayngzendegimamad🕊️
 vless://81a09de6-3ed9-4f09-8988-e1c05882a2d5@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇺🇸
+vless://826226bd-4543-4f1a-ac85-6b0bdf5c61db@213.176.126.201:6877?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#telegram@V2rayBaaz◇⃟💜
+vless://840b56da-7b6b-4a08-fef2-e2dabf03e6f6@abiidar-free.avamovie1.top:9004?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇨🇭]t.me/Raiv2mmr
+vless://840b56da-7b6b-4a08-fef2-e2dabf03e6f6@abiidar-free.avamovie1.top:9004?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️104🌐🆕️
+vless://840b56da-7b6b-4a08-fef2-e2dabf03e6f6@abiidar-free.avamovie1.top:9004?security=none&encryption=none&host=uptvs.com/?BIA_TELEGRAM@V2rayBaaz&headerType=http&type=tcp#telegram@V2rayBaaz◇⃟💜
+vless://84f66368-8a37-468e-ae95-5622255fd4db@217.170.199.132:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#@v2rayngzendegimamad🕊️
+vless://8540e914-1ecd-4b95-8f9a-ab83ab8864f4@151.101.205.194:80?encryption=none&security=none&type=xhttp&host=iranair.ir&path=/-ViV2ry@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN?ed=2048&mode=auto#@V2RIRAN
+vless://8540e914-1ecd-4b95-8f9a-ab83ab8864f4@dl.turkiye6.com.tr:443?path=/-ViV2ry@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN?ed=2048&security=tls&alpn=h2&encryption=none&host=dl.turkiye6.com.tr&fp=chrome&type=ws&sni=dl.turkiye6.com.tr#@V2RIRAN
