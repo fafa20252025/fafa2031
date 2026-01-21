@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fff18175-a413-456b-92bc-90e5ec6d664e@cleanfastly.iraniandesinger.com:80?path=/?ed=2052&security=none&encryption=none&host=norbert-team-free1.global.ssl.fastly.net&type=ws#🇩🇪 | @External_Net
 vless://hopev2ray-hopev2ray-hopev2ray@5.75.202.253:47713?security=reality&encryption=none&pbk=pS2RI8JETm4avuyyZl4qaZO0KrE4YX9xIOmHkqMmJH4&headerType=none&fp=chrome&spx=/&type=tcp&sni=Zula.ir&sid=fc#@hopev2ray❤️‍🩹
 vless://nasnet@nasnet-146198073-direct.iranpress.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=nasnet-146198073-direct.iranpress.co#WiFi-@V2rayAlpha-27
 vless://telegram-id-ArV2ray@185.234.65.143:4423?mode=gun&security=reality&encryption=none&pbk=uXUe3HEy4MjZ2nqFa8eMxxB24AxQEbxGdEAbdjxEMgQ&fp=chrome&type=grpc&serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2rayy&sni=tgju.org&sid=7a0bea4731381dda#Reality-Hamrah
@@ -503,3 +502,4 @@ vmess://eyJhZGQiOiJiYXh3YXJmcmV5Ljc2ODk4MTAyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlk
 
 
 vmess://eyJhZGQiOiJieGF3ZGJ3ZHR5aGpzZ2QuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc2VpZmJpYmdlZiIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NyB8IDAuM3hfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
+
