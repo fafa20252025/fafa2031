@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#@v2rayngzendegimamad🕊️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#@v2rayngzendegimamad🕊️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆²
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:11696#🇲🇾 马来西亚
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:22039#🇯🇵 日本
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:27186#🇭🇰 香港
@@ -503,3 +500,6 @@ vless://96287144-7c5f-4f0b-99da-6c159f06038c@midnightblue.qzz.io:443?path=/54.15
 vless://96358ed7-54d1-4c62-8ef8-d71599b5ca67@chatgpt.com:443?mode=auto&path=/cloudapi&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&host=api7.broadcasp.top&type=xhttp&allowInsecure=0&sni=api7.broadcasp.top#@V2rayBaaz
 vless://96fcb992-dc73-4b4b-af0f-c2a9becd97a5@chatgpt.com:443?mode=auto&path=Files/247/StreamVideo&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=dl-server4.tpmovies.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=dl-server4.tpmovies.ir#@TeLPJ+تمام+نت+ها+🟦🟨
 vless://97138d81-028f-4014-ae1a-036f7bd4c3b7@Evay-vpn.octacityroleplay.ir:1122?encryption=none&type=xhttp&host=join-bede-evay_vpn.org&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=www.zhaket.com&pbk=4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI&sid=4c7b0ea36fc7f0c4#🇩🇪 | @EVAY_VPN
+vless://97d0961f-7f44-40cf-a0c7-3d77722e3a51@CHATGPT.COM:2087?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=GERMANY.SODOGODPING.IR&type=ws&allowInsecure=0&sni=GERMANY.SODOGODPING.IR#@bored_vpn
+vless://9814fddd-c97d-4f62-8af2-0639d708b2d9@104.18.32.47:443?path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=focalin.adaspolo2.store&fp=chrome&type=ws&allowInsecure=0&sni=focalin.adaspolo2.store#ملی
+vless://98c776db-898a-427c-88f0-3b5e045ff96b@146.75.119.82:80?encryption=none&security=none&type=xhttp&host=iranair.ir&path=/-ViV2ry@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN?ed=2048&mode=auto#@V2RIRAN
