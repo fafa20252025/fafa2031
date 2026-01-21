@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18792#@ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18793#@ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18794#@ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18794#telegram @mtmvpn
@@ -502,4 +503,3 @@ vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@45.76.84.50:443?mode=gun&security=n
 vless://896093f9-20df-44fd-ae5d-1fe131e5c5f8@chatgpt.com:443?encryption=none&security=tls&sni=tutvvvvvvvvvv8666666ssxsssssssxxxxxxxxxxxxxxxxxxxxxxxxxxtyreter.vwzkert.workers.dev&fp=chrome&type=ws&host=tutvvvvvvvvvv8666666ssxsssssssxxxxxxxxxxxxxxxxxxxxxxxxxxtyreter.vwzkert.workers.dev&path=telegram+channel+:+@pandavpntc#@TeLPJ+یک+دقیقه+زمان
 vless://8a07740f-b932-4372-a3a2-ed91f184cd33@25.129.197.138:2053?path=/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&encryption=none&host=khamenei.dpdns.org&fp=chrome&type=ws&sni=KhAmeneI.DPdNs.OrG#ما+همیشه+در+کنار+شما+هستیم+@ConfigFree
 vless://8a07740f-b932-4372-a3a2-ed91f184cd33@25.129.197.138:2053?path=/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&encryption=none&insecure=0&host=khamenei.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=KhAmeneI.DPdNs.OrG#@bored_vpn
-vless://8a07740f-b932-4372-a3a2-ed91f184cd33@25.129.197.138:2053?path=/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&encryption=none&insecure=0&host=khamenei.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=KhAmeneI.DPdNs.OrG#اگه+قطع+شد+مجدد+به+کانال+سر+بزن+@ConfigFree
