@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f56f35a9-1123-4fe9-b1db-be57fb9f95d4@fr.broadcasp.info:42542/?encryption=none&flow=&host=excoino.com&type=tcp&headerType=http#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://ff188c84-49a9-4cc6-b3f7-4f8bdc7571ec@chatgpt.com:443?path=%2Fadmin&security=tls&encryption=none&host=zitel.digikala-aparat-zula.com&type=ws&sni=zitel.digikala-aparat-zula.com#%3E%3E%40v2nodes%3A%3AFR
 vless://ffa11e82-fa9b-4be1-81a9-c1d48a363df8@104.24.206.21:80/?type=ws&encryption=none&flow=&host=fancy-sky-db95.mehradrivaldo.workers.dev&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.254.236:80/?type=ws&encryption=none&flow=&host=netherlands.padoamu.workers.dev&path=%2F%40WireXnet%3Fed%3D2048#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://nasnet@nasnet-146198073-direct.iranpress.co:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-146198073-direct.iranpress.co&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AXX
