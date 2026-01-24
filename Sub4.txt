@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d8670a91-0d78-c855-a033-58084787afde@plan1.rtpxc.com:9676?security=none&encryption=none&headerType=none&type=tcp#@ConfigX2ray
-vless://d8670a91-0d78-c855-a033-58084787afde@plan1.rtpxc.com:9676?security=none&encryption=none&headerType=none&type=tcp#@Kia_Net  چنل
-vless://d8670a91-0d78-c855-a033-58084787afde@plan1.rtpxc.com:9676?security=none&encryption=none&headerType=none&type=tcp#@npvt_archive
 vless://d8670a91-0d78-c855-a033-58084787afde@plan1.rtpxc.com:9676?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
 vless://d8a19626-eec4-4b70-b1de-813b976a8cba@v2shop27.bing-net.com:4927?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@VPNSHELBY کانفیگ های بیشتر
 vless://d9738de2-1b25-407f-9096-fcb6ddc0aa86@85.133.204.132:80?path=/&security=none&encryption=none&host=test.sigmagames.shop&type=ws#@npvt_archive
@@ -503,3 +500,6 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=/%3Fed%3D256
 vless://822a0e38-b16e-4ed5-b45b-0e34724f65ca@188.137.183.116:202?security=none&amp%3Bencryption=none&amp%3Bhost=DiGikala.com%2Czara.com%2Cfast.com&amp%3BheaderType=http&amp%3Btype=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40vpnplusee_free%20%231
 vless://61c5b397-64cb-40d0-8b6f-546c1c7bf692@188.137.183.116:57004?security=none&amp%3Bencryption=none&amp%3Bhost=speedtest.net%2C+zara.com&amp%3BheaderType=http&amp%3Btype=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40vpnplusee_free%20%232
 vless://6e7e6a4e-a01e-4614-a765-2960c64a56fa@www.speedtest.net:443?path=/powerdbyWyvern%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=9e83eca1.wyvernfree.pages.dev&amp%3Bfp=randomized&amp%3Btype=ws&amp%3Bsni=9e83eca1.wyvernfree.pages.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40wbrovers%20%231
+vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Btype=ws&amp%3Bsni=nv73.momdping.com#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20%40xsv2ray%20%231
+vless://27bbde38-b656-439c-8f26-7868189bf0ec@chatgpt.com:443?path=/&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=dgf.addressprovider.lat&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=dgf.addressprovider.lat#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40xsv2ray%20%231
+vmess://eyJhZGQiOiJiYWF3ZnR2YmguNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnhxbWlhbyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/MSB8IDAuM3hfMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://f40d74b6-6092-4a32-bde1-0eec5db90de0@xiaozhu1.kkieo555.cn:41274?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#@Freev2rng
-trojan://f40d74b6-6092-4a32-bde1-0eec5db90de0@xiaozhu1.kkieo555.cn:41274?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#✅سرورها بیشتردرکانال:prrofile_purple@✅
-trojan://freedom@irancell.buzzmuzzpanel.online:443?security=tls&sni=047.eleCTROCelLco-Cf-047.woRkers.DEV&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=047.electrocellco-cf-047.workers.dev&path=/eyJqdW5rIjoienRVUEM4N2p6dXE2Wm0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560#[83457] - Telegram : @V2All
 trojan://freedom@irancell.buzzmuzzpanel.online:443?security=tls&sni=051.EleCTrOceLlCo-cF-051-60C.woRkeRS.DeV&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=051.electrocellco-cf-051-60c.workers.dev&path=/eyJqdW5rIjoiSWN4YW5sdEZ6STdLZXpHSyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560#[83453] - Telegram : @V2All
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🐲7@ConfigV2RayNG
 trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&host=TELEGRAM--JKVPN&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#🇩🇪@JKVPN
@@ -503,3 +500,6 @@ vless://65592ebd-a1fe-4f70-bc6b-419b43caf221@iar.blackhoster.com:443?encryption=
 vless://65592ebd-a1fe-4f70-bc6b-419b43caf221@iar.blackhoster.com:443?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&sni=excoino.com&sid=fd1dff03520d8f56#@Kia_Net🇮🇷
 vless://65592ebd-a1fe-4f70-bc6b-419b43caf221@iar.blackhoster.com:443?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&sni=excoino.com&sid=fd1dff03520d8f56#VPNBaz
 vless://65592ebd-a1fe-4f70-bc6b-419b43caf221@iar.blackhoster.com:443?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&sni=excoino.com&sid=fd1dff03520d8f56#⚡Telegram = @SOSkeyNET
+vless://65592ebd-a1fe-4f70-bc6b-419b43caf221@ris.blackhoster.com:341?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=excoino.com&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#⚡Telegram = @SOSkeyNET
+vless://65592ebd-a1fe-4f70-bc6b-419b43caf221@ris.blackhoster.com:341?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&sni=excoino.com&sid=fd1dff03520d8f56#VPNBaz
+vless://65592ebd-a1fe-4f70-bc6b-419b43caf221@uo.blackhoster.com:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=excoino.com&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#⚡Telegram = @SOSkeyNET
