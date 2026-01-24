@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://dbbe163b-b446-45dd-97ca-6a0a0667a7c6@op.mobileggatte.ir:4558?security=none&encryption=none&headerType=http&type=tcp#@ConfigV2RayNG
 vless://dbbe163b-b446-45dd-97ca-6a0a0667a7c6@op.mobileggatte.ir:4558?security=none&encryption=none&host=/?BIA_TELEGRAM@JKVPN_JKVPN_JKVPN_JKVPN_JKVPN&headerType=http&type=tcp#10⚡️Telegram = @JKVPN
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?encryption=none&type=tcp&headerType=http&host=speedtest.net&security=none#⚡Telegram = @SOSkeyNET
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&allowInsecure=0&encryption=none&type=tcp&host=speedtest.net&path=/&headerType=http#@sogoandfuckyourlove
@@ -502,4 +503,3 @@ vmess://eyJhZGQiOiJiYXhhbWR5ZmEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQi
 
 
 vmess://eyJhZGQiOiJiYXhhbWR5ZmEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnh6bWlhbyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NCB8IDAuM3hfMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
