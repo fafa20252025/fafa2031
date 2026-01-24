@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://da74f72f-d959-4606-aa1f-5d2f98ed1d02@god.panelbaz.com:704?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#⚡Telegram = @XpnTeam
+vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.102:8443?mode=auto&path=/&security=reality&encryption=none&pbk=YroB2r6MeCXtjqqVx5gr45KTPCJF_kk2n0yqbHhEQSE&fp=chrome&type=xhttp&sni=vk.com&sid=743952dfbeb3#VPNBaz
+vless://dbbe163b-b446-45dd-97ca-6a0a0667a7c6@op.mobileggatte.ir:4558?security=&encryption=none&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=http&type=tcp#ConfigV2RayNG
 vless://dbbe163b-b446-45dd-97ca-6a0a0667a7c6@op.mobileggatte.ir:4558?security=none&encryption=none&headerType=http&type=tcp#@ConfigV2RayNG
 vless://dbbe163b-b446-45dd-97ca-6a0a0667a7c6@op.mobileggatte.ir:4558?security=none&encryption=none&host=/?BIA_TELEGRAM@JKVPN_JKVPN_JKVPN_JKVPN_JKVPN&headerType=http&type=tcp#10⚡️Telegram = @JKVPN
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?encryption=none&type=tcp&headerType=http&host=speedtest.net&security=none#⚡Telegram = @SOSkeyNET
@@ -500,6 +503,3 @@ vmess://eyJhZGQiOiJiYXNibGFtZC43Njg5ODEwMi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6
 
 
 vmess://eyJhZGQiOiJiYXhhbWR5ZmEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnh6bWlhbyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NCB8IDAuM3hfMSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
-
-vmess://eyJhZGQiOiJiYXhhbWR5ZmEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYWVmY2I2NC0yNzc2LTM3MDYtYjk2My1hMTlhMjQzMzc1NWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnh6bWlhbyIsInBvcnQiOjIwNTIsInBzIjoi5be06KW/NCB8IDAuM3hfMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
