@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://521cc24f-bc45-4af8-919d-6d6ec6dfe20c@3zen.SvHamrah.shop:20582?security=none&encryption=none&host=Excoino.com&headerType=http&type=tcp#@shh_proxy
-vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@172.232.159.142:8880?encryption=none&type=tcp&headerType=http&host=varzesh3.com&security=none#@WireXnet - ‼️ Emergency
-vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@172.232.159.142:8880?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
-vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@83.228.227.226:8880?encryption=none&type=tcp&headerType=http&host=varzesh3.com&security=none#@WireXnet - ‼️ Emergency
-vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@83.228.227.226:8880?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
 vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@83.228.230.175:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@V2rayAlpha--4
 vless://563709ea-3663-4f86-b413-5299897659a5@sourceforge.net:2053?type=ws&path=/telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----9KsgRW1AnYtwZOVz&host=laj.iranianmobail.ir&security=tls&fp=chrome&alpn=h2&allowInsecure=1&sni=laj.iranianmobail.ir#@alo_v2rayng با کانفیگ رایگان اینستا نرو آی پی ثابت نیس دیسیبل میشه پیجت
 vless://56a15e3e-0147-45d0-935c-50ba6533f7e9@sw2.zeroraz.top:11001?security=&encryption=none&type=ws#⚡Telegram = @SOSkeyNET
@@ -503,3 +498,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.155:8880?mode=gun&secur
 vless://df51af95-2ac3-4176-ba27-5143379c60ed@ip.salarvandservice.org:8880?path=/&security=none&encryption=none&host=finland.netpllus.ir&type=httpupgrade#r♡ya@V2rayBaaz◇⃟💜
 vless://df51af95-2ac3-4176-ba27-5143379c60ed@ip.salarvandservice.org:8880?path=/&security=none&encryption=none&host=finland.netpllus.ir&type=httpupgrade#✅سرورها بیشتردرکانال:prrofile_purple@✅
 vless://df51af95-2ac3-4176-ba27-5143379c60ed@ip.salarvandservice.org:8880?path=/&security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=finland.netpllus.ir&type=httpupgrade#@icv2ray
+vless://dfc79b00-a51a-45cf-9c0a-d061a01295b4@172.67.134.196:443?security=tls&sni=pAHlAvi-184.pAGEs.DeV&type=ws&host=PaHLAvi-184.PAgES.dEV&path=/?ed=2560&fp=chrome&alpn=h2,http/1.1#[84470] - Telegram : @V2All
+vless://e00dfbaf-65c3-456b-8cdc-bdf89ccb8553@85.90.209.202:20997?security=none&encryption=none&headerType=none&type=tcp#r♡ya@V2rayBaaz◇⃟💜
+vless://e0fc601e-e0c6-4c8c-92d6-6f5d1cde5a09@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=18l7-wCCLwKZn-slnEV1HlM-ocxV94nau8CHNEpv3Ew&fp=chrome&type=xhttp&sni=stackoverflow.com&sid=077dc29a23d311f2#🇩🇪 @V2ngFast
+vless://e1ff15d1-3b0a-442f-85eb-f5aeee1016c2@wtf.solaanima.site:37613?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @XpnTeam
+vless://e258977b-e413-4718-a3af-02d75492c349@162.159.152.4:443?encryption=none&type=ws&host=ww23.sgxaniu.qzz.io&path=/?ed=2048/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=ww23.sgxaniu.qzz.io#@Evay_vpn
