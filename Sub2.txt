@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@icv2ray
+trojan://humanity@free1.aattaash.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#r♡ya@V2rayBaaz◇⃟💜
+trojan://humanity@free1.aattaash.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#⚡Telegram = @SOSkeyNET
 trojan://humanity@free1.aattaash.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#ConfigV2RayNG
 trojan://humanity@free1.aattaash.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#https://t.me/ConfigX2ray
 trojan://humanity@free1.aattaash.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#https://t.me/v2rayng_fars
@@ -500,6 +503,3 @@ vless://7501728e-779c-4f1f-b3f6-4b3037145735@FaStly5.YaShArMoBiLe.cOm:8880?path=
 vless://75fc5d61-7fa6-b39f-9cd3-c1bbd2105c64@45.12.114.87:222?security=none&encryption=none&host=nic.ir&type=ws#⚡️Telegram = @unlimiteddev
 vless://767ea748-8936-425b-b25b-6893ebaa63af@nleuroaccess.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#r♡ya@V2rayBaaz◇⃟💜
 vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@85.133.204.137:42555?security=&encryption=none&host=excoino.com&headerType=http&type=tcp#ConfigV2RayNG
-vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@chatgpt.com:443?mode=auto&path=/cloudapi&security=tls&alpn=h2&encryption=none&insecure=0&host=dashboard.broadcasp.top&fp=chrome&type=xhttp&allowInsecure=0&sni=dashboard.broadcasp.top#⚡Telegram = @SOSkeyNET
-vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#channel : @freedomofinfor
-vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
