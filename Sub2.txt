@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA@45.15.126.19:443#@V2rayAlpha--2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201?type=tcp#⚡Telegram = @SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆⁵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#[84802] - Telegram : @V2All
@@ -503,3 +502,4 @@ vless://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mod
 vless://676ad67f-0983-4689-9047-2f7b5e0ebd3e@tr.sepserver.de:8516?security=reality&encryption=none&pbk=ZU8h4WP4gRNKQozbKJbjZCKIGqh02dbxa5twSmU0djY&headerType=none&fp=chrome&type=tcp&sni=www.stackoverflow.com&sid=bc9ff0d7567cfebb#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️134🌐🆕️
 vless://67b708f0-d007-4e56-b22e-e0d44c8eb73b@metrix.taklady.com:46341?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#channel : @freedomofinfor
 vless://67bad1be-8510-4703-91f2-b566d7213598@mra.evadedefender.com:6969?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#🐧 @Birdsbeak
+vless://6944761b-3635-4508-a79e-0ad9b4393c17@Ipin1.Oldinomi.com:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=RoNan.FairIT.ir&type=ws&allowInsecure=0&sni=RoNan.FairIT.ir#channel : @freedomofinfor
