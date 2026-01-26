@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-
 کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : Germanyvmess://eyJpZCI6ImRlZjUzMjQ2LWU3ZDctNGU3Yy04NDI3LTBkYzU2MDJkM2NiYSIsInBzIjoiaWNlc291cmNlIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBvcnQiOjgwLCJhZGQiOiJqb2luLWJlZGUudm1lc3NvcmcuZnVuIiwiaG9zdCI6IiIsInRscyI6IiIsImFpZCI6IjAiLCJwYXRoIjoiXC8ifQ==⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
 
 
@@ -503,3 +502,4 @@ hysteria2://e3cb685e-7840-45cb-9d64-b2028d9b635e@5.83.150.108:49008/?sni=imafake
 hysteria2://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@5.83.150.108:49008/?sni=imafake.locker&fp=chrome#%E2%9D%8CD%C3%BCsseldorf-GetAFreeNode
 
 
+hysteria2://fa8f8911-2e9b-494e-9a8d-f80239ee2214@5.83.150.108:49008/?sni=imafake.locker&fp=chrome#%E2%9D%8CD%C3%BCsseldorf-GetAFreeNode
