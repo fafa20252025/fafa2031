@@ -1,9 +1,0 @@
-#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMTEg8J+UpQ==
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGYyYmU3YzZlZWYwZWQ2@38.54.29.130:11203#%5B@Amirhossein_Mahboobi%5D%20GR%2012495121
-vless://383e671c-a11d-457d-89f7-830915f005b3@79.133.46.135:443?security=reality&encryption=none&pbk=lGVndU0oZ1Lt9A8dzfXizaMkkmkHlwhRkDcUbTBpc0Q&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.microsoft.com&sid=9693a7#🇩🇪[@Amirhossein_Mahboobi]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1@163.171.213.46:11201#%5B@Amirhossein_Mahboobi%5D%20IL%2012482893```
-vless://71031aa1-067e-425e-97f5-37875f838a10@51.250.42.73:443?security=reality&encryption=none&pbk=l4azftcUwR_aMZbzpUTQN_NbsYCVlnQbMhGdhzcnMws&headerType=&fp=chrome&type=tcp&sni=ads.x5.ru&sid=c2ec7bbfdbbad490#@v2ray_configs_pool
