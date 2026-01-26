@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
-vless://406fd0aa-d08a-4099-a7d1-1549359461de@144.31.212.41:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=4c02bbbfa833b3b6#@vpnbaz
-vless://406fd0aa-d08a-4099-a7d1-1549359461de@144.31.212.41:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=4c02bbbfa833b3b6#r♡ya@V2rayBaaz◇⃟💜
-vless://406fd0aa-d08a-4099-a7d1-1549359461de@144.31.212.41:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=4c02bbbfa833b3b6#🆓25@ConfigV2RayNG
-vless://406fd0aa-d08a-4099-a7d1-1549359461de@144.31.3.213:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=4c02bbbfa833b3b6#🆓22@ConfigV2RayNG
-vless://406fd0aa-d08a-4099-a7d1-1549359461de@144.31.90.146:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=4c02bbbfa833b3b6#🆓18@ConfigV2RayNG
-vless://406fd0aa-d08a-4099-a7d1-1549359461de@144.31.90.147:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=4c02bbbfa833b3b6#🆓11@ConfigV2RayNG
 vless://406fd0aa-d08a-4099-a7d1-1549359461de@84.200.73.227:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=4c02bbbfa833b3b6#r♡ya@V2rayBaaz◇⃟💜
 vless://406fd0aa-d08a-4099-a7d1-1549359461de@85.192.49.49:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=4c02bbbfa833b3b6#🆓23@ConfigV2RayNG
 vless://406fd0aa-d08a-4099-a7d1-1549359461de@85.192.49.56:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=4c02bbbfa833b3b6#🆓19@ConfigV2RayNG
@@ -503,3 +496,10 @@ vless://b6892701-8d5c-4929-b32d-259a32e1bfbd@speedtest.net:80?type=ws&encryption
 vless://b6effac4-2883-47ff-8325-93d0a3d75c22@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#channel : @freedomofinfor
 vless://b9958288-743a-4789-89eb-bd2acd5a5fd4@188.137.183.116:8880?path=/&security=none&encryption=none&type=ws#@V2rayAlpha--6
 vless://b9958288-743a-4789-89eb-bd2acd5a5fd4@188.137.183.116:8880?path=/&security=none&encryption=none&type=ws#IR-@V2rayAlpha--11
+vless://b9b8cf4c-29a3-4288-9c6c-8811dc37beec@188.114.97.11:2087?path=/&security=tls&encryption=none&insecure=1&host=Xlz767V2Ray.PAGEs.DEv&fp=chrome&type=ws&allowInsecure=1&sni=Xlz767V2Ray.PAGEs.DEv#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
+vless://bac867fc-008a-490c-9830-18c4a0cb7aa0@104.18.32.47:443?encryption=none&type=ws&host=Direct.safeconfig.top&path=/&security=tls&fp=chrome&sni=Direct.safeconfig.top&alpn=h2,http/1.1#@WireXnet - ‼️ Emergency
+vless://bb696523-2674-4814-baf0-e1825aa7db89@104.18.32.47:443?encryption=none&security=tls&sni=a.uaesweden.dpdns.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=a.uaesweden.dpdns.org&path=/?ed=2560#@V2RIRAN
+vless://bb9a46b5-8a48-463e-adb7-db3b17329e6e@CDN.TORPROSPEED.IR:2087?path=/&security=tls&encryption=none&insecure=0&host=spd.hostino.fun&type=ws&allowInsecure=0&sni=spd.hostino.fun#[85129] - Telegram : @V2All
+vless://bc32639e-100a-40ad-b064-b0829a0bd197@176.109.109.58:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&host=@v2rayngzendegimamad@v2rayngzendegimamad&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=6419bed7fd0a2cff#@v2rayngzendegimamad🕊️
+vless://bc85bf9c-a5f2-4499-98c9-08c92a1e2686@usdir.team-pluss.com:3449?security=none&encryption=none&headerType=http&type=tcp#@npvt_archive
+vless://bc85bf9c-a5f2-4499-98c9-08c92a1e2686@usdir.team-pluss.com:43157?security=none&encryption=none&headerType=http&type=tcp#@npvt_archive
