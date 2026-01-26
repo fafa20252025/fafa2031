@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
-vless://406fd0aa-d08a-4099-a7d1-1549359461de@144.31.4.0:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=4c02bbbfa833b3b6#📍Telegram = @V2WRAY𓄂𓆃
 vless://406fd0aa-d08a-4099-a7d1-1549359461de@84.200.73.227:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=4c02bbbfa833b3b6#📍Telegram = @V2WRAY𓄂𓆃
 vless://4119ccda-30f0-4db2-b0bf-0e1ea6394915@85.133.204.89:85?security=&encryption=none&headerType=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=tcp#@TEHRANARGO #2
 vless://4119ccda-30f0-4db2-b0bf-0e1ea6394915@85.133.204.89:85?security=none&encryption=none&headerType=none&type=tcp#تلگرام سرچ کن: یام‌یام پروکسی | YamYamProxy
@@ -503,3 +501,5 @@ vless://c38e6142-9223-47ef-84ce-2a84a308cafb@78.159.131.23:443?encryption=none&f
 vless://c38e6142-9223-47ef-84ce-2a84a308cafb@78.159.131.23:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=b0207954e822d0e4#@filembad
 vless://c47726d4-ceb9-4328-8c90-ae5b5054b235@REC.BRWAKHANBARIN.IR:443?allowInsecure=0&alpn=h2,http/1.1&encryption=none&fp=chrome&host=cdn.brwakhanbarin.ir&insecure=0&path=/?ed=2560&security=tls&sni=cdn.brwakhanbarin.ir&type=ws#⚡Telegram = @SOSkeyNET
 vless://c47726d4-ceb9-4328-8c90-ae5b5054b235@REC.BRWAKHANBARIN.IR:443?path=/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cdn.brwakhanbarin.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.brwakhanbarin.ir#
+vless://c47726d4-ceb9-4328-8c90-ae5b5054b235@REC.BRWAKHANBARIN.IR:443?path=/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cdn.brwakhanbarin.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.brwakhanbarin.ir#📍Telegram = @V2WRAY𓄂𓆃
+vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.6.178:444?encryption=none&type=grpc&mode=gun&serviceName=ads.x5.ru&security=reality&sni=ads.x5.ru&pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&sid=0614386789abcdef&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇷🇺@EVAY_VPN
