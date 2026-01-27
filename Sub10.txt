@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8e997404-cb62-4fa1-a8c9-c77a32f10153@www.speedtest.net:8880/?type=ws&encryption=none&flow=&host=rightel.IRANCEELL.mci.it.www.speedtest.net.zula.ir.focusontrade.ir&path=%2F%3Fed%3D8880#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://8e997404-cb62-4fa1-a8c9-c77a32f10153@25.25.25.0:8880/?type=ws&encryption=none&flow=&host=rightel.IRANCEELL.mci.it.www.speedtest.net.zula.ir.focusontrade.ir&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://8e417cc4-e6a1-4d00-e8a7-b9a638eda574@172.64.152.23:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=tt.iranesf031.top#%3E%3E%40prrofile_purple%3A%3ADE
 vless://95a9d042-8efb-4d8d-9bf3-cbd787338a2e@dm.gomarts.space:80?mode=auto&path=%2F&security=&encryption=none&host=speedup.global.ssl.fastly.net&type=xhttp#%3E%3E%40configV2rayNG%3A%3AXX
 vless://97458ace-6d8e-4c88-b6d1-47829dc88d89@188.114.98.0:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdn.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=cdn.adobe-connect.top#%3E%3E%40prrofile_purple%3A%3ANL
@@ -501,5 +503,3 @@ vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJp
 vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiYzUwZjk0ODAtMmUxZC00MGRiLTk0NTgtNjMwZTc5NjM2NjYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI0ODM0LCJwcyI6IuKdjExvbmRvbi1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
 
 vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiYzZlMDU2MmYtN2FkMS00MGZiLWEyNTUtMjYxOTRiMmRlODRhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI0ODM0LCJwcyI6IuKdjExvbmRvbi1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
-
-vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiZDBlOTdlZTItYzZkZS00OGY4LWJkNGEtOGU2M2E5Y2Q5ZTg5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI0ODM0LCJwcyI6IuKdjExvbmRvbi1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
