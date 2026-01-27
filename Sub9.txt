@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-
 ✅ مناسب وب گردیvless://edddb2ac-f347-41f8-b158-6c263b3058d8@web.biatochannelv271g.shop:2083?encryption=none&security=tls&sni=web.biatochannelv271g.shop&type=grpc&serviceName=A&mode=gun#%40RIP_VPN╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
 
 
@@ -503,3 +502,4 @@ vless://9e25693f-a2a4-4c54-a6d0-3eb9ed4fbf99@exclavevirtualvless.alirexaxulst.wo
 vless://9b378369-6383-48d1-97ff-102f33c88de4@mad.adaspolo.lat:2724?security=reality&encryption=none&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=wordpress.org#%3E%3E%40v2nodes%3A%3AXX
 vless://a26bbed7-a286-4840-84bc-dc102c526777@python.org:80?mode=auto&path=%2Fcategory%2Fmusic&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#%3E%3E%40prrofile_purple%3A%3AXX
 vless://9ec33591-f90d-497b-8a27-70282a5d6c4c@151.101.25.242:80/?type=ws&encryption=none&flow=&host=mouwshali.global.ssl.fastly.net&path=%2Fsite#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://a1eba9ee-4f2d-4013-b16f-ef7f5198d2f1@fastly.com:80?security=&encryption=none&host=ClaWop.com&type=ws#%3E%3E%40v2rayng_fast%3A%3AXX

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a1eba9ee-4f2d-4013-b16f-ef7f5198d2f1@fastly.com:80?security=&encryption=none&host=ClaWop.com&type=ws#%3E%3E%40v2rayng_fast%3A%3AXX
 vless://9b7d6f8c-1924-4a40-8681-1986b7ee1c4a@Godhelpme.ydns.eu:80?mode=auto&path=%2F&security=&encryption=none&host=Godhelpme.b-cdn.net&type=xhttp#%3E%3E%40vmessorg%3A%3ANL
 vless://9f700224-854f-4d5b-be23-ff1b24ff9377@104.16.66.133:2096/?type=ws&encryption=none&flow=&host=www.pjw5.top&path=%2F%3Fed%3D2560&security=tls&sni=www.pjw5.top&allowInsecure=1&fp=random#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a49f214f-9460-44cf-bcc4-08fda8a3f3de@104.18.43.4:443/?type=ws&encryption=none&flow=&host=fancy-disk-3455.v2raytv20.workers.dev&path=%2F&security=tls&sni=fancy-disk-3455.v2raytv20.workers.dev&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -503,3 +502,4 @@ vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJp
 vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiZjFhNTEzZDItYzMyYS00OWRjLThlNjQtZDRmOGEyZjFlMDAxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQ1NjUzLCJwcyI6IuKdjExvbmRvbi1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
 
 vmess://eyJhZGQiOiIxODUuOTAuNjIuMjUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsImlkIjoiZmE4Zjg5MTEtMmU5Yi00OTRlLTlhOGQtZjgwMjM5ZWUyMjE0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjQ1NjUzLCJwcyI6IuKdjExvbmRvbi1HZXRBRnJlZU5vZGUiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
+vmess://ewogICAgImFkZCI6ICI0NS4xMzYuMjQ0LjE4MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYTI1ODgxZjMtOTY3Zi0zMjY1LWJjN2YtOWU2Njg1N2IwMTZiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2ZyLXVubGltaXR4eHgiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e38J+HulJVLTQ1LjEzNi4yNDQuMTgxLTAwMDAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
