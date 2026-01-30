@@ -278,7 +278,6 @@ ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#%F0%9F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#US
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%99
 trojan://c1d83c0c7d57cead4379ba14a82df69b@153.121.38.213:3901?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%40vpnbaz%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQHByb3h5X2thZmVl8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&type=raw&headertype=none#[
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#%F0%9F%92%A76%40oneclickvpnkeys
@@ -503,3 +502,4 @@ trojan://91658@104.16.119.133:2053?path=/trUNwJhS16OCh26qrm/dHMuaHBjLnR3?ed=2560
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#香港
 trojan://BxceQaOe@58.152.30.31:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#🇭🇰TM (@AZARBAYJAB1)
 trojan://Iisy37ABxOJ8Ha_cb5fpXKkm-WSFV@209.250.224.246:24293?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=🔒 [By DukeMehdi]#🆔12@ConfigV2RayNG
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=/tjwsLhx0SFASG4l9FERJ1g&security=tls&insecure=1&host=mfyousheng.nl.eu.org&type=ws&allowInsecure=1&sni=mfyousheng.nl.eu.org#@meliproxyy
