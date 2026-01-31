@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://Iisy37ABxOJ8Ha_cb5fpXKkm-WSFV@209.250.224.246:24293?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=🔒 [By DukeMehdi]#🆔12@ConfigV2RayNG
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=/tjwsLhx0SFASG4l9FERJ1g&security=tls&insecure=1&host=mfyousheng.nl.eu.org&type=ws&allowInsecure=1&sni=mfyousheng.nl.eu.org#@meliproxyy
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=/tjwsLhx0SFASG4l9FERJ1g&security=tls&insecure=1&host=mfyousheng.nl.eu.org&type=ws&allowInsecure=1&sni=mfyousheng.nl.eu.org#Wifi-@V2rayAlpha--1
 trojan://Zy6DXTCxtR@sama.asukasimp.com:2087?mode=packet-up&path=/&security=tls&host=sni1.feydooomain.ir&fp=chrome&type=xhttp&sni=sni1.feydooomain.ir#‌Telegram-𝗝𝗼𝗶𝗻 ➠ @ConnectBemon | کانکت بمون﻿
@@ -502,4 +503,3 @@ vless://47683d6b-4137-454c-b7fa-665065ec71a6@asia.w3bschool.ir:2033?security=&en
 vless://47683d6b-4137-454c-b7fa-665065ec71a6@asia.w3bschool.ir:2033?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@PRS_MLBB
 vless://47683d6b-4137-454c-b7fa-665065ec71a6@asia.w3bschool.ir:2033?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@meliproxyy
 vless://47683d6b-4137-454c-b7fa-665065ec71a6@asia.w3bschool.ir:2033?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#Config 2 - @lebertad
-vless://47683d6b-4137-454c-b7fa-665065ec71a6@asia.w3bschool.ir:2033?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
