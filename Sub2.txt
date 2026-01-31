@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&allowinsecure=0&type=ws&sni=www.gossipglove.com#@meliproxyy
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&allowinsecure=0&type=ws&sni=www.gossipglove.com#⚡Telegram = @SOSkeyNET
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#MCI-@V2rayAlpha--17
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#⚡Telegram = @prrofile_purple
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#⚡Telegram = @SOSkeyNET
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#⚡Telegram = @prrofile_purple
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#channel : @freedomofinfor
@@ -499,7 +503,3 @@ vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80?path=/?ed=#TELEGRAM-M
 vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80?path=/?ed=#TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy?ed=2560&security=none&encryption=none&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&type=ws#@YamYamProxy 🇳🇱
 vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80?path=/?ed=512&security=none&encryption=none&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&type=ws#@vpnbaz 🎨
 vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80?path=/?ed=512&security=none&encryption=none&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&type=ws#ConfigV2RayNG
-vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80?path=/?ed=512&security=none&encryption=none&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&type=ws#MCI-@V2rayAlpha--7
-vless://5549bd71-99dd-436d-abf9-d2f6e5c1a84b@ercf-ma.rainzone.site:8880?path=/?ed=2080&security=&encryption=none&host=16dde4ec3497f89c.rainzone.site&type=httpupgrade#channel : @freedomofinfor
-vless://55d3027e-2449-40a6-9902-780b2586f798@two.nothingnewtodo.online:25770?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#‌Telegram-𝗝𝗼𝗶𝗻 ➠ @ConnectBemon | کانکت بمون﻿
-vless://563709ea-3663-4f86-b413-5299897659a5@sourceforge.net:2053?type=ws&path=/telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----9KsgRW1AnYtwZOVz&host=laj.iranianmobail.ir&security=tls&fp=chrome&alpn=h2&allowInsecure=1&sni=laj.iranianmobail.ir#@alo_v2rayng با کانفیگ رایگان اینستا نرو آی پی ثابت نیس دیسیبل میشه پیجت
