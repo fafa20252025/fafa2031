@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://96668f45-5f36-4687-96f3-398afd57f763@freeiran-opiran-3.shaygan.site:8080?path=/&security=none&encryption=none&type=ws&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+vless://96863176-edbb-47dd-9b56-1d4582a6f9c0@v2.dabache.top:8443?path=/hshsHhdsgj54645sgsSdc&security=tls&encryption=none&host=ir.irannet.shop&fp=chrome&type=ws&sni=ir.irannet.shop#@v2rays_ha 5867
+vless://96863176-edbb-47dd-9b56-1d4582a6f9c0@v2.dabache.top:8443?path=/hshsHhdsgj54645sgsSdc&security=tls&encryption=none&insecure=0&host=ir.irannet.shop&fp=chrome&type=ws&allowInsecure=0&sni=ir.irannet.shop#@meliproxyy
 vless://96863176-edbb-47dd-9b56-1d4582a6f9c0@v2.dabache.top:8443?path=/hshsHhdsgj54645sgsSdc&security=tls&encryption=none&insecure=0&host=ir.irannet.shop&fp=chrome&type=ws&allowInsecure=0&sni=ir.irannet.shop#@v2rays_ha 5911
 vless://96863176-edbb-47dd-9b56-1d4582a6f9c0@v2.dabache.top:8443?path=/hshsHhdsgj54645sgsSdc&security=tls&encryption=none&insecure=0&host=ir.irannet.shop&fp=chrome&type=ws&allowInsecure=0&sni=ir.irannet.shop#Irancell-@V2rayAlpha--7
 vless://96863176-edbb-47dd-9b56-1d4582a6f9c0@v2.dabache.top:8443?path=/hshsHhdsgj54645sgsSdc&security=tls&encryption=none&insecure=1&host=ir.irannet.shop&fp=chrome&type=ws&allowInsecure=1&sni=ir.irannet.shop#🤖57@ConfigV2RayNG
@@ -500,6 +503,3 @@ vless://f1097fdb-e664-42b9-82a0-a5e38f7f43e0@18.153.158.159:1032?path=/iran&secu
 vless://f1097fdb-e664-42b9-82a0-a5e38f7f43e0@18.153.158.159:1032?path=/iran&security=none&encryption=none&host=g3.netsep2.de&type=ws#Telegram:@config_proxy 🔥
 vless://f1097fdb-e664-42b9-82a0-a5e38f7f43e0@18.153.158.159:1032?path=/iran&security=none&encryption=none&host=g3.netsep2.de&type=ws#⚡Telegram = @SOSkeyNET
 vless://f1097fdb-e664-42b9-82a0-a5e38f7f43e0@188.0.247.17:8017?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
-vless://f1097fdb-e664-42b9-82a0-a5e38f7f43e0@188.0.247.17:8017?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#🇫🇷@SimChin_iR جوین شید
-vless://f1097fdb-e664-42b9-82a0-a5e38f7f43e0@3.99.143.108:5017?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
-vless://f1097fdb-e664-42b9-82a0-a5e38f7f43e0@3.99.143.108:5017?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
