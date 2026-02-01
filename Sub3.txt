@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇸🇬 新加坡
 trojan://d8752b56-31fa-4fec-8694-b7163212204a@xiaozhu1.kkieo555.cn:41273?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#@v2rays_ha 5939
 trojan://d8752b56-31fa-4fec-8694-b7163212204a@xiaozhu1.kkieo555.cn:41273?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#Telegram:@config_proxy 💦
 trojan://e2722c0fb503f8a592436c12bce0509a@112.118.116.8:443?security=tls&insecure=0&host=TM-AZARBAYJAB1.vip.ne.net&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#🇭🇰TM (@AZARBAYJAB1) Trojan-server
@@ -503,3 +502,4 @@ vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjo
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=abasbijan2560&security=tls&encryption=none&insecure=1&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=1&sni=pages.dev#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey ★
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=abasbijan2560&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#@icv2ray
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&fp=chrome&type=ws&sni=pages.dev#جوین شید قط نشید @shankamil
+vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=pages.dev#r♡ya@V2rayBaaz◇⃟💜
