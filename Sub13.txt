@@ -5,9 +5,6 @@
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
 
-‌  🗿 🗿 🗿  vmess://eyJhZGQiOiJpcmMuZXFqZ2t4Lnh5eiIsImFpZCI6IjAiLCJob3N0IjoiZm94bmltLmZveG5pbS53b3JrZXJzLmRldiIsImlkIjoiQzc3MTkyMTItRTFEQy00N0Y1LThBMEMtMjgwQTNGMzdENzM2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdC9BdGxhbnRhLnYycmF5Lm9ubGluZSIsInBvcnQiOiI0NDMiLCJwcyI6IkBiZXRhX3Byb3h5Iiwic2N5IjoiYXV0byIsInNuaSI6ImZveG5pbS5mb3huaW0ud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==📂 آموزش استفاده از کانفیگ ها 📱🍎 #همه_اپراتورها• More: @Proxy_Beta 🗿
-
-
 ‌  🗿 🗿 🗿  Irancell:vmess://eyJhZGQiOiJncnBjLmZyZWVuZXQuc2JzIiwiYWlkIjoiMCIsImhvc3QiOiJibWkuaXIiLCJpZCI6IjZhNzQ0NDZhLWQzNjQtNGM4MC05YWE0LWNkNGYxNDM3ZDlkMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjU4ODciLCJwcyI6IkBwcm94eV9iZXRhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==📂 آموزش استفاده از کانفیگ ها 📱🍎• More: @beta_v2ray 🗿
 
 
@@ -503,3 +500,6 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.155:23576/?type=tcp&encry
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.164:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.154:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.149:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.167:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.168:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.175:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AUS
