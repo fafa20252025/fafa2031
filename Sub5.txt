@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@gody.xrayshop.store:54230?security=none&encryption=none&host=tamin.ir&headerType=http&type=tcp#GD 2 @Outline_Vpn
-vless://4f20add8-5578-4251-ad7d-1df956286091@140.248.159.164:80?encryption=none&security=none&type=ws&host=miltering.global.ssl.fastly.net&path=/download#Telegram:@config_proxy 🔥
-vless://4fc97f92-d43e-44c5-8427-1e0ea708ef56@37.202.226.200:703?path=/&security=none&encryption=none&host=digikala.com&type=ws#@filembad
 vless://4fe214fb-048e-431f-b939-4518dc9df6a2@109.172.101.234:443?security=reality&encryption=none&pbk=5JkeRhrvxxdW7Y-jJNnvMUZ6W37yWegXl4-Ea-zl9BU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=89bee0f1e450d3cf#W3 JOIN @Outline_Vpn
 vless://5073081a-a4a6-46e6-a3f5-ff6bb0bbdfab@104.17.163.123:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=4f009rpo6n.zjde5.de5.net&fp=chrome&type=ws&sni=4f009rpo6n.zjde5.de5.net#WZ 5 @Outline_Vpn
 vless://5073081a-a4a6-46e6-a3f5-ff6bb0bbdfab@104.17.163.123:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=4f009rpo6n.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=4f009rpo6n.zjde5.de5.net#@i10VPN 🚀| با ما متصل بمون⚡
@@ -503,3 +500,6 @@ vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.17.162.123:8443?security=tls&al
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?encryption=none&security=tls&sni=r4fnviw9jl4i4rx.zjde5.de5.net&alpn=http/1.1&fp=chrome&type=ws&host=r4fnviw9jl4i4rx.zjde5.de5.net&path=/#🔥 Telegram: @wiki_tajrobe
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?encryption=none&security=tls&sni=r4fnviw9jl4i4rx.zjde5.de5.net&alpn=http/1.1&fp=chrome&type=ws&host=r4fnviw9jl4i4rx.zjde5.de5.net&path=/XIXVPN?ed#🔥 Telegram: @wiki_tajrobe
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/@OnNetX&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=r4fnviw9jl4i4rx.zjde5.de5.net#@OnNetX جوین شو
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#@CUSTOMVPNSERVER
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#VayNora
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#⚡Telegram =@CUSTOMVPNSERVER
