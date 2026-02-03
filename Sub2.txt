@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&encryption=none&headerType=none&type=tcp#@meli_proxyy
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#[
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&sni=147135001195.sec22org.com&type=tcp&fp=chrome#[
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#[
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#@meli_proxyy
@@ -503,3 +500,6 @@ vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@db.moviesdb.ir:9828?security=none&e
 vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@db.moviesdb.ir:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@meliproxyy
 vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@db.moviesdb.ir:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#shankamil
 vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@db.moviesdb.ir:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#⚡Telegram = @prrofile_purple
+vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@db.moviesdb.ir:9828?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=pro30afzar.com&headerType=http&type=tcp#@icv2ray
+vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@dojman.global.ssl.fastly.net:443?path=/containers/fi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=dojman.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=dojman.global.ssl.fastly.net#ConfigV2RayNG
+vless://02263e1e-10d9-4340-a6f1-fe8a4dbe5dff@dojman.global.ssl.fastly.net:443?path=/containers/fi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=dojman.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=dojman.global.ssl.fastly.net#⚡Telegram = @prrofile_purple
