@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://68c6ab89-6926-4637-b352-93e35805485f@sv2n.tsteamzd.top:10002?security=none&allowInsecure=0&encryption=none&type=tcp&host=zarebin.ir&path=/&headerType=http#⚡️⚡️
 vless://68c6ab89-6926-4637-b352-93e35805485f@sv2n.tsteamzd.top:10002?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#[92125] - Telegram : @V2All
 vless://68c6ab89-6926-4637-b352-93e35805485f@sv2n.tsteamzd.top:10002?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
 vless://68c6ab89-6926-4637-b352-93e35805485f@sv2n.tsteamzd.top:10002?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#💗 @Bluefilter_org | 👈 تلگراممون
@@ -503,3 +502,4 @@ vless://979b6822-d65a-400d-89f8-30391903ac20@chatgpt.com:443?path=/ws&security=t
 vless://979b6822-d65a-400d-89f8-30391903ac20@chatgpt.com:443?path=/ws&security=tls&encryption=none&insecure=1&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&allowInsecure=1&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg#🖤𝒄𝒉𝒂𝒏𝒏𝒆𝒍 👉@Kia_Net🖤
 vless://9814fddd-c97d-4f62-8af2-0639d708b2d9@104.18.32.47:443?path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=focalin.adaspolo2.store&fp=chrome&type=ws&allowInsecure=0&sni=focalin.adaspolo2.store#channel : @freedomofinfor
 vless://986bf51d-66e1-4ff4-9562-aca2cb0aacf4@nun.generalireon.com:80?mode=auto&path=/?ed=80&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=speedtest.net.3.fast.hard.detailofude.io&type=xhttp#@OnNetX جوین شو
+vless://98f8fe81-a186-4623-89cf-1773322aea76@germany.premiumiran.top:9494?type=tcp&encryption=none&path=/&host=divarcdn.com&headerType=http&security=none#Config 3 - @lebertad
