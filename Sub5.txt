@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5a945214-cff9-46a9-b9dc-28a124a7dfea@85.133.228.105:10388?security=none&encryption=none&host=speedtest.com&headerType=http&type=tcp#Config 1 - @lebertad
 vless://5afbca1a-910a-4021-b6f9-b5be5fc4202b@zarin8i.alireza031.pw:50666?path=/ZARIN8&security=none&encryption=none&host=5z63d.divarcdn.com,S4Iqe.snappfood.ir,paF02.yjc.ir,vlUS4.digikala.com,E6NSK.tic.ir&type=ws#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️201🌐🆕️
 vless://5afbca1a-910a-4021-b6f9-b5be5fc4202b@zarin8i.alireza031.pw:50666?path=/ZARIN8&security=none&encryption=none&host=5z63d.divarcdn.com,S4Iqe.snappfood.ir,paF02.yjc.ir,vlUS4.digikala.com,E6NSK.tic.ir&type=ws#⚡Telegram = @prrofile_purple
 vless://5bd63f16-94df-4c3e-b98f-fc75754b7a26@afrcloud5.c01.kr:443?path=/213.35.100.31=47112&security=tls&encryption=none&host=afrcloud5.c01.kr&fp=chrome&type=ws&sni=afrcloud5.c01.kr#⚡︎ 𓏺 کا
@@ -503,3 +502,4 @@ vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/?ed=2
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/@CoOoW&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#@CooOw جوین شو
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/Fergal&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#telegram : @FergalVpnMod
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/Telegram@V2rayAlpha/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#IR-@V2rayAlpha-5
+vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/Telegram@V2rayAlpha/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#🇬🇧@FreakConfig
