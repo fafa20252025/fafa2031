@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://07b57728-2aa1-43ae-8541-e2d779058899@cfcdn.zopli.ir:443?path=/GaMeOpTiMiZeR?ed=2015&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=sheraderrr.blackandwhiteshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=sheraderrr.blackandwhiteshop.ir#Telegram:@config_proxy 🔥
 vless://07ee34e6-d847-458e-9cc1-b7a64f4c7600@jak.usertak.com:2053?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#VayNora
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.130.42:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
@@ -503,3 +502,4 @@ vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjo
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=abasbijan2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#@V2RAY_VMESS_free mci
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=abasbijan2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#@bored_vpn
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=abasbijan2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#@vpnbaz 🫟
+vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=abasbijan2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#Telegram:@meowvip1 *157*
