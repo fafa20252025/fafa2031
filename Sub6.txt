@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8196d16d-855b-42bc-80f4-b5db138c5572@172.64.152.23:443?mode=auto&path=/randomibash043&security=tls&encryption=none&fp=chrome&type=xhttp&sni=test2.testrobot.site#🎖@v2ray_configs_pools
 vless://8196d16d-855b-42bc-80f4-b5db138c5572@172.64.152.23:443?mode=auto&path=/randomibash043&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=test2.testrobot.site#@V2RAY_VMESS_free
 vless://8196d16d-855b-42bc-80f4-b5db138c5572@172.64.152.23:443?mode=auto&path=/randomibash043&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=test2.testrobot.site#@vpnbaz
 vless://81bb13f9-65d4-4727-94d7-4ccbd0fce6ce@104.17.204.222:443?path=/SoSkgkz0waFluFgCfmwvO8&security=tls&alpn=http/1.1&encryption=none&host=mohammadsharifi.biamooz-group.ir&fp=chrome&type=httpupgrade&sni=mohammadsharifi.biamooz-group.ir#@appsooner کانال تلگرام 🕊️
@@ -503,3 +502,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.71:443?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.98:443?security=tls&sni=kkh.ylks.link&type=ws&path=/#@Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.8.186.188:443?security=tls&sni=zdyg.kpcloud.eu.org&type=ws&host=zdyg.kpcloud.eu.org#@Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.8.186.188:443?security=tls&sni=zdyg.kpcloud.eu.org&type=ws&host=zdyg.kpcloud.eu.org#🔥Join+Telegram:@Farah_VPN🟣
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.180.51:2053?security=tls&sni=kkh.ylks.link&type=ws&path=/blue#🔥Join+Telegram:@Farah_VPN🟣
