@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://telegram-id-privatevpns@3.67.73.0:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#VayNora
-trojan://telegram-id-privatevpns@3.68.152.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@3.76.176.201:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#⚡Telegram = @SOSkeyNET
-trojan://telegram-id-privatevpns@3.76.176.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@3.77.143.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@3.77.16.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.17.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.222.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.252.120:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#⚡Telegram = @SOSkeyNET
@@ -503,3 +497,9 @@ vless://32ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?mode=auto&path=/&
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?allowInsecure=0&encryption=none&fp=chrome&host=o00o.snip.qzz.io&insecure=0&path=/Tel-@V2rayAlpha&security=tls&sni=o00o.snip.qzz.io&type=ws#⚡Telegram = @SOSkeyNET
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#@filembad
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#@meliproxyy
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#Mci-@V2rayAlpha-12
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#⚡Telegram = @prrofile_purple
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=/Tel-@V2rayAlpha&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#@icv2ray
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&host=o00o.snip.qzz.io&type=ws&sni=o00o.snip.qzz.io#@meliproxyy
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=1&host=o00o.snip.qzz.io&type=ws&allowInsecure=1&sni=o00o.snip.qzz.io#MCI-@V2rayAlpha-7
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#Telegram:@meowvip1 *167*
