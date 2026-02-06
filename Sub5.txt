@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5203102c-be94-4a73-b165-f19ce3cc2474@45.130.125.160:8443?security=tls&alpn=h2,http/1.1&encryption=none&host=cloud.vip-morteza.xyz&fp=chrome&type=ws&sni=cloud.vip-morteza.xyz#@meliproxyy
-vless://5203102c-be94-4a73-b165-f19ce3cc2474@45.130.125.160:8443?security=tls&alpn=h2,http/1.1&encryption=none&host=cloud.vip-morteza.xyz&fp=chrome&type=ws&sni=cloud.vip-morteza.xyz#shankamil
-vless://5203102c-be94-4a73-b165-f19ce3cc2474@45.130.125.160:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cloud.vip-morteza.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cloud.vip-morteza.xyz#telegram @mtmvpn 4
-vless://52105bd0-7311-4b32-b182-49fb177e7ca0@neth.adrtun.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=QhXuk2LaUi_RLpFO_o7pDTOiiNftAYFnGPK17ZLVBHE&sid=84ba23f147ad7a15#☢️22@oneclickvpnkeys
-vless://52105bd0-7311-4b32-b182-49fb177e7ca0@nor.adr-cloud.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gkNA2YmF1fOt5pz1H-STfqkqLVXtpzFadhxoAi0hmxc&sid=12af42a918ad5b45#[95215] - Telegram : @V2All
 vless://52105bd0-7311-4b32-b182-49fb177e7ca0@nor.adr-cloud.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gkNA2YmF1fOt5pz1H-STfqkqLVXtpzFadhxoAi0hmxc&sid=12af42a918ad5b45#☢️34@oneclickvpnkeys
 vless://52105bd0-7311-4b32-b182-49fb177e7ca0@nor.adr-cloud.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gkNA2YmF1fOt5pz1H-STfqkqLVXtpzFadhxoAi0hmxc&sid=12af42a918ad5b45#☢️34@proxy_kafee
 vless://52105bd0-7311-4b32-b182-49fb177e7ca0@nor.adr-cloud.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gkNA2YmF1fOt5pz1H-STfqkqLVXtpzFadhxoAi0hmxc&sid=12af42a918ad5b45#☢️34@v2ray_configs_pools
@@ -503,3 +498,8 @@ vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.24.248.85:80?encryption=none&se
 vless://7ff2067c-3706-4a9b-9820-4b6cba3b935c@188.212.96.232:23333?security=none&type=tcp&host=ponisha.ir&headerType=http#@Hope_Net-join-us-on-Telegram
 vless://7ff4985a-a5a6-4107-83d3-921f5bd5b371@FR.maf-rehbos.ir:6663/?security=&encryption=none&headerType=http&type=tcp#@v2rays_ha 6982
 vless://7ff4985a-a5a6-4107-83d3-921f5bd5b371@cxh1.azangooo.ir:2096/?encryption=none&security=tls&sni=Cxh.liZoillubrIcant.ir&fp=chrome&alpn=h3&insecure=0&allowInsecure=0&type=xhttp&host=cxh.lizoillubricant.ir&path=/cpxh1&mode=packet-up#@v2rays_ha 6979
+vless://7ff4985a-a5a6-4107-83d3-921f5bd5b371@cxh1.azangooo.ir:2096/?mode=packet-up&path=/cpxh1&security=tls&alpn=h3&encryption=none&host=cxh.lizoillubricant.ir&fp=chrome&type=xhttp&sni=Cxh.liZoillubrIcant.ir#@v2rays_ha 6964
+vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=/&security=tls&encryption=none&host=edc32e3b.bpb-panel-en-87s.pages.dev&fp=chrome&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#@V2rayNG3
+vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch: @pPal03🤖جوین بدید🤖
+vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560&note=@freeOnlineVPN#🇺🇸 - US - @freeOnlineVPN
+vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch: @pPal03🤖جوین بدید🤖
