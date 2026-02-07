@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=manforce.serviceprom.us.ci&type=xhttp#اگه میخوای قطع نشی جوین شو : @canfingV2rayNG
+vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=menpack.serviceprom.us.ci&type=xhttp#⌞ canfingV2rayNG لوکیشن آلمان💎 🇩🇪 ⌟
 vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=none&encryption=none&host=menpack.serviceprom.us.ci&type=xhttp#Telegram:@config_proxy 💦
 vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=none&encryption=none&host=menpack.serviceprom.us.ci&type=xhttp#⚡Telegram = @prrofile_purple
 vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=none&encryption=none&host=menpack.serviceprom.us.ci&type=xhttp#𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: 『@ConfigV2RayNG』
@@ -501,5 +503,3 @@ vless://c1672132-c4b9-4aa8-8543-fd5ac4630e15@f1.springpaatogh8.store:2053?path=/
 vless://c1672132-c4b9-4aa8-8543-fd5ac4630e15@f1.springpaatogh8.store:8443?path=/?ed=2560&security=tls&encryption=none&host=digikala.sorza.ir&type=ws&sni=digikala.sorza.ir#⚡Telegram = @SOSkeyNET
 vless://c1672132-c4b9-4aa8-8543-fd5ac4630e15@f1.springpaatogh8.store:8443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=digikala.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#⚡Telegram = @prrofile_purple
 vless://c1bbc714-c653-4352-9890-15a3b9355d39@download.musicdownlodirani7.com:53196?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=none&encryption=none&headerType=none&type=tcp#@V2ynpv : تلگرام
-vless://c211a0b7-6e2f-444d-9f82-07bf1b22038c@nzr.parogamers.com:2086?security=none&encryption=none&headerType=none&type=tcp#ConfigV2RayNG 🇩🇪
-vless://c243a123-c6ca-4115-a955-3ddce53e257d@162.159.152.4:443?path=/188.132.192.194=2053&security=tls&encryption=none&insecure=0&host=fuchsia.qzz.io&type=ws&allowInsecure=0&sni=fuchsia.qzz.io#channel : @freedomofinfor
