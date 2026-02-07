@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://68c89f56-3a15-46f2-9901-8c00a2546b97@172.64.144.74:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=rukawa.pages.dev&type=ws&allowInsecure=0&sni=rukawa.pages.dev#N/A-@V2rayAlpha-9
-vless://68c89f56-3a15-46f2-9901-8c00a2546b97@creativecommons.org:443?path=/Telegram@@v2rayngzendegimamad/?ed=2048&security=tls&encryption=none&insecure=0&host=rukawa.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=rukawa.pages.dev#@v2rayngzendegimamad🕊️
-vless://68c89f56-3a15-46f2-9901-8c00a2546b97@creativecommons.org:443?path=/Telegram@V2rayAlpha/?ed=2048&security=tls&encryption=none&insecure=0&host=rukawa.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=rukawa.pages.dev#Mci-@V2rayAlpha-4
-vless://6944761b-3635-4508-a79e-0ad9b4393c17@Ipin1.Oldinomi.com:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=RoNan.FairIT.ir&type=ws&allowInsecure=0&sni=RoNan.FairIT.ir#channel : @freedomofinfor
-vless://6955f08d-aa56-427d-aad1-c0bc2c9b1ede@fstser.glovesstore1.ir:80?encryption=none&type=xhttp&mode=auto&host=ayaarv.global.ssl.fastly.net&path=/?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪@EVAY_VPN | منبع ضد اختلال
-vless://6975abc0-1bf8-4fb7-ae1b-dad520c1bbdc@subseventeen3.iranfreemarz.com:2004/?security=none&encryption=none&host=arvan.ir&headerType=http&type=tcp#@v2rays_ha 7244
-vless://697a470b-08de-47e7-9b3f-38c315cd6605@cd2.reata.ir:2053?security=tls&encryption=none&host=api9.diiginet.ir&fp=chrome&type=ws&sni=api9.diiginet.ir#@PRS_MLBB
 vless://69c0d78f-f866-4f54-a923-d5f212d1b2c4@M1.FASTSPEEDS.IR:2083?mode=multi&security=tls&encryption=none&authority=Shifo.digishopcenter.ir&type=grpc&serviceName=Love&sni=Shifo.digishopcenter.ir#⚡Telegram = @SOSkeyNET
 vless://6a0ec271-ed4a-45c9-99f3-2e0e6ca641cd@blue99shop.ir:28829?path=/&security=none&encryption=none&host=speedtest.net&type=httpupgrade#Germany vip 🇩🇪 Telgram: @Sobi_vpn
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@172.64.152.23:443?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#channel : @freedomofinfor
@@ -503,3 +496,10 @@ vless://94b0cde3-a305-4d89-a192-575339220c7f@104.24.91.178:80?encryption=none&se
 vless://94eb09c9-f443-48ff-913c-f3c88120c312@91.216.159.215:710?security=none&encryption=none&host=gharar.ir&headerType=http&type=tcp#نیم بها 🔥 ConfigV2RayNG@
 vless://94eb09c9-f443-48ff-913c-f3c88120c312@91.216.159.216:710?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#🇫🇮 𓏺 @ConfigV2RayNG
 vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80/?mode=auto&path=/&security=none&encryption=none&host=menpack.serviceprom.us.ci&type=xhttp#@v2rays_ha 7217
+vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=manforce.serviceprom.us.ci&type=xhttp#اگه میخوای قطع نشی جوین شو : @canfingV2rayNG
+vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=menpack.serviceprom.us.ci&type=xhttp#⌞ canfingV2rayNG لوکیشن آلمان💎 🇩🇪 ⌟
+vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=none&encryption=none&host=menpack.serviceprom.us.ci&type=xhttp#Telegram:@config_proxy 💦
+vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=none&encryption=none&host=menpack.serviceprom.us.ci&type=xhttp#⚡Telegram = @prrofile_purple
+vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=none&encryption=none&host=menpack.serviceprom.us.ci&type=xhttp#𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: 『@ConfigV2RayNG』
+vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=none&encryption=none&host=menpack.serviceprom.us.ci&type=xhttp#🟡669 @PRS_MLBB (ملی شکن)
+vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/&mode=auto#Telegram:@config_proxy 💦

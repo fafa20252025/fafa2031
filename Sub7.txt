@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=manforce.serviceprom.us.ci&type=xhttp#اگه میخوای قطع نشی جوین شو : @canfingV2rayNG
-vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=menpack.serviceprom.us.ci&type=xhttp#⌞ canfingV2rayNG لوکیشن آلمان💎 🇩🇪 ⌟
-vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=none&encryption=none&host=menpack.serviceprom.us.ci&type=xhttp#Telegram:@config_proxy 💦
-vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=none&encryption=none&host=menpack.serviceprom.us.ci&type=xhttp#⚡Telegram = @prrofile_purple
-vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=none&encryption=none&host=menpack.serviceprom.us.ci&type=xhttp#𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: 『@ConfigV2RayNG』
-vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=/&security=none&encryption=none&host=menpack.serviceprom.us.ci&type=xhttp#🟡669 @PRS_MLBB (ملی شکن)
-vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/&mode=auto#Telegram:@config_proxy 💦
 vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/&mode=auto#Telegram:@config_proxy 🔥
 vless://95164197-6b29-4a10-9dae-463c63f1de8b@frin.nightwolf.shop:444?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN 💯🔥
 vless://955df0a4-b340-4172-af3e-d6eaf8f9c403@Up.love-speed.sbs:7567?security=reality&encryption=none&pbk=DSF9EhsLMGd7Clgh7PhrY4AmCxIYtCnATRrzA2sVTis&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.dadyaran.ir&sid=abb50e#@OnNetX جوین شو
@@ -503,3 +496,10 @@ vless://c1672132-c4b9-4aa8-8543-fd5ac4630e15@f1.springpaatogh8.store:2053?path=/
 vless://c1672132-c4b9-4aa8-8543-fd5ac4630e15@f1.springpaatogh8.store:8443?path=/?ed=2560&security=tls&encryption=none&host=digikala.sorza.ir&type=ws&sni=digikala.sorza.ir#⚡Telegram = @SOSkeyNET
 vless://c1672132-c4b9-4aa8-8543-fd5ac4630e15@f1.springpaatogh8.store:8443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=digikala.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#⚡Telegram = @prrofile_purple
 vless://c1bbc714-c653-4352-9890-15a3b9355d39@download.musicdownlodirani7.com:53196?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=none&encryption=none&headerType=none&type=tcp#@V2ynpv : تلگرام
+vless://c211a0b7-6e2f-444d-9f82-07bf1b22038c@nzr.parogamers.com:2086?security=none&encryption=none&headerType=none&type=tcp#ConfigV2RayNG 🇩🇪
+vless://c243a123-c6ca-4115-a955-3ddce53e257d@162.159.152.4:443?path=/188.132.192.194=2053&security=tls&encryption=none&insecure=0&host=fuchsia.qzz.io&type=ws&allowInsecure=0&sni=fuchsia.qzz.io#channel : @freedomofinfor
+vless://c243a123-c6ca-4115-a955-3ddce53e257d@162.159.152.4:443?path=/188.132.192.194=2053&security=tls&encryption=none&insecure=1&host=fuchsia.qzz.io&type=ws&allowInsecure=1&sni=fuchsia.qzz.io#@v2rayngzendegimamad🕊️
+vless://c249ca6f-1bde-479b-af96-da0e948a3800@188.114.96.3:443?path=/admin&security=tls&encryption=none&host=zitel.digikala-aparat-zula.com&fp=chrome&type=ws&sni=zitel.digikala-aparat-zula.com#@appsooner کانال تلگرام 🕊️
+vless://c249ca6f-1bde-479b-af96-da0e948a3800@zzula.ir:443?path=/admin#/&security=tls&encryption=none&insecure=0&host=zitel.digikala-aparat-zula.com&type=ws&allowInsecure=0#@V2RAY_VMESS_free
+vless://c289c304-779d-4a77-ac51-eaa4bf91b36b@154.16.16.147:52806?security=&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
+vless://c2b64b65-3563-4caf-ad71-26f427e6da52@185.198.235.139:80?security=none&encryption=none&type=ws#[96439] - Telegram : @V2All
