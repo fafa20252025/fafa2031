@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.16.25.21:80?encryption=none&security=none&type=ws&host=round-truth-4e97-ppal03.vegasow726.workers.dev&path=/?ed=2560#🇺🇸Ch: @pPal03🇺🇸جوین بدید عزیزانم🇺🇸
-vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.24.167.96:80?encryption=none&security=none&type=ws&host=round-truth-4e97-ppal03.vegasow726.workers.dev&path=/?ed=2560#🇺🇸Ch: @pPal03🇺🇸جوین بدید عزیزانم🇺🇸
-vless://ec8463ea-07b7-475b-b9f0-eeb98927f427@172.64.152.23:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=myservicefid.get-service.ir#⚡Telegram = @prrofile_purple
-vless://ec95205b-50b4-496c-891f-5e8087089c4f@62.60.214.57:2087?encryption=none&security=none&type=grpc#@vpn4ir_1 : کانال
 vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/139.99.124.165=443&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/194.127.193.124=24467&security=tls&encryption=none&insecure=0&host=afrcloud1.c01.kr&type=ws&allowInsecure=0&sni=afrcloud1.c01.kr#channel : @freedomofinfor
 vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/194.127.193.124=24467&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
@@ -503,3 +499,7 @@ vmess://eyJmcCI6IiIsImV4dHJhIjoiIiwiaG9zdCI6IiIsInNlcnZpY2VOYW1lIjoibm9uZSIsImZy
 vmess://eyJwb3J0IjoiNDQzIiwiYWRkIjoiY2hhdGdwdC5jb20iLCJuZXQiOiJ3cyIsImhvc3QiOiJkZTMtY2RuLm5pZ3RnZW1zaG9wbmV3Lm9yZyIsImFscG4iOiJoMixodHRwXC8xLjEiLCJzY3kiOiJhdXRvIiwiaWQiOiIzNzIxNzI0ZC00MTQwLTQ1NTEtYmQ0Ny0zMDdjZTNlYTgzN2UiLCJmcCI6ImNocm9tZSIsInNuaSI6ImRlMy1jZG4ubmlndGdlbXNob3BuZXcub3JnIiwicGF0aCI6IlwvZXlKcWRXNXJJam9pTkRCTldHWTNaME5QZDBsb1oyWWlMQ0p3Y205MGIyTnZiQ0k2SW5ac0lpd2liVzlrWlNJNkluQnliM2g1YVhBaUxDSndZVzVsYkVsUWN5STZXMTE5P2VkPTI1NjAiLCJ0bHMiOiJ0bHMiLCJwcyI6Ik5JR0hUR0VNU0hPUCJ9
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://t.me/yebekhe
+#profile-web-page-url: https://github.com/itsyebekhe/PSG
+
