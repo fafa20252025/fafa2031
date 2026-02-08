@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c580e6f8-96d5-4b81-a958-d309cda653ff@fin.pryanik.net.ru:4443?security=reality&encryption=none&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com#VayNora
-vless://c580e6f8-96d5-4b81-a958-d309cda653ff@moscow.pryanik.net.ru:5443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&sid=#@meliproxyy
-vless://c583e7f8-9807-43b6-dac7-ca7ae5623546@kh2.mahdi383ir.website:9090/?type=tcp&encryption=none&flow=&sni=tgju.org&fp=chrome&security=reality&pbk=tQwZ96ULPZim00dZUVBxCl1wRkVjULRVbho7_Z2FQFw&sid=57d56055#☺️11@oneclickvpnkeys
-vless://c59f075a-b3a1-44e3-9680-375d81e6d8f7@212.233.96.101:4443/?type=tcp&encryption=none&flow=&sni=ads.x5.ru&fp=chrome&security=reality&pbk=-BT-beTCZ_6dr1akzVJLsuXtD6GrvUeSnFw3qYnikQQ&sid=f92954e2e710#☮️83@oneclickvpnkeys
-vless://c5b8a950-cf26-4d17-a50c-bfcbd1c0f7cc@140.248.171.134:80?mode=auto&path=/&security=none&encryption=none&host=maxoc1your-name.global.ssl.fastly.net&type=xhttp#ᴄʜᴀɴɴᴇʟ @ᴠᴘɴʙᴀᴢ
-vless://c5f8c9a4-916d-45c3-aad3-cd3ed706c5dd@104.167.197.27:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=azure.microsoft.com&fp=chrome&security=reality&pbk=a0utGrRVTHL53cH4poHif9aPJNNQ10nhiMSdx8n1kGk&sid=5a2d4f49#☮️86@oneclickvpnkeys
 vless://c61ac406-6661-4f55-a731-fd48f4c03079@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB 🇫🇷
 vless://c61c8bb9-d8ea-4d24-9627-932d1a056c51@91.107.251.197:2089?security=none&encryption=none&headerType=none&type=tcp#@OnNetX جوین شو
 vless://c659ce22-0a02-4d75-8c89-58d99916b846@104.17.74.206:2053/?security=tls&type=ws&path=/&host=ir6.hnbyme.online&sni=ir6.hnbyme.online&fp=chrome&encryption=none#@v2rays_ha 7522
@@ -503,3 +497,9 @@ vless://ed431499-7850-459f-babf-e6cab60c92d1@103.231.73.157:443?encryption=none&
 vless://ed431499-7850-459f-babf-e6cab60c92d1@103.231.73.157:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=wikimedia.org&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#🔥 Telegram: @wiki_tajrobe
 vless://ed431499-7850-459f-babf-e6cab60c92d1@103.231.73.157:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=wikimedia.org&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#[97246] - Telegram : @V2All
 vless://ed431499-7850-459f-babf-e6cab60c92d1@103.231.73.157:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikimedia.org#Config 2 - @lebertad
+vless://ed431499-7850-459f-babf-e6cab60c92d1@103.231.73.157:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikimedia.org#ConfigV2RayNG
+vless://ed431499-7850-459f-babf-e6cab60c92d1@103.231.73.157:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikimedia.org#lyriffy
+vless://ed431499-7850-459f-babf-e6cab60c92d1@103.231.73.157:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikimedia.org#vmesskhodam
+vless://ed431499-7850-459f-babf-e6cab60c92d1@103.231.73.157:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikimedia.org#⚡Telegram = @SOSkeyNET
+vless://ed431499-7850-459f-babf-e6cab60c92d1@103.231.73.157:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikimedia.org#⚡Telegram = @prrofile_purple
+vless://ed431499-7850-459f-babf-e6cab60c92d1@103.231.73.157:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikimedia.org#Config 1 - @lebertad

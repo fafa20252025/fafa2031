@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6a0ec271-ed4a-45c9-99f3-2e0e6ca641cd@blue99shop.ir:28829?path=/&security=none&encryption=none&host=speedtest.net&type=httpupgrade#Germany vip 🇩🇪 Telgram: @Sobi_vpn
-vless://6a17a495-c6b6-4991-9007-2a7415b14453@it.euro2nova.com:8880/?security=none&encryption=none&host=splus.ir&headerType=http&type=tcp#@v2rays_ha 7443
-vless://6a17a495-c6b6-4991-9007-2a7415b14453@it.euro2nova.com:8880/?security=none&encryption=none&host=splus.ir&headerType=http&type=tcp🇮🇹 Italy  |  @vpnbaz#@v2rays_ha 7413
-vless://6a17a495-c6b6-4991-9007-2a7415b14453@it.euro2nova.com:8880?security=none&encryption=none&host=splus.ir&headerType=http&type=tcp#🇮🇹 Italy  |  @vpnbaz
-vless://6a17a495-c6b6-4991-9007-2a7415b14453@pln.euro2nova.com:8880?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#@BestProxyTel1
-vless://6a17a495-c6b6-4991-9007-2a7415b14453@pln.euro2nova.com:8880?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#@meliproxyy
 vless://6a17a495-c6b6-4991-9007-2a7415b14453@pln.euro2nova.com:8880?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#shankamil
 vless://6a17a495-c6b6-4991-9007-2a7415b14453@pln.euro2nova.com:8880?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#جوین شید قط نشید @shankamil
 vless://6a17a495-c6b6-4991-9007-2a7415b14453@pln.euro2nova.com:8880?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#ᴄʜᴀɴɴᴇʟ @vpnbaz🍁
@@ -503,3 +497,9 @@ vless://957d0930-8730-4923-b58c-6c0d640418bd@151.101.0.10:80?mode=auto&path=/dl?
 vless://957d0930-8730-4923-b58c-6c0d640418bd@vipde6.persianhostnet.ir:9093?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Telegram : @V2ynpv
 vless://9591b889-87d1-404e-8430-b4b26bdb85be@208.103.161.52:443?path=/5.78.50.75=443&security=tls&encryption=none&host=afrcloud1.mmv.kr&type=ws&sni=afrcloud1.mmv.kr#@HiByeVPNN 💯🔥
 vless://9591b889-87d1-404e-8430-b4b26bdb85be@216.24.57.250:443?path=/5.78.50.75=443&security=tls&encryption=none&host=afrcloud1.mmv.kr&type=ws&sni=afrcloud1.mmv.kr#@HiByeVPNN 💯🔥
+vless://959a00e5-7a82-41fc-a2f5-0f9b7292ae50@54.171.113.7:443?security=reality&sni=eset.com&fp=chrome&pbk=ATFTnlzA9sZIv55Hv1Vv-TGBONx5HeuXdWQH08XQumM&sid=fd1126f3&spx=/&type=tcp&encryption=none#SEGVpn
+vless://959a00e5-7a82-41fc-a2f5-0f9b7292ae50@54.171.113.7:443?security=reality&sni=eset.com&fp=chrome&pbk=ATFTnlzA9sZIv55Hv1Vv-TGBONx5HeuXdWQH08XQumM&sid=fd1126f3&spx=/&type=tcp&encryption=none#SEGVpn (Used)  🥳  Surprise(3TB
+vless://95abaefc-7861-417a-81b7-166cb788ce1a@185.177.238.144:2083?mode=gun&security=reality&encryption=none&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=chrome&type=grpc&serviceName=UpdateService&sni=apple.com&sid=6da16b1335651b38#channel : @freedomofinfor
+vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.173.116:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16#channel : @freedomofinfor
+vless://95c7b369-8b59-45fe-889e-46b2f174d40b@87.248.155.187:2526?security=none&encryption=none&headerType=none&type=tcp#کانفیگ بیشتر @famoushaji
+vless://95e118b4-4352-4218-8493-f20cc7fc467a@46.246.98.74:443?security=reality&encryption=none&pbk=nBJICh1KzfMblaXtSxpTiPIHGg2TKP5PF8nq-89Q6jg&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=6ed3324b#@appsooner کانال تلگرام 🕊️
