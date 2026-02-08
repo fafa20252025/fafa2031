@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://289f7608-8995-4165-9f3a-3612577190bb@chat.openai.com:443?path=/ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.hexo-music.ir#⚡Telegram = @prrofile_purple
+vless://289f7608-8995-4165-9f3a-3612577190bb@chatgpt.com:443?path=/ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.hexo-music.ir#@OnNetX جوین شو
 vless://289f7608-8995-4165-9f3a-3612577190bb@creativecommons.org:443?path=/ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.hexo-music.ir#Mci-@V2rayAlpha-8
 vless://289f7608-8995-4165-9f3a-3612577190bb@creativecommons.org:443?path=/ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.hexo-music.ir#⚡Telegram = @prrofile_purple
 vless://289f7608-8995-4165-9f3a-3612577190bb@creativecommons.org:443?path=/ws&security=tls&encryption=none&type=ws&sni=dl98.hexo-music.ir#Telegram:@config_proxy 💦
@@ -501,5 +503,3 @@ vless://4c97ec3e-3527-48c5-80ff-b715463896ba@nodejs.org:80?path=/?ed&security=no
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@nodejs.org:80?path=/?ed&security=none&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://4d63dcc0-d836-4101-9618-a15306d5d8ba@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxlondon.global.ssl.fastly.net&type=xhttp#⚡️Telegram = @datax_proxy
 vless://4d89daf8-83c1-497d-af73-0d0033daadd8@104.21.36.57:443?path=/wsv/4d89daf8-83c1-497d-af73-0d0033daadd8&security=tls&encryption=none&host=psto.fullmargintraders.com&type=ws&sni=psto.fullmargintraders.com#@V2rayNG3
-vless://4d9559ef-4fb9-4fb8-8587-c2f58b615a67@DE.sattarlink.online:6620?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=c3b6ed4da7a983c7#@meliproxyy
-vless://4e1124aa-4228-48d3-b6e2-fb16f829fa67@95.85.234.63:1517?security=none&allowInsecure=0&encryption=none&type=tcp&host=JouRNaloFbIgdATA.SpRinGeropEn.coM&path=/&headerType=http#@sogoandfuckyourlove

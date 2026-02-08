@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@104.18.32.47:443/?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#@v2rays_ha 7466
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#@YamYamProxy
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#16
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#@V2rayng_Fast
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇩🇪All¹ | @meliproxyy
@@ -501,5 +503,3 @@ vless://289f7608-8995-4165-9f3a-3612577190bb@chat.openai.com:443?encryption=none
 vless://289f7608-8995-4165-9f3a-3612577190bb@chat.openai.com:443?path=/ws&security=tls&encryption=none&fp=chrome&type=ws&sni=dl98.hexo-music.ir#@v2ray_proxy_npv+❄️+@cloudkey_vpn
 vless://289f7608-8995-4165-9f3a-3612577190bb@chat.openai.com:443?path=/ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.hexo-music.ir#@OnNetX جوین شو
 vless://289f7608-8995-4165-9f3a-3612577190bb@chat.openai.com:443?path=/ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.hexo-music.ir#Mci-@V2rayAlpha-6
-vless://289f7608-8995-4165-9f3a-3612577190bb@chat.openai.com:443?path=/ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.hexo-music.ir#⚡Telegram = @prrofile_purple
-vless://289f7608-8995-4165-9f3a-3612577190bb@chatgpt.com:443?path=/ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.hexo-music.ir#@OnNetX جوین شو

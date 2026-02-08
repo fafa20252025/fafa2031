@@ -5,9 +5,6 @@
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
 
-vless://9ba4d299-5621-4bd7-ec3b-2ccc695a72a9@91.107.251.34:38387?security=none&encryption=none&seed=rNPMSln0rf&headerType=none&type=kcp#%40v2ray_ar%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85وصل شدیدحمایت یادتون نره ♥️سروررایگان 👇👇@v2ray_arسرور فروشی👇👇@oorg_ar
-
-
 trojan://telegram-id-privatevpns@13.53.149.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8%F0%9F%8C%8F+%40v2ray_ar+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88وصل شدیدحمایت یادتون نره ♥️سروررایگان 👇👇@v2ray_arسرور فروشی👇👇@oorg_ar
 
 trojan://telegram-id-directvpn@3.228.217.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%A8%F0%9F%87%A6%F0%9F%8C%8F+%40v2ray_ar+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88وصل شدیدحمایت یادتون نره ♥️سروررایگان 👇👇@v2ray_arسرور فروشی👇👇@oorg_ar
@@ -503,3 +500,6 @@ vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622/?type=ws&encry
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASE
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42122/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASE
 vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AAT
+vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?encryption=none&security=none&type=ws&host=dayous.global.ssl.fastly.net&path=%2F#%3E%3E%40DailyV2RY%3A%3ADE
+vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIN
