@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8d11f290-c2a5-4ce5-b79c-3007e5c8596a@188.114.96.3:2087?path=/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=A6d38F3e.UNKNowNuSErNEtDotCOdE.pAges.DeV&fp=chrome&type=ws&sni=a6d38F3e.UNknOWnuSERNeTdotCOdE.pAGEs.dEv#@Hope_Net-join-us-on-Telegram
+vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?path=/&security=none&encryption=none&type=ws#channel : @freedomofinfor
+vless://8d55a507-59a1-4425-888f-b90ce1eb71ce@Network.GAfe-Marz.ir:8013?security=none&encryption=none&headerType=http&type=tcp#⚡Telegram = @prrofile_purple
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&mode=gun&security=none&type=grpc#⚡Telegram = @SOSkeyNET
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=&encryption=none&authority=VayNora&type=grpc#VayNora
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&authority=telegram,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray,@MDv2ray&type=grpc#telegram » 𝗺𝗱𝘃𝟮𝗿𝗮𝘆
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#⚡︎ 𓏺 کانفیگ رایگان @NabiProxy
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram,Telegram-@mainv2ray,Telegram-@mainv2ray,Telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-Telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,Telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#@Golestan_VPN - 🦁
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayng_Fast
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#@meliproxyy
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2rayAlpha-10
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ @v2ray_configs_pools
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
@@ -491,15 +503,3 @@ vless://b4c2bb24-1752-4ddb-a830-3d71edd0077e@ip1-fast.tyryqyserver.ir:80?path=/?
 vless://b4c4f977-1012-4504-8b0f-440e002ac01b@mi.pxzoone.com:8443?path=/&security=tls&encryption=none&insecure=1&host=vipmaz.khodroshenasi.space&fp=chrome&type=ws&allowInsecure=1&sni=vipmaz.khodroshenasi.space#@Starlinkvatan
 vless://b5723cdf-f34c-4675-b12d-40v2rmelidb43db7283d0@ip2-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#@meliproxyy
 vless://b5723cdf-f34c-4675-b12d-db43db7283d0@ip2-cloud.tyryqyserver.ir:2052?path=/?ed=2053&security=none&encryption=none&host=norbert-cloud-de.ocean-pro.top&type=ws#@Tweety_Proxy
-vless://b5723cdf-f34c-4675-b12d-db43db7283d0@ip2-cloud.tyryqyserver.ir:2052?path=/?ed=2053&security=none&encryption=none&host=norbert-cloud-de.ocean-pro.top&type=ws#@meliproxyy
-vless://b5723cdf-f34c-4675-b12d-db43db7283d0@ip3-cloud.tyryqyserver.ir:8080?mode=auto&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=norbert-cloud-de.max-pro-service.ir&type=xhttp#@meliproxyy
-vless://b5723cdf-f34c-4675-b12d-db43db7283d0@ip3-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#@Tweety_Proxy
-vless://b5723cdf-f34c-4675-b12d-db43db7283d0@ip3-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#@meliproxyy
-vless://b5723cdf-f34c-4675-b12d-db43db7283d0@tun1-norbert.norbertvip-conf.site:9900?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#@meliproxyy
-vless://b57c0631-e5c3-4cc8-bc4d-77f9d5d34e45@185.146.173.58:2052?security=none&type=ws&host=3.V2rayV2ray-_-_-V2ray.irantech.Org.&path=/Telegram-xiv2ray?ed=2048#@Hope_Net-join-us-on-Telegram
-vless://b583a294-4bb1-4fc2-965f-83a1c2ec1cdb@7.zaravds.cfd:22500?security=reality&encryption=none&pbk=kbMQl4k3RhWszX6EkZVPRWtbUiRZDGePfTDeNkKCBiY&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=f3e0c9#IR-@V2rayAlpha-16
-vless://b583a294-4bb1-4fc2-965f-83a1c2ec1cdb@7.zaravds.cfd:22500?security=reality&encryption=none&pbk=kbMQl4k3RhWszX6EkZVPRWtbUiRZDGePfTDeNkKCBiY&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=f3e0c9#IR-@V2rayAlpha-7
-vless://b58583bb-7b63-4a92-a1c2-728cb33d3750@45.66.163.75:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=msn.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
-vless://b6effac4-2883-47ff-8325-93d0a3d75c22@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#channel : @freedomofinfor
-vless://b88f0ef2-67fd-4489-9051-8f1dc52a45c1@91.107.251.197:2053?security=none&encryption=none&headerType=none&type=tcp#@OnNetX جوین شو
-vless://b99d16b6-6952-40ab-9445-835df3d3e009@37.191.95.53:927/?type=tcp&encryption=none&security=none#𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦:+『@config_v2rayy』
