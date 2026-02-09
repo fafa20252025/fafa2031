@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-
 vless://320052cb-e156-4346-90f6-02be51eba1db@legenderyserversirn.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LegenderY_Servers&sni=ir.viplegendery.ga#%40v2ray_ar+%D8%A7%DA%AF%D8%B1+%D9%82%D8%B7%D8%B9+%D8%B4%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7+%D8%A7%DB%8C%D9%86%D8%AC%D8%A7وصل شدیدحمایت یادتون نره ♥️سروررایگان 👇👇@v2ray_arسرور فروشی👇👇@oorg_ar
 
 
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#%3E
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZGQzNTlmNTk0ZGVhODQy@141.95.105.163:11201#%3E%3E%40FreakConfig%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpndmFVQzBJS0FDbm84cDA1RllaTG9N@kazakhstan25.clearorbitllc.com:52323#%3E%3E%40v2nodes%3A%3AKZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%3E%3E%40FreakConfig%3A%3ANL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316#%3E%3E%40ip_cf%3A%3AJP
