@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@gr.v2online3.site:31837?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#ConfigV2RayNG
-vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@gr.v2online3.site:31837?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#shankamil
-vless://b3c4cdc3-7999-4e8f-a6a3-0151a64b1f4e@S2.FASTSPEEDS.IR:2083?path=/ws&security=tls&encryption=none&type=ws&sni=bsun-ukv1.ip-venzo.com#VayNora
 vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#@v2rayngzendegimamad🕊️
 vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#N/A-@V2rayAlpha-2
 vless://b4c2bb24-1752-4ddb-a830-3d71edd0077e@ip1-fast.tyryqyserver.ir:80/?path=/?ed=2052&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#@v2rays_ha 7626
@@ -503,3 +500,6 @@ vless://df6787e3-6683-436a-8282-b90a07f0aa16@ip3.kakeroo.ir:80?path=/&security=n
 vless://df6787e3-6683-436a-8282-b90a07f0aa16@ip3.kakeroo.ir:80?path=/&security=none&encryption=none&host=kalamsi666.global.ssl.fastly.net&type=ws#🇫🇮|@YamYamProxy
 vless://df6787e3-6683-436a-8282-b90a07f0aa16@ip3.kakeroo.ir:80?path=/&security=none&encryption=none&host=kalamsi666.global.ssl.fastly.net&type=ws#🟢Ṭelegram"@Filtering2020"
 vless://df6787e3-6683-436a-8282-b90a07f0aa16@poli.appleseraj.ir:2096?path=/?ed=2048&security=tls&encryption=none&host=nurenburges.appleseraj.ir&allowinsecure=0&type=ws&sni=nurenburges.appleseraj.ir#🇩🇪|@YamYamProxy
+vless://df6787e3-6683-436a-8282-b90a07f0aa16@poli.appleseraj.ir:2096?path=/?ed=2048&security=tls&encryption=none&host=nurenburges.appleseraj.ir&allowinsecure=0&type=ws&sni=nurenburges.appleseraj.ir#🟢Ṭelegram"@Filtering2020"
+vless://e0046c08-5a98-4478-a880-8e1a2336e3a7@dashboard.mobileemdad.top:9560?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
+vless://e076e2c6-bb55-4830-a514-d89f60f550d8@voip.khakshouri.ir:56734?security=reality&encryption=none&pbk=RO_4G0ajxySXJ2CcWXVZ6vFhYWw7Jt3uF829syN6_X4&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.pinterest.com&sid=2e#@appsooner کانال تلگرام 🕊️

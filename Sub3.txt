@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTI1Ni1nY206WlRCaFpUVXdZVGxrWXpSaE1UVXdaVFZpWW1GaFlqaG1ZMkpqWXpSaA@ir.npvnot.com:11112#💛@V2rayBaaz| تلگراممون 🤍
-ss://YWVzLTI1Ni1nY206dW94VEJUNmh5bW5MT2FZV2dZcW1YQQ==@130.49.150.165:1080#@V2rayng_Fast
-ss://YWVzLTI1Ni1nY206dW94VEJUNmh5bW5MT2FZV2dZcW1YQQ@130.49.150.165:1080#@ConfigV2RayNG
 ss://YWVzLTI1Ni1nY206dW94VEJUNmh5bW5MT2FZV2dZcW1YQQ@130.49.150.165:1080#@canfingV2rayNG
 ss://YWVzLTI1Ni1nY206dW94VEJUNmh5bW5MT2FZV2dZcW1YQQ@130.49.150.165:1080#vmesskhodam
 ss://YWVzLTI1Ni1nY206dW94VEJUNmh5bW5MT2FZV2dZcW1YQQ@130.49.150.165:1080#اگه میخوای قطع نشی جوین شو : @canfingV2rayNG
@@ -503,3 +500,6 @@ vless://20d41fce-f96c-4f0e-9111-5c911369f4e5@chatgpt.com:443?path=/&security=tls
 vless://20df8c30-c07a-494e-b83d-4af21ee57788@85.133.197.236:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://20df8c30-c07a-494e-b83d-4af21ee57788@perl.org:80?path=/containers/fi&security=&encryption=none&host=lexeu.global.ssl.fastly.net&type=ws#channel : @freedomofinfor
 vless://21825049-840a-4299-84d7-01efe42bccff@fmsh4.movementvip.ir:19656?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
+vless://21825049-840a-4299-84d7-01efe42bccff@fmsh4.movementvip.ir:19656?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&headerType=none&type=tcp#@icv2ray
+vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@172.67.194.187:443?security=tls&encryption=none&host=teams.live.com.afrcloud1.c01.kr&type=ws&sni=teams.live.com.afrcloud1.c01.kr#HO 4 @Outline_Vpn
+vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@ipbaz.ping-box.com:443?path=/&security=tls&encryption=none&insecure=0&host=teams.live.com.afrcloud1.c01.kr&fp=chrome&type=ws&allowInsecure=0&sni=teams.live.com.afrcloud1.c01.kr#Channel : @Mrsoulb 🏴🏳
