@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?path=/5.223.47.32=443&security=tls&host=afrcloud1.mmv.kr&type=ws&sni=afrcloud1.mmv.kr#@HiByeVPNN 💯🔥
+trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#🇭🇰 香港
+trojan://5fb072e0ddd631cf66cf752b09210480@52.195.8.127:3373/?sni=www.nintendogames.net&allowInsecure=1&fp=chrome#@v2rays_ha 7892
+trojan://5fb072e0ddd631cf66cf752b09210480@54.250.24.198:127?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🟢Ṭelegram"@Filtering2020"
 trojan://5fb072e0ddd631cf66cf752b09210480@54.250.24.198:127?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🧢-@turbov2box
 trojan://5fb072e0ddd631cf66cf752b09210480@54.250.24.198:127?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#@@V2rayng_Fast کانالمون 🥹
 trojan://5fb072e0ddd631cf66cf752b09210480@54.250.24.198:127?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#💛@V2rayBaaz| تلگراممون 🤍
@@ -499,7 +503,3 @@ vless://1d8886c3-dd69-4f33-b725-fe8cb905d9c4@154.219.5.213:443?security=tls&sni=
 vless://1dc8ba24-8a0d-40ff-8858-501e2f553ab1@85.9.207.253:54721?encryption=none&security=none&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
 vless://1dcc368f-07b8-4a9a-b694-d19179d5484a@5.160.35.18:7288/?security=none&type=tcp&encryption=none#@v2rays_ha 7895
 vless://1dcc368f-07b8-4a9a-b694-d19179d5484a@5.160.35.18:7288?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
-vless://1dcc368f-07b8-4a9a-b694-d19179d5484a@5.160.35.18:7288?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
-vless://1dcc368f-07b8-4a9a-b694-d19179d5484a@5.160.35.18:7288?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
-vless://1dcc368f-07b8-4a9a-b694-d19179d5484a@l4z7x1c3v9b2.the-scary-deep-forest-of-my-mind.top:7288?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
-vless://1dcc368f-07b8-4a9a-b694-d19179d5484a@l4z7x1c3v9b2.the-scary-deep-forest-of-my-mind.top:7288?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
