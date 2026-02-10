@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://21cc0396-c482-4f29-b1bf-90a9e60f1599@37.139.34.145:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.ru&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c&type=tcp&headerType=none#@filembad
 vless://21cc0396-c482-4f29-b1bf-90a9e60f1599@37.139.34.145:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=28047c78b3f5ee2c# @vpnbaz🌼
 vless://21cc0396-c482-4f29-b1bf-90a9e60f1599@37.139.34.145:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=28047c78b3f5ee2c#@Spartan_YT
 vless://21cc0396-c482-4f29-b1bf-90a9e60f1599@37.139.34.145:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=28047c78b3f5ee2c#@Tweety_Proxy
@@ -503,3 +502,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.242.20:80?security=none&type
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.27.78:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.54.246:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.55.177:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.55.177:80?security=none&type=ws&host=us3.rtacg.com&path=/#[99231] - Telegram : @V2All
