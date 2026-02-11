@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.141.3:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#🕊 Tel : @ProxyVPN11 ⟵
+vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?security=reality&encryption=none&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&sid=6ba85179e30d4fc2#@v2rayngzendegimamad🕊️
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=/TELEGRAM-MARAMBASHI-MARAMBASHI/?ed=2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=chrome&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#@Hope_Net-join-us-on-Telegram
 vless://d7c862e5-e507-4dc8-8506-43d5d9de7387@188.114.98.0:2053?path=/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&insecure=1&host=azrping.melishekan.site&fp=chrome&type=ws&allowInsecure=1&sni=AzRPiNG1.mEliSHeKaN.SItE#@vpnbaz 💎
 vless://d84c0e47-7575-44cb-bc05-b55de8b51ca0@188.114.98.0:2053?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=hz.badomzamini.uk#@V2ynpv : تلگرام
@@ -501,5 +503,3 @@ vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@172.64.152.23:443?path=/35.78.229.1
 vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@188.114.98.0:443?path=/35.78.229.176:443&security=tls&encryption=none&insecure=1&host=delta090.qzz.io&type=ws&allowInsecure=1&sni=delta090.qzz.io#@v2rayngzendegimamad🕊️
 vless://ea2b13ab-1997-4209-ab45-a643361e4da4@v1.vcan7.sbs:9091?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@ChatGPT.com:443?path=/129.150.58.86:57621&security=tls&encryption=none&insecure=1&host=afrcloud4.c01.kr&type=ws&allowInsecure=1&sni=afrcloud4.c01.kr#🐸 Tel : @ProxyVPN11 ⟵
-vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@ChatGPT.com:443?path=/152.42.236.151:8443&security=tls&encryption=none&insecure=1&host=afrcloud4.c01.kr&type=ws&allowInsecure=1&sni=afrcloud4.c01.kr#🐸 Tel : @ProxyVPN11 ⟵
-vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@ChatGPT.com:443?path=/164.52.2.99:443&security=tls&encryption=none&insecure=1&host=afrcloud4.c01.kr&type=ws&allowInsecure=1&sni=afrcloud4.c01.kr#🐸 Tel : @ProxyVPN11 ⟵
