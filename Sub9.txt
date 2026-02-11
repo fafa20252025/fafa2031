@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com# @vpnbaz🌼
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#@canfingV2rayNG
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=Telegram-/-/-/-?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=web.abcallcenter.com&fp=chrome&type=ws&sni=web.abcallcenter.com#@YamYamProxy
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=Telegram-/-/-/-?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=web.abcallcenter.com&fp=chrome&type=ws&sni=web.abcallcenter.com#@appsooner کانال تلگرام 🕊️
@@ -502,4 +503,3 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.2:443?path=/&security=tl
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.3:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&insecure=0&allowInsecure=0&type=ws&path=/#🔥 Telegram: @wiki_tajrobe
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.9:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&insecure=0&allowInsecure=0&type=ws&path=/#🔥 Telegram: @wiki_tajrobe
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@ipbaz.ping-box.com:443?allowInsecure=0&encryption=none&fp=chrome&host=dev.twistsparrow.xyz&insecure=0&path=/&security=tls&sni=dev.twistsparrow.xyz&type=ws#@V2raysCollector 🙈
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@ipbaz.ping-box.com:443?allowInsecure=0&encryption=none&fp=chrome&host=dev.twistsparrow.xyz&insecure=0&path=/&security=tls&sni=dev.twistsparrow.xyz&type=ws#⚡Telegram = @SOSkeyNET
