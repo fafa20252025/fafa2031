@@ -3,6 +3,22 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@188.114.98.0:443/?sni=www.multiplydose.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#@v2rays_ha 8072
+trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=/assignment#[99527] - Telegram : @V2All
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[KIA_NET] 🇨🇦 CA-12045
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🏴‍☠️@FreakConfig
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🥊 Tel : @ProxyVPN11 ⟵
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#🧿 Tel : @ProxyVPN11 ⟵
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🕊 Tel : @ProxyVPN11 ⟵
+trojan://humanity@188.114.98.0:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#کانفیگ رایگان = t.me/arisping
+trojan://humanity@:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#IR--@config_v2rayy-14
+trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🇵🇱@
+trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🇵🇱@@configmh
+trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🇵🇱@FreakConfig
+trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱@@configmh
+trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱@FreakConfig
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#@v2rayngzendegimamad🕊️
+trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇮🇷 IR 44 @Outline_Vpn
 trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#@aura_cartel|142
 trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#AG 5 @Outline_Vpn
 trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🇮🇷 IR 13 @Outline_Vpn
@@ -487,19 +503,3 @@ vless://2b0da532-b8e8-4deb-9d2e-a6144d315376@5.75.205.170:8443?encryption=none&s
 vless://2b54583d-2738-40db-9b37-0454886e5744@hi4.afraseda.ir:2053?mode=auto&path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=affipr.afraseda.ir#@canfingV2rayNG
 vless://2b7c9423-3def-4300-a97a-17e523d50831@S2.FASTSPEEDS.IR:2053?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=tls&encryption=none&insecure=0&host=finlooo.Mehrsazi.ir&type=ws&allowInsecure=0&sni=finlooo.mehrsazi.ir#Telegram : @V2ynpv
 vless://2ba742a0-5c32-489b-8f05-72fd9b8e2729@b2n.ir:443/?security=tls&type=ws&path=/V9RZyjTD5QiH08HK8A2L9XMg&host=usc.buzzon.shop&alpn=http/1.1&sni=usc.buzzon.shop&fp=chrome&encryption=none#@v2rays_ha 8076
-vless://2ba742a0-5c32-489b-8f05-72fd9b8e2729@usc.buzzon.shop:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=usc.buzzon.shop&path=/V9RZyjTD5QiH08HfuMjgU5AX&security=tls&sni=usc.buzzon.shop&type=httpupgrade#⚜️43@oneclickvpnkeys
-vless://2dafc3ec-b609-4173-bf29-4bd833d43b09@217.60.236.240:8443?path=/&security=none&encryption=none&type=ws#@MxV2ray
-vless://2dafc3ec-b609-4173-bf29-4bd833d43b09@37.202.239.152:8443?path=/&security=none&encryption=none&type=ws#𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺:،@MxV2ray
-vless://2dafc3ec-b609-4173-bf29-4bd833d43b09@94.242.51.174:2055?path=/&security=none&encryption=none&type=ws#@MxV2ray،@MxV2ray
-vless://2e27ac27-c360-489a-86ea-8b9659de6763@cdnjs.com:443?path=/jztpmbws?ed=2560&security=tls&encryption=none&insecure=0&host=639057258094935446.corolla-perma.info&fp=chrome&type=ws&allowInsecure=0&sni=639057258094935446.corolla-perma.info#channel : @freedomofinfor
-vless://2e2f214c-a72d-405f-b3b5-cd1c2d98b762@[2a14:2640:12::114]:51568?security=none&encryption=none&host=bale.ai&headerType=http&type=tcp#‌Telegram-𝗝𝗼𝗶𝗻 ➠ @ConnectBemon | کانکت بمون﻿
-vless://2e3471c1-9eb0-4810-aec3-09c1118d2dfc@104.16.241.253:80?encryption=none&security=none&type=ws&host=morning-wildflower-70dd-ppal03.xotocip989.workers.dev&path=/?ed=2560#👽Tel: @pPal03👽جوین بدید گوگولیا👽
-vless://2e3471c1-9eb0-4810-aec3-09c1118d2dfc@104.24.196.67:80?encryption=none&security=none&type=ws&host=morning-wildflower-70dd-ppal03.xotocip989.workers.dev&path=/?ed=2560#👽Tel: @pPal03👽جوین بدید گوگولیا👽
-vless://2e7ac6e7-0dd5-4bd1-9bda-208a653c72e9@103.103.245.32:56000/?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=hyui.starnetcn.top&type=tcp#@v2rays_ha 8036
-vless://2e7ac6e7-0dd5-4bd1-9bda-208a653c72e9@103.103.245.32:56000?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=hyui.starnetcn.top&type=tcp#⚜️54@oneclickvpnkeys
-vless://2eb2076e-8265-4ab7-899d-5b578003e6e9@85.198.8.35:12000?type=tcp&encryption=none&security=none#Config 4 - @lebertad
-vless://2f1b3e09-b867-4211-9113-399f7fde4c3e@Ns3.iran-mehrbu.ir:443?path=/amir?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=amriaisbest.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=amriaisbest.global.ssl.fastly.net#⚡Telegram = @prrofile_purple
-vless://2f1b3e09-b867-4211-9113-399f7fde4c3e@ns3.iran-mehrbu.ir:443?encryption=none&security=tls&sni=amriaisbest.global.ssl.fastly.net&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=amriaisbest.global.ssl.fastly.net&path=/amir?ed=2048#🔥 Telegram: @wiki_tajrobe
-vless://2fa7f6dc-1367-4b1e-bf59-865b90959ce8@tun1-norbert.norbertvip-conf.site:9900?encryption=none&security=none&type=tcp&headerType=http&host=cafeariel.ir#کانال تلگرام : v2ray_configs_pools@
-vless://2fa7f6dc-1367-4b1e-bf59-865b90959ce8@tun1-norbert.norbertvip-conf.site:9900?security=&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#🇫🇮@FreakConfig
-vless://2fa7f6dc-1367-4b1e-bf59-865b90959ce8@tun1-norbert.norbertvip-conf.site:9900?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#🇫🇮@@configmh
