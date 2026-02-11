@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6416708c-eaa5-4ec5-b652-a2db2feab875@78.159.131.210:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=dfb584388d2927f7#@V2RAY_VMESS_free تست ایرانسل
-vless://6416708c-eaa5-4ec5-b652-a2db2feab875@78.159.131.76:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=9f6a51680da312f6#🏴‍☠️@FreakConfig
-vless://643ea714-3410-4476-a3b1-f71789886b2c@64.188.73.65:20150?security=&encryption=none&host=excoino.com&headerType=http&type=tcp#🇫🇮 FI-1- 🚀 | پرسرعت
 vless://64670147-6d2d-458a-8c20-baca66b82e54@ge.it-programer.ir:8443?security=reality&encryption=none&pbk=6g65kNZcYXGJAd8xUyinXVFA_H51i_mqAIq13mvnTCo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ge.it-programer.ir&sid=7ca84973be0c0315#Telegram : @V2ynpv
 vless://65592ebd-a1fe-4f70-bc6b-419b43caf221@catnet3.mimkiscx.ir:443?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&sni=excoino.com&sid=fd1dff03520d8f56#@Starlinkvatan
 vless://65815a4b-c841-4f7e-91bd-f8e1ec0456e5@tunnyl.ru:8443?type=tcp&encryption=none&security=reality&pbk=JIEpMViq_q_8PBG4NYKXrSlaGeQMuahbAaa7Qrh3LX0&fp=chrome&sni=google.com&sid=38cd424d5ba6441d&spx=/&flow=xtls-rprx-vision#Telegram:@config_proxy 🔥
@@ -503,3 +500,6 @@ vless://8f2f9ad3-df75-464e-c542-cd80d61b57c4@usaa.fastlynew.hosting-ip.com:80?pa
 vless://8f2f9ad3-df75-464e-c542-cd80d61b57c4@usaa.fastlynew.hosting-ip.com:80?path=/&security=none&encryption=none&host=civan.global.ssl.fastly.net&type=ws#@city_v2rayng مناسب نت ملی بیاا تو چنل جدید بردار
 vless://8f433071-f6f3-4e51-955a-89dd142c28a3@nv3.napsternet33.com:51071?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ConfigV2RayNG
 vless://8fb03657-2100-4067-9bcd-1ae0904e5a8e@172.67.69.236:8080?path=/Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit?ed=2048&security=none&encryption=none&host=10-156-sbbbBbbbedfvbgdxfvbsdfbdsvsdswrhefh10-545hjtrfg.mralpha-vpn.COM.&type=ws#@Hope_Net-join-us-on-Telegram
+vless://90162f4d-1b10-4f7c-aca9-198e4dd4faa9@104.18.32.47:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=sv1.software2025.ir&fp=chrome&type=ws&allowInsecure=1&sni=sv1.software2025.ir#channel : @freedomofinfor
+vless://9077227c-1eb5-4721-98b3-527c2aa94679@5germ.solonettochka.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&security=reality&pbk=HtqwPm99XZ72h6guDkP8Xjbfd-j4btmYYAWIK2553wE&sid=0c324f128a11#🦚17@oneclickvpnkeys
+vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.120.175.42:443?security=&encryption=none&headerType=none&type=tcp#🧿 Tel : @ProxyVPN11 ⟵
