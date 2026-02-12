@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#@meli_proxyy
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.106:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#@meli_proxyy
 vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.90:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=&encryption=none&type=grpc#@meli_proxyy
@@ -503,3 +502,4 @@ ss://YWVzLTI1Ni1nY206ZUxOamNzenFzejFPZnZTbA==@207.246.77.149:443#⚡Telegram = @
 ss://YWVzLTI1Ni1nY206ZUxOamNzenFzejFPZnZTbA==@207.246.77.149:80#@proxy_kafee
 ss://YWVzLTI1Ni1nY206ZUxOamNzenFzejFPZnZTbA==@207.246.77.149:80#⚡Telegram = @SOSkeyNET
 ss://YWVzLTI1Ni1nY206ZUxOamNzenFzejFPZnZTbA@207.246.77.149:80#[1068] - Telegram : @V2All
+ss://YWVzLTI1Ni1nY206ZUxOamNzenFzejFPZnZTbA@207.246.77.149:80#جوین چنل شید قط نشید@shankamil

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e799c066-d638-43b6-8361-cf6bbf2518d5@140.248.130.32:443?path=/wst?ed=2056&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=parsianmobilebank.ir&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@proxy_kafee
 vless://e79b44e0-1bbc-4c3e-b894-4055dda8c9ea@armen.izumii.ir:8080?security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇦🇲| 𝐀𝐫𝐦𝐞𝐧𝐢𝐚
 vless://e7d79806-4aae-4b38-9a7e-c050b2e66f57@188.114.97.3:80?security=none&sni=De1.vless.site.&type=ws&path=/vless#@Hope_Net-join-us-on-Telegram
 vless://e7d79806-4aae-4b38-9a7e-c050b2e66f57@188.114.97.3:80?security=none&sni=De1.vless.site.&type=ws&path=/vless#[1056] - Telegram : @V2All
@@ -503,3 +502,4 @@ vmess://eyJhZGQiOiI4NS4xNy4xOTIuMTEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiI5MS4yMDYuMTcxLjE2OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2MDY5MDdkZi05OTBjLTQ0NTUtODVhZi1iZDY3OTNmODFiMmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwODAiLCJwcyI6IkB2cG5iYXog8J+boe+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI5NS4yMTYuMTgzLjExMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMThmNDQ1OS0wNTZlLTRjNDEtOTBjZS0xMmNiYzJjNjcwYjIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQyMTUyIiwicHMiOiJAQ29uZmlnVjJSYXlOR/CfmoAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI5NS4yMTYuMTgzLjExMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMThmNDQ1OS0wNTZlLTRjNDEtOTBjZS0xMmNiYzJjNjcwYjIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQyMTUyIiwicHMiOiJAQ29uZmlnVjJSYXlORyDwn46AIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiI5NS4yMTYuMTgzLjExMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMThmNDQ1OS0wNTZlLTRjNDEtOTBjZS0xMmNiYzJjNjcwYjIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQyMTUyIiwicHMiOiJAdnBuYmF6IPCfjLUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://573e147f-c502-486f-b823-bafa0dd3c6c5@192.200.160.20:443?path=/bzszqqws?ed&security=tls&encryption=none&alpn=http/1.1&host=639065083958016952.corolla-perma.info&type=ws&sni=639065083958016952.corolla-perma.info#@proxy_kafee
 vless://573e147f-c502-486f-b823-bafa0dd3c6c5@192.200.160.20:443?path=/bzszqqws?ed&security=tls&encryption=none&alpn=http/1.1&host=639065083958016952.corolla-perma.info&type=ws&sni=639065083958016952.corolla-perma.info#⚡Telegram = @SOSkeyNET
 vless://57aba857-2479-459c-be0a-c167ff60c5c4@188.0.247.176:56327?security=none&encryption=none&headerType=none&type=tcp#Join Telegram:@v2ray_configs_pools
 vless://57b9f20e-3f82-421e-9234-64333bfc07c8@46.38.142.57:8081?security=&encryption=none&host=h.iran-ahwaz.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
@@ -503,3 +502,4 @@ vless://74bcb66b-80b8-563b-a0ef-2fd780cf1b6a@nl.zeepo.ir:443?security=reality&en
 vless://74f1cfe5-76d2-4941-99da-3724a92a0567@138.124.59.128:48200?mode=auto&path=/&security=&encryption=none&type=xhttp#:)-Telegram:@set_v2ray
 vless://74f1cfe5-76d2-4941-99da-3724a92a0567@138.124.59.128:48200?mode=auto&path=/&security=&encryption=none&type=xhttp#:)-Telegram:@set_v2ray  آموزش اتصال @set_v2ray  +اپدیت:فنلاند قطعه
 vless://7588e459-0d02-13ca-79bd-3a39b034baf8@s4.jockshenasi.ir:2096?encryption=none&security=tls&sni=steamdl.pou-ria.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=steamdl.pou-ria.com&path=telegram:@/www.net/www.telewbion.com/ws?ed=2560#کانفیگ رایگان = t.me/arisping
+vless://7588e459-0d02-13ca-79bd-3a39b034baf8@s4.jockshenasi.ir:2096?path=telegram:@/www.net/www.telewbion.com/ws?ed=2560&security=tls&encryption=none&insecure=0&host=steamdl.pou-ria.com&fp=chrome&type=ws&allowInsecure=0&sni=steamdl.pou-ria.com#@v2box
