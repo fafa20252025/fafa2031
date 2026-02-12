@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱@FreakConfig
-trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱@Spartan_YT
 trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱@config_v2rayy
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#@v2rayngzendegimamad🕊️
 trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇮🇷 IR 44 @Outline_Vpn
@@ -503,3 +501,5 @@ vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@nytimes.com:80?mode=auto&path=/?ed=
 vless://268f9be4-4e80-48ac-a0b8-f2d79d21f0a8@gee.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=c2a0b2d60a7fc300#Config 1 - @lebertad
 vless://268f9be4-4e80-48ac-a0b8-f2d79d21f0a8@gee.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=c2a0b2d60a7fc300#⚡Telegram = @SOSkeyNET
 vless://268f9be4-4e80-48ac-a0b8-f2d79d21f0a8@gee.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=c2a0b2d60a7fc300#⚡Telegram = @prrofile_purple
+vless://268f9be4-4e80-48ac-a0b8-f2d79d21f0a8@gee.jykvpn.com:443?security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=c2a0b2d60a7fc300#@icv2ray
+vless://2762ce23-74a4-4673-a0f1-2387c1b6cf68@172.239.240.91:46240/?encryption=none&flow=&host=divar.ir&type=tcp&headerType=http#🦚10@oneclickvpnkeys

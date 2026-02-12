@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : Iranvmess://eyJhZGQiOiIzNy4zMi4yMy4xMjIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZDEyYmM4ODItNDNjNy00MTVlLTg3YzUtMmE3ZmRjODM3MWMwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC93ZWJzb2NrZXRcLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGYxMCBJTlQtdm1lc3MtTWlycm9yUHJveHkiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
-
 
 
 
@@ -503,3 +501,5 @@ vless://22c71398-f576-4608-8b1f-b65badde088b@africa.visa.com:443?security=tls&sn
 vless://258bad91-733a-4e6a-96f4-11568b97c04a@103.31.4.133:443?security=tls&sni=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.2
 
 vless://258bad91-733a-4e6a-96f4-11568b97c04a@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.2
+
+vless://258bad91-733a-4e6a-96f4-11568b97c04a@172.64.152.23:443?security=tls&sni=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.2
