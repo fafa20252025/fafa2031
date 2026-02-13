@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@65.109.203.5:18521?path=/&security=none&encryption=none&host=65.109.203.5&type=ws#❤️@bored_vpn
-vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@65.109.203.5:18521?path=/&security=none&encryption=none&host=65.109.203.5&type=ws#❤️@mehrosaboran
 vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@65.109.203.5:18521?type=ws&host=65.109.203.5&path=/#@V2raysCollector 🌶
 vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@h22.amoosias.site:18521?path=/#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN---#TELEGRAM-PULAVPN&security=none&encryption=none&host=h22.amoosias.site&type=ws#@𝗣𝗨𝗟𝗔𝗩𝗣𝗡 • 🇩🇪⁹²
 vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@h22.amoosias.site:18521?type=ws&host=h22.amoosias.site&path=/#@V2raysCollector 🧨
@@ -503,3 +501,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970161971646527.prague-blkaft-aa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.218.93.159:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
