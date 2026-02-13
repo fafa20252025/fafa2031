@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.dioxv001.workers.dev&fp=chrome&type=ws&sni=q.dioxv001.workers.dev#Q
-vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.dioxv004.workers.dev&fp=chrome&type=ws&sni=q.dioxv004.workers.dev#Q
-vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.dioxv006.workers.dev&fp=chrome&type=ws&sni=q.dioxv006.workers.dev#Q
-vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.dioxv007.workers.dev&fp=chrome&type=ws&sni=q.dioxv007.workers.dev#Q
 vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.qdio005.workers.dev&fp=chrome&type=ws&sni=q.qdio005.workers.dev#Q
 vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.qdio009.workers.dev&fp=chrome&type=ws&sni=q.qdio009.workers.dev#Q
 vless://56a5b602-1513-0779-299d-af740be5bd37@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#@meliproxyy
@@ -503,3 +499,7 @@ vless://6fe32852-5f46-4090-8306-f5b419d6a469@140.248.159.164:80?path=/containers
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.236:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@FarazV2ray
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.236:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#Telegram:@meowvip1 *197*
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.238:9829?encryption=none&security=none&type=tcp&headerType=http&host=pro30afzar.com#🔥 Telegram: @wiki_tajrobe
+vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.60:9831?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#Telegram:@meowvip1 *201*
+vless://6fe32852-5f46-4090-8306-f5b419d6a469@94.183.162.68:9850?encryption=none&security=none&type=tcp&headerType=http&host=pro30afzar.com#🔥 Telegram: @wiki_tajrobe
+vless://6fe32852-5f46-4090-8306-f5b419d6a469@Pinterest.com:80?path=/containers/fi&security=none&encryption=none&host=filterchi-zanet-jendas.global.ssl.fastly.net&type=ws#Telegram:@meowvip1 *196*
+vless://6fe32852-5f46-4090-8306-f5b419d6a469@imgur.com:80?encryption=none&security=none&type=ws&host=madar-benyamin-salavat.global.ssl.fastly.net&path=/containers/fi#🔥 Telegram: @wiki_tajrobe

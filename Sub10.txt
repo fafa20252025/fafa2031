@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#@erfanandroid
-vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#@flyv2ray
-vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#@meliproxyy
-vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#@vpnbaz 🍇
 vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#@vpnbaz🪷
 vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#Channel : @Mrsoulb 🏴🏳
 vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#ConfigV2RayNG
@@ -503,3 +499,7 @@ vless://ff7571be-fb71-4a1c-8426-5a62401f01f3@104.17.163.123:8443?path=/?ed=2560&
 vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@94.182.169.82:8085?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#@canfingV2rayNG
 vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@ger1.wizshop2.com:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2ray_proxy_npv+❄️+@cloudkey_vpn
 vless://ffba891f-1e57-4f5f-9325-340e8cc3204c@78.157.42.130:25085?encryption=none&security=none&type=ws&path=/#telegram ⚡️ dailyv2ry
+vless://ffc1bcfa-4846-4bee-be26-5d7464f91e3d@104.18.32.47:443?path=/eyJqdW5rIjoiSE9KRGd1NHFzQ2Y0Y08iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&encryption=none&host=withered-hall-2564.alirezaisamazing.workers.dev&fp=chrome&type=ws&sni=WiTheReD-hAll-2564.AliREZAIsAmAzing.wOrKERS.deV#@chillguy_vpn
+vless://jina@20.218.137.249:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#Telegram : @V2ynpv
+vless://jina@20.218.137.249:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#t.me/Gp_Config
+vless://jina@20.218.137.249:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#⚡Telegram = @SOSkeyNET
