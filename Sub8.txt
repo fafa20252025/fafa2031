@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.236:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#🇫🇮 • @EmKavpn
+vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.60:9831?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#Telegram:@meowvip1 *201*
+vless://6fe32852-5f46-4090-8306-f5b419d6a469@Pinterest.com:80?path=/containers/fi&security=none&encryption=none&host=filterchi-zanet-jendas.global.ssl.fastly.net&type=ws#Telegram:@meowvip1 *196*
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@imgur.com:80?path=/containers/fi&security=none&encryption=none&host=madar-benyamin-salavat.global.ssl.fastly.net&type=ws#Telegram:@meowvip1 *198*
 vless://7068cce9-b0e7-4f9b-aa26-3e91e58d66bf@185.143.233.5:443?path=/?ed=443&security=tls&encryption=none&host=anten.ir.takzkjaupnpam.airircdn.com&fp=chrome&type=ws&sni=anten.ir&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
 vless://706fae5e-3fc6-41a4-8eb7-3b3df7bad72b@cent1de.maga171717.sbs:443?security=reality&encryption=none&pbk=WWg8Ccc6a3aGGgSRe4tOYrIotlussqEKlhAk3A1PsW4&headerType=none&spx=/rOUuXorv5kFdfX7&type=tcp&flow=xtls-rprx-vision&sni=snicent1de.maga171717.sbs&sid=913f32684b4776f9#[2646] - Telegram : @V2All
@@ -500,6 +503,3 @@ vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=/containers
 vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=/containers/fi&security=none&encryption=none&host=helimeligodi.global.ssl.fastly.net&type=ws#🔴 telegram ➡️ @ata_connect
 vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=/containers/fi&security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=helimeligodi.global.ssl.fastly.net&type=ws#@icv2ray
 vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=containers/fi&security=&encryption=none&host=helimeligodi.global.ssl.fastly.net&type=ws#@canfingV2rayNG
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=containers/fi&security=none&encryption=none&host=helimeligodi.global.ssl.fastly.net&type=ws#Em02
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80?encryption=none&type=ws&host=mohsenchavoshi.global.ssl.fastly.net&path=/containers/fi&security=none#@FRRE_VPN02 🍬
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80?path=/containers/fi&security=none&encryption=none&host=mohsenchavoshi.global.ssl.fastly.net&type=ws#@vpnbaz 🍬

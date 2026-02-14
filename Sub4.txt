@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://00a8d864-307a-49ec-9229-22c4c130fcf1@www.devpirate.baby:53352?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&ech=AGX+DQBhAAAgACBT1+9im96LY8rTtt3Jf/51fFTqJ3/mlyDpt4GKaPvbewAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABJ3d3cuZGV2cGlyYXRlLmJhYnkAAA==&type=tcp&allowInsecure=1&sni=www.devpirate.baby#@v2rayngzendegimamad🕊️
+vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#@V2rayNG3
+vless://00c01f55-e31a-41cd-872b-938cda90afc3@212.111.84.82:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=2715592069f36fe7#@Golestan_VPN - ⚡
 vless://00c01f55-e31a-41cd-872b-938cda90afc3@212.111.84.82:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=2715592069f36fe7#IR-@V2rayAlpha-26
 vless://00dd814b-8e7c-401a-a06b-a3b4aaf78b16@de.vpnone.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=chrome&security=reality&pbk=PycIxLERS3Kg4Kh7TQuiD1Kf9pNySxp5jMKEaIb_PjU&sid=4216490519225e#💞18@oneclickvpnkeys
 vless://00dd814b…#Telegram:@config_proxy 🔥
@@ -500,6 +503,3 @@ vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@199.232.196.193:80?mode=auto&path=/
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@199.232.196.193:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#Telegram : @V2ynpv
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@Ns4.iran-mehrbu.ir:443?path=/amir?ed=2048&security=tls&encryption=none&host=mostrabane.global.ssl.fastly.net&fp=chrome&type=ws&sni=mostrabane.global.ssl.fastly.net#@Al
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?encryption=none&security=tls&sni=foucse1.goooooooozoooo.sbs&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=foucse1.goooooooozoooo.sbs&path=/#کانفیگ رایگان = t.me/arisping
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?encryption=none&security=tls&sni=foucse1.goooooooozoooo.sbs&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=foucse1.goooooooozoooo.sbs&path=/#🔥 Telegram: @wiki_tajrobe
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?encryption=none&security=tls&sni=foucse1.goooooooozoooo.sbs&insecure=0&allowInsecure=0&type=ws&host=foucse1.goooooooozoooo.sbs&path=/#کانفیگ رایگان = t.me/arisping
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#Telegram : @V2ynpv
