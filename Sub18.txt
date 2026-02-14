@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-🟢V2ray✅IR MCI(همراه اول)🗺Location: 🇩🇪 Germany 🇩🇪vmess://eyJhZGQiOiIxLmFyc2FsYW52My5zYnMiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMzAzNTJlMDAtNGEzZS00NGRhLWZjOTItZGExMDJmMDEyZjc5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDk1IiwicHMiOiJUZWxlZ3JhbTpATmV0d29ya180NDLwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==📱NapsternetV(iOS)📥v2flyNG(Android)📥v2rayNG(Android)📥Matsuri(Android)@Network_442
 
 
 🟢V2ray✅IR MCI(همراه اول)🗺Location: unknowntrojan://Go5e2nJM8U@188.42.88.144:2087?path=%40v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#Telegram%3A%40Network_442%28%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%29📱NapsternetV(iOS)📥v2flyNG(Android)📥v2rayNG(Android)📥Matsuri(Android)@Network_442
@@ -503,3 +502,4 @@ vless://85462399-8624-4e5c-bbb0-f95d84ca8256@172.64.152.23:443?security=tls&sni=
 
 vless://85462399-8624-4e5c-bbb0-f95d84ca8256@194.76.18.25:443?security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%203.33
 
+vless://85462399-8624-4e5c-bbb0-f95d84ca8256@208.103.161.110:443?security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%203.33
