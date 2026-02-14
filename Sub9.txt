@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@theverge.com:80?path=/containers/fi&security=none&encryption=none&host=declanrice.global.ssl.fastly.net&type=ws#Em03
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@theverge.com:80?path=/containers/fi&security=none&encryption=none&host=declanrice.global.ssl.fastly.net&type=ws#⚡Telegram = @prrofile_purple
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@theverge.com:80?path=/containers/fi&security=none&encryption=none&host=declanrice.global.ssl.fastly.net&type=ws#⚡X_RAY_VPN1
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@theverge.com:80?path=/containers/fi&security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=declanrice.global.ssl.fastly.net&type=ws#@icv2ray
 vless://98aaebaa-bf4f-4e25-96f2-844691440360@vimopanel.com:80?path=/containers/fi&security=none&encryption=none&host=declanrice.global.ssl.fastly.net&type=ws#@Hddify ~ ❕
 vless://98b419ef-83a2-4d1b-a23d-566b7f24477b@nnmjkio.taipei101.indevs.in:443?encryption=none&security=tls&sni=NnMjkIO.TaipEi101.INdEVS.IN&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=NnMjkIO.TaipEi101.INdEVS.IN&path=/FHqOdFbetLpTGA5AqzZ2Mj#telegram 🍊 dailyv2ry
 vless://98b419ef-83a2-4d1b-a23d-566b7f24477b@nnmjkio.taipei101.indevs.in:443?encryption=none&security=tls&sni=NnMjkIO.TaipEi101.INdEVS.IN&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=NnMjkIO.TaipEi101.INdEVS.IN&path=/FHqOdFbetLpTGA5AqzZ2Mj#🌐 WS-TLS | @Express_alaki | src @DailyV2RY
@@ -503,3 +499,7 @@ vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80/?path=/?ed&security
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80?encryption=none&security=none&type=ws&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&path=/?ed#@Hddify
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80?encryption=none&security=none&type=ws&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&path=/?ed#کانفیگ رایگان = t.me/arisping
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80?encryption=none&security=none&type=ws&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&path=/?ed&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80?path=/&security=none&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws#@vpnbaz 🧸
+vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80?path=/?ed&security=&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@172.66.128.70:80?path=/?ed&security=&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws#VayNora

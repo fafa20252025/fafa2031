@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://457c367f-ac78-4641-9846-dd880332f7cf@217.13.104.154:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=travel.yandex.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4#🪝49@oneclickvpnkeys
-vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@79.137.102.79:8880?security=reality&encryption=none&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=2ad726e6b28daf57#@AliXTso
-vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@79.137.102.79:8880?security=reality&encryption=none&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=2ad726e6b28daf57#🛡 V 30 @Outline_Vpn
-vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@79.137.102.79:8880?security=reality&encryption=none&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=2ad726e6b28daf57#🛡 V 30 @Outline_ir
 vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@79.137.102.79:8880?security=reality&encryption=none&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=2ad726e6b28daf57#🟢Ṭelegram"@Filtering2020"
 vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@89.46.70.244:8880?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&sid=2ad726e6b28daf57&type=tcp&headerType=none#hope of freedom - @anotherme_night
 vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@realbook.psg2fr.pdf2book4iran1art.ir:8880?security=reality&encryption=none&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=2ad726e6b28daf57#IR-@V2rayAlpha-38
@@ -503,3 +499,7 @@ vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@18.153.207.189:39781?security=none&
 vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@3.123.254.74:39781?security=none&encryption=none&headerType=none&type=tcp#@AccoTUN
 vless://61066a16-78fc-4446-8013-6646bc3f27ba@172.67.73.14:443?path=/103.86.44.120=65432&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@chillguy_vpn
 vless://61066a16-78fc-4446-8013-6646bc3f27ba@afrcloud22.mmv.kr:443?encryption=none&type=ws&host=afrcloud22.mmv.kr&path=/103.86.44.120=65432&security=tls&sni=afrcloud22.mmv.kr#@FRRE_VPN02 🎭
+vless://61066a16-78fc-4446-8013-6646bc3f27ba@afrcloud22.mmv.kr:443?path=/103.86.44.120=65432&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@meliproxyy
+vless://61066a16-78fc-4446-8013-6646bc3f27ba@afrcloud22.mmv.kr:443?path=/103.86.44.120=65432&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@milivpnn سرور های جدید و متصل رو از کانال بردارید
+vless://61066a16-78fc-4446-8013-6646bc3f27ba@afrcloud22.mmv.kr:443?path=/103.86.44.120=65432&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@vpnbaz 🎭
+vless://61076cc8-6d63-4dbf-80b9-6c6d70f934ab@57.129.43.167:8080/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=chatgpt.com&fp=chrome&security=reality&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#@chillguy_vpn

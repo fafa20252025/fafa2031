@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTI1Ni1nY206MHRXd09FcnF6NWZORWxpZA@62.146.172.134:443#@Trick_mobil
-ss://YWVzLTI1Ni1nY206MHRXd09FcnF6NWZORWxpZA@62.146.172.134:443#@icv2ray
-ss://YWVzLTI1Ni1nY206MHRXd09FcnF6NWZORWxpZA@62.146.172.134:443#⚡Telegram = @prrofile_purple
-ss://YWVzLTI1Ni1nY206MHRXd09FcnF6NWZORWxpZA@62.146.172.134:443?#telegram 🌟 dailyv2ry
 ss://YWVzLTI1Ni1nY206MHRXd09FcnF6NWZORWxpZA@62.146.172.134:443?#telegram 🍀 dailyv2ry
 ss://YWVzLTI1Ni1nY206MHRXd09FcnF6NWZORWxpZA@62.146.172.134:443?#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Seattle🅿️ping:173.03ms 40 dailyv2ry
 ss://YWVzLTI1Ni1nY206MHRXd09FcnF6NWZORWxpZA@62.146.172.134:443?#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Seattle🅿️ping:173.03ms 68 dailyv2ry
@@ -503,3 +499,7 @@ vless://00dd814b…#Telegram:@config_proxy 🔥
 vless://01e2c6be-624d-4824-9fab-68afd2db90df@ftp.notls.hetzner.com.techraseir.ir:1820?security=none&encryption=none&headerType=http&type=tcp#@FergalVpnMod میخوای قطع نشی جوین بده
 vless://01ec5a9e-5f00-46e7-8697-5ba0a6bde23c@65.109.186.96:48622?security=&encryption=none&headerType=&type=tcp#@meliproxyy
 vless://01ec5a9e-5f00-46e7-8697-5ba0a6bde23c@65.109.186.96:48622?security=none&encryption=none&headerType=none&type=tcp#@v2ray_configs_pools
+vless://022c385b-5b5d-4bcd-89e2-fc5fcd3d8211@cloud198.turkserver.ir:2096?path=/&security=tls&encryption=none&host=eslime-doe.ip-venzo.com.&type=ws&sni=eslime-doe.ip-venzo.com.#@X_RAY_VPN1
+vless://02529660-52bf-4896-951a-1857c88d1dba@129.212.143.246:47542?mode=gun&security=reality&encryption=none&pbk=krsHuR6-NfPzTvW8uE9b_Xbjj-48yI91kLqhx4tWPUg&fp=chrome&spx=/&type=grpc&sni=zula.ir&sid=7a6d1a#@V2rayNG3
+vless://026d3137-54d8-4d7b-90d8-a006b60f717e@178.173.148.142:55057?encryption=none&type=tcp&headerType=none&security=none#@AbriVPN🖤
+vless://026d3137-54d8-4d7b-90d8-a006b60f717e@178.173.148.142:55057?encryption=none&type=tcp&headerType=none&security=none#@AbriVPN🖤  @Abrivpnbot
