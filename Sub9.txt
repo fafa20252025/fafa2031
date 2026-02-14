@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=/containers/fi&security=none&encryption=none&host=helimeligodi.global.ssl.fastly.net&type=ws#https://t.me/VIPV2rayNGNP
+vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=/containers/fi&security=none&encryption=none&host=helimeligodi.global.ssl.fastly.net&type=ws#⚡Telegram = @prrofile_purple
 vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=/containers/fi&security=none&encryption=none&host=helimeligodi.global.ssl.fastly.net&type=ws#🔴 telegram ➡️ @ata_connect
 vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=/containers/fi&security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=helimeligodi.global.ssl.fastly.net&type=ws#@icv2ray
 vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=containers/fi&security=&encryption=none&host=helimeligodi.global.ssl.fastly.net&type=ws#@canfingV2rayNG
@@ -501,5 +503,3 @@ vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&
 vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&encryption=none&headerType=none&type=tcp#@v2ray_proxy_npv+❄️+@ClouddVPN
 vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz 🎳
 vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
-vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&encryption=none&headerType=none&type=tcp#Provider: @YamYamProxy
-vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&encryption=none&headerType=none&type=tcp#|🇮🇷 Tel :[@@V2rayng_Fast]🪽 عضو شو

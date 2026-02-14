@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@metrix.taklady.com:47043?security=none&encryption=none&host=gharar.ir&headerType=http&type=tcp#@meliproxyy
+vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@metrix.taklady.com:47043?security=none&encryption=none&host=gharar.ir&headerType=http&type=tcp#اتصال دائمی با سرور های چنل🍦@Outline_ir
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@metrix.taklady.com:47043?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@meliproxyy
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@metrix.taklady.com:47043?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇺🇸+@Al
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@metrix.taklady.com:47043?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇺🇸@Hddify
@@ -501,5 +503,3 @@ vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052/?type=ws&encrypt
 vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?path=/?ed=2560&security=none&encryption=none&host=winbiss-0tpka6-v1.winbiss.workers.dev&type=ws#@chillguy_vpn
 vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?type=ws&encryption=none&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=/?ed=2560#@chillguy_vpn
 vless://25f828ef-fc93-446c-a7d5-e3fe6fe6a662@65.109.188.104:27759?security=&encryption=none&headerType=&type=tcp#@meliproxyy
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#@milivpnn سرور های جدید و متصل رو از کانال بردارید
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@199.232.196.193:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#Em
