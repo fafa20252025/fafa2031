@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://wb6xxspa-0z9h-jpeq-tgk5-tgz28x3k8cww@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
+trojan://wr6ubgsw-jfpv-ioen-ge1d-bbwphhfxvu20@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
+trojan://yetanother@185.199.108.153:443?path=/grpc&security=tls&type=grpc&sni=pages.github.com#@filembad
+trojan://yetanother@185.199.108.153:443?path=/grpc&security=tls&type=grpc&sni=pages.github.com#@kamkarstore
 vless://---DIGIV2RAY---@185.146.173.68:2095?Telegram=@V2RayTz,@V2RayTz&path=/DigiconnecT?ed=1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#@Hope_Net-join-us-on-Telegram
 vless://---DIGIV2RAY--@185.146.173.68:2095?path=/DigiconnecT?ed=1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#@Hope_Net-join-us-on-Telegram
 vless://---DIGIV2RAY--@185.146.173.68:2095?path=/DigiconnecT?ed=1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#[2937] - Telegram : @V2All
@@ -499,7 +503,3 @@ vless://2056aaf3-7e69-41fa-b43d-b658d789d2cf@cdn1.sohacase.ir:80?mode=auto&path=
 vless://2056aaf3-7e69-41fa-b43d-b658d789d2cf@cdn1.sohacase.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=italiano.vpconnec.org&type=xhttp#@meliproxyy
 vless://2056aaf3-7e69-41fa-b43d-b658d789d2cf@cdn1.sohacase.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=italiano.vpconnec.org&type=xhttp#https://t.me/VIPV2rayNGNP
 vless://2056aaf3-7e69-41fa-b43d-b658d789d2cf@cdn1.sohacase.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=italiano.vpconnec.org&type=xhttp#⚡Telegram = @prrofile_purple
-vless://20c50e3a-5b87-49dd-bd20-03c7f2735e40@www.speedtest.net:80/?encryption=none&security=none&type=ws&host=cvsoidswg.k3ckfz151a.workers.dev&path=/#@v2rays_ha 8694
-vless://20cf8a2b-e301-4240-9c03-20883249a287@104.16.209.187:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
-vless://20cf8a2b-e301-4240-9c03-20883249a287@104.24.198.111:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
-vless://20df8c30-c07a-494e-b83d-4af21ee57788@85.133.197.236:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
