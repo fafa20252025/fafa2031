@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&security=none&type=ws&path=/vless/#👉🆔@v2ray_configs_pool📡🇦🇱®️Albania©️Tirana🅿️ping:51ms 18 dailyv2ry
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&security=none&type=ws&path=/vless/#👉🆔@v2ray_configs_pool📡🇦🇱®️Albania©️Tirana🅿️ping:51ms 36 dailyv2ry
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&security=none&type=ws&path=/vless/#👉🆔@v2ray_configs_pool📡🇦🇱®️Albania©️Tirana🅿️ping:51ms 7 dailyv2ry
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?encryption=none&security=none&type=ws&path=/vless/#👉🆔@v2ray_configs_pool📡🇦🇱®️Albania©️Tirana🅿️ping:51ms 73 dailyv2ry
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?path=/vless/&security=none&encryption=none&type=ws#@vpn_openet
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇦🇱@FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#IR-@V2rayAlpha-35
@@ -503,3 +499,7 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=Pulavpn11.afrcloud22.mmv.kr#@@V2rayng_Fast 0797
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=Pulavpn11.afrcloud22.mmv.kr#@@V2rayng_Fast 👈🏻👈🏻سرورجدید داخل چنل
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=Pulavpn11.afrcloud22.mmv.kr#@SPEEDS_VPN1-🫆
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=Pulavpn11.afrcloud22.mmv.kr#@Spotify_Porteghali 0797
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr#@erfanandroid
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr#@v2rayngzendegimamad🕊️
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr#🥊 Tel : @ProxyVPN11 ⟵

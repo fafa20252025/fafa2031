@@ -4,9 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-🟢V2ray✅MTNIRANCELL(ایرانسل)🗺Location: 🇫🇷 France 🇫🇷vmess://eyJhZGQiOiI0NS4zMi4xNDQuMjA5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiJlNGMyNzQ4MC02ZjY0LTQ4Y2UtOWRhNC1jYWQzZDQwZTEwN2MiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODU5NSIsInBzIjoiVGVsZWdyYW06QE5ldHdvcmtfNDQy8J+Hq/Cfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9📱NapsternetV(iOS)📥v2flyNG(Android)📥v2rayNG(Android)📥Matsuri(Android)@Network_442
-
-
 🟢V2ray✅MTNIRANCELL(ایرانسل)🗺Location: 🇩🇪 Germany 🇩🇪vmess://eyJhZGQiOiI0NS4xMzMuMjQ3LjI0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiMS52MmpleS5mdW4iLCJpZCI6IjVmMTY0NTFmLWFkNTQtNDM0OC1mNjRhLTE1NTYyNTgyZTNjNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA5NSIsInBzIjoiVGVsZWdyYW06QE5ldHdvcmtfNDQy8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=📱NapsternetV(iOS)📥v2flyNG(Android)📥v2rayNG(Android)📥Matsuri(Android)@Network_442
 
 
@@ -503,3 +500,6 @@ vless://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@194.76.18.25:443?security=tls&sni=r
 vless://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@208.103.161.110:443?security=tls&sni=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%209.99
 
 vless://f521fa2c-835e-43e7-b4dc-a1fd6f2ed1dd@69.84.182.20:443?security=tls&sni=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%209.99
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Ainita%20Server%20azure-sto.edgeservers.org
+
