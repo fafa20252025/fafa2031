@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://43e9cd8c-d77f-4a81-9fee-e3ce588507e7@ir.j-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#https://t.me/allproconf
-vless://43e9cd8c-d77f-4a81-9fee-e3ce588507e7@mail.j-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#@filembad
 vless://43e9cd8c-d77f-4a81-9fee-e3ce588507e7@mail.j-sub.cfd:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#https://t.me/allproconf
 vless://43e9cd8c-d77f-4a81-9fee-e3ce588507e7@mail.whaletm2.site:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#@filembad
 vless://43e9cd8c-d77f-4a81-9fee-e3ce588507e7@mail.whaletm2.site:1517?security=none&type=tcp&headerType=http&path=/&host=testspeed-foreign.tci.ir#https://t.me/allproconf
@@ -503,3 +501,5 @@ vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&secu
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#@appsooner کانال تلگرام 🕊️
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#IR-@V2rayAlpha--11
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#🇮🇷 IR 52 @Outline_Vpn
+vless://5a42c775-4671-466a-bc54-768eb31488f1@vip-80.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#hope of freedom - @anotherme_night
+vless://5a42c775-4671-466a-bc54-768eb31488f1@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@proxy_kafee

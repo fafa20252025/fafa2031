@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c43f0850-9ef2-4af9-c903-871e31788758@18.184.52.123:58366?security=none&encryption=none&headerType=none&type=tcp#IR-@V2rayAlpha--7
-vless://c473b347-31a0-4081-b050-6976942c8b00@zeus.ns.cloudflare.com:8880/?path=/PHPmyADMIN?Q=/www.speedtest.net-www.speedtest.net-www.speedtest.net-chatgpt.com-chatgpt.com-chatgpt.com-www.openai.com-www.openai.com-www.openai.com?ed=443&security=none&encryption=none&host=us-node-m1.ip-venzo.com.&type=httpupgrade#@v2rays_ha 8852
 vless://c4a9c15c-2e49-44d5-b959-bf7e7d313054@meli.dataxshop.ir:2095?path=/datax_proxy&security=none&encryption=none&host=amsterdam.11.v.www.speedtest.net.nestle.ir.ftp.debian.org.tmo.docb.datax.click.dataxshop.ir&type=ws#🇳
 vless://c4a9c15c-2e49-44d5-b959-bf7e7d313054@meli.dataxshop.ir:2095?path=/datax_proxy&security=none&encryption=none&host=amsterdam.11.v.www.speedtest.net.nestle.ir.ftp.debian.org.tmo.docb.datax.click.dataxshop.ir&type=ws#🇳🇱 telegram : @datax_proxy
 vless://c544111e-cb4d-48c1-b05e-1a7c4b0a5000@7fra.solonettochka.ru:443?security=reality&encryption=none&pbk=5Y8SmPZENDPp93lANbxf_sO7vKEFNIEqBNL6sx2vigI&headerType=none&fp=chrome&spx=/EytS2WsNGODUE1q&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=874e4e#@Golestan_VPN - All net
@@ -503,3 +501,5 @@ vless://e03af45b-1f94-46e5-f0fc-35acd3d3909e@bluebot.top:8080?security=none&encr
 vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443/?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#@v2rays_ha 8816
 vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443/?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#@v2rays_ha 8850
 vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443/?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#@v2rays_ha 8806
+vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=Tet.mehspeedtest.com&alpn=h2,http/1.1#@FREE_VPN02 🛟
+vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=Tet.mehspeedtest.com&alpn=h2,http/1.1#🇩🇪@FREE_VPN02
