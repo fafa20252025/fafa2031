@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.76.254:80/?path=/?ed=2560&Telegram🇨🇳 @PULAVPN&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#@v2rays_ha 8901
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#Telegram:@meowvip1 *220*
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=#Telegram-@AliXTso-Telegram-@AliXTso-Telegram-@AliXTso-Telegram-@AliXTso-Telegram-@AliXTso-Telegram-@AliXTso-Telegram-@AliXTso-Telegram-@AliXTso?ed=1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#Telegram:@meowvip1 *225*
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&security=&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#VayNora
@@ -503,3 +502,4 @@ vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443
 vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?path=/site&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=asbs-osds.global.ssl.fastly.net#@vpnbaz 🎗
 vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?path=/site&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=asbs-osds.global.ssl.fastly.net#https://t.me/VIPV2rayNGNP
 vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?path=/site&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=asbs-osds.global.ssl.fastly.net#vmesskhodam
+vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?path=/site&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=asbs-osds.global.ssl.fastly.net#✅سرورهایبیشتردر:SaFaVpN@✅
