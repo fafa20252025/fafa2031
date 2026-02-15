@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://afffbafe-881f-4a06-bc22-d1a49121ba36@37.139.33.15:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=8ba12e75110b7a9c&sni=m.vk.ru&type=tcp#@V2raysCollector 💞
-vless://afffbafe-881f-4a06-bc22-d1a49121ba36@37.139.33.15:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=8ba12e75110b7a9c&sni=m.vk.ru&type=tcp#⚡Telegram = @SOSkeyNET
-vless://b03585ff-1e74-4767-b2a5-72107f127088@82.25.145.95:26446?path=/&security=none&encryption=none&type=ws#@Golestan_VPN - 🦁☀️
-vless://b03585ff-1e74-4767-b2a5-72107f127088@82.25.145.95:26446?path=/&security=none&encryption=none&type=ws#IR+@V2rayAlpha-24
-vless://b0d1a683-c4df-423a-8428-9493f027e3ef@144.31.7.199:6443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=debug.resolvertest.doh.umbrella.com&sid=6ba85179e30d4fc2#Channel : @Mrsoulb 🏴🏳
-vless://b0e415f0-7630-413e-8c7e-2fe9e45851bd@tun1-rasad.rasad-vip-service.ir:9900?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@digi_config عضو کانال تلگرام نباشی سرور قطع میشه
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?path=/IVApi/NL/3&security=none&encryption=none&type=ws#@AccoTUN
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?path=/IVApi/DE/3&security=none&encryption=none&type=ws#@AccoTUN
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.24:8080?path=/IVApi/UK/3&security=none&encryption=none&type=ws#Em010
@@ -503,3 +497,9 @@ vless://ced37f30-d54c-42f2-aa5e-9eea28f3fa33@panel.ahmadmomeni.ir:44088?encrypti
 vless://ced37f30-d54c-42f2-aa5e-9eea28f3fa33@panel.ahmadmomeni.ir:44088?encryption=none&security=none&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran (District 12)🅿️ping:139.97ms 40 dailyv2ry
 vless://ced37f30-d54c-42f2-aa5e-9eea28f3fa33@panel.ahmadmomeni.ir:44088?encryption=none&security=none&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran (District 12)🅿️ping:139.97ms 8 dailyv2ry
 vless://cede58e4-091f-4eb7-b9d5-9b892e85b291@146.185.208.206:8443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=5f22#MCI-@V2rayAlpha--3
+vless://cede58e4-091f-4eb7-b9d5-9b892e85b291@146.185.208.206:8443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=5f22#VayNora
+vless://cf02a28a-347a-482b-abef-3bbe8cff5f9b@193.134.100.165:1160?security=&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#🇮🇷 IR - 🇺🇲 US
+vless://cfac6bb3-fb6e-4a1a-a0df-02a095269d86@eco.nexun.ir:80?encryption=none&security=none&sni=ars.nexun.net&fp=chrome&type=xhttp&host=ars.nexun.net&path=/ceoHTTP&mode=auto&extra={"headers":{"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15","Pragma":"no-cache"}}#Telegram:@config_proxy 🔥
+vless://cfac6bb3-fb6e-4a1a-a0df-02a095269d86@eco.nexun.ir:80?mode=auto&path=/ceoHTTP&security=&alpn=http/1.1&encryption=none&extra={"headers":{"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15","Pragma":"no-cache"}}&host=ars.nexun.net&fp=chrome&type=xhttp&sni=ars.nexun.net#🇩🇪 🆔@ConfigV2RayNG
+vless://cfac6bb3-fb6e-4a1a-a0df-02a095269d86@eco.nexun.ir:80?mode=auto&path=/ceoHTTP&security=&alpn=http/1.1&encryption=none&host=ars.nexun.net&fp=chrome&type=xhttp&sni=ars.nexun.net#Config 5 - @lebertad
+vless://cfac6bb3-fb6e-4a1a-a0df-02a095269d86@eco.nexun.ir:80?mode=auto&path=/ceoHTTP&security=none&alpn=http/1.1&encryption=none&extra={"headers":{"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15","Pragma":"no-cache"}}&host=ars.nexun.net&fp=chrome&type=xhttp&sni=ars.nexun.net#@config_v2rayy

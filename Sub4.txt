@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://pvy1f4ro-9mb7-nz76-frfg-catzvckf57yr@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
-trojan://r137979f@162.159.153.212:2087?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=ws&security=tls&path=/?ed=2560&host=sheleqaz.emotionreza.workers.dev&sni=sheleqaz.emotionreza.workers.dev&fp=chrome#🇩🇪[Telegram:NetifyVpn]
-trojan://r1zamkc6-lx13-cyjf-61c5-z69pw796vfdb@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
-trojan://sb5sbbek-dg1o-uwzm-gyy9-amqchv7pben5@127.0.0.1:2080?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@vpnbaz
-trojan://supysic2-lrzc-t9do-vsrz-pqohoceob4u2@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
-trojan://t4w9xm79-2t1c-uc75-979x-stl6i9l9yn0m@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
 trojan://telegram-id-directvpn@13.36.190.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#VayNora
 trojan://telegram-id-directvpn@15.236.182.0:22223/?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@v2rays_ha 8934
 trojan://telegram-id-directvpn@18.157.245.168:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@filembad
@@ -503,3 +497,9 @@ vless://204fae2e-ab13-4ba8-a59b-ec37bbcf0e68@89.125.39.127:32354?encryption=none
 vless://2056aaf3-7e69-41fa-b43d-b658d789d2cf@cdn1.sohacase.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=italiano.vpconnec.org&type=xhttp#@X_RAY_VPN1
 vless://2056aaf3-7e69-41fa-b43d-b658d789d2cf@cdn1.sohacase.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=italiano.vpconnec.org&type=xhttp#@icv2ray
 vless://2056aaf3-7e69-41fa-b43d-b658d789d2cf@cdn1.sohacase.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=italiano.vpconnec.org&type=xhttp#⚡Telegram = @prrofile_purple
+vless://20cf8a2b-e301-4240-9c03-20883249a287@104.16.209.187:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
+vless://20cf8a2b-e301-4240-9c03-20883249a287@104.24.198.111:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560# ⏺️Tel: @pPal03 ⏺️Join ⏺️
+vless://20df8c30-c07a-494e-b83d-4af21ee57788@85.133.197.236:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+vless://20df8c30-c07a-494e-b83d-4af21ee57788@perl.org:80?path=/containers/fi&security=&encryption=none&host=lexeu.global.ssl.fastly.net&type=ws#channel : @freedomofinfor
+vless://211c0e96-75e2-4255-bcd5-d470d9dda1a2@95.38.38.7:27790?security=none&encryption=none&headerType=none&type=tcp#جهت اتصال رایگان و دور زدن فیلترینگ به ما بپیوندید @chlra85
+vless://211c0e96-75e2-4255-bcd5-d470d9dda1a2@95.38.38.7:27801?security=none&encryption=none&headerType=none&type=tcp#🇺🇸 جهت اتصال رایگان و دور زدن فیلترینگ به ما بپیوندید @chlra85
