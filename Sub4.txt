@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🥊 Tel : @ProxyVPN11 ⟵
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#🧿 Tel : @ProxyVPN11 ⟵
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#ConfigV2RayNG
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#IR-@V2rayAlpha--4
@@ -503,3 +502,4 @@ vless://192f7c25-0c3a-4089-a67b-5138c5d5d561@144.31.139.71:443/?type=tcp&encrypt
 vless://192f7c25-0c3a-4089-a67b-5138c5d5d561@144.31.139.71:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=de.gagtubelol.com&fp=chrome&security=reality&pbk=o29JCvEwwDcIW6ZQu06m6Vyxko6pXaNjzNd-jGcwABU&sid=f1a3d4b6de93aa3a#⚙️2@oneclickvpnkeys
 vless://193c75c1-1af1-484a-84ec-14de4828d209@de.griffon-guard.com:8443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#Channel : @Mrsoulb 🏴🏳
 vless://194a056f-c8ce-42ab-9189-f3401296d4e4@104.18.4.130:8080?path=/wp-admin.php?ed=2052&security=&encryption=none&host=kernal05.ivy-net.ir&type=ws#vmesskhodam
+vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#IR-@V2rayAlpha-46

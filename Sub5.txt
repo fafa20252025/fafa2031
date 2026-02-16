@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#IR-@V2rayAlpha-46
 vless://1971ec0f-fa37-4112-9b4e-4952e84df2a9@65.109.220.223:24542?encryption=none&type=tcp&headerType=none&security=none#@FREE_VPN02 🎨
 vless://1971ec0f-fa37-4112-9b4e-4952e84df2a9@65.109.220.223:24542?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz 🎨
 vless://1971ec0f-fa37-4112-9b4e-4952e84df2a9@65.109.220.223:24542?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
@@ -503,3 +502,4 @@ vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️283🌐🆕️
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#✅کانفیگهای بیشتردر:SaFaVpN@✅
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#✅کانفیگهای بیشتردر:prrofile_purple@✅
+vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#〘 🏴 | 🪽 @config_v2rayy 〙

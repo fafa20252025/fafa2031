@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dcf0b94b-3d1a-4486-a8c8-edb04976e9f6@43.163.241.110:39112?encryption=none&security=none&type=tcp&headerType=none&host=Varzesh3.com#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:273.94ms 96 dailyv2ry
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?security=tls&type=ws&path=/--Telegram---@MiTiVPN/---@MiTiVPN&host=mitivpn-2.nic3-1.workers.dev&alpn=http/1.1&sni=nic3-1.workers.dev&fp=chrome&encryption=none#Telegram:@config_proxy 🔥
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&sni=web.abcallcenter.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web.abcallcenter.com&path=/--Telegram---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN?ed=2560#🔥 Telegram: @wiki_tajrobe
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&sni=web.abcallcenter.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web.abcallcenter.com&path=/Telegram@-Telegram@-Telegram@-Telegram@-Telegram@-Telegram@-Telegram@#کانفیگ رایگان = t.me/arisping
@@ -503,3 +502,4 @@ vless://f844e894-ba14-410f-aae1-1d1484d336ba@144.31.2.86:443?encryption=none&flo
 vless://f844e894-ba14-410f-aae1-1d1484d336ba@144.31.2.86:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&security=reality&sid=cbdfef7f3ede2072&sni=google.com&type=tcp#⚡Telegram = @SOSkeyNET
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@45.12.30.95:443?encryption=none&security=tls&sni=beh1.salonemojallal.ir.&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:27.18ms 44 dailyv2ry
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@45.12.30.95:443?encryption=none&security=tls&sni=beh1.salonemojallal.ir.&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:27.18ms 60 dailyv2ry
+vless://f84ab055-3ffe-4a90-aad3-30596550b03c@45.12.30.95:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=beh1.salonemojallal.ir.#@X_RAY_VPN1
