@@ -4,6 +4,11 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+‌  🗿 🗿 🗿  Mci:vmess://eyJhZGQiOiIyMTMuMzIuMTA4LjkzIiwiYWlkIjoiMCIsImhvc3QiOiIyMTMuMzIuMTA4LjkzIiwiaWQiOiIwNTI5YmNhNS1iZTFjLTQzZDItZTY2Mi1lODYyZmFkMTQ5MWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjI4NTY1IiwicHMiOiJAYmV0YV92MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==📂 آموزش استفاده از کانفیگ ها 📱🍎• More: @beta_v2ray 🗿
+
+
+‌  🗿 🗿 🗿  Irancell-Rightel-wifi:vmess://eyJhZGQiOiJpMi5hcnNhbGFudjMuc2JzIiwiYWlkIjoiMCIsImhvc3QiOiJibWkuaXIiLCJpZCI6IjYwMWU5OTAyLTExZjYtNDgzMi1jZDFhLWZjZTEzOWIwNWI0MSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM4MDI4IiwicHMiOiJAcHJveHlfYmV0YSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=📂 آموزش استفاده از کانفیگ ها 📱🍎• More: @beta_v2ray 🗿
+
 
 ‌  🗿 🗿 🗿  vmess://eyJhZGQiOiJmcnIuc2hhcGFyay10YWIuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJibWkuaXIiLCJpZCI6InR1cmJvby1zZXJ2ZXIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0MDczNCIsInBzIjoiQHYycmF5bmdfdnBubiDYp9iu2KrYtdin2LXbjCDaqdin2YbYp9mEIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==📂 آموزش استفاده از کانفیگ ها 📱🍎• More: @beta_v2ray 🗿
 
@@ -498,8 +503,3 @@ vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@142.248.80.157:443?type=tcp&encrypt
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@172.66.128.70:80?encryption=none&security=none&type=ws&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&path=%2F%3Fed#%3E%3E%40DailyV2RY%3A%3AXX
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@nodejs.org:80?path=%2F%3Fed&security=none&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#%3E%3E%40V2RAY_VMESS_free%3A%3AXX
 vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40oneclickvpnkeys%3A%3AIT
-vless://4cf1a3a0-7360-41ff-84ae-b621001e8376@zzula.ir:443/?type=ws&encryption=none&flow=&host=usa.correctcosette.workers.dev&path=%2FR8BFTroQ00j1&security=tls&sni=Usa.cORreCtCOsETTe.WOrKeRS.DeV&alpn=http%2F1.1&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://53342b53-157e-4475-9f3a-40439434e689@172.64.156.188:80/?type=ws&encryption=none&flow=&host=c.iamdt.dpdns.org&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%3E%3E%40outline_vpn%3A%3AUS
-vless://5238a315-4427-4915-a1de-4978e3029a1c@www.speedtest.net:2096?path=%2FeyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&insecure=0&host=long-mode-2783.sepna114.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=loNg-modE-2783.SEpna114.WOrkERs.dEV#%3E%3E%40prrofile_purple%3A%3AUS
