@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇳🇱@FreakConfig
 trojan://humanity@v3.dabache.top:443?security=tls&sni=www.calmlunch.com&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=//assignment#@V2raysCollector 🌹
 trojan://humanity@v3.dabache.top:443?security=tls&sni=www.calmlunch.com&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=//assignment#@en_vpn/کانفیگ های بیشتر
 trojan://humanity@v3.dabache.top:443?security=tls&sni=www.calmlunch.com&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=//assignment#⚡Telegram = @SOSkeyNET
@@ -502,4 +503,3 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.158.133.158:2096?path=/?ed=2560
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@192.71.82.245:2096?path=/?ed=2560&Telegramv2rayngzendegimamadv2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=sni.111000.cc.Cd&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.cc.Cd#@v2rayngzendegimamad🕊️
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@www.gco.gov.qa:2053?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#@v2rayngzendegimamad🕊️
 vless://1a9344e2-6bcd-485d-833c-6fc642911be7@ss3.beifengyun.top:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=B7OdhRu8r4hB2qH3lMaYZKImHrD7VhjBKZef0gkBnmc&sid=9295a6a1874981&sni=www.intel.com&servername=www.intel.com&spx=/&fp=chrome#@V2raysCollector ☄
-vless://1a9344e2-6bcd-485d-833c-6fc642911be7@ss3.beifengyun.top:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=B7OdhRu8r4hB2qH3lMaYZKImHrD7VhjBKZef0gkBnmc&sid=9295a6a1874981&sni=www.intel.com&servername=www.intel.com&spx=/&fp=chrome#⚡Telegram = @SOSkeyNET

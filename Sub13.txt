@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77@78.159.131.5:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=f6f88b14adc6f641#@v2box
 vless://dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77@78.159.131.76:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=dfb584388d2927f7#IR-@V2rayAlpha--14
 vless://dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77@78.159.131.76:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=dfb584388d2927f7#MCI-@V2rayAlpha--1
 vless://ddf54c0e-29ae-4ce0-847d-ebdf71d1ca2c@135.125.139.219:2055?security=none&encryption=none&host=TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN,TELEGRAM-PULAVPN&headerType=none&type=tcp#@𝗣𝗨𝗟𝗔𝗩𝗣𝗡 • 🇩🇪¹²⁰
@@ -502,4 +503,3 @@ vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?encryption=none&se
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?encryption=none&security=none&type=tcp&headerType=none#telegram 🌺 dailyv2ry
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?encryption=none&security=none&type=tcp&headerType=none#telegram 🚀 dailyv2ry
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=&encryption=none&headerType=none&type=tcp#@meliproxyy
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=&encryption=none&headerType=none&type=tcp#•⭐ https://t.me/ConfigX2ray
