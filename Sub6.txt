@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=ipv4.yasharteam.com#🧢-@Hddify
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=ipv4.yasharteam.com&note=@FreeOnlineVPN#🇫🇮 - FI - @FreeOnlineVPN
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com#@appsooner کانال تلگرام 🕊️
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com#@freenettir
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com#@meliproxyy
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com&note=@FreeOnlineVPN#🇫🇮 - FI - @FreeOnlineVPN
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#@@V2rayng_Fast
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#@Banehfori جوین باشید⚡
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#@ConfigV2RayNG
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#@Spartan_YT
@@ -503,3 +496,10 @@ vless://3f3a3550-7884-4b64-a54c-59902f1bb432@144.31.2.86:443?encryption=none&flo
 vless://3fa2f5cd-0cbc-4e4f-bce1-a59ae090eef4@192.76.160.216:2280/?type=tcp&encryption=none&flow=&sni=tgju.org&fp=chrome&security=reality&pbk=3O9CVvzD_0omAKw17VJoL0NlezpzxRAHNIbOWGBto2I&sid=faf804ddc2e49f6c#⚙️25@oneclickvpnkeys
 vless://3fa2f5cd-0cbc-4e4f-bce1-a59ae090eef4@192.76.160.216:2280?security=reality&encryption=none&sni=tgju.org&fp=chrome&pbk=3O9CVvzD_0omAKw17VJoL0NlezpzxRAHNIbOWGBto2I&sid=faf804ddc2e49f6c&type=tcp&headerType=none&path=/#@chillguy_vpn
 vless://3fb00c1d-e8ab-49f7-ac5e-8033348fed32@194.61.3.100:17799/?type=tcp&encryption=none&path=///AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN---AbriVPN--AbriVPN--AbriVAbriVAbriVPN--AbriVPN--AbriVPN--AbriVPN--v&host=ripe.net&headerType=http&security=none#@AbriVPNbot-❤️
+vless://3fed46d5-54b7-4a00-84be-2e9bfc62148a@193.151.139.212:2086?security=none&encryption=none&headerType=none&type=tcp#@NETMelliAnti
+vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv10.outlinekeys.com:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv10.outlinekeys.com#🌊 Tel : @ProxyVPN11 ⟵
+vless://3ff60b54-f6d6-467f-9189-df1a0567c647@151.101.195.8:80?encryption=none&type=ws&host=norbert-team-free1.global.ssl.fastly.net&path=/?ed=2052?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪@EVAY_VPN | منبع ضد اختلال
+vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=&encryption=none&headerType=&type=tcp#@meliproxyy
+vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=&encryption=none&headerType=none&type=tcp#@canfingV2rayNG
+vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=none&encryption=none&headerType=none&type=tcp#@SPEEDS_VPN1-🫆
+vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=none&encryption=none&headerType=none&type=tcp#✅سرورهایبیشتردر:prrofile_purple@✅
