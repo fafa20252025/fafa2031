@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a25806c0-0e09-46a2-bd27-a94e92285ce9@84.54.48.238:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=chrome&security=reality&pbk=SlyS4DeFZ7Ic9r8wc-FNpxfQvCqzEe05RsmhZ4jsYm0&sid=3cc8ceccd9de7f#🅿️9@oneclickvpnkeys
+vless://a25806c0-0e09-46a2-bd27-a94e92285ce9@alb.pineappled.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SlyS4DeFZ7Ic9r8wc-FNpxfQvCqzEe05RsmhZ4jsYm0&sid=3cc8ceccd9de7f&sni=www.amd.com#@V2raysCollector 🧨
+vless://a25806c0-0e09-46a2-bd27-a94e92285ce9@alb.pineappled.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SlyS4DeFZ7Ic9r8wc-FNpxfQvCqzEe05RsmhZ4jsYm0&sid=3cc8ceccd9de7f&sni=www.amd.com#⚡Telegram = @SOSkeyNET
+vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@104.18.26.90:2053?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=az.downloadgameiran.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=az.downloadgameiran.ir#@AliXTso
+vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@104.18.26.90:2053?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=az.downloadgameiran.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=az.downloadgameiran.ir#🟢Ṭelegram"@Filtering2020"
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@104.18.26.90:2053?security=tls&type=httpupgrade&headerType=&path=/&host=az.downloadgameiran.ir&sni=az.downloadgameiran.ir&fp=chrome&alpn=h2,http/1.1#@V2rayngSeven
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@45.130.125.160:2082/?security=none&type=httpupgrade&headerType=&path=/?ed=1024&host=Pishgam.mehrsazi.ir#@v2rays_ha 9076
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@45.130.125.160:2082?path=/?ed=1024&security=none&encryption=none&host=Pishgam.mehrsazi.ir&type=httpupgrade#@AliXTso
@@ -498,8 +503,3 @@ vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.tr.f2gate.ir:17432?security=&e
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.tr.f2gate.ir:17432?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#ConfigV2RayNG
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.tr.f2gate.ir:17432?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#•⭐ https://t.me/ConfigX2ray
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.tr.f2gate.ir:17432?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@NetZoneNews
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.tr.f2gate.ir:17432?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@V2rayBaaz
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.tr.f2gate.ir:17432?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#Vip - @NetZoneNews 💎
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.tr.f2gate.ir:17432?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️279🌐🆕️
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.tr.f2gate.ir:17432?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇹🇷 @Hddify ~ Telegram
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.ua.flicknet.ir:62306?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#E204
