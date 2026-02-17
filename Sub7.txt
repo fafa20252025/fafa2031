@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=/vless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#🇵🇱[openproxylist.com] vless-PL
-vless://426b17cf-400c-417f-8b36-459a01e57351@38.93.136.8:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=miui.com#IR-@V2rayAlpha-14
-vless://426b17cf-400c-417f-8b36-459a01e57351@38.93.136.8:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=miui.com#🔵@chillguy_vpn
-vless://427f826f-6510-b8f8-2848-6b4e6b9325ac@ir.grbr.private-link.lornanet.ir:3130?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rEfErSion.Com&fp=chrome&pbk=dQYahYS6055ghu03hkvNxv9geHCJHqASFVbXs3v1jDw&sid=e99768d076c05ab2&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN &type=tcp&headerType=none#🇩🇪  • @𝗣𝗨𝗟𝗔𝗩𝗣𝗡-ک م خ¹🔥
 vless://427f826f-6510-b8f8-2848-6b4e6b9325ac@ir.grbr.private-link.lornanet.ir:3130?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rEfErSion.Com&fp=chrome&pbk=dQYahYS6055ghu03hkvNxv9geHCJHqASFVbXs3v1jDw&sid=e99768d076c05ab2&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN &type=tcp&headerType=none#🇩🇪 ı 𝐕𝐢𝐏 ı @𝗣𝗨𝗟𝗔𝗩𝗣𝗡-ک م خ
 vless://427f826f-6510-b8f8-2848-6b4e6b9325ac@ir.grbr.private-link.lornanet.ir:9174?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=dQYahYS6055ghu03hkvNxv9geHCJHqASFVbXs3v1jDw&sid=e99768d076c05ab2&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN &type=xhttp&path=/?ed=2560&extra={'headers':+{},+'xmux':+{}}#🇩🇪  • @𝗣𝗨𝗟𝗔𝗩𝗣𝗡-ک م خ²🔥
 vless://427f826f-6510-b8f8-2848-6b4e6b9325ac@ir.grbr.private-link.lornanet.ir:9174?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=dQYahYS6055ghu03hkvNxv9geHCJHqASFVbXs3v1jDw&sid=e99768d076c05ab2&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN &type=xhttp&path=/?ed=2560&extra={'headers':+{},+'xmux':+{}}#🇩🇪 ı 𝐕𝐢𝐏 ı @𝗣𝗨𝗟𝗔𝗩𝗣𝗡-ک م خ
@@ -503,3 +499,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@157.245.203.177:443/?type=ws&encryp
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443/?type=ws&encryption=none&host=sni.111000.indevs.in&path=/?ed=2560&security=tls&sni=sni.111000.indevs.in#Telegram:@config_proxy 🔥
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443/?type=ws&encryption=none&host=sni.111000.indevs.in&path=/?ed=2560&security=tls&sni=sni.111000.indevs.in#https://t.me/allproconf
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443/?type=ws&encryption=none&host=sni.111000.indevs.in&path=/?ed=2560&security=tls&sni=sni.111000.indevs.in#تو کانال نتورلد نباشید قطع میشن@networld_vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#@V2rayBaaz
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇮🇷 IR 55 @Outline_Vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/?ed=2560&telegram🇨🇳+@wangcai2#🔵@chillguy_vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@bored_vpn
