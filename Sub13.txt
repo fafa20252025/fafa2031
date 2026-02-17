@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dfe772dd-48d6-44f4-9f2a-f19c9c5e798d@188.114.98.0:443?encryption=none&security=tls&sni=fic.ketabv.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=fic.ketabv.ir&path=/s55dLF15ddokB1leJ#TELEGRAM-ArisPing#کانفیگ رایگان = t.me/arisping
-vless://e0256e55-54bf-4293-a2f1-b3709f2b9a05@104.18.26.90:2087?security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#✅سرورهایبیشتردر:prrofile_purple@✅
-vless://e0256e55-54bf-4293-a2f1-b3709f2b9a05@104.18.26.90:2087?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@icv2ray
-vless://e0256e55-54bf-4293-a2f1-b3709f2b9a05@104.21.55.47:2087?security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#✅سرورهایبیشتردر:prrofile_purple@✅
-vless://e0256e55-54bf-4293-a2f1-b3709f2b9a05@104.21.55.47:2087?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@icv2ray
-vless://e0256e55-54bf-4293-a2f1-b3709f2b9a05@172.64.152.23:2087?path=/&security=tls&encryption=none&insecure=0&host=aza002.vaslbash.site&fp=chrome&type=ws&allowInsecure=0&sni=aza002.vaslbash.site#✅سرورهایبیشتردر:prrofile_purple@✅
 vless://e0256e55-54bf-4293-a2f1-b3709f2b9a05@172.64.152.23:2087?path=/&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=aza002.vaslbash.site&fp=chrome&type=ws&allowInsecure=0&sni=aza002.vaslbash.site#@icv2ray
 vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#Channel : @Mrsoulb 🏴🏳
 vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#VayNora
@@ -503,3 +497,9 @@ vless://fe430457-84e1-49ec-a21f-4c5505015aea@a6.outbout.shop:8081?security=none&
 vless://fe430457-84e1-49ec-a21f-4c5505015aea@a6.outbout.shop:8081?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=anten.ir&headerType=http&type=tcp#@icv2ray
 vless://fe54e96c-7eeb-40c0-b098-bacbd066bfb1@85.133.247.130:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#کانفیگ بیشتر @famoushaji
 vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.12.31:80?encryption=none&security=none&type=ws&host=floral-term-d21f.wafajax493.workers.dev&path=/#@@V2rayng_Fast+قطع+شد؟+تو+ربات+با+یک+کلیک+بگیر+😏
+vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.12.31:80?encryption=none&security=none&type=ws&host=floral-term-d21f.wafajax493.workers.dev&path=/#🐦‍🔥-@SPEEDS_VPN
+vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@65.108.108.151:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#Telegram:@meowvip1 *219*
+vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#IR-@V2rayAlpha-15
+vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#🛡 V 7 @Outline_Vpn
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.17.162.123:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#کانفیگ رایگان = t.me/arisping
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.17.162.123:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=dev.twistsparrow.xyz#🛡 V 41 @Outline_Vpn
