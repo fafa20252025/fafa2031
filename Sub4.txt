@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇸🇬 新加坡
 trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@cccvgt.7777125.xyz:443?security=tls&sni=CccvGT.7777125.XyZ&alpn=http/1.1&fp=chrome&type=ws&headerType=none&host=ccCVGT.7777125.XyZ&path=/tSROScnWofV7ia41dH&allow_insecure=true#Config 2 - @lebertad
 trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@hhnm.7777128.xyz:443?security=tls&sni=hhnm.7777128.xyz&alpn=http/1.1&fp=chrome&type=ws&headerType=none&host=hhnm.7777128.xyz&path=/tSROScnWofV7ia41dH&allow_insecure=true#Config 3 - @lebertad
 trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@iiiiii9.huangshang.us.ci:443?security=tls&sni=iiiiiI9.hUANgShaNG.uS.Ci&alpn=http/1.1&fp=chrome&type=ws&headerType=none&host=iiiiii9.HuANGShANg.uS.ci&path=/tSROScnWofV7ia41dH&allow_insecure=true#Config 4 - @lebertad
@@ -502,4 +503,3 @@ vless://0b307dac-43a0-4a8f-acba-50a8ebe8b76f@my.trmas-far.ir:8443?security=reali
 vless://0b516cf6-cd76-470c-954d-9374d734f445@151.101.3.19:80?path=/site&security=&encryption=none&host=yalandonya.global.ssl.fastly.net&type=ws#channel : @freedomofinfor
 vless://0b5191da-1151-40d4-8dfb-2cb9f0f70eb3@home.pingless.eu:46501?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@FREENET_CANFIG
 vless://0b5191da-1151-40d4-8dfb-2cb9f0f70eb3@home.pingless.eu:46501?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@HajmVPN_Config | 🇩🇪
-vless://0b5191da-1151-40d4-8dfb-2cb9f0f70eb3@home.pingless.eu:46501?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://nasnet@162.19.10.94:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191094-direct.sharghdaily.co&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://nasnet@162.19.10.94:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191094-direct.sharghdaily.co&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
 vless://nasnet@162.19.10.94:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&fp=chrome&sni=nasnet-162191094-direct.sharghdaily.co#@FREE_VPN02 🏀
 vless://nasnet@162.19.10.94:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=nasnet-162191094-direct.sharghdaily.co#@FREE_VPN02 🛸
@@ -502,4 +503,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/Telegram%40V
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/%3Fed%3D2560&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=redfree8mahsang6.redfree8.ir&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40megavpn_link%20%232
 vless://Come_To_VPNCUSTOMIZE@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=VPNCUSTOMIZE.V2ray.Community.&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40meli_v2rayng%20%231
 vless://50858d39-fb35-452c-96af-9d4f028dd631@185.146.173.37:2095?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&amp%3Btype=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20%40meli_v2rayng%20%231
-vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=/http&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=ws#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40merdesert%20%231
