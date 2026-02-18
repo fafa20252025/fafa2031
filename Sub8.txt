@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://61076cc8-6d63-4dbf-80b9-6c6d70f934ab@wolfb02.serverp1anel.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#channel : @freedomofinfor
+vless://61076cc8-6d63-4dbf-80b9-6c6d70f934ab@wolfb03.serverp1anel.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#🧿 Tel : @ProxyVPN11 ⟵
+vless://61076cc8-6d63-4dbf-80b9-6c6d70f934ab@wolfb04.serverp1anel.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#IR-@V2rayAlpha--33
+vless://61076cc8-6d63-4dbf-80b9-6c6d70f934ab@wolfb17.serverp1anel.ir:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=chatgpt.com&fp=chrome&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
+vless://61076cc8-6d63-4dbf-80b9-6c6d70f934ab@wolfb17.serverp1anel.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#IR+@V2rayAlpha-26
+vless://61076cc8-6d63-4dbf-80b9-6c6d70f934ab@wolfb23.serverp1anel.ir:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=chatgpt.com&fp=chrome&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
 vless://61076cc8-6d63-4dbf-80b9-6c6d70f934ab@wolfb23.serverp1anel.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#🇩🇪@FreakConfig
 vless://61111a66-0485-44b4-d90f-d49a1f90968b@77.73.132.193:8080?type=httpupgrade&host=www.time.ir&path=@CHANGE_IP1#@CHANGE_IP1-VLESS
 vless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/140.245.53.45=443#telegram ☂️ dailyv2ry
@@ -497,9 +503,3 @@ vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80/?encryption=none&se
 vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80?encryption=none&security=none&type=ws&host=everlASTinG-oFfERC4S5Mg1918.SpoRTLand.COMpaNy.&path=/?ed#کانفیگ رایگان = t.me/arisping
 vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80?path=/?ed##TELEGRAM-@PuLaFreeBOT---#TELEGRAM-@PuLaFreeBOT---#TELEGRAM-@PuLaFreeBOT---#TELEGRAM-@PuLaFreeBOT---#TELEGRAM-@PuLaFreeBOT&security=none&encryption=none&host=everlASTinG-oFfERC4S5Mg1918.SpoRTLand.COMpaNy.&type=ws#@𝗣𝗨𝗟𝗔𝗩𝗣𝗡
 vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80?path=/?ed&security=&encryption=none&host=everlASTinG-oFfERC4S5Mg1918.SpoRTLand.COMpaNy.&type=ws#channel : @freedomofinfor
-vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=everlASTinG-oFfERC4S5Mg1918.SpoRTLand.COMpaNy.&type=ws#@FarazV2ray
-vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=everlASTinG-oFfERC4S5Mg1918.SpoRTLand.COMpaNy.&type=ws#@V2rayBaaz
-vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=everlASTinG-oFfERC4S5Mg1918.SpoRTLand.COMpaNy.&type=ws#Tel:@loveiran83
-vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=everlASTinG-oFfERC4S5Mg1918.SpoRTLand.COMpaNy.&type=ws#⚡Telegram = @SOSkeyNET
-vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=everlASTinG-oFfERC4S5Mg1918.SpoRTLand.COMpaNy.&type=ws#🕊 Tel : @ProxyVPN11 ⟵
-vless://65fe56c2-78ec-417a-a666-9f393eac8b61@172.66.128.70:80?path=/?ed&security=none&encryption=none&host=everlASTinG-oFfERC4S5Mg1918.SpoRTLand.COMpaNy.&type=ws#@Hddify
