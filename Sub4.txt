@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://byDSOLVPDd@yxxoxomchoyk.eu-central-1.clawcloudrun.com:49147?security=reality&sni=play.google.com&fp=chrome&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&sid=848ecf47e1b2&type=tcp&headerType=none#@V2rayBaaz
-trojan://byDSOLVPDd@yxxoxomchoyk.eu-central-1.clawcloudrun.com:49147?security=reality&sni=play.google.com&fp=chrome&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&sid=848ecf47e1b2&type=tcp&headerType=none@freenettir
-trojan://c38ntuux-q3g2-9wsp-0g0t-ut8c9nekjji9@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
-trojan://c5oj19lo-rdcj-0em1-asz8-0lxw93xxq3ee@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
-trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇭🇰 香港
-trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇸🇬 新加坡
-trojan://djd1b0nm-2wzf-qfp8-5y32-tdiwlf59hqwr@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
 trojan://dtz91lc6-p3u9-e6ds-a001-lvebwrp12ogs@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
 trojan://e80nhfn9-vze6-s002-2oti-xfyhhvbdqblz@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@V2rayNG3
@@ -503,3 +496,10 @@ vless://0ecc93f5-f30d-47a2-a763-3efeb2a00cc8@94.130.132.223:443/?type=tcp&encryp
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@172.67.149.60:443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=cron.irtls.abrdns.com&fp=chrome&type=ws&sni=cron.irtls.abrdns.com#🐦‍🔥-@SPEEDS_VPN
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@172.67.149.60:443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cron.irtls.abrdns.com&fp=chrome&type=ws&allowInsecure=0&sni=cron.irtls.abrdns.com#@Banehfori⚡
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@172.67.149.60:443?path=/Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=cron.irtls.abrdns.com&fp=chrome&type=ws&sni=cron.irtls.abrdns.com#telegram @mtmvpn
+vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@172.67.149.60:443?path=/vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=cron.irtls.abrdns.com&fp=chrome&type=ws&sni=cron.irtls.abrdns.com#فیلترشکن رایگان👈vpnowl@
+vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@172.64.152.23:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=apexbhao1.qzz.io&type=ws&allowInsecure=0&sni=apexbhao1.qzz.io#channel : @freedomofinfor
+vless://0f6595f3-adf7-4ed3-b922-09aeb15d66b4@193.111.248.88:15018?path=/&security=none&encryption=none&host=193.111.248.88&type=ws#@v2box
+vless://0f7794ff-c024-4968-a6c7-6e44c7d188c7@193.9.49.212:2087?encryption=none&security=tls&sni=vaaaaay.i-farm.ir&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#کانفیگ رایگان = t.me/arisping
+vless://0f7794ff-c024-4968-a6c7-6e44c7d188c7@dariush-kharabkar.global.ssl.fastly.net:443?encryption=none&security=tls&sni=dariush-kharabkar.global.ssl.fastly.net&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/site#کانفیگ رایگان = t.me/arisping
+vless://0f7794ff-c024-4968-a6c7-6e44c7d188c7@hallllbadi.global.ssl.fastly.net:443?encryption=none&security=tls&sni=hallllbadi.global.ssl.fastly.net&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/site#کانفیگ رایگان = t.me/arisping
+vless://0f9aaacb-b87d-4519-babe-3586791e4aa5@F1.HaMrAhCoNf.Ir:2086?encryption=none&type=httpupgrade&host=全球网络加速服务平台.hamrahconfig.ir&path=/&security=none#V2rayng_madam
