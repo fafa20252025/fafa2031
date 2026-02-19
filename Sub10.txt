@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@mail.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@vpn_openet🇷🇺7
+vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@mail.speedmizban.net:1517?security=none&allowInsecure=0&encryption=none&type=tcp&host=testspeed-foreign.tci.ir&path=/&headerType=http#vmesskhodam
 vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@mail.speedmizban.net:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@ConfigV2RayNG🇺🇸
 vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@mail.speedmizban.net:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@ConfigV2RayNG🇺🇸7
 vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@mail.speedmizban.net:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@vpn_openet🇺🇸7
@@ -501,5 +503,3 @@ vless://8e04fe02-12d7-476b-9b9a-ad80ac6b1ea5@cloud-mci.totalmntxah.ir:80/?path=/
 vless://8e04fe02-12d7-476b-9b9a-ad80ac6b1ea5@fast-mci.totalmntxah.ir:80/?mode=auto&security=none&encryption=none&extra={"scMaxEachPostBytes":1000000.0,"scMaxConcurrentPosts":100.0,"scMinPostsIntervalMs":30.0,"xPaddingBytes":"100-1000","noGRPCHeader":false}&host=Fieryj7654.global.ssl.fastly.net&type=xhttp#@v2rays_ha 9660
 vless://8e04fe02-12d7-476b-9b9a-ad80ac6b1ea5@realitygermanyhz.totalmntxah.ir:20401/?security=reality&encryption=none&pbk=fJpqhfm-r-KN_MrwhH8EVX3c3hGOKKfQO01j_VxXpHw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=refersion.com#@v2rays_ha 9657
 vless://8e28baed-b7da-29a3-cb89-cb7e4878c011@5.255.126.160:2051/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=pMAxMd8b9VTp8Yp4v18z98zJ6frzxPdK0DvZT8CMF2k&sid=9d38c6241e8c654a#Telegram:@config_proxy 🔥
-vless://8e28baed-b7da-29a3-cb89-cb7e4878c011@5.255.126.160:2051/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=pMAxMd8b9VTp8Yp4v18z98zJ6frzxPdK0DvZT8CMF2k&sid=9d38c6241e8c654a#https://t.me/allproconf
-vless://8e28baed-b7da-29a3-cb89-cb7e4878c011@5.255.126.160:2051?security=reality&encryption=none&pbk=pMAxMd8b9VTp8Yp4v18z98zJ6frzxPdK0DvZT8CMF2k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=9d38c6241e8c654a#@filembad
