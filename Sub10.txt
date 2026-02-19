@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.75.222.191:443?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz 🎱
+vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.75.222.191:443?security=none&encryption=none&headerType=none&type=tcp#@vpnserverrr🎱
+vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.75.222.191:443?security=none&encryption=none&headerType=none&type=tcp#Telegram: @proxyiranip آلمان 🇩🇪 2185
 vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.75.222.191:443?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @KIA_NET
 vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.75.222.191:443?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
 vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.75.222.191:443?security=none&encryption=none&headerType=none&type=tcp#🌐 TCP-None | @Express_alaki | src @anty_filter
@@ -500,6 +503,3 @@ vless://a6130991-2c81-4c38-ad62-3e6bd01be7e0@itly1.azangooo.ir:443?mode=packet-u
 vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443/?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&allowInsecure=0&sni=edge-eu-1.veaglevpn.software#@v2rays_ha 9944
 vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&sni=edge-eu-1.veaglevpn.software#@YamYamProxy
 vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&allowInsecure=0&sni=edge-eu-1.veaglevpn.software#@Black_Star_Vpn 🔥
-vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&allowInsecure=0&sni=edge-eu-1.veaglevpn.software#@Hddify
-vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&allowInsecure=0&sni=edge-eu-1.veaglevpn.software#@V2rayBaaz
-vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&allowInsecure=0&sni=edge-eu-1.veaglevpn.software#@vpnbaz 🍭
