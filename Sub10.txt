@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50/?type=tcp&encryption=none&flow=#Config 2 - @lebertad
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50/?type=tcp&encryption=none&flow=#📥61@oneclickvpnkeys
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#🌀Telegram= @vpn_openet 🌀
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:5228?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=mtalk.google.com&sid=a62d513cd709744a#🌀Telegram= @vpn_openet 🌀
@@ -502,4 +503,3 @@ vless://93bf727c-95d1-4bd9-824e-3156b655ae71@f1.springpaatogh8.store:8443?path=/
 vless://93bf727c-95d1-4bd9-824e-3156b655ae71@f1.springpaatogh8.store:8443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#@meliproxyy
 vless://93bf727c-95d1-4bd9-824e-3156b655ae71@f1.springpaatogh8.store:8443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir&note=@FreeOnlineVPN#🇫🇮 - FI - @FreeOnlineVPN
 vless://93bf727c-95d1-4bd9-824e-3156b655ae71@f1.springpaatogh8.store:8443?security=tls&type=ws&path=/?ed=2560&host=takken.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none&note=@FreeOnlineVPN#🇫🇮 - FI - @FreeOnlineVPN
-vless://94712dd9-17d8-4813-a118-cc487fadd137@77.83.245.189:27414/?type=tcp&encryption=none&flow=&sni=yandex.ru&fp=chrome&security=reality&pbk=eiA4uP7O29DoX6lvwhjaIXPTANlwvPB1Jzom_V2Z5gE&sid=1ba8b4cd54627171#@nekopingbot_115
