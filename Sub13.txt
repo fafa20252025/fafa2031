@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
@@ -503,3 +500,6 @@ vless://fa-397456379-1771009078823820@85.192.49.216:443?security=reality&encrypt
 vless://fa-397456379-1771011336319933@193.124.254.242:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=d1d42381ba35#🇱🇻 @V2RAY_VMESS_free
 vless://fa-397456379-1771011336319933@50.7.157.212:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d1d42381ba35#🇩🇪 @V2RAY_VMESS_free mtn
 vless://fa-397456379-1771011735892097@212.67.8.149:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=d1d42381ba35#🇷🇺+@V2RAY_VMESS_free
+vless://fa-397456379-1771011735892097@85.192.49.232:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d1d42381ba35#🇫🇮 @V2RAY_VMESS_free
+vless://fa-397456379-1771015002699385@45.84.225.71:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=d1d42381ba35#🇷🇺 @V2RAY_VMESS_free
+vless://fa-397456379-1771015002699385@62.3.12.10:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#🇹🇷 @V2RAY_VMESS_free mtn
