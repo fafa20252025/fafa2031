@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&allowInsecure=0&sni=edge-eu-1.veaglevpn.software#@Hddify
-vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&allowInsecure=0&sni=edge-eu-1.veaglevpn.software#@V2rayBaaz
-vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&allowInsecure=0&sni=edge-eu-1.veaglevpn.software#@vpnbaz 🍭
-vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&allowInsecure=0&sni=edge-eu-1.veaglevpn.software#🟢Ṭelegram"@Filtering2020"
-vless://a64f33b4-c4b0-4e75-9b8c-306640c7c4ce@172.67.204.84:8080?security=none&type=ws&host=its-legendaryking.com-so.ir-whereareyoumylady.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.mozdozari.buzz.#@Hope_Net-join-us-on-Telegram
 vless://a65420e2-ba7d-4a9c-a15c-ef8cb4f4045f@www.speedtest.net:2053?path=/eyJqdW5rIjoianJFeW1zeHpmNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=masterserver1-masterserver1-masterserver1-masterserver1-masters.okwxwme.workers.dev&fp=chrome&type=ws&sni=mAStERSErvER1-masteRserver1-MaStErseRVer1-MastERSeRver1-mAStErS.OKwXWMe.WOrKeRs.dev#2️⃣ All Operators @MaSTeRSeRVeR1
 vless://a688fe84-5388-48e3-beb5-0b94780ca0c6@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=jetuk43.global.ssl.fastly.net&type=xhttp#@EuServer
 vless://a730405a-6710-411e-9131-2e330169fa47@140.248.128.0:80?mode=auto&path=/xhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#Telegram:@meowvip1 *229*
@@ -503,3 +498,8 @@ vless://c8812004-f201-4c73-8f98-8b75f3f3ddb6@194.61.3.100:17799/?type=tcp&encryp
 vless://c8812004-f201-4c73-8f98-8b75f3f3ddb6@194.61.3.100:17799?security=none&encryption=none&host=ripe.net&headerType=http&type=tcp#Telegram: @proxyiranip بریتانیا 🇬🇧 2187
 vless://c8ada5e0-b237-4374-b37c-38f31907d0a0@94.183.177.133:3030?type=tcp&encryption=none&security=none#Telegram:@config_proxy 🔥
 vless://c8ada5e0-b237-4374-b37c-38f31907d0a0@94.183.177.133:3030?type=tcp&encryption=none&security=none#⚡Telegram = @SOSkeyNET
+vless://c9246b70-3eca-4825-84b0-16c32e3124a7@158.160.105.121:51102?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=1929ef620e9b34f5#IR--@V2rayAlpha-3
+vless://c9246b70-3eca-4825-84b0-16c32e3124a7@212.111.84.187:51102?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=887c0d72e771a934#🛡 V 6 @Outline_Vpn
+vless://c94f3cf9-7aa5-4b6d-b153-baea45280c64@104.18.32.47:443?path=/test&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=x1MKkQTEJX0hRuPvUN3tUIAmtffMutnLGgNRIjSXOW7JZV4K.sangar.net#@V2rayNG3
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@146.75.85.8:443?mode=packet-up&security=tls&alpn=h3,h2&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=takht-jamshid.com.#E003
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@185.232.152.150:8081?security=none&encryption=none&headerType=http&type=tcp#E0012
