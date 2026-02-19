@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e1766cb1-29e0-4fe6-8188-e13416b1f19b@94.183.167.22:2027?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram : @V2ynpv
 vless://e1766cb1-29e0-4fe6-8188-e13416b1f19b@speedtest.net:80?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=none&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#Telegram : @V2ynpv
 vless://e1bb65c9-a67d-4fce-a6f4-7c8837caab8e@62.60.233.83:39607?security=reality&encryption=none&pbk=1_3eX95qudS9wpAvX3hrlj5frOgp5lUlwk7Xz_pCYyw&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=df0a16ba1a4880e9#یام‌یام پروکسی
 vless://e1cfe3a2-41e8-43fe-a3f3-929d6fc7d760@borna.cinrma.land.vgyop.com:6360?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@HajmVPN_Config | 🇫🇷
@@ -503,3 +502,4 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.17.162.123:443?path=/&security=
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.17.162.123:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@v2box
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#channel : @freedomofinfor
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&host=dev.nestandneighbours.com&fp=chrome&type=ws&sni=dev.nestandneighbours.com#🇺🇸 |⚡@EuServer
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&host=dev.nestandneighbours.com&type=ws&sni=dev.nestandneighbours.com#🛡 V 22 @Outline_Vpn
