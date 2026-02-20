@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=none&encryption=none&headerType=none&type=tcp#@Black_Star_Vpn
-vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=none&encryption=none&headerType=none&type=tcp#@DarcProxy+13
-vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=none&encryption=none&headerType=none&type=tcp#@YamYamProxy
-vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
-vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=none&encryption=none&headerType=none&type=tcp#Channel : @Daily_Configs
-vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=none&encryption=none&headerType=none&type=tcp#🧢-@turbov2box
 vless://ad7a33ac-5075-4bb8-a8c5-934cae707e9d@www.speedtest.net:80?type=ws&path=/Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy?ed=2048&host=2.www.speedtest.net.zula.ir.zemestanil.ir&security=none#@Hope_Net-join-us-on-Telegram
 vless://ad961404-6249-4a11-9577-d1e81f6b198f@150.241.90.13:443?security=reality&encryption=none&pbk=0d6fEYI5nZ_puQdJ5J9Sn7ExAs53DZzbpfxghHt_u2E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=monolithgate.com&sid=7c81a04a4b20#@Golestan_VPN - All net
 vless://ad961404-6249-4a11-9577-d1e81f6b198f@150.241.90.13:443?security=reality&encryption=none&pbk=0d6fEYI5nZ_puQdJ5J9Sn7ExAs53DZzbpfxghHt_u2E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=monolithgate.com&sid=7c81a04a4b20#@Golestan_VPN - 🕊️
@@ -503,3 +497,9 @@ vless://cbf73250-e228-4fc8-95a1-3804176354be@140.248.147.82:443?mode=auto&path=/
 vless://cbf73250-e228-4fc8-95a1-3804176354be@140.248.147.82:443?mode=auto&path=/dl?ed=2560&security=tls&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&host=Fastsssspeedmar.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#⚡Telegram = @config_v2rayy
 vless://cbf73250-e228-4fc8-95a1-3804176354be@46.224.106.67:443?security=reality&encryption=none&pbk=_R5PqWhttPJp69I0cg4UAgGoeX80Y-wL4xdalaHC7SQ&headerType=none&fp=chrome&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN &type=tcp&sni=yahoo.com&sid=31e7200536a1ad45#1🥇@𝐏𝐔𝐋𝐀𝐕𝐏𝐍
 vless://cbf73250-e228-4fc8-95a1-3804176354be@46.224.106.67:443?security=reality&encryption=none&pbk=_R5PqWhttPJp69I0cg4UAgGoeX80Y-wL4xdalaHC7SQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=31e7200536a1ad45#@V2rayngSeven
+vless://cbf73250-e228-4fc8-95a1-3804176354be@46.224.106.67:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@V2rayngSeven
+vless://cbf73250-e228-4fc8-95a1-3804176354be@46.224.106.67:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@appsooner کانال تلگرام 🕊️
+vless://cbf73250-e228-4fc8-95a1-3804176354be@46.224.79.45:443?security=reality&encryption=none&pbk=_R5PqWhttPJp69I0cg4UAgGoeX80Y-wL4xdalaHC7SQ&headerType=none&fp=chrome&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN &type=tcp&sni=yahoo.com&sid=31e7200536a1ad45#2🥇@𝐏𝐔𝐋𝐀𝐕𝐏𝐍
+vless://cbf73250-e228-4fc8-95a1-3804176354be@46.224.79.45:443?security=reality&encryption=none&pbk=_R5PqWhttPJp69I0cg4UAgGoeX80Y-wL4xdalaHC7SQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=31e7200536a1ad45#@V2rayngSeven
+vless://cbf73250-e228-4fc8-95a1-3804176354be@46.224.79.45:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#vmesskhodam
+vless://cbf73250-e228-4fc8-95a1-3804176354be@46.224.79.45:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@V2rayngSeven

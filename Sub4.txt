@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTI1Ni1nY206OTQ4YmRlNWItMzhkYy00ZjljLTgzYjktNDNiOTE5MDAzNzc4@84.200.91.158:443#@meliproxyy
-ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ@46.250.254.170:443#🇬🇧19@shadowsockskeys
-ss://YWVzLTI1Ni1nY206SmhCNWFkbzhlbkJoa2FPZQ@216.238.75.111:443?note=--Telegram--@NetifyVPN--#🇲🇽[openproxylist.com] ss-MX
-ss://YWVzLTI1Ni1nY206TFlYaUlVSjBGdXRuVHpCRw==@62.146.172.130:80#🇩🇪All⁴ | @BigSmoke_Config
-ss://YWVzLTI1Ni1nY206TkRnNE5HVTFZMlJsWXpBeE1UUTRNak16TmpBNFpUZ3pZV1l6WWpVMg@ir.npvnot.com:10113#@A
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.85:6697#@Trick_mobil
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#@torang_vpn
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.93.113:8888#@Trick_mobil
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80?note=--Telegram--@NetifyVPN--#🇬🇧[openproxylist.com] ss-GB
@@ -503,3 +497,9 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.219.11:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.252.120:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=trojan.burgerip.co.uk#🌊 Tel : @ProxyVPN11 ⟵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.88.119:22224?encryption=none&security=tls&sni=trojan.burgerip.co.uk&insecure=1&allowInsecure=1&type=ws&path=/telegram-channel-vlessconfig#کانفیگ رایگان = t.me/arisping
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.195.22:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#Telegram:@NetZoneNews 🔥
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.60.26:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.53.84:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.70.214:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.85.55:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=trojan.burgerip.co.uk#🔵@chillguy_vpn
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.85.55:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?path=/&security=none&encryption=none&host=dayous.global.ssl.fastly.net&type=ws#@v2box
