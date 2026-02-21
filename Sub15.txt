@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#configraygan_32
+vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp
+vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#@@V2rayng_Fast
+vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#@FarazV2ray
+vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#@Hddify
 vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#@Selinc
 vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#@V2rayBaaz
 vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#@VPNFARDAD
@@ -498,8 +503,3 @@ vless://fa0ebdf7-67fd-4fb5-94d0-678039d7a6c0@f1.springpaatogh8.store:2053?path=/
 vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=/130.185.164.213=8443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#🛡 V 33 @Outline_Vpn
 vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=/130.185.164.213=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@v2rayngzendegimamad🕊️
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.11:80?path=/Telegram@TELEGRAM-MTMVPN+/?ed&security=none&encryption=none&host=cs.laoyoutiao.link&type=ws#🆔ManVPN👈🇺🇸 ✅سرورهایبیشتردرکانال:prrofile_purple@✅CLD2UA
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.11:80?type=ws&host=cs.laoyoutiao.link&path=/Telegram@TELEGRAM-MTMVPN+/?ed&security=none#🆔ManVPN👈🇺🇸 @ProxySnipeKST6LJ
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🔴 telegram ➡️ @ataconnect
-vless://faefbd75-9a1c-4bbf-9b90-816966ecf554@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=amsterdam.11.v.www.speedtest.net.nestle.ir.ftp.debian.org.tmo.docb.datax.click.dataxshop.ir&type=httpupgrade#telegram : @datax_proxy
-vless://fb0bc4f7-2771-4223-8ffd-705469a039b7@37.139.34.145:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#🐊77@oneclickvpnkeys
-vless://fb47c96a-c59f-4551-b687-ba9305419abc@ip.hamrahto.com:2082?encryption=none&security=none&type=ws&host=hm3.mutee.com.tr&path=/api/stream?ed=2080#[@ConfigPositive]+#8
