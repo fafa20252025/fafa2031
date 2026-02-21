@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&security=tls&encryption=none&host=cdn.abcallcenter.com&fp=chrome&type=ws&sni=cdn.abcallcenter.com#فیلترشکن رایگان👈vpnowl@
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/--Telegram---@horn_proxy/---@horn_proxy/---@horn_proxy/---@horn_proxy?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=1&sni=web.abcallcenter.com#horn_proxy 2
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#Telegram : @V2ynpv
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@188.114.98.0:443?encryption=none&security=tls&sni=cdn.abcallcenter.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cdn.abcallcenter.com&path=/--Telegram---@/---@/---/---@#کانفیگ رایگان = t.me/arisping
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@dash.getasa.ir:443?path=/Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv&security=tls&alpn=h2,http/1.1&encryption=none&host=dash.getasa.ir&fp=chrome&type=ws&sni=dash.getasa.ir#Telegram : @V2ynpv
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@dash.getasa.ir:443?path=/Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=dash.getasa.ir&fp=chrome&type=ws&allowInsecure=0&sni=dash.getasa.ir#Em31
@@ -503,3 +500,6 @@ vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@87.236.38.66:2087?security=none&enc
 vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@bim.iranheroo.ir:2087?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@ConfigV2RayNG
 vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@bim.iranheroo.ir:2087?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@Spartan_YT
 vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@bim.iranheroo.ir:2087?type=tcp&encryption=none&path=/&host=anten.ir&headerType=http&security=none#Config 2 - @lebertad
+vless://f17bb8c9-612e-4624-96fd-ca04cd01bc75@81.12.91.190:443?security=reality&encryption=none&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&headerType=none&fp=chrome&spx=/example&type=tcp&sni=git-scm.com&sid=e081d94bd1f9bd56#⚡Telegram = @prrofile_purple
+vless://f1d218b0-9e27-49c6-bc53-b83ec5caf7b8@norman.ns.cloudflare.com:443/?type=ws&encryption=none&host=639070217957765571.mustang-perma.info&path=/ggcdwtws&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=639070217957765571.mustang-perma.info#🌐 WS-TLS 📁 @DailyV2RY (3)
+vless://f1d218b0-9e27-49c6-bc53-b83ec5caf7b8@norman.ns.cloudflare.com:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=639070217957765571.mustang-perma.info&path=/ggcdwtws&security=tls&sni=639070217957765571.mustang-perma.info&type=ws#s
