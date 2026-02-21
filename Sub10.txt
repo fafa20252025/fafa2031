@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@SPEEDS_VPN1-🫆
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@Selinc
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@bad_ss_proxy 868
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@config_v2rayy | 🛩
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@erfanandroid vip
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@filembad
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#[9138] - Telegram : @V2All
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#configraygan_48
@@ -503,3 +498,8 @@ vless://7586f46c-578f-429f-a873-d293468d090d@Nodejs.org:2052?type=xhttp&encrypti
 vless://7588e459-0d02-13ca-79bd-3a39b034baf8@s4.jockshenasi.ir:2096?path=telegram:@/www.net/www.telewbion.com/ws?ed=2560&security=tls&encryption=none&insecure=0&host=steamdl.pou-ria.com&fp=chrome&type=ws&allowInsecure=0&sni=steamdl.pou-ria.com#@v2box
 vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?encryption=none&security=none&type=ws&path=/vless/#کانفیگ رایگان = t.me/arisping
 vless://762ac78b-0d9d-4d3e-aee5-e2597e7f3f6d@est01-vlr01.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d#🐊42@oneclickvpnkeys
+vless://762ac78b-0d9d-4d3e-aee5-e2597e7f3f6d@est01-vlr01.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d#🔥Join+Telegram:@Farah_VPN🟣
+vless://762ac78b-0d9d-4d3e-aee5-e2597e7f3f6d@us01-vlr01-gmn03.tcp-reset-club.net:18443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&spx=/# vpnsal
+vless://76e2a322-1c23-4c91-b2e1-40944d23fc48@iran87.nootkasound7.com:556?security=none&encryption=none&headerType=http&type=tcp#TG : @FergalVpnMod-hamrahaval
+vless://76e2a322-1c23-4c91-b2e1-40944d23fc48@www.s2pp.ir:8443?path=/path&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=damn.norino.store#TG : @FergalVpnMod-wifi
+vless://7718721f-2975-4d82-bdcd-ad92bd1dd779@mpc.mobayandeh.top:443?path=/?ed=2082&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=holcdn.wordperessweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=holcdn.wordperessweb.ir#channel : @freedomofinfor
