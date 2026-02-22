@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@95.214.181.51:443?security=reality&encryption=none&pbk=l6RZ7aQ4MX_q39a5wLgZt36f4JldG6aZTT8p79hzFx0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.debian.org&sid=63d80d5199a2bc#🇭🇰@FreakConfig
 vless://21889ffd-54ee-40f9-e9b0-f1838908579a@18.199.99.98:443?encryption=none&security=none&type=tcp&headerType=none#@V2rayBaaz
 vless://21889ffd-54ee-40f9-e9b0-f1838908579a@18.199.99.98:443?encryption=none&security=none&type=tcp&headerType=none#@meliproxyy
 vless://21889ffd-54ee-40f9-e9b0-f1838908579a@18.199.99.98:443?encryption=none&security=none&type=tcp&headerType=none#Channel : @Daily_Configs
@@ -503,3 +502,4 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&pa
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=updn.pabloping.pro&type=xhttp#@VPNFARDAD
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=updn.pabloping.pro&type=xhttp#☁️ | P6@vpnserverrr
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=updn.pabloping.pro&type=xhttp#🐦‍🔥-@SPEEDS_VPN
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=upnl.pabloping.pro&type=xhttp#@FarazV2ray
