@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://51c27910-f70a-4dac-b8f1-88ac6f1cbdf5@ss.mrrnasr.ir:443/?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=mopd.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#@v2rays_ha 10638
 vless://51c27910-f70a-4dac-b8f1-88ac6f1cbdf5@ss.mrrnasr.ir:443/?note=---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---&type=xhttp&security=tls&sni=speedtest.net&host=mopd.global.ssl.fastly.net&path=/&alpn=h2,http/1.1&fp=chrome&allowInsecure=1&encryption=none#@v2rays_ha 10582
 vless://51c27910-f70a-4dac-b8f1-88ac6f1cbdf5@ss.mrrnasr.ir:443/?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=mopd.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=speedtest.net#@v2rays_ha 10604
 vless://51c27910-f70a-4dac-b8f1-88ac6f1cbdf5@ss.mrrnasr.ir:443/?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=mopd.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=speedtest.net#@v2rays_ha 10613
@@ -503,3 +502,4 @@ vless://620e45f4-92f1-4be6-e118-3bc515509320@3.71.203.47:28279?security=&encrypt
 vless://620e45f4-92f1-4be6-e118-3bc515509320@3.71.203.47:28279?security=&encryption=none&headerType=none&type=tcp#@vmess_iran
 vless://620e45f4-92f1-4be6-e118-3bc515509320@3.71.203.47:28279?security=&encryption=none&headerType=none&type=tcp@freenettir
 vless://620e45f4-92f1-4be6-e118-3bc515509320@3.71.203.47:28279?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz 🌵
+vless://620e45f4-92f1-4be6-e118-3bc515509320@3.71.203.47:28279?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz 🏳️

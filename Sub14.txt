@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c21ba381-5808-4098-b94d-86c468a683d9@3.68.220.245:443?security=none&encryption=none&headerType=none&type=tcp#All-@V2rayAlpha--19
 vless://c21ba381-5808-4098-b94d-86c468a683d9@3.70.224.129:443?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD 18
 vless://c21ba381-5808-4098-b94d-86c468a683d9@3.70.224.129:443?security=&encryption=none&headerType=&type=tcp#@vmess_iran 18
 vless://c21ba381-5808-4098-b94d-86c468a683d9@3.71.181.82:443?security=&encryption=none&headerType=&type=tcp#@VpnMaan 27
@@ -503,3 +502,4 @@ vless://d9282516-b0f2-c0b1-7522-d2b4368e0482@185.128.137.211:35446?security=tls&
 vless://d9282516-b0f2-c0b1-7522-d2b4368e0482@185.128.137.211:39125?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/de&sni=de.mitivpn-best.workers.dev&fp=chrome&mode=packet-up&alpn=h2#@config_v2rayy
 vless://d9282516-b0f2-c0b1-7522-d2b4368e0482@185.128.137.211:39125?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/fl&sni=fl.mitivpn-best.workers.dev&fp=chrome&mode=packet-up&alpn=h2#@config_v2rayy
 vless://d9282516-b0f2-c0b1-7522-d2b4368e0482@185.143.233.235:80?security=none&allowInsecure=0&encryption=none&type=ws&host=cdn.a5r.ir&path=/sw#@config_v2rayy
+vless://d9282516-b0f2-c0b1-7522-d2b4368e0482@185.143.234.235:80?security=none&allowInsecure=0&encryption=none&type=ws&host=www.cdn.a5r.ir&path=/sw#@config_v2rayy

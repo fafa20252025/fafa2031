@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#https://t.me/V2ry_Proxy
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#https://t.me/VIPV2rayNGNP
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#telegram @mtmvpn
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#سرور رایگان متصل بیشتر در چنل🌊 @vmess_ir
@@ -503,3 +502,4 @@ vless://063639b7-221f-48e1-9384-c15f61bc7c16@K6.FASTSPEEDS.IR:2053?path=/love&se
 vless://064059ce-23b9-45d3-953d-57d4c5092874@chatgpt.com:443?path=/eyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&host=026.electrocellco-cf-026.workers.dev&type=ws&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV#@V2rayngSeven
 vless://064059ce-23b9-45d3-953d-57d4c5092874@chatgpt.com:443?path=/eyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&host=026.electrocellco-cf-026.workers.dev&type=ws&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV#Germany 2 🇩🇪
 vless://064059ce-23b9-45d3-953d-57d4c5092874@chatgpt.com:443?path=/eyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&host=026.electrocellco-cf-026.workers.dev&type=ws&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV#Telegram:@config_proxy 🔥
+vless://064059ce-23b9-45d3-953d-57d4c5092874@chatgpt.com:443?path=/eyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&host=026.electrocellco-cf-026.workers.dev&type=ws&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV#🔘 T.me/V2HUBIR | Join Now ✅️

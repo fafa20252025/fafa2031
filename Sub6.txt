@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?mode=auto&path=/pabloping/?Tel-@V2rayAlpha&security=none&encryption=none&host=pablo-n1.digionix.ir&type=xhttp#IR-@V2rayAlpha-16
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052/?mode=auto&path=/pabloping&security=none&encryption=none&host=updn.pabloping.pro&type=xhttp#@v2rays_ha 10544
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?encryption=none&security=none&type=xhttp&host=updn.pabloping.pro&path=/pabloping&mode=auto#Channel : @Daily_Configs
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?mode=auto&path=/pabloping&encryption=none&host=updn.pabloping.pro&type=xhttp#@chillguy_vpn
@@ -503,3 +502,4 @@ vless://275ea421-8419-4d72-9348-4c4e9b5b2f1f@3.121.214.35:37183?security=&encryp
 vless://275ea421-8419-4d72-9348-4c4e9b5b2f1f@3.121.214.35:37183?security=&encryption=none&headerType=&type=tcp#https://t.me/allproconf
 vless://275ea421-8419-4d72-9348-4c4e9b5b2f1f@3.121.214.35:37183?security=none&encryption=none&headerType=none&type=tcp#🧢-@turbov2box
 vless://2762ce23-74a4-4673-a0f1-2387c1b6cf68@172.239.240.91:46240?security=none&encryption=none&host=divar.ir&headerType=http&type=tcp#horn_proxy 10
+vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238/?type=tcp&encryption=none&flow=#📤91@oneclickvpnkeys

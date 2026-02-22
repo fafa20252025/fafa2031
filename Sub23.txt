@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443/?type=ws&encryption=none&flow=&host=afrcloud22.mmv.kr&path=%2F167.179.110.68%3D8443&security=tls&sni=afrcloud22.mmv.kr&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AGB
 vless://6fd9f786-d974-49d0-b5c4-397678de69a2@nld14.freednet.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cybo.com&fp=chrome&security=reality&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid=#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://70b49349-9c87-497e-818c-46006e1c3ce0@193.160.130.112:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yimg.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -503,3 +502,4 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@ChatGPT.com:443?path=/156.244.1.250
 vless://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#@chillguy_vpn
 vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443?&security=tls&fp=chrome&sni=afrcloud22.mmv.kr&type=ws&headerType=none&host=afrcloud22.mmv.kr&path=%2F35.230.79.26%3D443#@chillguy_vpn
 ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA==@94.72.127.58:443#%40filembad
+vless://003ef206-46b6-3701-ab77-b03debe7511f@104.17.25.173:443?encryption=none&security=tls&sni=dabaihk.webn.cc&alpn=h3,h2&fp=chrome&allowInsecure=1&type=ws&host=dabaihk.webn.cc&path=/db1024143bf11354#@chillguy_vpn
