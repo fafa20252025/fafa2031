@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+✅ مناسب وب گردیvmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBSSVBfVlBOICDYqNix2KfbjCDYs9ix2YjYsSDZh9in24wg2KjbjNi02KrYsSDYrNmI24zZhiDYqNi024zYryIsDQogICJhZGQiOiAiMTMuNDguNDguNDQiLA0KICAicG9ydCI6ICIxMTExMSIsDQogICJpZCI6ICI3Y2I3Mjg4My05NjM1LTQ2ZWItODUzMS04ZDY5NzkyN2ZmMDQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
+
+
+✅ مناسب وب گردیvmess://eyJhZGQiOiJxcS5maWxtb28uc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiIwYmM2MTAwZS1hNGI3LTRjNDQtYjcyZi1lMGQyMjJmZTllM2MiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0NjQyIiwicHMiOiLinIUgQFZvclRleElSTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=💠 آموزش استفاده از کانفینگ مورد نظر 🔝╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
+
+
+✅ مناسب وب گردیvless://7f8034e2-f649-4b49-8617-44358839677a@hm2legenderyservers.ddns.net:8443?encryption=none&security=tls&sni=jw.mrphh.me&type=grpc&serviceName=%40LegenderY_Servers&mode=gun#%40RIP_VPN%20%20%20%20%20MCI%20💠 آموزش استفاده از کانفینگ مورد نظر 🔝╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
 
 
 ✅ مناسب وب گردیtrojan://telegram-id-privatevpns@3.71.199.214:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%40RIP_VPN%201💠 آموزش استفاده از کانفینگ مورد نظر 🔝╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
@@ -496,10 +503,3 @@ vless://a6430e91-38ad-4254-b7db-d1fba6efd9e3@nodejs.org:443/?type=ws&encryption=
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.18.0.144:443?path=%2F49.51.197.141%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#%3E%3E%40v2rayng_fast%3A%3AUS
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@ChatGPT.com:443?path=%2F156.244.1.250%3D8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#%3E%3E%40configV2rayNG%3A%3AUS
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?path=%2F36.95.152.58%3D12137&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%3E%3E%40configV2rayNG%3A%3AUS
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80/?type=ws&encryption=none&flow=&host=afrcloud22.mmv.kr&path=%2F64.181.218.67%3D443#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@cdn.zoom.us:443/?type=ws&encryption=none&flow=&host=afrcloud22.mmv.kr&path=%2F138.2.5.136%3D443&security=tls&sni=afrcloud22.mmv.kr&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://b7039fbe-0359-4d91-977d-a926203b1936@afrcloud22.mmv.kr:443?path=%2F&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#%3E%3E%40outline_vpn%3A%3AUS
-vless://aec0d3be-77ba-4372-a011-1e073df0dd7e@104.21.22.135:443/?type=ws&encryption=none&flow=&host=royal-dream-1ee7.i-r-tunl.workers.dev&path=%2FeyJqdW5rIjoiQjZ4Q0g4SVFnUFEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0&security=tls&sni=rOyAL-DrEAm-1ee7.i-R-tuNL.woRKeRS.DEV&alpn=http%2F1.1&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://af488953-ea77-7ac1-965d-19b3cd17c213@record.persianmizban.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=lgoin.persianmizban.com&fp=chrome&type=ws&allowInsecure=0&sni=lgoin.persianmizban.com#%3E%3E%40configV2rayNG%3A%3AXX
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir#%3E%3E%40configV2rayNG%3A%3AXX
-vless://bbafc769-441b-4f06-9aae-9cc04ede1980@afrcloud22.mmv.kr:443?path=%2F198.98.61.220%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%3E%3E%40flyv2ray%3A%3AUS
