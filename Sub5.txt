@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://telegram-id-privatevpns@35.181.68.122:22222?security=tls&alpn=http/1.1&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.28.169.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@52.29.75.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.57.37.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.57.37.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@filembad
 trojan://telegram-id-privatevpns@52.57.37.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[10459] - Telegram : @V2All
@@ -500,6 +503,3 @@ vless://1954ed3c-1167-4c88-8b9c-ecc95e996a15@tzrm.amirpronk.com:20613?encryption
 vless://19583cc7-9262-48a8-bc23-d86a0b9d6b28@pl.adr-cloud.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=web.max.ru&fp=chrome&security=reality&pbk=TZHS23NEm_dQqVRkfKVTPM5nPir6-R9Jq21BMkWvf3g&sid=12af42a948ad5b45#Config 1 - @lebertad
 vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://199139c1-7226-4fc2-87cb-5cedb717bf79@masterserver1-masterserver1-masterserver1-masterserver1.wegiji2312.workers.dev:443?path=ws&security=tls&encryption=none&host=masterserver1-masterserver1-masterserver1-masterserver1.wegiji2312.workers.dev&fp=chrome&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.wegiji2312.workers.dev#1️⃣ All Operators @MaSTeRSeRVeR1
-vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080/?encryption=none&host=check-host.net&type=tcp&headerType=http#1🐊@oneclickvpnkeys
-vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?security=&encryption=none&host=check-host.net&headerType=http&type=tcp#@v2rayngzendegimamad🕊️
-vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?security=&encryption=none&host=check-host.net&headerType=http&type=tcp#MCI-@V2rayAlpha--24

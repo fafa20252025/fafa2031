@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80?mode=auto&path=/path&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=Demon02.global.ssl.fastly.net&type=xhttp#@Anty_Vpn سرورای بیشتر
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=yg.bantony199.top&type=ws&sni=Telegram-channel-WangCai2#@filembad
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=yg.bantony199.top&type=ws&sni=Telegram-channel-WangCai2#@freenettir
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=yg.bantony199.top&type=ws&sni=Telegram-channel-WangCai2#@meliproxyy
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=yg.bantony199.top&type=ws&sni=Telegram-channel-WangCai2#[10467] - Telegram : @V2All
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=yg.bantony199.top&type=ws&sni=Telegram-channel-WangCai2#⚡Telegram = @SOSkeyNET
@@ -500,6 +503,3 @@ vless://4506cd31-0c15-4b92-b464-35b377b4c2be@104.19.135.124:443?path=/&security=
 vless://4506cd31-0c15-4b92-b464-35b377b4c2be@104.19.135.124:443?path=/&security=tls&encryption=none&insecure=1&host=yopk.pages.dev&type=ws&allowInsecure=1&sni=yopk.pages.dev#@V2rayBaaz🫧
 vless://4506cd31-0c15-4b92-b464-35b377b4c2be@104.19.135.124:443?path=/&security=tls&encryption=none&insecure=1&host=yopk.pages.dev&type=ws&allowInsecure=1&sni=yopk.pages.dev#Telegram @Ettehad_vpn
 vless://4506cd31-0c15-4b92-b464-35b377b4c2be@104.19.135.124:443?path=/&security=tls&encryption=none&insecure=1&host=yopk.pages.dev&type=ws&allowInsecure=1&sni=yopk.pages.dev#https://t.me/ConfigX2ray
-vless://4506cd31-0c15-4b92-b464-35b377b4c2be@104.19.135.124:443?path=/&security=tls&encryption=none&insecure=1&host=yopk.pages.dev&type=ws&allowInsecure=1&sni=yopk.pages.dev#https://t.me/V2ry_Proxy
-vless://4506cd31-0c15-4b92-b464-35b377b4c2be@104.19.135.124:443?type=ws&encryption=none&host=yopk.pages.dev&path=/&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=yopk.pages.dev&allowInsecure=1#@chillguy_vpn
-vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@104.17.164.123:8443?path=/?ed=2560&security=tls&encryption=none&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@chillguy_vpn
