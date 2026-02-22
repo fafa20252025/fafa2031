@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://82849133-de8c-48ef-8479-ec67859c58e8@45.159.148.34:8585?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@V2rayBaaz
-vless://82849133-de8c-48ef-8479-ec67859c58e8@45.159.148.34:8585?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@VPNFARDAD
 vless://82849133-de8c-48ef-8479-ec67859c58e8@45.159.148.34:8585?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@v2_mod_shop🚀
 vless://82849133-de8c-48ef-8479-ec67859c58e8@45.159.148.34:8585?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel : @Daily_Configs
 vless://82849133-de8c-48ef-8479-ec67859c58e8@45.159.148.34:8585?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#⚜️@HajmVPN⚜️
@@ -503,3 +501,5 @@ vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop2.ahoohost2.top:7343/?security=
 vless://9850c8d9-bc16-489f-9a57-f19fb08999d7@join.v2ryvip.csgopc.shop:4590?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=ea1058117be12087#@torang_vpn
 vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=/containers/fi&security=none&encryption=none&host=helimeligodi.global.ssl.fastly.net&type=ws#🔴 telegram ➡️ @ata_connect
 vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=containers/fi&security=none&encryption=none&host=helimeligodi.global.ssl.fastly.net&type=ws#Em02
+vless://98aaebaa-bf4f-4e25-96f2-844691440360@theverge.com:80?path=/containers/fi&security=none&encryption=none&host=declanrice.global.ssl.fastly.net&type=ws#@Hddify ~ ❕
+vless://98aaebaa-bf4f-4e25-96f2-844691440360@theverge.com:80?path=/containers/fi&security=none&encryption=none&host=declanrice.global.ssl.fastly.net&type=ws#Em03
