@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://91a6fd31-8095-4b81-b9e7-89f31e2868ef@CdnJS.com:443?path=/?ed=36555336645-8ccc8855-ccckkjs-api1231&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kkiihh-iran-abc-iran-1993.kinghooman.com#@SPEEDS_VPN1-🫆
-vless://91a6fd31-8095-4b81-b9e7-89f31e2868ef@CdnJS.com:443?path=/?ed=36555336645-8ccc8855-ccckkjs-api1231&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kkiihh-iran-abc-iran-1993.kinghooman.com#vmesskhodam
-vless://91a6fd31-8095-4b81-b9e7-89f31e2868ef@CdnJS.com:443?path=/?ed=36555336645-8ccc8855-ccckkjs-api1231&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kkiihh-iran-abc-iran-1993.kinghooman.com#⚡Telegram = @prrofile_purple
-vless://91a6fd31-8095-4b81-b9e7-89f31e2868ef@CdnJS.com:443?path=/?ed=36555336645-8ccc8855-ccckkjs-api1231&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kkiihh-iran-abc-iran-1993.kinghooman.com#@icv2ray
 vless://91a6fd31-8095-4b81-b9e7-89f31e2868ef@www.speedtest.net:443/?path=/?ed=36555336645-8ccc8855-ccckkjs-api1231&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&typ…#@v2rays_ha 10573
 vless://91a6fd31-8095-4b81-b9e7-89f31e2868ef@www.speedtest.net:443?path=/?ed=36555336645-8ccc8855-ccckkjs-api1231&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kkiihh-iran-abc-iran-1993.kinghooman.com#@SPEEDS_VPN1-🫆
 vless://91a6fd31-8095-4b81-b9e7-89f31e2868ef@www.speedtest.net:443?path=/?ed=36555336645-8ccc8855-ccckkjs-api1231&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kkiihh-iran-abc-iran-1993.kinghooman.com#vmesskhodam
@@ -503,3 +499,7 @@ vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@3.iranazizm.com:8880?security=none&
 vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@3.iranazizm.com:8880?security=none&type=httpupgrade&headerType=&path=/&host=persianempire.iranvatanam.com🇸🇪 𓏺 Sweden HTTP
 vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@5.iranazizm.com:8880?security=none&type=httpupgrade&headerType=&path=/&host=info.iranvatanam.com#@chillguy_vpn
 vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@5.iranazizm.com:8880?security=none&type=httpupgrade&headerType=&path=/&host=info.iranvatanam.com#🇫🇷 𓏺 France HTTP
+vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@5.iranazizm.com:8880?security=none&type=httpupgrade&headerType=&path=/&host=info.iranvatanam.com🇫🇷 𓏺 France HTTP
+vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@contact.iranvatanam.com:6079?security=reality&type=tcp&headerType=&path=&host=&sni=www.pcmag.com&fp=chrome&pbk=Ak3gZa-Tu1UK7RFZiOddKd5vbYPwZMf3jmZ9aq5Wo04&sid=#@chillguy_vpn
+vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@contact.iranvatanam.com:6079?security=reality&type=tcp&headerType=&path=&host=&sni=www.pcmag.com&fp=chrome&pbk=Ak3gZa-Tu1UK7RFZiOddKd5vbYPwZMf3jmZ9aq5Wo04&sid=#🇺🇸 USA W1
+vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@contact.iranvatanam.com:6079?security=reality&type=tcp&headerType=&path=&host=&sni=www.pcmag.com&fp=chrome&pbk=Ak3gZa-Tu1UK7RFZiOddKd5vbYPwZMf3jmZ9aq5Wo04&sid=🇺🇸 USA W1

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-⚡️سرور Vmess💥پر سرعتvmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBSSVBfVlBOIDEiLA0KICAiYWRkIjogIjEzLjUwLjE0Ni42MCIsDQogICJwb3J0IjogIjExMTExIiwNCiAgImlkIjogIjdjYjcyODgzLTk2MzUtNDZlYi04NTMxLThkNjk3OTI3ZmYwNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
-
-
-⚡️سرور Vmess💥پر سرعتss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuZ3lVUTFwVUFNQVM3SERnUTBSZFNj@18.156.166.159:8381#%40RIP_VPN%201╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
 
 ✅ مناسب وب گردیvless://344ad1bf-0e81-4a9a-843f-accec016684d@ftdawism.silverengine.uno:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=elasticsearch&sni=ftdawism.silverengine.uno#%E2%9C%85+%40VorTexIRN💠 آموزش استفاده از کانفینگ مورد نظر 🔝╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
 
@@ -503,3 +499,7 @@ vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.237:22955/?type=grpc&encr
 vless://643a3034-d3f9-4e03-acde-0e6ab3a238fb@chatgpt.com:443?path=%2F54.203.85.46&security=tls&encryption=none&host=afrcloud22.mmv.kr&fp=chrome&type=ws&sni=afrcloud22.mmv.kr#%3E%3E%40v2ray1_ng%3A%3AUS
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#%3E%3E%40FreakConfig%3A%3AXX
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s5.daneshvardost.com:26480?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AXX
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3AAT
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.49.130:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3AAT
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.50.126:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3AAT
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.29:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3AAT

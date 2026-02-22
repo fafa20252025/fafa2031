@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@5.iranazizm.com:8880?security=none&type=httpupgrade&headerType=&path=/&host=info.iranvatanam.com🇫🇷 𓏺 France HTTP
-vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@contact.iranvatanam.com:6079?security=reality&type=tcp&headerType=&path=&host=&sni=www.pcmag.com&fp=chrome&pbk=Ak3gZa-Tu1UK7RFZiOddKd5vbYPwZMf3jmZ9aq5Wo04&sid=#@chillguy_vpn
-vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@contact.iranvatanam.com:6079?security=reality&type=tcp&headerType=&path=&host=&sni=www.pcmag.com&fp=chrome&pbk=Ak3gZa-Tu1UK7RFZiOddKd5vbYPwZMf3jmZ9aq5Wo04&sid=#🇺🇸 USA W1
-vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@contact.iranvatanam.com:6079?security=reality&type=tcp&headerType=&path=&host=&sni=www.pcmag.com&fp=chrome&pbk=Ak3gZa-Tu1UK7RFZiOddKd5vbYPwZMf3jmZ9aq5Wo04&sid=🇺🇸 USA W1
 vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@fastly1.fastspeeds.ir:80?security=none&type=xhttp&headerType=&path=/magicmizban?ed=2048&host=khanahmadiforever.global.ssl.fastly.net&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false,+"xmux":+{"maxConcurrency":+"16-32",+"maxConnections":+0,+"cMaxReuseTimes":+"64-128",+"cMaxLifetimeMs":+0,+"hMaxRequestTimes":+"800-900",+"hKeepAlivePeriod":+0}}#@chillguy_vpn
 vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@fastly1.fastspeeds.ir:80?security=none&type=xhttp&headerType=&path=/magicmizban?ed=2048&host=khanahmadiforever.global.ssl.fastly.net&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false,+"xmux":+{"maxConcurrency":+"16-32",+"maxConnections":+0,+"cMaxReuseTimes":+"64-128",+"cMaxLifetimeMs":+0,+"hMaxRequestTimes":+"800-900",+"hKeepAlivePeriod":+0}}#🇳🇱 Netherlands CDN - جایگزین
 vless://a81d647a-ba0b-43ea-80dd-96b05477dabf@fastly1.fastspeeds.ir:80?security=none&type=xhttp&headerType=&path=/magicmizban?ed=2048&host=khanahmadiforever.global.ssl.fastly.net&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false,+"xmux":+{"maxConcurrency":+"16-32",+"maxConnections":+0,+"cMaxReuseTimes":+"64-128",+"cMaxLifetimeMs":+0,+"hMaxRequestTimes":+"800-900",+"hKeepAlivePeriod":+0}}🇳🇱 Netherlands CDN - جایگزین
@@ -503,3 +499,7 @@ vless://c20232f5-0b4d-4df0-9407-af291522a889@iranlir.speedtrade.top:36778?securi
 vless://c20232f5-0b4d-4df0-9407-af291522a889@iranlir.speedtrade.top:36778?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=iranlir.speedtrade.top#@canfingV2rayNG
 vless://c20232f5-0b4d-4df0-9407-af291522a889@iranlir.speedtrade.top:36778?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=iranlir.speedtrade.top&note=@FreeOnlineVPN#🇹🇷 - TR - @FreeOnlineVPN
 vless://c21ba381-5808-4098-b94d-86c468a683d9@3.67.226.143:443?security=none&encryption=none&headerType=none&type=tcp#configraygan_30
+vless://c21ba381-5808-4098-b94d-86c468a683d9@3.68.220.245:443?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD 18
+vless://c21ba381-5808-4098-b94d-86c468a683d9@3.68.220.245:443?security=&encryption=none&headerType=&type=tcp#@coldxmeme  18
+vless://c21ba381-5808-4098-b94d-86c468a683d9@3.68.220.245:443?security=&encryption=none&headerType=&type=tcp#@vmess_iran 3
+vless://c21ba381-5808-4098-b94d-86c468a683d9@3.68.220.245:443?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
