@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@94.183.150.47:8082?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#E87
-vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@94.183.150.47:8082?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#⚡ @HajmVPN_Config
-vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@94.184.18.230:5053?security=none&encryption=none&headerType=http&type=tcp#E83
 vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@94.184.18.230:5053?security=none&encryption=none&headerType=http&type=tcp#⚡ @HajmVPN_Config
 vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@94.184.18.230:5055?security=none&encryption=none&headerType=http&type=tcp#E82
 vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@94.184.18.230:5055?security=none&encryption=none&headerType=http&type=tcp#⚡ @HajmVPN_Config
@@ -503,3 +500,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.180.157:2053?encryption=none
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.180.157:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇳🇱Netherlands+->+🇳🇱Netherlands+⚡@DeamNet_Proxy
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.8.211.138:2096?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#⚡Telegram = @SOSkeyNET
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.238:2096?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#@v2ray_proxy_npv+❄️+@ClouddVPN
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.214.238:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#@v2ray_proxy_npv+❄️+@ClouddVPN
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.238:2096/?path=/?ed=2560&telegram🇨🇳 @wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#@v2rays_ha 10867
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.238:2096?path=/?ed=2560&telegram🇨🇳 @wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#⚡Telegram = @SOSkeyNET
