@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#IR--@V2rayAlpha-14
-trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#کانفیگ رایگان = t.me/arisping
-trojan://humanity@www.multiplydose.com:443/?type=ws&path=/assignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#proxy (8)
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0#🧿 Tel : @ProxyVPN11 ⟵
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
@@ -503,3 +500,6 @@ vless://15336743-2807-492e-c6d3-afc0b80e6c22@3.66.232.13:59667?security=none&enc
 vless://15336743-2807-492e-c6d3-afc0b80e6c22@3.66.232.13:59667?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
 vless://156f09d6-3c98-4de6-ba75-94ba79bcab86@3.70.175.115:34672?security=&encryption=none&headerType=&type=tcp#@VpnMaan 19
 vless://156f09d6-3c98-4de6-ba75-94ba79bcab86@3.70.175.115:34672?security=&encryption=none&headerType=&type=tcp#⚡Telegram = @SOSkeyNET
+vless://156f09d6-3c98-4de6-ba75-94ba79bcab86@3.72.52.80:34672?type=tcp&encryption=none&security=none#@meliproxyy
+vless://159fd3c9-561c-42aa-90bc-192745785888@77.83.245.195:49229?security=reality&encryption=none&pbk=LU8N5PPS39pF7Sjwxwen_dDWEO0v1jBteR_LS6epgTs&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=92de1aab07490056#MCI-@V2rayAlpha--9
+vless://159fd3c9-561c-42aa-90bc-192745785888@77.83.245.195:49229?security=reality&encryption=none&pbk=LU8N5PPS39pF7Sjwxwen_dDWEO0v1jBteR_LS6epgTs&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=92de1aab07490056#azadiiivpn 🎀

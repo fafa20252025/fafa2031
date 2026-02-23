@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@afrcloud22.mmv.kr:443?path=/167.179.110.68=8443&security=tls&encryption=none&host=afrcloud22.mmv.kr&fp=chrome&type=ws&sni=afrcloud22.mmv.kr#https://t.me/V2ry_Proxy
-vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@afrcloud22.mmv.kr:443?path=/167.179.110.68=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#T.me/i10VPN🌕
-vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@afrcloud22.mmv.kr:443?path=/167.179.110.68=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#•⭐ @wedbazTel
 vless://6fc2e094-daf5-4848-b539-dd2fb18de3a6@94.182.149.197:52952?mode=auto&path=/&security=reality&encryption=none&pbk=5bgoms49YpXoZJwtyrij9wbIq9Qe68APgIjK-J-x-g4&fp=chrome&spx=/POST&type=xhttp&sni=www.varzesh3.com&sid=cf8d48a6#@Hddify |••| چنل هدیفای
 vless://6fd9f786-d974-49d0-b5c4-397678de69a2@nld14.freednet.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#IR-@V2rayAlpha--23
 vless://6fd9f786-d974-49d0-b5c4-397678de69a2@nld14.freednet.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#💀NΞTISHIΣLD🔥 | @netishield ⚡️🛡️👾🇳🇱
@@ -503,3 +500,6 @@ vless://8c020e2f-15fb-4e5b-a421-4e8818a21420@435a25d4e8e0bf43.first.sapienza-mah
 vless://8c020e2f-15fb-4e5b-a421-4e8818a21420@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh2.salonemojallal.ir.#@Hddify
 vless://8c020e2f-15fb-4e5b-a421-4e8818a21420@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh2.salonemojallal.ir.#⚡Telegram = @prrofile_purple
 vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036/?type=ws&encryption=none&flow=&path=/#🪢8@oneclickvpnkeys
+vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?path=/&security=&encryption=none&type=ws#Iran
+vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?path=/&security=&encryption=none&type=ws#🟢Ṭelegram"@Filtering2020"
+vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?path=/&security=none&encryption=none&type=ws#@Black_Star_Vpn🇮🇷
