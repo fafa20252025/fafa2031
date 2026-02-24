@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://90d41578-2041-4b68-a8eb-18f22acab21a@51.75.69.164:2003?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&type=grpc&serviceName=cdn-cgi&sni=51.75.69.164#@appsooner کانال تلگرام 🕊️
-vless://90d41578-2041-4b68-a8eb-18f22acab21a@51.75.69.164:2003?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&type=grpc&serviceName=cdn-cgi&sni=51.75.69.164#🔘 T.me/V2HUBIR | Join Now ✅️
-vless://913b07fe-eae9-4985-9a39-33acaba25a2c@fin-0001-xr.packet-drop-society.net:11443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=f79448a30d#🏴‍☠️@FREE2CONFIG  (53)
 vless://913b07fe-eae9-4985-9a39-33acaba25a2c@fin-0001-xr.packet-drop-society.net:11443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#Telegram @Ettehad_vpn
 vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=5f22#MCI-@V2rayAlpha--11
 vless://914b0493-7094-4840-b94d-8ec3e92e9c43@vimopanel.185.208.206:443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=5f22#🇳🇱@FreakConfig
@@ -503,3 +500,6 @@ vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?security=none&e
 vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🛡 V 16 @Outline_Vpn
 vless://a98dfdf4-ab04-4c57-83c4-0fbd75a2a954@hco-2.unique021.com:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=fonts.googleapis.com&pbk=rYbpdxRUs5xTdlDJA6KHdz_lqi9Ka9LMOKM4TEQEXis&sid=d36dd61c&spx=/#@HosseinStore_Za
 vless://a992c7a6-832b-4243-a294-d34783d0294c@185.238.228.46:443?path=/v2rayroad&security=tls&encryption=none&insecure=0&host=hotchoclate.graphapp.ir&fp=chrome&type=ws&allowInsecure=0&sni=hotchoclate.graphapp.ir#💀NΞTISHIΣLD🔥 | @netishield ⚡️🛡️👾🇩🇪
+vless://a992c7a6-832b-4243-a294-d34783d0294c@chatgpt.com:443?path=/v2rayroad&security=tls&encryption=none&insecure=0&host=hotchoclate.graphapp.ir&type=ws&allowInsecure=0&sni=hotchoclate.graphapp.ir#@Hddify
+vless://a9bac46a-2037-4ad1-a192-08c70927f4ad@faqatchai.global.ssl.fastly.net:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=faqatchai.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=faqatchai.global.ssl.fastly.net&path=/Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv#Telegram : @V2ynpv
+vless://a9c28cf3-1962-8824-1175-a69268a0e213@92.42.203.170:5690?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy

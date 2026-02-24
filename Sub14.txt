@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a992c7a6-832b-4243-a294-d34783d0294c@chatgpt.com:443?path=/v2rayroad&security=tls&encryption=none&insecure=0&host=hotchoclate.graphapp.ir&type=ws&allowInsecure=0&sni=hotchoclate.graphapp.ir#@Hddify
-vless://a9bac46a-2037-4ad1-a192-08c70927f4ad@faqatchai.global.ssl.fastly.net:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=faqatchai.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=faqatchai.global.ssl.fastly.net&path=/Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv#Telegram : @V2ynpv
-vless://a9c28cf3-1962-8824-1175-a69268a0e213@92.42.203.170:5690?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://a9c28cf3-1962-8824-1175-a69268a0e213@92.42.203.170:5690?security=none&encryption=none&headerType=none&type=tcp#@mtmvpn
 vless://a9d5dd8b-9eb3-4b4f-f69b-90abc8af99c9@3.67.136.9:58445?security=none&encryption=none&headerType=none&type=tcp#configraygan_83
 vless://a9ee8b76-6a94-4c25-9705-76d9bd38771e@chatgpt.com:443?path=/35.230.79.26&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#⚡Telegram = @SOSkeyNET
@@ -503,3 +500,6 @@ vless://c0b8963b-b2ba-4b74-8602-98a8b044f3bc@188.114.97.3:8443?path=/eyJqdW5rIjo
 vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@155.212.110.2:993?security=reality&encryption=none&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@Golestan_VPN - 🕊️
 vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@155.212.37.10:993?security=reality&encryption=none&pbk=0xVsi6JYS-gJFUILwuePsB32jvWtxRT_okJSmcWEQEc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@Golestan_VPN - 🕊️
 vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?mode=gun&security=reality&encryption=none&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA&fp=chrome&type=grpc&serviceName=TunService&sni=www.microsoft.com#@Golestan_VPN - 🕊️
+vless://c138f4ac-1d6d-47f4-bd9d-63c99b5e310a@85.208.186.162:21578?security=reality&encryption=none&pbk=QF_IU-Irhp79fA0d9GEcmeGB-O25kkkYzwy7Hr9YYh4&headerType=none&fp=chrome&spx=/&type=tcp&sni=digikala.ir#جوین چنل شو قط نشی SPARTAN_YT@
+vless://c15c00a4-9e8e-4d22-9f2e-dc237c8b1220@37.139.33.57:51101?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=4ffc99daad0f261f#🥮 Tel : @ProxyVPN11 ⟵
+vless://c15c00a4-9e8e-4d22-9f2e-dc237c8b1220@37.139.33.57:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=f32140952ba18e18#🥮 Tel : @ProxyVPN11 ⟵

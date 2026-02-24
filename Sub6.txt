@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?encryption=none&type=tcp&security=none#@HqV2rayNG 🇫🇮 3/4 - 18 February
-vless://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?security=&encryption=none&headerType=none&type=tcp#@canfingV2rayNG
-vless://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?security=&encryption=none&headerType=none&type=tcp#🇩🇪All¹ | @BigSmoke_Config
 vless://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?security=none&encryption=none&headerType=none&type=tcp#@chillguy_vpn
 vless://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?security=none&encryption=none&headerType=none&type=tcp#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️311🌐🆕️
 vless://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?security=none&encryption=none&headerType=none&type=tcp#🇩🇪Telegram @Ettehad_vpn
@@ -503,3 +500,6 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?security=none&e
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&security=none&type=xhttp&host=atus.pabloping.pro&path=pabloping&mode=auto#Channel : @Daily_Configs
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&security=none&type=xhttp&host=atus.pabloping.pro&path=pabloping/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&mode=auto#Channel : @Daily_Configs
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&security=none&type=xhttp&host=nlbv1.pabloping.pro&path=/pabloping&mode=auto#Channel : @Daily_Configs
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&security=none&type=xhttp&host=nlbv1.pabloping.pro&path=pabloping&mode=auto#Channel : @Daily_Configs
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&security=none&type=xhttp&host=nlbv2.pabloping.pro&path=/pabloping/&mode=auto#@V2rayBaaz
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&security=none&type=xhttp&host=nlbv2.pabloping.pro&path=/pabloping/&mode=auto#@WedBaZtel
