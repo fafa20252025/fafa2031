@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8e979723-8528-4201-8e70-aa66c0bd7e10@b.khomain.org:8093?security=none&encryption=none&headerType=none&type=tcp#@VPNFARDAD
-vless://8e979723-8528-4201-8e70-aa66c0bd7e10@b.khomain.org:8093?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
-vless://8e979723-8528-4201-8e70-aa66c0bd7e10@b.khomain.org:8093?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
 vless://8e979723-8528-4201-8e70-aa66c0bd7e10@b.khomain.org:8093?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @v2ray_configs_pools
 vless://8ed851cb-a9ac-4be7-97d3-cf74f0d72d75@45.56.69.74:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L603
 vless://8f10f456-fbb0-492a-a71b-9b88cde3e511@91.107.251.56:22?mode=gun&security=reality&encryption=none&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w&fp=chrome&spx=/&type=grpc&serviceName=کانال‌تلگرام @ev2rayy&sni=yahoo.com&sid=d757f949ab85#@ev2rayy
@@ -503,3 +500,6 @@ vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@62.204.42.162:443/?type=tcp&encrypt
 vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@62.204.42.162:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&security=reality&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&sid=edbc04c389#🥎29@oneclickvpnkeys
 vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@62.204.42.162:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&security=reality&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&sid=edbc04c389#🥎29@v2ray_configs_pools
 vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@62.204.42.162:443?security=reality&encryption=none&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=edbc04c389#@MARAMBASHI 🇧🇷
+vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@62.204.42.162:443?security=reality&encryption=none&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=edbc04c389#@filembad
+vless://a7fbea79-18c8-41b8-d519-457d66f2d798@18.159.34.206:443?security=&encryption=none&headerType=&type=tcp#@v2raycan1 6
+vless://a7fbea79-18c8-41b8-d519-457d66f2d798@18.194.41.196:443?encryption=none&security=none&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
