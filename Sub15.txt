@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bfc32338-df17-43ba-8cdf-304d69705c90@147.45.154.241:17839?mode=auto&path=/POST&security=reality&encryption=none&pbk=YWCOA3An4yr5-1sLEwGxqozPMbJ4xfOV7SpmVLUfEXk&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=60#@Vpn_Midas
-vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#[🖤@Kia_Net🖤]] 🇺🇸 US-11387
 vless://c02aeb3d-acff-4b1d-b38e-f855e0b9aa23@osn.takovpn.ru:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=768c60&type=tcp&headerType=none#⚡Telegram = @SOSkeyNET
 vless://c02c072f-39ba-46bd-ba66-4791a6ccfbde@runtomon.runtome.sbs:4000?security=&encryption=none&headerType=none&type=tcp#@canfingV2rayNG
 vless://c02c072f-39ba-46bd-ba66-4791a6ccfbde@runtomon.runtome.sbs:4000?security=&encryption=none&headerType=none&type=tcp#🇩🇪All² | @BigSmoke_Config
@@ -503,3 +501,5 @@ vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloud
 vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#@v2_mod_shop🚀
 vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#@v2_mod_shop🚀 🇩🇪
 vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#@v2ray_configs_pools 10
+vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#All-@V2rayAlpha-38
+vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#Channel : @Daily_Configs
