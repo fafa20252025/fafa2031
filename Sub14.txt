@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@62.204.42.162:443?security=reality&encryption=none&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=edbc04c389#@filembad
+vless://a7fbea79-18c8-41b8-d519-457d66f2d798@18.159.34.206:443?security=&encryption=none&headerType=&type=tcp#@v2raycan1 6
 vless://a7fbea79-18c8-41b8-d519-457d66f2d798@18.194.41.196:443?encryption=none&security=none&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
 vless://a7fbea79-18c8-41b8-d519-457d66f2d798@18.194.41.196:443?security=none&encryption=none&headerType=none&type=tcp#@VPNFARDAD
 vless://a7fbea79-18c8-41b8-d519-457d66f2d798@18.197.247.141:443?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD 23
@@ -501,5 +503,3 @@ vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.ru.velaro.ir:23209?security=no
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sg.zopli.ir:43800?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇩🇪All⁸ | @BigSmoke_Config
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sp.flicknet.ir:33563?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#E202
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.ua.flicknet.ir:62306?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#E204
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.ua.flicknet.ir:62306?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#E210
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.uk.flicknet.ir:10464?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#Telegram:@meowvip1 *232*
