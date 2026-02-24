@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@109.172.55.122:443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=b12a6eea4807ca4e.1323.world#Telegram @Ettehad_vpn
+vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@77.221.152.183:443?encryption=none&security=tls&sni=b12a6eea4807ca4e.1323.world&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷 @en_vpn/کانفیگ های بیشتر
+vless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@185.138.90.31:8443?security=reality&encryption=none&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=e18eda8458cab0d7#MCI-@V2rayAlpha--15
+vless://0eb7bd8a-dc6e-4042-968f-70bcffc976c6@chatgpt.com:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=best1.api-tel.xyz&fp=chrome&type=ws&allowInsecure=0&sni=best1.api-tel.xyz#@V2rayNG3
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@172.67.149.60:443?path=/vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=cron.irtls.abrdns.com&fp=chrome&type=ws&sni=cron.irtls.abrdns.com#فیلترشکن رایگان👈vpnowl@
 vless://0f0cd1ee-b52f-4b1f-817e-2e27fad34a99@ReX1.FiDeUs.eU:80?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#⚜️@HajmVPN⚜️
 vless://0f411d3b-4356-4c4c-bd9f-927cbbbca754@iranpet.dtpetshop.com:40433?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=iranpet.dtpetshop.com#@VPNFARDAD
@@ -499,7 +503,3 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?security=none&e
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=pablo-n3.digionix.ir&type=xhttp#IR-@V2rayAlpha-25
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@188.114.98.0:2052/?encryption=none&type=xhttp&mode=auto&host=nlbv1.pabloping.pro&path=/pabloping&security=none#@v2rays_ha 10928
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@188.114.98.0:2052?encryption=none&security=none&type=xhttp&host=atus.pabloping.pro&path=/pabloping&mode=auto#Channel : @Daily_Configs
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@188.114.98.0:2052?encryption=none&security=none&type=xhttp&host=nlbv2.pabloping.pro&path=/pabloping/&mode=auto#Channel : @Daily_Configs
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@188.114.98.0:2052?mode=auto&path=/pabloping&security=&encryption=none&host=atus.pabloping.pro&type=xhttp#@ConfigV2RayNG 🌔
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@188.114.98.0:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=atus.pabloping.pro&type=xhttp#@FarazV2ray
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@188.114.98.0:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=atus.pabloping.pro&type=xhttp#@Selinc
