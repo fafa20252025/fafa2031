@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://066f5a08-cdd6-42a5-85a8-1f676db64656@190.93.245.72:2082?path=/V2RayyNGvpn?ed=512&security=none&encryption=none&host=Freemycity.esportplusnews.top&type=httpupgrade#@v2_mod_shop🚀 🇨🇷
 vless://066f5a08-cdd6-42a5-85a8-1f676db64656@190.93.245.72:2082?path=/V2RayyNGvpn?ed=512&security=none&encryption=none&host=Freemycity.esportplusnews.top&type=httpupgrade&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://066f5a08-cdd6-42a5-85a8-1f676db64656@190.93.245.72:2082?path=/V2rayBaaz?ed=512&security=none&encryption=none&host=Freemycity.esportplusnews.top&type=httpupgrade#@V2rayBaaz
 vless://066f5a08-cdd6-42a5-85a8-1f676db64656@190.93.245.72:2082?path=/V2rayBaaz?ed=512&security=none&encryption=none&host=Freemycity.esportplusnews.top&type=httpupgrade#@WedBaZtel
@@ -503,3 +502,4 @@ vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?security=&encry
 vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?security=&encryption=none&headerType=none&type=tcp#🇩🇪All⁴ | @BigSmoke_Config
 vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?security=none&encryption=none&headerType=none&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?security=none&encryption=none&headerType=none&type=tcp#https://t.me/V2ry_Proxy
+vless://2253e7d8-05c1-4079-9eac-845a015f8ff4@c1.darkstrange.ir:2083?path=/darkstrange&security=tls&encryption=none&insecure=0&host=c.xo-connection.ir&type=ws&allowInsecure=0&sni=c.xo-connection.ir#@VpnPinks 🎀  اختصاصی عضو باشید

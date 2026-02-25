@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.16.250.22:443/?type=ws&encryption=none&host=apii.onlineshoppingez.ir&path=/O1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&fp=chrome#🇩🇪@FREE2CONFIG  (5)
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.17.25.173:443/?type=ws&encryption=none&host=apii.onlineshoppingez.ir&path=/O1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir#💞31@oneclickvpnkeys
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.18.185.26:443/?type=ws&encryption=none&flow=&host=apii.onlineshoppingez.ir&path=/O1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&allowInsecure=1#@v2rays_ha 11152
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.18.185.26:443/?type=ws&encryption=none&host=apii.onlineshoppingez.ir&path=/O1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir#• @proxy_kafee
@@ -503,3 +502,4 @@ vless://f9cdb2e1-939c-4470-b322-14b7313dec48@109.172.55.157:19547?security=reali
 vless://f9cdb2e1-939c-4470-b322-14b7313dec48@109.172.55.157:19547?security=reality&encryption=none&pbk=-zsPOGrZY1Dlb6eypa5V_OPaLBpT66FX3cSo0mNX8SI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=47ee5c592c1672cf#@V2FERiFREE نمیزاریم
 vless://f9cdb2e1-939c-4470-b322-14b7313dec48@109.172.55.157:19547?security=reality&encryption=none&pbk=-zsPOGrZY1Dlb6eypa5V_OPaLBpT66FX3cSo0mNX8SI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=47ee5c592c1672cf#🇫🇷@Black_Star_Vpn
 vless://f9cdb2e1-939c-4470-b322-14b7313dec48@109.172.55.157:19547?security=reality&encryption=none&pbk=-zsPOGrZY1Dlb6eypa5V_OPaLBpT66FX3cSo0mNX8SI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=47ee5c592c1672cf#🇫🇷@FreakConfig
+vless://f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d@18.156.128.77:15948?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
