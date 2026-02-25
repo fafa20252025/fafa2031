@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sg.zopli.ir:43800?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇩🇪All⁸ | @BigSmoke_Config
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sp.flicknet.ir:33563?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#E202
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.ua.flicknet.ir:62306?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#E204
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.ua.flicknet.ir:62306?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#E210
@@ -503,3 +502,4 @@ vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloud
 vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#@V2rayBaaz
 vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#@erfanandroid
 vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#@meliproxyy
+vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#@v2_mod_shop🚀
