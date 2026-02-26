@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9a5a118d-06ab-4064-fe4b-89e47f1368b2@3.122.56.20:443?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD 9
 vless://9a5a118d-06ab-4064-fe4b-89e47f1368b2@3.70.129.145:443/?type=tcp&encryption=none#🌐 TCP-None 📁 @Free_World2 (23)
 vless://9a5a118d-06ab-4064-fe4b-89e47f1368b2@3.70.129.145:443?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD 8
 vless://9a5a118d-06ab-4064-fe4b-89e47f1368b2@3.70.129.145:443?security=none&encryption=none&headerType=none&type=tcp#@Hddify
@@ -502,4 +503,3 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.18.0.144:443?path=/49.51.197.14
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.20.0.31:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#🔆 Tel : @ProxyVPN11 ⟵
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.20.1.252:443?path=/156.244.1.250=8443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#@chillguy_vpn
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.20.1.252:443?path=/156.244.1.250=8443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#🐦‍🔥-@SPEEDS_VPN
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80/?encryption=none&host=afrcloud22.mmv.kr&path=/64.181.218.67=443&security=none&type=ws#@v2rays_ha 11367
