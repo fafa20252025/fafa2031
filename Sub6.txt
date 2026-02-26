@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdnuser.wrongguy.ir#@VpnPinks 🎀 عضو باشید قطع نشید
 vless://1e823993-86ac-3ead-89b5-227e73825fdb@104.18.38.47:443?path=/db1024faebdb62e0&security=tls&encryption=none&insecure=1&host=dabaif0.webn.cc&type=ws&allowInsecure=1&sni=dabaif0.webn.cc#@V2rayBaaz🫧
 vless://1e823993-86ac-3ead-89b5-227e73825fdb@104.18.38.47:443?path=/db1024faebdb62e0&security=tls&encryption=none&insecure=1&host=dabaif0.webn.cc&type=ws&allowInsecure=1&sni=dabaif0.webn.cc#@WedBaZtel
 vless://1e823993-86ac-3ead-89b5-227e73825fdb@104.18.38.47:443?path=/db1024faebdb62e0&security=tls&encryption=none&insecure=1&host=dabaif0.webn.cc&type=ws&allowInsecure=1&sni=dabaif0.webn.cc#『 @V2rayBaaz ◇⃟💎 』
@@ -503,3 +502,4 @@ vless://2542eb5b-7774-4480-886b-7b3ba4e81c14@safe.zdshop.ir:2053?security=tls&ty
 vless://2542eb5b-7774-4480-886b-7b3ba4e81c14@safe.zdshop.ir:2053?security=tls&type=ws&headerType=&path=&host=cbb7ebcc678a866b.kiWiJuiCe.IR.&sni=ac8697a83c36597f.kiWiJuiCe.IR.&fp=#✅@AR14N24b
 vless://2542eb5b-7774-4480-886b-7b3ba4e81c14@shield.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=bafac3d93d7db42e.CeRthOSt.iR.&type=ws&allowInsecure=0&sni=ac563ff8cabbb7d0.CeRthOSt.iR.&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇸🇪]t.me/Raiv2mmr
 vless://2542eb5b-7774-4480-886b-7b3ba4e81c14@shield.zdshop.ir:2053?security=tls&type=ws&headerType=&path=&host=ada46a64cdd47b71.kiWiJuiCe.IR.&sni=0699d46c0701718a.kiWiJuiCe.IR.&fp=#⚡Telegram = @SOSkeyNET
+vless://2542eb5b-7774-4480-886b-7b3ba4e81c14@shield.zdshop.ir:2053?security=tls&type=ws&headerType=&path=&host=ada46a64cdd47b71.kiWiJuiCe.IR.&sni=0699d46c0701718a.kiWiJuiCe.IR.&fp=#✅@AR14N24b

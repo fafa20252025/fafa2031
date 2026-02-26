@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2542eb5b-7774-4480-886b-7b3ba4e81c14@shield.zdshop.ir:2053?security=tls&type=ws&headerType=&path=&host=ada46a64cdd47b71.kiWiJuiCe.IR.&sni=0699d46c0701718a.kiWiJuiCe.IR.&fp=#✅@AR14N24b
 vless://2542eb5b-7774-4480-886b-7b3ba4e81c14@shield.zdshop.ir:2053?security=tls&type=ws&headerType=&path=&host=bafac3d93d7db42e.CeRthOSt.iR.&sni=ac563ff8cabbb7d0.CeRthOSt.iR.&fp=#⚡Telegram = @SOSkeyNET
 vless://2542eb5b-7774-4480-886b-7b3ba4e81c14@shield.zdshop.ir:2053?security=tls&type=ws&headerType=&path=&host=bafac3d93d7db42e.CeRthOSt.iR.&sni=ac563ff8cabbb7d0.CeRthOSt.iR.&fp=#✅@AR14N24b
 vless://2542eb5b-7774-4480-886b-7b3ba4e81c14@shield.zdshop.ir:2053?security=tls&type=ws&headerType=&path=&host=f60887ca2edb57c4.blAcKpaPErs.IR.&sni=ddcea36813beb586.blAcKpaPErs.IR.&fp=#⚡Telegram = @SOSkeyNET
@@ -503,3 +502,4 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096/?type
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?encryption=none&security=tls&sni=hetz.x-smm.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hetz.x-smm.com&path=/45.76.183.217=49292#کانفیگ رایگان = t.me/arisping
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?encryption=none&security=tls&sni=hetz.x-smm.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hetz.x-smm.com&path=/45.76.183.217=49292#⚡Telegram = @SOSkeyNET
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?encryption=none&security=tls&sni=hetz.x-smm.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hetz.x-smm.com&path=/45.76.183.217=49292#✅@AR14N24b
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#@Spartan_YT

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.166.151.33:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#جاویدنام
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.28:2053?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#@Proxyiranip
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.28:2053?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#[14000] - Telegram : @V2All
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.28:2053?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#⚡Telegram = @v2ray_configs_pools
@@ -503,3 +502,4 @@ vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.spac…#Telegram:@co
 vless://6c5fcf1e-5d8a-43eb-8bdb-fe3460256bad@chatgpt.com:443?path=/eyJqdW5rIjoidVNCNkdGVTRLUFAwYUkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=4i7kkom80mc6fnqhb0qxan38pe7ie7lwm7tg9o35769qejhbjfc5m9y8ss.mo7roo1jn5wa2ev884r4.workers.dev&fp=chrome&type=ws&sni=4I7Kkom80Mc6fnqhb0qxan38Pe7iE7LwM7Tg9o35769QEJhbjfC5M9y8ss.Mo7ROO1jn5wA2eV884r4.worKers.Dev#فیلترشکن رایگان👈vpnowl@
 vless://6ceadcb3-81b5-4a0d-a99e-3cb24238952c@chatgpt.com:8443?path=/eyJqdW5rIjoiM01rd2Uxb21BemtUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast.ndulimbh.workers.dev&fp=chrome&type=ws&sni=V2nGfaST-V2NGfaST-V2NgfaST-V2NgFaST-V2NgfasT.nDulIMBH.WorkERS.dev#1 🔥 @V2ngFast
 vless://6d17a032-b0ef-43ca-acb9-26bc0308ffbe@ir98.zdf2024.sbs:3001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🥊 Tel : @ProxyVPN11 ⟵
+vless://6d39596c-b569-4a61-86c3-28cfb83a4c95@212.111.84.187:8443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=887c0d72e771a934#IR-@V2rayAlpha--31

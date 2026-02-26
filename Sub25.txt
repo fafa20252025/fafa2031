@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.29:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#@chillguy_vpn
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@ChatGPT.com:443?path=/156.244.1.250=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#@chillguy_vpn
 vless://9b5dffa2-8ab0-4e7c-af62-725a320957cc@84.32.151.60:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#@chillguy_vpn
 vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443?&security=tls&fp=chrome&sni=afrcloud22.mmv.kr&type=ws&headerType=none&host=afrcloud22.mmv.kr&path=%2F35.230.79.26%3D443#@chillguy_vpn

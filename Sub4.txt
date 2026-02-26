@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#@Hddify
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#@appsooner کانال تلگرام 🕊️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#All-@V2rayAlpha-6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#All-@WedBaZtel-6
@@ -503,3 +502,4 @@ trojan://zmbwn6y3-u1h7-piyu-ck8j-r9fz2p1mkgoi@127.0.0.1:2080?security=tls&type=t
 trojan://zp630tdUuD@194.150.166.151:52047?mode=gun&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&type=grpc&sni=aws.amazon.com&sid=1abe0c286879#All-@V2rayAlpha-8
 trojan://zp630tdUuD@194.150.166.151:52047?mode=gun&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&type=grpc&sni=aws.amazon.com&sid=1abe0c286879#All-@WedBaZtel-8
 trojan://zp630tdUuD@194.150.166.151:52047?security=reality&sni=aws.amazon.com&fp=chrome&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&sid=1abe0c286879&spx=/&allowInsecure=1&type=grpc#t.me/v2Line | Free | 3435 | United Kingdom
+vless://--VPNCUSTOMIZE--@www.parsvds.ir:8080?path=VPNCUSTOMIZE?ed=8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#@torang_vpn+ALL+NET
