@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e3713ba4-a8fc-44ec-b401-3b736e67718d@109.120.176.90:8443?allowInsecure=1&encryption=none&host=002.ljk-clouflare.dns.army&path=/?telegram🇨🇳+@wangcai2=&security=tls&sni=002.ljk-clouflare.dns.army&type=ws#⚛️44@oneclickvpnkeys
+vless://e3713ba4-a8fc-44ec-b401-3b736e67718d@168.107.29.97:8443?security=tls&type=ws&path=/?ed=2560&Telegram🇨🇳+@WangCai2&host=002.ljk-clouflare.dns.army&sni=002.ljk-clouflare.dns.army&fp=chrome#Telegram:@config_proxy 🔥
 vless://e37e8e6e-17d2-483b-86b1-067215dd386c@emergency3.layer-ziro.ir:2003?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@FREE2CONFIG
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@1.cdnconn.com:23335/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=icloud.com&alpn=channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&security=reality&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@1.cdnconn.com:23335?encryption=none&flow=xtls-rprx-vision&security=reality&sni=icloud.com&fp=chrome&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
@@ -501,5 +503,3 @@ vless://mahanvpn-free-iran5@162.159.10.81:443?path=/assets&security=tls&alpn=h2,
 vless://mahanvpn-free-iran5@188.114.98.0:443?path=/assets&security=tls&alpn=h2,http/1.1&encryption=none&host=MAHANteAm.noD32Cpu.iR&fp=chrome&type=ws&sni=MAHANteAm.noD32Cpu.iR#🇩🇪🔑Tel@mahanvpn-2-free iran
 vless://mahanvpn-free-iran6@104.19.177.157:443?path=/assets&security=tls&alpn=h2,http/1.1&encryption=none&host=MAHANteAm.noD32Cpu.iR&fp=chrome&type=ws&sni=MAHANteAm.noD32Cpu.iR#🇩🇪🔑Tel@mahanvpn-4-free iran
 vless://mahanvpn-free-iran7@162.159.10.81:443?path=/assets&security=tls&alpn=h2,http/1.1&encryption=none&host=MAHANteAm.noD32Cpu.iR&fp=chrome&type=ws&sni=MAHANteAm.noD32Cpu.iR#
-vless://mahanvpn-free-iran7@162.159.10.81:443?path=/assets&security=tls&alpn=h2,http/1.1&encryption=none&host=MAHANteAm.noD32Cpu.iR&fp=chrome&type=ws&sni=MAHANteAm.noD32Cpu.iR#🇩🇪🔑Tel@mahanvpn-7-free iran
-vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#@monacoVPN
