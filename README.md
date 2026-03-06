@@ -1,4 +1,4 @@
-# 🔒 Free V2ray Config 🌐
+# 🔒 Free V2ray Config🌐
 💻 This repository contains a collection of free V2ray configuration files that you can use with your V2ray client to access the internet securely and anonymously.
 
 [ورژن فارسی](https://github.com/barry-far/V2ray-config/blob/main/Persian-README.md) | [中文版](https://github.com/barry-far/V2ray-config/blob/main/Chinese-README.md) | [Русская версия](https://github.com/barry-far/V2ray-config/blob/main/Russian-README.md) | [Türkçe Versiyon](https://github.com/barry-far/V2ray-config/blob/main/Turkish-README.md)
