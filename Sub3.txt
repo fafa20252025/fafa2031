@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://18164b40-8a2d-46f8-b758-bf6c87cb5e9e@ir-www-germani1.khabarkamkwww.fun:8081?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#وصل شدی بیا کانالمون@ConfigV2RayNG
 vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.16.19.242:80?encryption=none&security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#❄️Tel: @pPal03❄️Join❄️
 vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?encryption=none&security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#❄️Tel: @pPal03❄️Join❄️
 vless://1864aa1e-03ec-4f54-9bce-28fdd1047dd8@pm5.vhuma.com:443?encryption=none&type=tcp&headerType=http&host=bama.ir&path=/#@AkbarConfig👈کانفیگ روزانه در
@@ -503,3 +502,4 @@ vless://3c74a11b-1676-4f58-921f-7399bea00880@v4.mesterking8786.cfd:55948?securit
 vless://3c74a11b-1676-4f58-921f-7399bea00880@v4.mesterking8786.cfd:55948?security=none&encryption=none&host=www.soft98.ir&headerType=http&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://3c74a11b-1676-4f58-921f-7399bea00880@v4.mesterking8786.cfd:55948?type=tcp&path=/&host=www.soft98.ir&headerType=http&security=none#V2rayng_Saz
 vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@Proxyiranip
+vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@filembad

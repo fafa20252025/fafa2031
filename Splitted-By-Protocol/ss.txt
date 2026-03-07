@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44235?type=tcp#ne2%F0%9F%87%A7%F0%9F%87%AA(
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@meli_proxyy
 ss://00abb75d-a272-458c-b6bd-dc3438d95f4f@95.163.208.45:7978?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=QoLPk_-CY7Hanxdx3gU2bvbNvN8BtibZDQmjCdqXuno&sid=ed8faad3143bbaf0&type=tcp&headerType=none#https://t.me/allproconf
