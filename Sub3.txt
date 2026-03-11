@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://0d7744c1-eba9-409b-8e54-3cf8d60e2a9a@meli2.ertebatgoostar.ir:2087?security=none&encryption=none&headerType=http&type=tcp#VayNora
 vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?mode=auto&path=/sreztjsterw4j&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=drive.speegy.club#@V2rayNG3
 vless://0eb7bd8a-dc6e-4042-968f-70bcffc976c6@chatgpt.com:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=best1.api-tel.xyz&fp=chrome&type=ws&allowInsecure=0&sni=best1.api-tel.xyz#@V2rayNG3
 vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@144.31.131.224:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=mold.speedload.online&type=tcp#🚂89@oneclickvpnkeys
@@ -502,4 +503,3 @@ vless://37f7aee3-0739-41bb-b923-f1b2a08e6862@194.37.80.234:443?security=reality&
 vless://384bc9c9-28cc-54ae-812f-2847a473f5bf@finland.netpllus.ir:2095?encryption=none&security=none&sni=1&type=tcp&headerType=http&host=fast.com#کانال تلگرام : Free_VPN_CH@
 vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@104.21.0.128:443?allowInsecure=1&encryption=none&host=myserviran.serviran.workers.dev&security=tls&sni=myserviran.serviran.workers.dev&type=ws#[21241] - Telegram : @V2All
 vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@104.21.0.128:443?allowInsecure=1&encryption=none&host=myserviran.serviran.workers.dev&security=tls&sni=myserviran.serviran.workers.dev&type=ws#🛄78@oneclickvpnkeys
-vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@172.67.150.247:443?allowInsecure=1&encryption=none&host=myserviran.serviran.workers.dev&security=tls&sni=myserviran.serviran.workers.dev&type=ws#🚂72@oneclickvpnkeys

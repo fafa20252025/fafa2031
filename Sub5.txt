@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://56de8b9a-6bb1-4655-badf-0497683c41ba@IR-FanAva4-AlphaOmega.AlphaOmegaVIP.IR:400/?type=tcp&headerType=none&host=www.telewebion.ir.#Telegram:@config_proxy 🔥
 vless://572d98cb-5bc8-40c5-af0b-450a1cc9395d@94.183.149.205:8882?type=ws&path=/&host=&security=none#@chillguy_vpn
 vless://573c787d-d549-4171-b05f-29984bc0266c@104.16.139.160:443?path=/@AmirGeekTech-@FNET00&security=tls&alpn=h2,http/1.1&encryption=none&host=ipv4.farazteams.ir&fp=chrome&type=ws&sni=ipv4.farazteams.ir#CDN-@AmirGeekTech
 vless://573c787d-d549-4171-b05f-29984bc0266c@45.85.118.209:443?path=/@AmirGeekTech-@FNET00&security=tls&alpn=h2,http/1.1&encryption=none&host=ipv4.farazteams.ir&fp=chrome&type=ws&sni=ipv4.farazteams.ir#CDN-@AmirGeekTech
@@ -502,4 +503,3 @@ vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.243:443?encryption=none&f
 vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.246:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=my-rebar.shop&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.247:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=my-rebar.shop&type=tcp#14🚂@oneclickvpnkeys
 vless://711f56b0-0d4c-4516-bea6-0e963749928c@45.144.53.149:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=my-rebar.shop&type=tcp#15🚂@oneclickvpnkeys
-vless://711f56b0-0d4c-4516-bea6-0e963749928c@45.144.53.169:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=my-rebar.shop&type=tcp#18🚂@oneclickvpnkeys
