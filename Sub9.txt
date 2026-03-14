@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cf2f7b94-f5a8-4782-8ad7-e70097e12d1c@ssl.hostirann.xyz:443?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@ASinTech   ⚠️ * آموزش اتصال به کانفیگ
-vless://cfba2ce4-a114-49e0-8d11-0738dcc26afb@s1.choosename.org:443?encryption=none&type=tcp&headerType=http&host=skyroom.online&security=none#Config 5 - @lebertad
-vless://cfba2ce4-a114-49e0-8d11-0738dcc26afb@s1.choosename.org:443?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%saministamm | تلگزام
-vless://cfba2ce4-a114-49e0-8d11-0738dcc26afb@s1.choosename.org:443?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@DALTON_PING
-vless://cfba2ce4-a114-49e0-8d11-0738dcc26afb@s1.choosename.org:443?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#کانال ما در تلگرام : @madzteam
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?encryption=none&security=tls&sni=zh.hollowspot.ir&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=zh.hollowspot.ir&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#کانال تلگرام : Free_VPN_CH@
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?encryption=none&security=tls&sni=zh.hollowspot.ir&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=zh.hollowspot.ir&path=/?TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy?ed=512#کانال تلگرام : Free_VPN_CH@
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#@WedBaZtel
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#🛡 V 122 @Outline_Vpn
 vless://ci49kfwjrc@104.21.17.104:8880?mode=auto&path=/compass/cdn/?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#@Hddify
@@ -503,3 +496,10 @@ vless://f442281d-23c4-43d8-9af3-9b249946977d@172.235.38.113:443?type=xhttp&path=
 vless://f442281d-23c4-43d8-9af3-9b249946977d@172.235.62.174:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L29
 vless://f4cca26d-bf91-6fb4-42c5-d68d43966870@animallzoo-love-zoo-nect.giggoopanel.ir:9091?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#🇩🇪 𝐑𝐞𝐚𝐥𝐢𝐭𝐲 azadiiivpn 🎀
 vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@37.218.247.35:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&type=tcp#@Proxyiranip
+vless://f510adea-091b-4563-a54b-dc04e73fd952@46.8.64.147:41617?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#کانال تلگرام : Free_VPN_CH@
+vless://f62095b5-6e82-43b1-8d79-1358bbeffc62@155.117.5.181:443?encryption=none&security=none&type=ws&path=/@FeriVP/@FeriVP/@FeriVP#@FeriVP-FREE
+vless://f64216af-00df-4967-9fc1-a6022346fc9c@france11.parsi.sbs:15601?security=none&encryption=none&host=rubika.ir&headerType=http&type=tcp#V2rayng_Fast
+vless://f64cdd9d-57c3-45b2-e999-c46006719646@161.248.63.15:41579?security=reality&encryption=none&pbk=3W_eKpL975AF7oI-mkgVtf2iK954luxwaT6C41re0RI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=2efb6c97c1#@free_shekan
+vless://f6bcf6b1-4e62-4b6e-bf6b-9d379e13609c@172.235.136.103:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L459
+vless://f6bcf6b1-4e62-4b6e-bf6b-9d379e13609c@172.235.145.38:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L973
+vless://f6c513a5-fe44-47dd-f4e2-fb8801398e0c@151.243.3.59:15187?security=none&encryption=none&headerType=none&type=tcp#@netroovpn12حتما داخل کانال تلگرام باشید🔥🐦‍🔥
