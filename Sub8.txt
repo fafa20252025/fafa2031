@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a5952e75-79f3-495d-b95d-5faa2452b5b8@download.lastilhame.monster:443?type=&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU&sid=ba0f40f79197&sni=www.hollywoodreporter.com#@filembad
 vless://a5952e75-79f3-495d-b95d-5faa2452b5b8@download.lastilhame.monster:443?type=&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU&sid=ba0f40f79197&sni=www.hollywoodreporter.com#Config 3 - @lebertad
 vless://a5952e75-79f3-495d-b95d-5faa2452b5b8@download.lastilhame.monster:443?type=&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU&sid=ba0f40f79197&sni=www.hollywoodreporter.com#telegram: @GalaxyConfigs 🌟 [10720]
 vless://a5952e75-79f3-495d-b95d-5faa2452b5b8@download.lastilhame.monster:443?type=&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU&sid=ba0f40f79197&sni=www.hollywoodreporter.com#⚡Telegram = @SOSkeyNET
@@ -502,4 +503,3 @@ vless://cfba2ce4-a114-49e0-8d11-0738dcc26afb@s1.choosename.org:443?security=none
 vless://cfba2ce4-a114-49e0-8d11-0738dcc26afb@s1.choosename.org:443?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@DALTON_PING
 vless://cfba2ce4-a114-49e0-8d11-0738dcc26afb@s1.choosename.org:443?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#کانال ما در تلگرام : @madzteam
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?encryption=none&security=tls&sni=zh.hollowspot.ir&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=zh.hollowspot.ir&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#کانال تلگرام : Free_VPN_CH@
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?encryption=none&security=tls&sni=zh.hollowspot.ir&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=zh.hollowspot.ir&path=/?TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy?ed=512#کانال تلگرام : Free_VPN_CH@

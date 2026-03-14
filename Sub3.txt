@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://telegram-id-privatevpns@13.36.29.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.137.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.137.164:22222?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@netroovpn12حتما داخل کانال تلگرام باشید🔥🐦‍🔥
 trojan://telegram-id-privatevpns@13.38.214.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -502,4 +503,3 @@ vless://1f39fef1-7887-fe10-78f7-faa773794f24@85.133.214.66:443?security=none&all
 vless://1f39fef1-7887-fe10-78f7-faa773794f24@85.133.214.66:443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#@v2ray_ramiin
 vless://1f80b24e-bbdf-4959-abca-3808377a37c3@89.23.99.224:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=store.steampowered.com&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=189cfa69#@v2rayconfigamir 6866
 vless://1fa45133-4c47-45d4-badb-cd7c4b5c0bda@94.183.169.8:882?security=&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
-vless://1fa45133-4c47-45d4-badb-cd7c4b5c0bda@ek742h5pq3.ka739lofomsg28bshdul.realytag.com:1884?security=&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
