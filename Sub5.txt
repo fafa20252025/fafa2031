@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://537b4fc7-9003-4929-80e2-c0a5f514df38@ns.green-gaming-company.ir:8080?security=none&encryption=none&headerType=none&type=tcp#@sunflowerplato🌻
 vless://53cd8178-2ee6-43d9-a2a7-881f287fd408@172.234.130.82:10001?security=reality&encryption=none&pbk=kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1a24af87#@icv2ray
 vless://53f2001c-5f4e-4bd5-8f9d-22fb664f7602@V2raNinja.sbs:57156?path=/&security=none&encryption=none&type=ws#@
 vless://53f2001c-5f4e-4bd5-8f9d-22fb664f7602@claude.avannetx.sbs:57156?path=/&security=none&encryption=none&type=ws#@harfbzaniiim
@@ -503,3 +502,4 @@ vless://7177f5c4-f26a-4ab5-820f-62cb6ba649f7@31.170.22.193:47997?security=realit
 vless://717ef6a0-1c29-11f1-9350-92000723b4ab@dlc-new11.persianpinggame.com:5111?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#کانال تلگرام : Free_VPN_CH@
 vless://717ef882-1c29-11f1-9350-92000723b4ab@dlc-new3.persianpinggame.com:5103?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#@sunflowerplato🌻
 vless://725495fc-61fc-4c68-bf27-54bb4459d37d@162.159.152.4:8443?type=ws&encryption=none&path=/api?ed=2560&host=streamchat.ikoochi.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=streamchat.ikoochi.ir.#for-members
+vless://725495fc-61fc-4c68-bf27-54bb4459d37d@8.6.112.0:8443?type=ws&encryption=none&path=/api?ed=2560&host=streamchat.ikoochi.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=streamchat.ikoochi.ir.#for-members
