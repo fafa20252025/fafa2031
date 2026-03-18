@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8e7269cd-e5c0-48fa-970e-bc0e63c35d19@104.16.133.220:443?allowInsecure=1&encryption=none&host=fornewiranvpn6.fornewiranvpn6.workers.dev&path=%2F&security=tls&sni=fornewiranvpn6.fornewiranvpn6.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://7f37b28b-cfcb-4c2a-ae41-8f2ddc9325dd@3.fr.vles.space:23151?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eP0MKUFOcNVSVFbHT8GgBLP4LIHZFq8JuVGlCAlH1HI&sni=cms-res-web.online.sberbank.ru#%3E%3E%40v2nodes%3A%3AFR
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%3E%3E%40FreakConfig%3A%3AXX
 vless://8d893f78-c600-4354-9bc1-5f71ee2e0386@162.55.190.0:50219/?type=tcp&encryption=none&security=none#%3E%3E%40v2rayng_fast%3A%3ADE
