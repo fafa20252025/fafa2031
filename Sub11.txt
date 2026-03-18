@@ -1,0 +1,6 @@
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMTEg8J+UpQ==
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d0b3e27d-bbfc-4a3b-8e60-6973de8fcefa@157.254.223.44:18959?&security=reality&pbk=-hwVEdgFkvjku8ESuDoAA7id5yGGv_zXBvBW_RdhmHA&sid=d557c6895d014075&fp=chrome&sni=itunes.apple.com&type=tcp&headerType=none&path=%2F#@mtproto_proserver
