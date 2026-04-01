@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AHK
-vless://3cb9f2c2-cd60-4616-963e-6a1c5d1c8b02@144.31.1.133:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kEhVzEXS_myQF6LPpKPWEI8Ha2-mmNMyLItXoVa8SD4&security=reality&sni=eh.vk.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://40afa553-1745-4f62-a380-4163c7bb4870@172.67.187.117:443?allowInsecure=1&encryption=none&host=restless-dew-894b.amirhost4.workers.dev&security=tls&sni=restless-dew-894b.amirhost4.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://3cb9f2c2-cd60-4616-963e-6a1c5d1c8b02@144.31.1.134:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kEhVzEXS_myQF6LPpKPWEI8Ha2-mmNMyLItXoVa8SD4&security=reality&sni=eh.vk.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://3cb9f2c2-cd60-4616-963e-6a1c5d1c8b02@144.31.1.138:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kEhVzEXS_myQF6LPpKPWEI8Ha2-mmNMyLItXoVa8SD4&security=reality&sni=eh.vk.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://3cb9f2c2-cd60-4616-963e-6a1c5d1c8b02@in-pl-hn.ray-proxy.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kEhVzEXS_myQF6LPpKPWEI8Ha2-mmNMyLItXoVa8SD4&security=reality&sni=eh.vk.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=deu549.worldbypass.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.1.221:443?encryption=none&security=tls&sni=dabaius2.sylu.net&fp=chrome&insecure=1&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab#%3E%3E%40v2ray_configs_pool%3A%3AHK
-vless://40afa553-1745-4f62-a380-4163c7bb4870@restless-dew-894b.amirhost4.workers.dev:443?allowInsecure=1&encryption=none&host=restless-dew-894b.amirhost4.workers.dev&security=tls&sni=restless-dew-894b.amirhost4.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://40afa553-1745-4f62-a380-4163c7bb4870@188.114.96.0:443?allowInsecure=1&encryption=none&host=restless-dew-894b.amirhost4.workers.dev&security=tls&sni=restless-dew-894b.amirhost4.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@198.41.193.151:80?encryption=none&security=none&sni=198.41.193.151&fp=chrome&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoibWNPczJHelJTUmpXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNzcuMjM4LjIzMS4xNzkiLCIzMS40NC4yLjU3Il19%3Fed%3D2560#%3E%3E%40DailyV2RY%3A%3AUS
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.16.250.22:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -503,3 +492,14 @@ vless://8899d15d-a022-4b61-b848-87d4de0a034a@104.18.32.47:443?security=tls&sni=r
 vless://8899d15d-a022-4b61-b848-87d4de0a034a@69.84.182.20:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.8
 
 vless://8899d15d-a022-4b61-b848-87d4de0a034a@transferwise.com:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.88
+
+vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?security=tls&sni=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan-config.workers.dev/translate
+
+vless://9ccd06a2-5616-47e3-9763-f9696959d7ad@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.2
+
+vless://9ccd06a2-5616-47e3-9763-f9696959d7ad@208.103.161.110:443?security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.22
+
+vless://9ccd06a2-5616-47e3-9763-f9696959d7ad@208.103.161.110:443?security=tls&sni=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.2
+
+vless://9ccd06a2-5616-47e3-9763-f9696959d7ad@69.84.182.20:443?security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.22
+
