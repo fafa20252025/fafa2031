@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2096?security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#Channel id: @ShadowProxy66
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=/?Telegram @v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#@v2rayngzendegimamad🕊️
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=/?Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#Channel id: @ShadowProxy66
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:8443?path=/?Telegram🇨🇳 @WangCai2&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#🦉@FreeConfigForYou
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:8443?path=/?Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#🦉@FreeConfigForYou
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:8443?path=/?Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#🦉@FreeConfigForYou
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.185.26:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🌿66@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.20.213:2053?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#🐾21@oneclickvpnkeys
@@ -503,3 +498,8 @@ vless://ec8d5dee-2695-48c8-8119-186831ea93aa@185.143.234.235:8080?path=/&securit
 vless://ee8ecba5-ccfb-4885-9a45-f1c8ebbf2d11@185.143.234.120:443?path=/?ed=443&security=tls&encryption=none&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=chrome&type=ws&sni=alef.ir.oadeflantrogm.abrirmahan.com#@V2rayNG_Cafe
 vless://ee8ecba5-ccfb-4885-9a45-f1c8ebbf2d11@185.143.234.120:443?path=/?ed=443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=chrome&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#@@AhuraNetChannel
 vless://ee8ecba5-ccfb-4885-9a45-f1c8ebbf2d11@185.143.234.120:443?path=/?ed=443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=chrome&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#@icv2ray
+vless://ee8ecba5-ccfb-4885-9a45-f1c8ebbf2d11@185.143.234.120:443?path=/?ed=443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=chrome&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#telegram: @hupivpn
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#[31065] - Telegram : @V2All
+vless://ef413b60-7df5-4503-a2ce-42f0e28d700b@138.124.65.39.alexanderoff.ru:443?type=tcp&security=reality&encryption=none&sni=m.ok.ru&pbk=3NM_w-CzrSzwMPkVl2UpgwtmdZbt78d3PsQEl0wFhk4&sid=6e10f0b884da57d5&flow=xtls-rprx-vision#@v2rayconfigamir 2344
+vless://ef413b60-7df5-4503-a2ce-42f0e28d700b@138.124.65.39.alexanderoff.ru:443?type=tcp&security=reality&encryption=none&sni=m.ok.ru&pbk=3NM_w-CzrSzwMPkVl2UpgwtmdZbt78d3PsQEl0wFhk4&sid=6e10f0b884da57d5&flow=xtls-rprx-vision#@v2rayconfigamir 7839
+vless://ef413b60-7df5-4503-a2ce-42f0e28d700b@138.124.65.39.alexanderoff.ru:449?type=ws&security=none&encryption=none&path=/api#@v2rayconfigamir 2959
