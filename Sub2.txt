@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?path=/&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#🦉@FreeConfigForYou
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Channel id: @ShadowProxy66
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#@DejavuuVPN
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#@NETMelliAnti
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#All-@V2rayAlpha-1
@@ -501,5 +503,3 @@ vless://feade342-9a00-427e-b049-752a4e584ba5@85.133.161.168:443?security=none&en
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@V2ynpv : تلگرام
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=/&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#Telegram : @V2ynpv
 vless://ffa58ffd-1b0b-408e-9ff9-759795bf8f9b@clud.soonteam.top:8586?encryption=none&host=soft98.ir&type=tcp#SoonTeam
-vless://jina@20.218.137.249:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#Telegram : @V2ynpv
-vless://jina@20.218.137.249:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#@v2rayngzendegimamad🕊️
