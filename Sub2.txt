@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#♒75@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2096/?type=ws&encryption=none&flow=&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&allowInsecure=1#🇺🇸 @ProxyVpn11
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#@NETMelliAnti
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2096?path=/?ed=2560&telegram🇨🇳 @wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#✅ @ProxyVpn11
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.v6.navy&type=ws#♒48@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.v6.navy&type=ws#🐾64@oneclickvpnkeys
@@ -503,3 +500,6 @@ vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2096?security=none&
 vless://e9503cee-ae7d-4abe-b6ed-5795458073a4@104.18.16.56:2083?path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=prNkjleyvh.olAmpiavaRz.ir&fp=chrome&type=ws&allowInsecure=0&sni=vddhasdasdh.olampiavarz.ir#@v2rayngzendegimamad🕊️
 vless://e9c4da8c-b6dc-46d5-96f4-18bd9389f155@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#Black_Star_Vpn
 vless://e9d6b936-5164-40a0-9279-4b588ae1e29a@tamam-1.conf-tun.site:44441?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#Telegram : @V2ynpv
+vless://ea227ffd-be0c-4acd-a70c-9b6b4777d862@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#@aloconfig_com
+vless://ea227ffd-be0c-4acd-a70c-9b6b4777d862@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#@icv2ray
+vless://ea227ffd-be0c-4acd-a70c-9b6b4777d862@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#@mtproto_proserver
