@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.42.98:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#♒85@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.234.239.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🐾41@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.125.123.246:5432?path=/?ed=2560&Telegram🇨🇳#[32041] - Telegram : @V2All
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.226:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#🐾94@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.42:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#🐾93@oneclickvpnkeys
@@ -503,3 +501,5 @@ vless://f24bd99f-c4fe-b913-3b4d-dcfb86c1b3cd@meli.masterdadeh.ir:80?path=/&secur
 vless://f24bd99f-c4fe-b913-3b4d-dcfb86c1b3cd@meli.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.198#@mtproto_proserver
 vless://f24bd99f-c4fe-b913-3b4d-dcfb86c1b3cd@meli.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.198#@sogoandfuckyourlove
 vless://f24bd99f-c4fe-b913-3b4d-dcfb86c1b3cd@meli.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.198#filembad-302
+vless://f2cba4bd-a99e-4351-aa05-a8c660cee2fb@snapp.ir:2082?path=/w&security=none&encryption=none&host=p.pavps.ir&type=ws#@TROWER_NEWS
+vless://f2cba4bd-a99e-4351-aa05-a8c660cee2fb@snapp.ir:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=p.pavps.ir&path=/w#@AloConfig_com

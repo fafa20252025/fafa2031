@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f2cba4bd-a99e-4351-aa05-a8c660cee2fb@snapp.ir:2082?path=/w&security=none&encryption=none&host=p.pavps.ir&type=ws#@TROWER_NEWS
-vless://f2cba4bd-a99e-4351-aa05-a8c660cee2fb@snapp.ir:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=p.pavps.ir&path=/w#@AloConfig_com
 vless://f2cba4bd-a99e-4351-aa05-a8c660cee2fb@snapp.ir:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=p.pavps.ir&path=/w#@sogoandfuckyourlove
 vless://f47b5d3c-4051-476d-8280-89b1125b4467@154.90.55.174:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=wimys8nxAefdZ0dEMJ8v7R8sMjQ2Y-hX6H_p7uQPPDo&fp=chrome#[32073] - Telegram : @V2All
 vless://f5641a05-2c24-4531-b5ad-02d1aaf89a02@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&host=en.8lack.ir&fp=chrome&type=ws&sni=en.8lack.ir#@techbod
@@ -503,3 +501,5 @@ vless://1de37726-744b-46e1-9101-c926b3402e82@104.17.72.206:80?encryption=none&ho
 vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.125.5:80/?type=ws&encryption=none&flow=&host=lively-brook-c471.nedena3319.workers.dev&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://20e295db-a6af-4006-bfd6-91453f169968@45.67.215.233:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=057.electrocellco-cf-057.workers.dev&path=%2FeyJqdW5rIjoiSFM1N0lLQmx2UU1qRzlnTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=057.ElecTRocElLco-Cf-057.wOrKeRs.dEv&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?encryption=none&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://20e295db-a6af-4006-bfd6-91453f169968@mci.buzzmuzzpanel.online:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=057.electrocellco-cf-057.workers.dev&path=%2FeyJqdW5rIjoiSFM1N0lLQmx2UU1qRzlnTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=057.ElecTRocElLco-Cf-057.wOrKeRs.dEv&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&sid=#%3E%3E%40oneclickvpnkeys%3A%3AUS
