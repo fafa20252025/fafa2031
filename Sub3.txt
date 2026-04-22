@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cb199fef-8a00-46a3-b901-26bc92509d92@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=bn.8lack.ir#@TROWER_NEWS
-vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.4.130:2082/?type=ws&encryption=none&flow=&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=/ @ProxyVPN11#🇺🇸 @ProxyVPN11
-vless://cbf524f0-4d7c-4173-aafb-e9f0608b3192@127.0.0.1:40443?encryption=none&security=tls&sni=focalin.ktbr.store&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=focalin.ktbr.store&path=/Goorbeh&mode=auto#Focalin @khosrow_v2ray
-vless://cbf524f0-4d7c-4173-aafb-e9f0608b3192@127.0.0.1:40443?type=xhttp&encryption=none&path=/Goorbeh&host=focalin.lmjk.shop&mode=auto&security=tls&alpn=h2&sni=focalin.lmjk.shop&insecure=0&allowInsecure=0#Focalin @khosrow_v2ray
 vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.127.218.13:443?security=none&encryption=none&headerType=none&type=tcp#Telegram : @V2ynpv
 vless://cdaca585-54e6-4f9d-88d0-471dbe0d4def@37.152.189.89:4431?path=/ek/irinn/live/1080p/&security=none&encryption=none&host=live-azd1102.telewebion.ir&type=ws#@V2rayNG_Cafe
 vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@172.64.149.54:2052/?type=ws&encryption=none&flow=&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=/ @ProxyVPN11#🇺🇸 @ProxyVPN11
@@ -503,3 +499,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%3E%3E%40Easy_Free_VPN%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#%3E%3E%40oneclickvpnkeys%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#%3E%3E%40oneclickvpnkeys%3A%3ANL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#%3E%3E%40v2ray_configs_pool%3A%3ANL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#%3E%3E%40v2rayng_fast%3A%3ANL
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#%3E%3E%40free4allVPN%3A%3AGB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#%3E%3E%40v2ray_configs_pool%3A%3ANL

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://501e461e-02f6-4293-8334-d6ba7c076dd9@clud.soonteam.top:443?security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#SoonTeam
-vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@140.248.159.164:80?path=/containers/fi&security=none&encryption=none&host=ahlekarbala.global.ssl.fastly.net&type=ws#Telegram : @V2ynpv
-vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80?path=/containers/fi&security=none&encryption=none&host=pizzabama.global.ssl.fastly.net&type=ws#Telegram : @V2ynpv
-vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tg.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&security=reality&sid=f69d7af2d5fc5e0c&sni=max.ru&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇷🇺]t.me/Raiv2mmr
 vless://529ad031-70ae-4352-bf3d-19297d35190b@clud.soonteam.top:443?security=tls&encryption=none&insecure=0&host=mioptp.miomio.cloud&type=ws&allowInsecure=0&sni=mioptp.miomio.cloud#SoonTeam
 vless://52f94104-7a84-4342-8bcd-96969eb46cbe@104.19.49.15:8443?allowInsecure=1&encryption=none&fp=chrome&host=tristandeng.cc.cd&security=tls&sni=tristandeng.cc.cd&type=ws#🦄21@oneclickvpnkeys
 vless://52f94104-7a84-4342-8bcd-96969eb46cbe@173.245.58.16:2053?allowInsecure=1&encryption=none&fp=chrome&host=tristandeng.cc.cd&security=tls&sni=tristandeng.cc.cd&type=ws#🦄51@oneclickvpnkeys
@@ -503,3 +499,7 @@ vless://cac8642d-4e02-4d7c-9125-a8814e78a67b@snapp.ir:80?encryption=none&type=ws
 vless://cac8642d-4e02-4d7c-9125-a8814e78a67b@snapp.ir:80?path=/&security=none&encryption=none&host=sphrrzv.iranofilm.ir&type=ws#Psiphon--@V2rayAlpha--28
 vless://cb199fef-8a00-46a3-b901-26bc92509d92@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=/chat?ed=128&host=bn.8lack.ir&sni=bn.8lack.ir&fp=chrome&alpn=h2,http/1.1#@aloconfig_com
 vless://cb199fef-8a00-46a3-b901-26bc92509d92@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=/chat?ed=128&host=bn.8lack.ir&sni=bn.8lack.ir&fp=chrome&alpn=h2,http/1.1#[33104] - Telegram : @V2All
+vless://cb199fef-8a00-46a3-b901-26bc92509d92@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=bn.8lack.ir#@TROWER_NEWS
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.4.130:2082/?type=ws&encryption=none&flow=&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=/ @ProxyVPN11#🇺🇸 @ProxyVPN11
+vless://cbf524f0-4d7c-4173-aafb-e9f0608b3192@127.0.0.1:40443?encryption=none&security=tls&sni=focalin.ktbr.store&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=focalin.ktbr.store&path=/Goorbeh&mode=auto#Focalin @khosrow_v2ray
+vless://cbf524f0-4d7c-4173-aafb-e9f0608b3192@127.0.0.1:40443?type=xhttp&encryption=none&path=/Goorbeh&host=focalin.lmjk.shop&mode=auto&security=tls&alpn=h2&sni=focalin.lmjk.shop&insecure=0&allowInsecure=0#Focalin @khosrow_v2ray
