@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://53bd9d49-12ce-4160-84d4-c4b865e56e98@109.120.191.26:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5go6uoAoJA87P0_LWEmKxnmmseOeA4cBb-N2ck4ZTko&security=reality&sid=b4d3fe99d706&sni=max.ru&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇧🇬]t.me/Raiv2mmr
-vless://556d2515-b565-4519-9ad0-9ad6f792b6c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=prossh.octarpmta.ir&type=httpupgrade#Swiss(@proSSH)
 vless://55ebc115-6e41-4efa-bdb1-3acef1832c66@snapp.ir:80?path=/dfsasdfa&security=none&encryption=none&host=esi.xchitozx.org&type=ws#@TROWER_NEWS
 vless://5785444d-596b-425c-8b1c-727a539508d9@2.144.20.130:443?security=none&encryption=none&headerType=none&type=tcp#@Spartan_YT
 vless://5785444d-596b-425c-8b1c-727a539508d9@2.144.20.130:443?security=none&encryption=none&headerType=none&type=tcp#@filtershekan_channel
@@ -503,3 +501,5 @@ vless://bb8c74a1-abc1-4511-b100-9876e30cb65c@188.114.98.0:8443?path=/V2ynpv-V2yn
 vless://bb9aaff1-28bc-4dba-a60f-b983d6e7c971@vitallife.gg:443?path=/wp-content/cachecache&security=tls&alpn=http/1.1&encryption=none&host=vitallife.gg&fp=chrome&type=ws&sni=vitallife.gg#@mobo_game_land 😋
 vless://bb9aaff1-28bc-4dba-a60f-b983d6e7c971@vitallife.gg:443?path=/wp-content/cachecache&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=vitallife.gg&fp=chrome&type=ws&allowInsecure=0&sni=vitallife.gg#@TROWER_NEWS
 vless://bc0602d4-86e3-4d58-80d8-afc6c67926a2@87.242.102.193:8443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=a20d3ed244c76426#Telegram : @V2ynpv
+vless://bc2c9bea-93f6-448a-9162-0077b4c0dd6f@185.143.233.217:80/?type=ws&encryption=none&flow=&host=me.chehre-negar.ir&path=/ws#🐢 @ProxyVPN11 | صبرایوب
+vless://bc953469-14e8-4536-afbd-56dc8edf138a@194.59.215.131:672?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG_Cafe
