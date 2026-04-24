@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4b581293-af3a-4658-b9b2-06949626bf86@104.17.72.206:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
-vless://4b581293-af3a-4658-b9b2-06949626bf86@104.18.16.56:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
-vless://4b581293-af3a-4658-b9b2-06949626bf86@104.18.4.130:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
 vless://4b581293-af3a-4658-b9b2-06949626bf86@172.64.149.54:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
 vless://4b581293-af3a-4658-b9b2-06949626bf86@8.6.112.0:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
 vless://4b581293-af3a-4658-b9b2-06949626bf86@8.6.112.6:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
@@ -503,3 +500,6 @@ vless://bb9aaff1-28bc-4dba-a60f-b983d6e7c971@vitallife.gg:443?path=/wp-content/c
 vless://bc0602d4-86e3-4d58-80d8-afc6c67926a2@87.242.102.193:8443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=a20d3ed244c76426#Telegram : @V2ynpv
 vless://bc2c9bea-93f6-448a-9162-0077b4c0dd6f@185.143.233.217:80/?type=ws&encryption=none&flow=&host=me.chehre-negar.ir&path=/ws#🐢 @ProxyVPN11 | صبرایوب
 vless://bc953469-14e8-4536-afbd-56dc8edf138a@194.59.215.131:672?security=none&encryption=none&headerType=none&type=tcp#Tel;Father_vpn¹
+vless://bc953469-14e8-4536-afbd-56dc8edf138a@194.59.215.131:672?security=none&encryption=none&headerType=none&type=tcp#🐦‍🔥-@HIDDIFY_NEXTTT
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
