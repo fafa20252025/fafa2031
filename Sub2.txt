@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#DE🇩🇪 3
+vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?path=/&security=none&encryption=none&host=2.v2.www.speedtest.net.blue99shop.ir&type=httpupgrade#Psiphon-@V2rayAlpha--8
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?path=/&security=none&encryption=none&host=2.v2.www.speedtest.net.blue99shop.ir&type=httpupgrade#Tel;Father_vpn¹
 vless://4075727e-3199-440c-9c8f-7b9e0b4d4478@trex.nahidapp.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/vless-ws&security=tls&encryption=none&insecure=1&host=&fp=chrome&type=ws&allowInsecure=1&sni=#@GozargahAzad|🇮🇷
 vless://4075727e-3199-440c-9c8f-7b9e0b4d4478@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#mobo_game_land 🎾
@@ -501,5 +503,3 @@ vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&en
 vless://af761de1-09c3-4491-98ad-c5c5b8115b72@blue-horizon.vm.twilightparadox.com:2083?security=reality&type=tcp&headerType=&path=&host=&sni=cdn-download2.irdiscovery.site&fp=chrome&pbk=SqZCv425UEx6urzxXWWWNHKe5Az5Dh3WKBzhaFrbTHg&sid=5c52712b88fdbb42#filembad-234
 vless://af812bdd-7190-4c62-84a8-10a9cc96a50d@185.143.234.120:443?path=/?ed=443&security=tls&encryption=none&insecure=1&host=alef.ir.oadeflantrogm.realirshop.com&fp=chrome&type=ws&allowInsecure=1&sni=alef.ir.oadeflantrogm.realirshop.com#Psiphon-@V2rayAlpha--7
 vless://af812bdd-7190-4c62-84a8-10a9cc96a50d@185.143.234.120:443?path=/?ed=443&security=tls&encryption=none&insecure=1&host=alef.ir.oadeflantrogm.realirshop.com&fp=chrome&type=ws&allowInsecure=1&sni=alef.ir.oadeflantrogm.realirshop.com#Tel:Father_vpn⁵
-vless://af812bdd-7190-4c62-84a8-10a9cc96a50d@185.143.234.120:443?path=/?ed=443&security=tls&encryption=none&insecure=1&host=alef.ir.oadeflantrogm.realirshop.com&fp=chrome&type=ws&allowInsecure=1&sni=alef.ir.oadeflantrogm.realirshop.com#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?security=none&encryption=none&headerType=none&type=tcp#Tel;Father_vpn³
