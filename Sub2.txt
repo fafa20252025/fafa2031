@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3c74a11b-1676-4f58-921f-7399bea00880@v4.mesterking8786.cfd:55948?security=none&encryption=none&host=www.soft98.ir&headerType=http&type=tcp#@BOMB_SERVER 🖤🇵🇹جوین بده
-vless://3c852590-49d8-d3c3-abbf-a3c64ad89cd2@tr.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.188#Psiphon--@V2rayAlpha--60
-vless://3c852590-49d8-d3c3-abbf-a3c64ad89cd2@tr.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.188#Psiphon--@V2rayAlpha--81
 vless://3c852590-49d8-d3c3-abbf-a3c64ad89cd2@tr.tehranionliine.ir:80?type=ws&host=&security=none&sni=185.226.94.188&alpn=&path=/&headerType=http#@black_star_vpn
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#⚡Telegram =@CUSTOMVPNSERVER
@@ -503,3 +500,6 @@ vless://91debc17-d16b-444f-b5a1-2d9303e2ea41@89.110.113.74:443?encryption=none&f
 vless://92a29f38-255f-4f3c-ba93-adef674fafd1@87.248.150.183:16655?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://936257d2-b533-412d-c575-137316f7c355@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-rjx1vz
 vless://957d0930-8730-4923-b58c-6c0d640418bd@151.101.0.10:80?mode=auto&path=/dl?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=goraz.global.ssl.fastly.net&type=xhttp#Telegram : @V2ynpv
+vless://957d0930-8730-4923-b58c-6c0d640418bd@vipde6.persianhostnet.ir:9093?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Telegram : @V2ynpv
+vless://95c3f5a4-2587-4fed-9f6e-2b34953aa8dc@fi1.fastvp.net:443?security=reality&sni=max.ru&pbk=LflsroMmsB4diuib7RmSdSj3-Zz3Wa6V-vwXD7Te3lg&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#@v2rayconfigamir 5905
+vless://95d7d8c0-6aa9-42a8-9a24-9f7100b2b77d@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#@mobo_game_land 🥏
