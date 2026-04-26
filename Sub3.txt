@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9adc4114-18c3-4c31-9ef7-b35e87c9d499@pl-dp-01.online:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rbc.ru&fp=chrome&security=reality&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=50e09046c0c00159&packetEncoding=xudp#@v2rayconfigamir 9277
 vless://9b5399aa-cd0c-4a32-90e5-69da5a9d5dae@185.143.233.120:443?path=/?ed=443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=chrome&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#@InfoTech_VK2
 vless://9c53f695-eb63-475c-b11f-e64fa828020d@185.143.234.235:443?path=/data&security=tls&encryption=none&insecure=0&host=lbank.trpn.ir&type=ws&allowInsecure=0&sni=cndnt.ir#Psiphon-@V2rayAlpha--18
 vless://9c7317bd-6aba-48e1-8fd3-2d4db912a248@camp.nahidapp.com:443?encryption=none&type=ws&security=tls&path=/haikino&host=camp.nahidapp.com&sni=camp.nahidapp.com&allowInsecure=0#@electvpn0
@@ -503,3 +502,4 @@ vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzllZGY0MjktZjVjMC00MjI2LTgyMzUtMThjNDcwY2VkZDI5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDg0MSIsInBzIjoidGVsZWdyYW06IEBodXBpdnBuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzllZGY0MjktZjVjMC00MjI2LTgyMzUtMThjNDcwY2VkZDI5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDg0MSIsInBzIjoiQEhkZGlmeSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzllZGY0MjktZjVjMC00MjI2LTgyMzUtMThjNDcwY2VkZDI5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDg0MSIsInBzIjoiQFYycmF5TkdfQ2FmZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzllZGY0MjktZjVjMC00MjI2LTgyMzUtMThjNDcwY2VkZDI5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDg0MSIsInBzIjoiQGFwcHNvb25lciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
