@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://434a0fb6-d585-4c13-af66-57793e51efbd@snapp.ir:8080?path=/&security=none&encryption=none&host=duster.star2feri.ir&type=ws#[38851] - Telegram : @V2All
-vless://441239f9-3017-4ab3-b123-23eeaa48133b@104.20.6.134:443?encryption=none&type=ws&host=cdn.hosseincapri.sbs&path=/ws&security=tls&sni=cdn.hosseincapri.sbs#@vmessorg
 vless://448432c3-2726-43f6-9dd4-9fa05ec875fa@91.192.160.5:38916?encryption=none&security=none&type=ws&path=/#@Raiv2mmr
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@188.114.98.0:443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@V2ynpv : تلگرام
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@188.114.98.0:443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@V2ynpv : تلگرام
@@ -503,3 +501,5 @@ vless://95051aa9-b4a0-4344-9c8f-a40e1ffcc4f7@185.143.233.5:443?path=/chat?ed=128
 vless://951c7521-7158-4978-b82c-2736d4f21044@whitemeow.nethcloud.top:443?security=reality&sni=wikihow.com&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#@v2rayconfigamir 5415
 vless://954968cf-1827-404e-9862-6c84fe234086@bio.phoneshop98.ir:8443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&path=&host=testspeed-foreign.tci.ir&sni=www.yahoo.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#@techbod
 vless://954968cf-1827-404e-9862-6c84fe234086@cd1.baguvix.xyz:2053?security=tls&type=ws&headerType=&path=/ws?ed=2560&host=app.phonepanel.ir&sni=app.phonepanel.ir&fp=chrome&alpn=h3,h2,http/1.1#@techbod
+vless://954968cf-1827-404e-9862-6c84fe234086@cd2.phoneshop98.ir:2053?encryption=none&type=ws&host=app.phonepanel.ir&path=/ws?ed=2560&security=tls&fp=chrome&sni=app.phonepanel.ir&alpn=h3,h2,http/1.1#3https://t.me/ConfigX2ray
+vless://954968cf-1827-404e-9862-6c84fe234086@cd2.phoneshop98.ir:2053?encryption=none&type=ws&host=app.phonepanel.ir&path=/ws?ed=2560&security=tls&fp=chrome&sni=app.phonepanel.ir&alpn=h3,h2,http/1.1#@NETAZADI
