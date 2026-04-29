@@ -4,17 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.164:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#v2ray_dalghak
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.146.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%A6%9C91@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.140:443?allowInsecure=1&encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#%F0%9F%A6%9C75@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.215.38:443?security=tls&encryption=none&insecure=1&host=sni.latonyamadeline.ndjp.net&type=ws&allowInsecure=1&sni=sni.latonyamadeline.ndjp.net#v2ray_dalghak
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.243.6.25:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.111000.v6.rocks&sni=sni.111000.v6.rocks#v2ray_dalghak
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.75:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%90%B288@oneclickvpnkeys
-vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.39.125.115:2053?security=tls&encryption=none&host=tristandeng.cc.cd&fp=chrome&type=ws&sni=tristandeng.cc.cd#v2ray_dalghak
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%A6%8453@oneclickvpnkeys
-vless://52f94104-7a84-4342-8bcd-96969eb46cbe@173.245.58.16:2053?allowInsecure=1&encryption=none&fp=chrome&host=tristandeng.cc.cd&security=tls&sni=tristandeng.cc.cd&type=ws#%F0%9F%A6%8451@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%90%BE77@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.228.67:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%90%BE10@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.140.0.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%90%BE7@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8C%BF84@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.228.135.238:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#v2ray_dalghak
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:2053?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#v2ray_dalghak
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#v2ray_dalghak
@@ -24,7 +17,6 @@ vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@202.155.11.73:8443?encryption=none&
 vless://b738db04-c73c-4551-b6f2-9041e93914d4@3.125.212.24:4040/?encryption=none&flow=&host=soft98.ir&type=tcp&headerType=http#%E2%98%AE%EF%B8%8F1%40oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.33:2053?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#v2ray_dalghak
 vless://monacoVPN@83.228.228.44:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#v2raygulf
-vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=reality&flow=xtls-rprx-vision&sni=tradingview.com&type=tcp&fp=chrome&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#v2raygulf
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@94.131.101.19:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#v2ray_dalghak
 vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@91.244.70.205:443?security=none&type=ws&headerType=&path=/&host=#v2ray_dalghak
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=surena-persian-gulf25.user695399be333b1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=surena-persian-gulf25.user695399be333b1.workers.dev#t.me/V2rayGulf
@@ -34,13 +26,12 @@ vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?encryption=none
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?type=tcp&security=reality&flow=xtls-rprx-vision&sni=fuck.rkn&path=%2F&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#v2ray_dalghak
 vless://monacoVPN@172.65.111.43:22?security=none&allowInsecure=0&encryption=none&type=tcp&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http#v2ray_dalghak
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#v2ray_dalghak
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%94%9151%40oneclickvpnkeys
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%94%916%40oneclickvpnkeys
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sni=tradingview.com&sid=f7aa9e61197d3ac6#Telegram:@config_proxy
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?encryption=none&security=none&sni=nl-90w-c.southnetworks.cloud&type=ws&path=%2FgetWorkerUpdates#%40V2raysCollector%20%F0%9F%91%BA%3D%F0%9F%91%B3
 vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=60500a63ad12&sni=www.microsoft.com#%40V2raysCollector%20%F0%9F%92%83
+vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%40V2rayBaaz
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#Telegram:@config_proxy
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#@Capoit
 vless://-0d7a-496f-8e97-0bbc33bff55d@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=in.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=in.8lack.ir#@i10VPN - Psiphon 29
