@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://868eb379-6dc7-45a4-a707-0f7da1092703@37.32.5.155:2028/?type=tcp&encryption=none&flow=#🦉@FreeConfigForYou
-vless://868eb379-6dc7-45a4-a707-0f7da1092703@37.32.5.155:2028?security=none&encryption=none&headerType=none&type=tcp#@Hddify
-vless://868eb379-6dc7-45a4-a707-0f7da1092703@37.32.5.155:2028?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
 vless://868eb379-6dc7-45a4-a707-0f7da1092703@37.32.5.155:2028?security=none&encryption=none&headerType=none&type=tcp#@i10VPN - Psiphon 31
 vless://868eb379-6dc7-45a4-a707-0f7da1092703@37.32.5.155:2028?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz | ترکیبی
 vless://868eb379-6dc7-45a4-a707-0f7da1092703@37.32.5.155:2028?security=none&encryption=none&headerType=none&type=tcp#Rz
@@ -503,3 +500,6 @@ vless://telegram-dickiriptorbot@vercel.com:443?mode=auto&path=/@dickiriptorbot&s
 vless://telegram-dickiriptorbot@vercel.com:443?mode=auto&path=/@dickiriptorbot&security=tls&encryption=none&insecure=0&host=project-h7l2a.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vmess://eafa523f-3472-4efc-f1c5-6ce25b3910a9@77.90.11.178:17662?encryption=auto&headerType=http&path=/&security=none&type=tcp#🦜16@oneclickvpnkeys
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIiIsDQogICJhZGQiOiAiMzUuMjEyLjE3Ny42NyIsDQogICJwb3J0IjogIjQwMDI5IiwNCiAgImlkIjogImU4YWIzN2M3LTJiMWQtNDc3Ni1jMDYyLTJjYWM4ZmMwNjZlMSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIiIsDQogICJhZGQiOiAiMzUuMjEyLjE3Ny42NyIsDQogICJwb3J0IjogIjQwMDI5IiwNCiAgImlkIjogImU4YWIzN2M3LTJiMWQtNDc3Ni1jMDYyLTJjYWM4ZmMwNjZlMSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIiIsDQogICJhZGQiOiAiNjcuMjIwLjcyLjIzNyIsDQogICJwb3J0IjogIjIyMzI0IiwNCiAgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsDQogICJhaWQiOiAiMSIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA2MTcwIiwiYWRkIjoiMTMuMTE0LjQ2LjE2MiIsInBvcnQiOjg2ODYsImlkIjoiMWExN2IxOWQtNDg5Ni00NTMxLWFmNzktNmU5MWQ4ZWY4MjI4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZW5kLWdmdy5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6ImJhaWR1LmNvbSIsImFsbG93SW5zZWN1cmUiOjF9
