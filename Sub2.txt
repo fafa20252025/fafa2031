@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=/Tel-@v2rayngzendegimamad@v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#@v2rayngzendegimamad🕊️
 vless://33bde530-dfb2-4b68-97dd-20fd2e6ff85f@Mrconfig.secretvps.com:8035?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=none&encryption=none&host=P30afzar.com&headerType=http&type=tcp#@V2ynpv : تلگرام
 vless://34b472a9-667a-4146-bd89-4bced8ed42df@abr.superip.ir:2082?path=/API/superip&security=&encryption=none&host=cd.phill-up.ir&type=ws#Psiphon--@V2rayAlpha-44
 vless://355cbbae-10ac-4715-8790-c8dc57d7d9f6@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#6👉 @v2FreeHub - & Psiphon
@@ -502,4 +503,3 @@ vless://8788de24-4594-4d96-b963-97bfafabba7a@trex.nahidapp.com:443?path=/vless-w
 vless://8823712c-9a8d-4c2a-b2a7-d5b3690d849a@185.83.113.134:54465?security=none&encryption=none&headerType=none&type=tcp#NormanV2ray-204
 vless://8823712c-9a8d-4c2a-b2a7-d5b3690d849a@185.83.113.134:54465?security=none&encryption=none&headerType=none&type=tcp#Psiphon--@V2rayAlpha-27
 vless://885d8e08-49f5-4b8f-b9cd-63d743f1c54d@v2tr.imesaagetext.ir:2081?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=client.imesaagetext.ir#Telegram : @V2ynpv
-vless://88921082-4244-4d27-a379-f691f4742959@185.143.233.235:80?type=ws&encryption=none&path=/ytugihaowlndawobd&host=blitbegir.ir&security=none#🌐 tel : @v2ray_unit
