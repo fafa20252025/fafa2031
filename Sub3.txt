@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ip.notomarosww.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&fp=chrome&type=ws&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#@CUSTOMVPNSERVER
-vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ip.notomarosww.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#⚡Telegram =@CUSTOMVPNSERVER
-vless://82c84bca-607a-4b25-bdb7-744b9a977097@45.94.215.38:443?encryption=none&type=xhttp&path=/&mode=packet-up#@@crayingroom✅💙
-vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&sid=94f9&type=tcp&headerType=none#
 vless://833e1556-fbce-4ed2-9537-ad7bfb7bcc1e@snapp.ir:8080?path=/&security=none&encryption=none&host=v6.vipiranpanel.ir&type=ws#@mobo_game_land
 vless://8389483a-5064-4b9a-d577-59add9ee927c@5.61.24.228:58864?path=/rocketnet&security=none&encryption=none&headerType=none&type=ws&quicSecurity=none#@v2rayconfigamir 2961
 vless://83c786f4-545e-4d79-b3e8-ebea76b36e38@104.18.26.90:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#Telegram : @V2ynpv
@@ -503,3 +499,7 @@ vless://e35de7a5-0b04-fc4b-8887-9cf917b0f364@meli.masterdadeh.ir:80?path=/&secur
 vless://e387d5d7-58aa-4cb7-aa5c-bce96428e757@abr.superip.ir:2082?path=/API/superip&security=none&encryption=none&host=cd.phill-up.ir&type=ws#Psiphon--@V2rayAlpha-1
 vless://e387d5d7-58aa-4cb7-aa5c-bce96428e757@abr.superip.ir:2095?path=/API/superip&security=&encryption=none&host=cd.phill-up.ir&type=ws#Psiphon--@V2rayAlpha-42
 vless://e4c0d6d1-2647-4da6-8ec3-231f9951ee2f@camp.nahidapp.com:443?path=%2ICV2RAY&security=tls&encryption=none&host=camp.nahidapp.com&type=ws#@icv2ray
+vless://e4c0d6d1-2647-4da6-8ec3-231f9951ee2f@camp.nahidapp.com:443?path=/IF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#Psiphon--@V2rayAlpha--9
+vless://e4c0d6d1-2647-4da6-8ec3-231f9951ee2f@camp.nahidapp.com:443?path=/IF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#Psiphon-@V2rayAlpha--20
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=/&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#@v2rayngzendegimamad🕊️
+vless://e6744da1-f381-419c-bc4b-32946d7ded30@185.146.173.58:8080?type=ws&path=/telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn?ed=2048&host=Kanal-polproxy.Vipnufilter.Online.&security=none#Germany 🇩🇪 Telgram @Sobi_vpn
