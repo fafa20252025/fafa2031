@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🌳59@oneclickvpnkeys
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.25.173:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#🧿70@oneclickvpnkeys
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.72.206:80?encryption=none&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none&type=ws#🧿65@oneclickvpnkeys
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.12.149:80?encryption=none&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none&type=ws#🎈16@oneclickvpnkeys
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?encryption=none&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none&type=ws#🎈19@oneclickvpnkeys
@@ -503,3 +501,5 @@ vless://92d2d906-8855-4f62-b004-540c4951ef9c@camp.nahidapp.com:443?path=/IF_VPN_
 vless://9314bd45-c20e-4ed0-813e-8d3619802b1d@185.143.233.235:80?path=/&security=none&encryption=none&host=Ld.artarona.ir&type=ws#@@lldalall
 vless://9314bd45-c20e-4ed0-813e-8d3619802b1d@185.143.233.235:80?path=/&security=none&encryption=none&host=Ld.artarona.ir&type=ws#⏳@Proxy_Vpney (4)
 vless://93288000-d731-47a2-8985-08b932b90861@2.ihomayon.com:80?path=/?ed=2080&security=none&encryption=none&host=arvan.ihoomayon.ir&type=ws#@filembad
+vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.18.185.26:80?encryption=none&host=lucky-voice-d6f3.difat89954-0c6.workers.dev&security=none&type=ws#🎈21@oneclickvpnkeys
+vless://936257d2-b533-412d-c575-137316f7c355@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-rjx1vz
