@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.12.149:80?encryption=none&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none&type=ws#🎈16@oneclickvpnkeys
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?encryption=none&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none&type=ws#🎈19@oneclickvpnkeys
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.4.130:80?path=/+@ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#Psiphon--@V2rayAlpha-5
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none&type=ws#@SoonTeam
@@ -502,4 +503,3 @@ vless://AstroVPN-Official@kubernetes.io:443?mode=auto&path=/appxa&security=tls&a
 vless://Parsashonam@nextjs.org:443?mode=auto&path=/p4r34m&security=tls&encryption=none&insecure=0&host=YOUR_SUB_DOMAIN&type=xhttp&allowInsecure=0&sni=nextjs.org#@Parsashonam
 vless://Telegram-Parsashonam@104.20.6.134:443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=parsaaaa.atlasq.ir&type=xhttp&allowInsecure=0&sni=parsaaaa.atlasq.ir#@Parsashonam
 vless://Telegram-Parsashonam@blog.helm.sh:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=YOUR_SUB_DOMAIN&type=xhttp&allowInsecure=0&sni=blog.helm.sh#@Parsashonam-2
-vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=YOUR_SUB_DOMAIN&type=xhttp&allowInsecure=0&sni=kubernetes.io#@Parsashonam-1
