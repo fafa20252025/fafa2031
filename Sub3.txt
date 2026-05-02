@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.18.185.26:80?encryption=none&host=lucky-voice-d6f3.difat89954-0c6.workers.dev&security=none&type=ws#🎈21@oneclickvpnkeys
-vless://936257d2-b533-412d-c575-137316f7c355@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-rjx1vz
 vless://93fd88a9-8e9a-43bb-b0bd-46659d092175@185.213.165.38:443?mode=auto&path=/video&security=none&encryption=none&host=sub.sinalizardpanel.info&type=xhttp#⏳@Proxy_Vpney (1)
 vless://93fd88a9-8e9a-43bb-b0bd-46659d092175@185.213.165.38:443?mode=auto&path=/video&security=none&encryption=none&host=sub.sinalizardpanel.info&type=xhttp#⏳@Proxy_Vpney (3)
 vless://93fd88a9-8e9a-43bb-b0bd-46659d092175@185.213.165.38:443?mode=auto&path=/video&security=none&encryption=none&host=sub.sinalizardpanel.info&type=xhttp#⏳@Proxy_Vpney (8)
@@ -503,3 +501,5 @@ vmess://2437a36f-c8b4-45a7-9b19-d1d341f5979a@95.85.248.67:30082?encryption=auto&
 vmess://2437a36f-c8b4-45a7-9b19-d1d341f5979a@95.85.248.68:30082?encryption=auto&security=none&type=tcp#🧿63@oneclickvpnkeys
 vmess://52768552-c2b2-4460-89f1-e740cc145b99@158.101.229.162:15227/?type=ws&encryption=auto&path=/ws-path#hichkas 🇺🇸سرور#@v2rayconfigamir 4422
 vmess://8c99e6bf-a701-4534-cdde-abecd1d6826f@117.18.125.183:57460?encryption=auto&security=none&type=tcp#🧿53@oneclickvpnkeys
+vmess://95dd45fb-8e36-4ff2-fa9e-24b68a34f3cd@usaapp2.jisuyun.top:2053?allowInsecure=1&encryption=auto&host=usaapp2.jisuyun.top&path=/usavm&security=tls&sni=usaapp2.jisuyun.top&type=ws#🧿52@oneclickvpnkeys
+vmess://a25881f3-967f-3265-bc7f-9e66857b016b@51.81.202.62:80/?type=ws&encryption=auto&host=51.81.202.62&path=/v47-2023unlimitndxd#hichkasنت#@v2rayconfigamir 5238
