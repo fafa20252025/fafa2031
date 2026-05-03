@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://telegram: @Proxy_Vpney@helm.sh:443?mode=auto&path=/@Proxy_Vpney&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=1&host=mamadsproject.netlify.app&fp=chrome&type=xhttp&allowInsecure=1&sni=helm.sh#⏳@Proxy_Vpney (1)
-vless://telegram: @Proxy_Vpney@kubernetes.io:443?mode=auto&path=/@Proxy_Vpney&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=1&host=mamadsproject.netlify.app&fp=chrome&type=xhttp&allowInsecure=1&sni=kubernetes.io#⏳@Proxy_Vpney (3)
-vmess://2437a36f-c8b4-45a7-9b19-d1d341f5979a@138.124.32.188:30082?encryption=auto&security=none&type=tcp#🧿50@oneclickvpnkeys
 vmess://2437a36f-c8b4-45a7-9b19-d1d341f5979a@138.124.32.189:30082?encryption=auto&security=none&type=tcp#🧿46@oneclickvpnkeys
 vmess://2437a36f-c8b4-45a7-9b19-d1d341f5979a@138.124.9.205:30082?encryption=auto&security=none&type=tcp#🧿48@oneclickvpnkeys
 vmess://2437a36f-c8b4-45a7-9b19-d1d341f5979a@194.87.77.250:30082?encryption=auto&security=none&type=tcp#🧿10@oneclickvpnkeys
@@ -503,3 +500,6 @@ vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.18.16.56:443?path=%2F222.167.20
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.20.6.134:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=2026.hhhhh.eu.org&path=/222.167.202.31:7443&sni=2026.hhhhh.eu.org&fp=firefox&alpn=http/1.1#%3E%3E%40ultrasurf_12%3A%3AUS
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@8.6.112.6:443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&security=tls&sni=2026.hhhhh.eu.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.16.164.44:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.16.30.239:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.19.35.216:443?allowInsecure=1&encryption=none&host=amirvpn.amirhm00100.workers.dev&path=%2F&security=tls&sni=amirvpn.amirhm00100.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
