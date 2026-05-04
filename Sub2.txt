@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://37c23ba9-1123-b1fc-978d-2ae157af8902@meli.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.198#TEL;Father_vpn
-vless://37c23ba9-1123-b1fc-978d-2ae157af8902@meli.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.198#✅️@Shomarrreh ³
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🧿68@oneclickvpnkeys
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.25.173:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#🧿70@oneclickvpnkeys
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.72.206:80?encryption=none&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none&type=ws#🧿65@oneclickvpnkeys
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.72.206:80?path=/ @ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.12.149:80?encryption=none&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none&type=ws#🎈16@oneclickvpnkeys
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none&type=ws#@SoonTeam
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none#@Evay_vpn
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?path=/+@ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#⏳@Proxy_Vpney (1)
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#[44031] - Telegram : @V2All
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.67.155.172:80?type=ws&host=vip.yaml7.ggff.net&path=/&fp=chrome#@v2rayconfigamir 1282
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🦁12@oneclickvpnkeys
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🧿64@oneclickvpnkeys
-vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&sni=pages.dev#@CUSTOMVPNSERVER
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#@v2rayngzendegimamad🕊️
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&insecure=1&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&fp=chrome&type=ws&allowInsecure=1&sni=pages.dev#@v2rayngzendegimamad🕊️
 vless://39c62926-a0d2-49ca-8b88-5fcf14e19d16@camp.nahidapp.com:443?path=/IF_VPN_Bot&security=tls&encryption=none&host=camp.nahidapp.com&type=ws#@Ahvaz_vpn
@@ -503,3 +488,18 @@ vless://9314bd45-c20e-4ed0-813e-8d3619802b1d@185.143.233.235:80?path=/&security=
 vless://936257d2-b533-412d-c575-137316f7c355@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-rjx1vz
 vless://93fd88a9-8e9a-43bb-b0bd-46659d092175@185.213.165.38:443?mode=auto&path=/video&security=none&encryption=none&host=sub.sinalizardpanel.info&type=xhttp#⏳@Proxy_Vpney (1)
 vless://93fd88a9-8e9a-43bb-b0bd-46659d092175@185.213.165.38:443?mode=auto&path=/video&security=none&encryption=none&host=sub.sinalizardpanel.info&type=xhttp#⏳@Proxy_Vpney (2)
+vless://93fd88a9-8e9a-43bb-b0bd-46659d092175@185.213.165.38:443?mode=auto&path=/video&security=none&encryption=none&host=sub.sinalizardpanel.info&type=xhttp#⏳@Proxy_Vpney (3)
+vless://93fd88a9-8e9a-43bb-b0bd-46659d092175@185.213.165.38:443?mode=auto&path=/video&security=none&encryption=none&host=sub.sinalizardpanel.info&type=xhttp#⏳@Proxy_Vpney (8)
+vless://949f5fef-26df-43fb-9de2-04260f47b671@snapp.ir:2052?path=/&security=none&encryption=none&host=p1.razstar.ir&type=ws#🦉@FreeConfigForYou
+vless://954968cf-1827-404e-9862-6c84fe234086@down.netrandom.com:4040?security=none&encryption=none&host=www.tgju.org&headerType=http&type=tcp#@lldalall
+vless://957d0930-8730-4923-b58c-6c0d640418bd@151.101.0.10:80?mode=auto&path=/dl?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=goraz.global.ssl.fastly.net&type=xhttp#Telegram : @V2ynpv
+vless://957d0930-8730-4923-b58c-6c0d640418bd@vipde6.persianhostnet.ir:9093?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Telegram : @V2ynpv
+vless://95872646-a37f-4d20-80c8-b08266dc8f23@ite.pishvatech.lol:2052?type=ws&encryption=none&path=/&host=&security=none#@lldalall
+vless://96cec2e4-01d7-4a6b-ac2d-b962ad7623ce@snapp.ir:80?path=/&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#@internet_azad_2026❤️
+vless://97cc1f58-1e07-4cac-8714-f98848201693@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=gn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=gn.8lack.ir#@vpnbaz | ترکیبی
+vless://980fba0b-4dea-4128-8fb8-efdac879bd2d@tapsi.ir:8880?security=none&encryption=none&host=vp.movizdl.ir&type=ws#@YamYamProxy
+vless://980fba0b-4dea-4128-8fb8-efdac879bd2d@tapsi.ir:8880?security=none&encryption=none&host=vp.movizdl.ir&type=ws#🌻Psiphon-@V2rayAlpha-12
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@108.162.196.231:443?allowInsecure=1&encryption=none&host=babayaga-6i7.pages.dev&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🦁62@oneclickvpnkeys
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@14.102.229.231:443?allowInsecure=1&encryption=none&host=babayaga-6i7.pages.dev&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🦁85@oneclickvpnkeys
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@184.174.80.231:443?allowInsecure=1&encryption=none&host=babayaga-6i7.pages.dev&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🦁76@oneclickvpnkeys
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@212.183.88.231:443?allowInsecure=1&encryption=none&host=babayaga-6i7.pages.dev&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=babayaga-6i7.pages.dev&type=ws#Germany💘
