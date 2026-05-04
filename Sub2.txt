@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://365edf09-5254-495f-8de2-155e7f6a17bc@v2ngfast-v2ngfast-v2ngfast-v2ngfast.sixey18348.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sixey18348.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sixey18348.workers.dev#3 🇩🇪 @V2ngFast
-vless://370b6ab1-b631-4642-a71d-802cc8d1db9b@p.ar-panelar.com:443?encryption=none&security=tls&sni=p.ar-panelar.com&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&path=/&mode=auto#@Va3lSho
-vless://37b261d8-0768-4d44-8a4a-92e8f50bad25@snapp.ir:80?path=/&security=none&encryption=none&host=vip.city-zen.ir&type=ws#@v2npv 🚀 اتصال رایگان
-vless://37b9d175-d01e-4bdf-9217-579cdcad542e@104.18.16.56:443?path=/&security=tls&encryption=none&insecure=1&host=Mio.purplrose.ir&type=ws&allowInsecure=1&sni=Mio.purplrose.ir#@wedbazgap
 vless://37c23ba9-1123-b1fc-978d-2ae157af8902@meli.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.198#@icv2ray
 vless://37c23ba9-1123-b1fc-978d-2ae157af8902@meli.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.198#TEL;Father_vpn
 vless://37c23ba9-1123-b1fc-978d-2ae157af8902@meli.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.198#✅️@Shomarrreh ³
@@ -503,3 +499,7 @@ vless://8f61d109-10f4-494d-891f-3035c56124cc@snapp.ir:8080?path=/&security=none&
 vless://90116f4e-bfd9-4264-81fb-44e8046792c0@tik.var.hi-phonee.ir:50216?path=/&security=none&encryption=none&type=ws#@@FreeConffning
 vless://90116f4e-bfd9-4264-81fb-44e8046792c0@tik.var.hi-phonee.ir:50216?path=/&security=none&encryption=none&type=ws#@aloconfig_com
 vless://90116f4e-bfd9-4264-81fb-44e8046792c0@tik.var.hi-phonee.ir:50216?path=/&security=none&encryption=none&type=ws#@icv2ray
+vless://9037fde7-debb-4fe7-8c73-09f520f3f821@95.85.242.196:59283?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oPsbZoI_Ikl-nC6vS2-Va7Fx11FSgAK5buqI3yBbSWE&sid=07a0bc&sni=www.amazon.com&spx=/9WiC3w5XzS89nNn#@v2rayconfigamir 6181
+vless://90547d1f-e309-4e55-8966-d765568026b3@ae-530.star-kurd.net:2083?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=sni-ae.star-kurd.net#@V2rayNG_Cafe
+vless://90e5e7f6-5f4b-4b22-9103-dc425c44976c@s4.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#⏳@Proxy_Vpney (5)
+vless://9314bd45-c20e-4ed0-813e-8d3619802b1d@185.143.233.235:80?path=/&security=none&encryption=none&host=Ld.artarona.ir&type=ws#@@lldalall
