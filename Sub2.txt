@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3a6b6256-5a3d-4331-9126-c4db16dd67dc@104.20.6.134:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cfcf.metipoxbozorg.shop&fp=chrome&type=ws&allowInsecure=0&sni=cfcf.metipoxbozorg.shop#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
-vless://3aa7db12-eb93-47fc-af04-d54c0243b6d2@eco.gymplusplus.com:2052?path=/&security=&encryption=none&type=ws#NormanV2ray-118
 vless://3ab9c80e-8c3e-4851-b98c-2ff608e7e1ca@anten.ir:443?path=/&security=tls&alpn=h3&encryption=none&insecure=0&host=sb1.pbvsrk.carnagesv.top&fp=chrome&type=ws&allowInsecure=0&sni=sb1.pbvsrk.carnagesv.top#چنل کانفیگ عضو شو @v2ra_config
 vless://3b06d6ab-6f35-40c6-9096-35491260af80@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#@filembad
 vless://3b06d6ab-6f35-40c6-9096-35491260af80@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#t.me/iicenet❄💎
@@ -503,3 +501,5 @@ vless://957d0930-8730-4923-b58c-6c0d640418bd@vipde6.persianhostnet.ir:9093?secur
 vless://96930f31-8e68-4186-a101-5593f0b2b274@anten.ir:2052?path=/&security=none&encryption=none&host=new.nanoline.ir&type=ws#@appsooner کانال تلگرام 🕊️
 vless://96930f31-8e68-4186-a101-5593f0b2b274@anten.ir:2052?path=/&security=none&encryption=none&host=new.nanoline.ir&type=ws#@icv2ray
 vless://96930f31-8e68-4186-a101-5593f0b2b274@anten.ir:2052?type=ws&encryption=none&path=/&host=new.nanoline.ir&security=none#@icv2ray
+vless://96930f31-8e68-4186-a101-5593f0b2b274@anten.ir:2052?type=ws&encryption=none&path=/&host=new.nanoline.ir&security=none#@lldalall
+vless://96930f31-8e68-4186-a101-5593f0b2b274@anten.ir:2052?type=ws&encryption=none&path=/&host=new.nanoline.ir&security=none#Telegram : @ZHW_X_CLUB 🦅
