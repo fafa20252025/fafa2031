@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4278a814-4a82-4b9b-8092-0ba60a3fb2f6@193.151.153.47:34661?security=none&encryption=none&headerType=none&type=tcp#🌐 tel : @v2ray_unit
-vless://432282f6-8715-44b3-b6f6-5ad2e60f1179@snapp.ir:8080?encryption=none&security=none&type=ws&host=simorgh.darerio.ir&path=/#@Va3lSho
-vless://43488128-319e-f480-64ea-0acdc712e2a8@104.238.167.226:443?security=reality&encryption=none&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.zalando.de&sid=889dad4baac2436f#FastNetTools
 vless://43488128-319e-f480-64ea-0acdc712e2a8@45.82.254.107:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pBuXpWQ1Owy-fOEJZPUzYd-8xBsJB_1S05sLp_YMwzE&security=reality&sid=4929ddcb86e785f7&sni=www.booking.com&type=tcp#🇨🇭 Join+Telegram:@Farah_VPN 🇨🇭
 vless://43488128-319e-f480-64ea-0acdc712e2a8@78.141.199.54:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZpkoOvcRglQoTWJ3B7hiJlmMYTtIu41hJ51FMMdSTDE&security=reality&sid=41427aa565e28984&sni=www.vodafone.co.uk&type=tcp#🇬🇧 t.me/Natrixo AA
 vless://441239f9-3017-4ab3-b123-23eeaa48133b@104.20.6.134:443?encryption=none&type=ws&host=cdn.hosseincapri.sbs&path=/ws&security=tls&sni=cdn.hosseincapri.sbs#@vmessorg
@@ -186,6 +183,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.42.98:2096?security=tls&encr
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#vmessorg
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#برای اتصال دائمی جوین شو🗾 prrofile_purple@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#vmessorg
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:8443?encryption=none&host=sni.111000.dynv6.net&path=/?Telegram+@v2rayngzendegimamad&security=tls&sni=sni.111000.dynv6.net&type=ws#🐝65@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.7.205:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?ed&security=tls&sni=sni.111000.indevs.in&type=ws#🐝61@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.216.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🐝52@oneclickvpnkeys
@@ -503,3 +501,5 @@ vless://9444d2b6-354e-4aa0-ab80-e73410967b4b@snapp.ir:80?path=/&security=&encryp
 vless://947915de-e4be-4d86-b564-d9c82fc4c382@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#@iProxyChannel 1
 vless://949f5fef-26df-43fb-9de2-04260f47b671@snapp.ir:2052?path=/&security=none&encryption=none&host=p1.razstar.ir&type=ws#🦉@FreeConfigForYou
 vless://957d0930-8730-4923-b58c-6c0d640418bd@151.101.0.10:80?mode=auto&path=/dl?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=goraz.global.ssl.fastly.net&type=xhttp#Telegram : @V2ynpv
+vless://957d0930-8730-4923-b58c-6c0d640418bd@vipde6.persianhostnet.ir:9093?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Telegram : @V2ynpv
+vless://96930f31-8e68-4186-a101-5593f0b2b274@anten.ir:2052?path=/&security=none&encryption=none&host=new.nanoline.ir&type=ws#@appsooner کانال تلگرام 🕊️
