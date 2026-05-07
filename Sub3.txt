@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://810e5833-e1b4-546b-8332-2368440e63f5@snapp.ir:8880?encryption=none&type=ws&path=/vless&host=asal.kalak.ca#@byiroh
+vless://810e5833-e1b4-546b-8332-2368440e63f5@snapp.ir:8880?encryption=none&type=ws&path=/vless&host=asal.kalak.ca#@filembad
 vless://810e5833-e1b4-546b-8332-2368440e63f5@snapp.ir:8880?path=/vless&security=none&encryption=none&host=asal.kalak.ca&type=ws#@B2vasl1
 vless://810e5833-e1b4-546b-8332-2368440e63f5@snapp.ir:8880?path=/vless&security=none&encryption=none&host=asal.kalak.ca&type=ws#@FastNetTools
 vless://810e5833-e1b4-546b-8332-2368440e63f5@snapp.ir:8880?path=/vless&security=none&encryption=none&host=asal.kalak.ca&type=ws#ترکیبی @vipconfinng
@@ -501,5 +503,3 @@ vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?encryption=none&
 vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?encryption=none&host=leecher56.matinheydri.workers.dev&security=none&type=ws#🫟21@oneclickvpnkeys
 vless://e3f1a0a0-54a3-41dc-bdd7-95cfdf63b850@Ikco.ir:8080?path=/cdn&security=none&encryption=none&host=cp.movizdl.ir&type=ws#شیر تو دهن کلاهبردارا @irconfi
 vless://e40104a1-2017-4819-8299-2d56fa288f92@pg.nexorainnovationhub.ir:80?path=/&security=none&encryption=none&host=finland.lezzaluxa.ir&type=ws#@hi_proxy_iran :👈کانال تلگرام
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=/&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#@v2rayngzendegimamad🕊️
-vless://e5fc17f1-d74c-4434-bde5-2627bd32c5a9@zir.alihapps3.aghanami.ir:80?type=ws&encryption=none&path=/&host=&security=none#@filembad

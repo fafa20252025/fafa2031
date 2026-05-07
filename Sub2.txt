@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none#@Evay_vpn
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?path=/+@ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#⏳@Proxy_Vpney (1)
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🍑44@oneclickvpnkeys
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🍑33@oneclickvpnkeys
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🫟81@oneclickvpnkeys
@@ -501,5 +503,3 @@ vless://80bace8b-bdf4-495f-b8a3-a2377f64a19e@f1.springpaatogh8.store:8443?path=?
 vless://810e5833-e1b4-546b-8332-2368440e63f5@snapp.ir:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/vless&security=none&encryption=none&host=asal.kalak.ca&type=ws#@GozargahAzad|🇮🇷
 vless://810e5833-e1b4-546b-8332-2368440e63f5@snapp.ir:8880?encryption=none&type=ws&path=/vless&host=asal.kalak.ca#@Pirimod
 vless://810e5833-e1b4-546b-8332-2368440e63f5@snapp.ir:8880?encryption=none&type=ws&path=/vless&host=asal.kalak.ca#@YamYamProxy
-vless://810e5833-e1b4-546b-8332-2368440e63f5@snapp.ir:8880?encryption=none&type=ws&path=/vless&host=asal.kalak.ca#@byiroh
-vless://810e5833-e1b4-546b-8332-2368440e63f5@snapp.ir:8880?encryption=none&type=ws&path=/vless&host=asal.kalak.ca#@filembad
