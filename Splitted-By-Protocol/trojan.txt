@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@104.18.32.47:443/?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%40V2raysCollector%20%F0%9F%98%92%F0%9F%98%AD
+trojan://humanity@185.18.250.245:443?encryption=none&security=tls&sni=www.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#v2ray_dalghak
 trojan://humanity@104.21.40.34:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%40V2raysCollector%20%F0%9F%92%99
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%E2%9C%85%20%40V2raysCollector%2029-02
 trojan://1111@104.18.32.75:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev#1 🇩🇪 @V2ngFast
