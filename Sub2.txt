@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://30e35bd7-6ce7-4c0c-8fbd-cec03071852f@faraaa.darakio.ir:80?path=/&security=none&encryption=none&type=ws#@vpnbaz | ترکیبی
-vless://30ef41bc-4529-430f-bc8e-89b732df3fd3@snapp.ir:80?encryption=none&security=none&type=ws&host=fdcluma-c0a1c-fbc-4c77-60c.lezzalivo.ir&path=/#@Va3lSho
-vless://3159eeeb-9443-4afb-b65e-2c9324088f4f@ger1bot-ws.headerip.com:80?security=none&allowInsecure=0&encryption=none&type=ws&host=ger1.mv5.ir&path=/#🦉@FreeConfigForYou
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#@CUSTOMVPNSERVER
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#Telegram : @V2ynpv
 vless://318adaa4-6f45-46e7-b6e6-9c0a08ae1580@185.143.233.5:443?path=/@alaedin?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=alaedin7.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=alaedin7.8lack.ir#@ProxyMTProtoIR
 vless://31c40ee4-4da2-48fb-bf7c-d3785ff0fb72@hosting.linuweb.ir:1234?path=/index.php&security=none&encryption=none&type=ws#⏳@Proxy_Vpney (3)
 vless://31cbd329-a921-4d8a-9f92-ce023997a845@arvancloud.ir:80?path=/&security=none&encryption=none&host=gh5.ghostantaniehh.ir&type=ws#@vaslshiiimm
@@ -503,3 +498,8 @@ vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=/&security
 vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=/&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#https://t.me/God_internet1
 vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=/&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#🟢 @Bluefilter_org | تلگراممون 🟢
 vless://74b1f2da-0e37-4795-b1df-a2896d5e7cde@172.64.149.54:443?encryption=none&type=xhttp&mode=auto&host=meow.tanvexor.ir&path=/api/?ref=supervoid&security=tls&fp=chrome&sni=meow.tanvexor.ir&alpn=h2,http/1.1#@EVAY_VPN 2
+vless://75055d13-b6a3-492c-9bb0-d32b1603e975@nobitex.ir:8080?path=/&security=none&encryption=none&host=sayanstoree.tel.goleij.ir&type=ws#@filembad
+vless://75055d13-b6a3-492c-9bb0-d32b1603e975@nobitex.ir:8080?path=/&security=none&encryption=none&host=sayanstoree.tel.goleij.ir&type=ws#t.me/ConfigFori  -  Config 63983
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#🇸🇪@FreakConfig
+vless://7563a7e8-cd2b-41f8-9c59-cf90f9b9fbbe@:80?encryption=none&security=none&type=ws&path=/#GrizzlyVPN
+vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@45.15.178.124:80?security=none&encryption=none&type=ws&path=/vless/#@v2rayconfigamir 4952
