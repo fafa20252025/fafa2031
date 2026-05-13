@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 1612
+vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 3752
 vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=/&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#@oxnet_ir | ترکیب 14
 vless://73f19acd-d1e2-4848-ba32-2dccbcbd6557@snapp.ir:80?path=/graphql?ed=2560&security=none&encryption=none&host=ss9.limitless-cloud.ir&type=ws#@vpnbaz | ترکیبی
 vless://74b1f2da-0e37-4795-b1df-a2896d5e7cde@172.64.149.54:443?encryption=none&type=xhttp&mode=auto&host=meow.tanvexor.ir&path=/api/?ref=supervoid&security=tls&fp=chrome&sni=meow.tanvexor.ir&alpn=h2,http/1.1#@EVAY_VPN 2
@@ -501,5 +503,3 @@ vless://d22e6077-bfe7-430a-8484-9ddc672d2b76@v2ngfast-v2ngfast-v2ngfast-v2ngfast
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.5.134:2086?encryption=none&host=index.0x15.workers.dev&path=/PdgTMW8NBNZYo6L23v&security=none&type=ws#⛰️21@oneclickvpnkeys
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.6.134:2086?encryption=none&host=index.0x15.workers.dev&path=/PdgTMW8NBNZYo6L23v&security=none&type=ws#⛰️23@oneclickvpnkeys
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.17.72.206:443?encryption=none&type=ws&host=hio-awx.pages.dev&path=/?ed=2048/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&sni=hio-awx.pages.dev#@EVAY_VPN
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.18.12.149:443?path=/&security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#@NETMelliAnti
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@50.7.4.243:2053?security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#Channel id: @tik7net_vpn ³
