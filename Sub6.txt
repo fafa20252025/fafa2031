@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.124.49.246:2053?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#%3E%3E%40outline_vpn%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.169.105.239:2053?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
@@ -502,4 +503,3 @@ vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@160.22.16.187:443?allowInsecure=0&s
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@178.62.67.149:443?allowInsecure=1&encryption=none&host=3-7gj.pages.dev&security=tls&sni=3-7gj.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@128.127.180.105:443?encryption=none&fp=chrome&host=1-jk1.pages.dev&security=tls&sni=1-jk1.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ABE
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@109.206.241.125:443?encryption=none&fp=chrome&host=1-gjo.pages.dev&path=%2F&security=tls&sni=1-gjo.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AEE
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@tajikistan.mfa.gov.ua:443?encryption=none&fp=chrome&host=3-7v4.pages.dev&path=%2F&security=tls&sni=3-7v4.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
