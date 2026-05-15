@@ -5,7 +5,7 @@
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 trojan://humanity@104.21.40.34:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#v2ray_dalghak
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%20
-trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2%2chttp%2f1.1&fp=chrome&type=ws&path=%2fassignment&allow_insecure=0#%40V2raysCollector%20%F0%9F%92%83
+trojan://humanity@185.18.250.252:443?alpn=h2%2Chttp%2F1.1&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#%40V2raysCollector%20%F0%9F%8E%BE
 trojan://1111@104.18.32.75:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev#1 🇩🇪 @V2ngFast
 trojan://1111@104.18.34.41:2087?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev#5 🇩🇪 @V2ngFast
 trojan://1111@108.162.198.151:443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev#10 🇩🇪 @V2ngFast

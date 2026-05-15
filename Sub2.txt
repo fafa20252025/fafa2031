@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3e1ac55d-d8e2-4cf2-8a9e-a717246d3266@dns.psp1gram.ir:11123?security=none&encryption=none&headerType=none&type=tcp#⏳@Proxy_Vpney (3)
-vless://3e397ecd-cbec-49d4-b8c6-29d6fa133df7@Ikco.ir:8080?path=/cdn&security=none&encryption=none&host=cp.movizdl.ir&type=ws#⏳@Proxy_Vpney (5)
 vless://3eeb1bff-5d48-4697-a48a-b476bf4e5830@snapp.ir:80?encryption=none&security=none&type=ws&host=novin3.deltamarket8.ir&path=/#@Va3lSho
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#IR-@V2rayAlpha-6
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#🇩🇪@FreakConfig
@@ -503,3 +501,5 @@ vless://ad148fcd-aefa-47e8-8c7e-5fc242f9e142@arvancloud.ir:80?path=/&security=no
 vless://ad3887d6-5a91-4b03-b517-d81792887a1a@5.201.158.90:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.microsoft.com&si#🌐 tel : @v2ray_unit
 vless://ad39e228-35a9-4629-a16a-d66a97654225@150.241.230.85:52554?security=reality&encryption=none&pbk=DCnaVqwxfGF3d7LDHqFKYtlyGw2l6LsbxPvphK776Gc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6b4bdb32#@v2rayngzendegimamad🕊️
 vless://ad48afc6-4003-4735-b6ad-d13e97cbb298@ngame.thegameuhb.ir:8800?security=none&encryption=none&headerType=none&type=tcp#@FlashTunnelx | ترکیبی
+vless://ad48afc6-4003-4735-b6ad-d13e97cbb298@ngame.thegameuhb.ir:8800?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz | ترکیبی
+vless://ad6e47ed-11b2-455e-8763-4e492a8b3d16@v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev#4  🇩🇪 @av2ngFast
