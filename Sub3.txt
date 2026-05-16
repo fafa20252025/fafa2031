@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://897da4d2-543a-4cbc-bb38-1a4a599d6543@www.speedtest.net:8443?path=/eyJqdW5rIjoiNGxXdzBkdEdZSGdjRkVyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.pavof74662.workers.dev&fp=chrome&type=ws&sni=v2nGFASt.pavof74662.wOrkErs.dEv#1 🇩🇪 @V2ngFast
 vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2,http/1.1#
 vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2,http/1.1#@SryLove
 vless://89e2d03b-d371-4317-8c86-f36742c9b55a@i6fr.vexloraz.top:443?type=tcp&encryption=none&security=tls&headerType=none&sni=cdn.vexloraz.top&alpn=h2,http/1.1#@icv2ray
@@ -502,4 +503,3 @@ vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@91.244.70.205:443?encryption=none&p
 vless://f2f7ebdf-f163-4d6f-9901-9ea9bf06d6f5@212.80.24.71:777?path=@BlueberryNetWork&security=&encryption=none&type=ws#🔵@chillguy_vpn
 vless://f33b2b7b-7c44-4448-99a2-4de4499e49d9@digipay.ir:80?path=/&security=none&encryption=none&host=asd.pixserver.ir&type=ws#@mobo_game_land 📱
 vless://f358f62d-eda3-48a3-a52a-d7020ce15d79@gemini.vhuma.com:65?encryption=none&headerType=http&type=tcp&path=/&host=bama.ir#@config_free2
-vless://f358f62d-eda3-48a3-a52a-d7020ce15d79@gemini.vhuma.com:65?encryption=none&headerType=http&type=tcp&path=/&host=bama.ir#@config_free2  location:🇩🇪  @config_free2
