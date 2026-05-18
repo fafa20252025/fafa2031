@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2c72062a-a542-4b9b-97ac-0b636930d7c7@65.109.112.38:30366?security=&encryption=none&headerType=none&type=tcp#@GOLD_VPN_IR
 vless://2c72062a-a542-4b9b-97ac-0b636930d7c7@65.109.112.38:30366?security=none&encryption=none&headerType=none&type=tcp#@filtershekan_channel
 vless://2c7d8e9d-d40a-49f8-b150-2d9cf4d69f4d@212.80.8.212:38941?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://2cc4844a-c21a-4130-ad50-32c7d36b66c3@snapp.ir:8080?encryption=none&host=plusgame.gameidlc.sbs&path=/&security=none&type=ws#3814783_iraneclips_100-30.00MB📊-4D⏳
@@ -502,4 +503,3 @@ vless://73bcd72f-9545-4cb8-8daf-7d004501880d@138.3.210.67:30032/?type=ws&encrypt
 vless://73bcd72f-9545-4cb8-8daf-7d004501880d@83.229.126.127:32237?sni=dcsrzh.ccwu.cc&type=ws&host=dcsrzh.ccwu.cc&path=/?ed=2560fp=chrome&security=tls#[57706] - Telegram : @V2All
 vless://73c16ed4-d111-4434-8b24-0dfe112a0813@209.166.46.195:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=wIFJUBk4GRYT8Oim0-cPDwlGaTHh3kUYP2tOlKz1xlc&security=reality&sid=9f4380a6&sni=www.microsoft.com&type=tcp#🛖19@oneclickvpnkeys
 vless://74b1f2da-0e37-4795-b1df-a2896d5e7cde@172.64.149.54:443?encryption=none&type=xhttp&mode=auto&host=meow.tanvexor.ir&path=/api/?ref=supervoid&security=tls&fp=chrome&sni=meow.tanvexor.ir&alpn=h2,http/1.1#@EVAY_VPN 2
-vless://74c3dea8-9501-42af-a9e8-177d0a304abc@varzesh3.com:8080?path=/cdn&security=&encryption=none&host=Za.movizdl.ir&type=ws#filembad-185
