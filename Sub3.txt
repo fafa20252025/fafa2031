@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ip.notomarosww.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&fp=chrome&type=ws&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#@CUSTOMVPNSERVER
+vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ip.notomarosww.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#⚡Telegram =@CUSTOMVPNSERVER
+vless://830d8d2f-c89d-460c-88b0-fd73524f978e@snapp.ir:80?encryption=none&security=none&type=ws&host=Bob.savteamlol.ir&path=/#🇮🇷25150 | ⚡️Telegram = t.me/SO@imokping
+vless://833064aa-6279-4f79-a817-c405f6a0b836@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#@GOLD_VPN_IR
+vless://83345037-0431-42e8-b620-2d2deba8f4ce@blubank.sb24.ir:8880?encryption=none&host=botp.bexora.ir&path=/&security=none&type=ws#@V2ray_confiig
 vless://83c786f4-545e-4d79-b3e8-ebea76b36e38@104.18.26.90:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#Telegram : @V2ynpv
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#@CUSTOMVPNSERVER
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#⚡Telegram =@CUSTOMVPNSERVER
@@ -498,8 +503,3 @@ vless://e80c5348-5a5c-41f0-a78d-7a781f47afce@80.92.205.57:443?encryption=none&fl
 vless://e80c5348-5a5c-41f0-a78d-7a781f47afce@80.92.205.57:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MA_hDjnzRmn4qL60EqyybXYzuE_2Ap8FhJQ82szMDww&sid=1434b433&sni=store.steampowered.com#[58893] - Telegram : @V2All
 vless://e80c5348-5a5c-41f0-a78d-7a781f47afce@80.92.205.57:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MA_hDjnzRmn4qL60EqyybXYzuE_2Ap8FhJQ82szMDww&sid=1434b433&sni=store.steampowered.com#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Secaucus🅿️ping:121.83ms
 vless://e856328e-ba3d-4640-99da-46520655ba81@freak.gexar.top:30107?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
-vless://e87d46d6-96a7-4961-ac27-de394755bf3b@snapp.ir:80?path=/&security=none&encryption=none&host=cdn2.softnetconnect.ir&type=ws#@LightVPN_0
-vless://e8b3346f-7c15-4750-aff7-18d8289772bd@varzesh3.com:80/?type=ws&encryption=none&path=/&host=proto.helexm.ir&security=none#@V2ray_confiig
-vless://e8b3346f-7c15-4750-aff7-18d8289772bd@varzesh3.com:80/?type=ws&encryption=none&path=/&host=proto.helexm.ir&security=none#🇮🇷25995 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e9503cee-ae7d-4abe-b6ed-5795458073a4@104.18.16.56:2083?path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=prNkjleyvh.olAmpiavaRz.ir&fp=chrome&type=ws&allowInsecure=0&sni=vddhasdasdh.olampiavarz.ir#@v2rayngzendegimamad🕊️
-vless://e951440f-1a1c-4e8a-88af-0b070c291cbb@Ikco.ir:8080?path=/cdn&security=none&encryption=none&host=cp.movizdl.ir&type=ws#V2rayng_Fast
