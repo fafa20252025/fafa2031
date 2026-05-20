@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#⚡Telegram =@CUSTOMVPNSERVER
-vless://8481cfbb-49a2-df3b-2af2-949631ef5848@104.20.6.134:2096?encryption=none&security=tls&sni=f927b3b16dff26f5.mizgerdiran.com&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=f927b3b16dff26f5.mizgerdiran.com&path=/iran/ws?ed=2083&mode=auto#@SheriffNet
-vless://8483ffb8-519f-406f-8251-6e34256264a2@185.143.233.235:443?security=tls&encryption=none&insecure=1&host=sw.theretro.ir&type=ws&allowInsecure=1&sni=sw.theretro.ir#🇮🇷26155 | ⚡️Telegram = t.me/SOSkeyNET
-vless://84cad6f3-9d1e-4450-9112-94643af572d6@63.141.252.203:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=shiny-space-palm-tree-jr5vx99vr9v6cpxgp-443.app.github.dev#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://84ee9d31-a721-4236-bb24-c443705e350d@185.143.232.1:80?encryption=none&security=none&type=ws&host=S0.restaurantpro.ir&path=/#@GOLD_VPN_IR
-vless://853a2b26-89eb-404b-b4e5-84521f6960fa@SNApp.ir:80?type=ws&encryption=none&path=/Hoseisecu&host=MMW.abanservers.ir&security=none#V2rayng_Fast
 vless://853a2b26-89eb-404b-b4e5-84521f6960fa@SNApp.ir:80?type=ws&encryption=none&path=/Hoseisecu&host=MMW.abanservers.ir&security=none#🇮🇷26125 | ⚡️Telegram = t.me/SOSkeyNET
 vless://85aaa290-bd1a-4903-8e12-3363b6e2ceee@starlink.tino2020.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=starlink.tino2020.com#🇮🇷26192 | ⚡️Telegram = t.me/SOSkeyNET
 vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip1-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#@v2rayconfigamir 7731
@@ -503,3 +497,9 @@ vless://ea6d8aae-4ccb-4f9a-afdc-1abf53860930@94.183.149.237:8080?security=none&e
 vless://ea701249-075e-424f-b9fa-01ace3e0f8c4@n-s-1.m2nweb.site:2076?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🔵@chillguy_vpn
 vless://ea717efa-6f88-4750-800d-2f480faf29dc@snapp.ir:8080?path=/&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#@TechNowAi 🟢 (7)
 vless://ea9fb226-a4d9-4d4c-a88a-60b03a8c272b@185.73.112.42:48031?type=xhttp&encryption=none&path=/&host=&mode=auto&security=none#@V2ray_confiig
+vless://eaab23fc-2b22-470b-a7d8-da67fc05a792@snapp.ir:80?encryption=none&security=none&type=ws&host=cdn.softnetconnect.ir&path=/#@V2ray_confiig
+vless://eaab23fc-2b22-470b-a7d8-da67fc05a792@snapp.ir:80?encryption=none&security=none&type=ws&host=cdn.softnetconnect.ir&path=/#@Vpn_jet7
+vless://eb0217df-0808-451f-b45f-d0c158333cf6@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=/graphql?ed=2560&host=ss8.limitless-cloud.ir#@Pirimod
+vless://eb7dada7-5792-45fd-afde-e2744e579b25@snapp.ir:8080?path=/Embestpro1&security=&encryption=none&host=Cyrus.zomavo.ir&type=ws#🇮🇷25152 | ⚡️Telegram = t.me/S@imokping
+vless://ebe44c2c-96ed-4a36-8456-2e9ee60c859c@104.16.80.73:2083?path=/wss14139?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mnv1.gozargahping.top&fp=chrome&type=ws&allowInsecure=0&sni=mnv1.gozargahping.top#@NETMelliAnti
+vless://ec19f26f-b638-4883-bfab-c5a67fadd8ed@2app.star-direct.ir:443?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=ghhyteagfinljtrssj3gjiydcbkppoyreq34678072.mrpixanos.ir&fp=chrome&type=ws&allowInsecure=0&sni=ghhyteagfinljtrssj3gjiydcbkppoyreq34678072.mrpixanos.ir#@V2ynpv : تلگرام

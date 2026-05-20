@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3c81c716-4fd5-11f1-8a2c-525400a7149e@78.40.116.151:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Drg3RJ1fsmdl-mHJg2XAz8sBri58W_xGSA-3ewWcfBU&security=reality&sni=www.blocket.se&type=tcp#🫖59@oneclickvpnkeys
-vless://3cda2b45-2c8c-4f47-9975-67ce3d38f2ef@snapp.ir:2052?security=none&type=ws&headerType=&path=/?ed=2080&host=1.jojo.avenflow.ir#Vpn_jet7(3)1gig
-vless://3ceaf7ed-92dd-43ae-908c-c0e56d2f5109@95.38.189.223:38055?path=/&security=none&encryption=none&type=httpupgrade#@GOLD_VPN_IR
-vless://3cf1567d-74de-4021-bf8f-18537ec6bc2f@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#@GOLD_VPN_IR
-vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@CUSTOMVPNSERVER
-vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#⚡Telegram =@CUSTOMVPNSERVER
 vless://3dbfbb78-ee47-430c-a9c9-9e6a9efb03bc@185.143.233.235:8880?security=&encryption=none&host=gr.TheRetro.ir&type=ws#🇮🇷26145 | ⚡️Telegram = t.me/SOSkeyNET
 vless://3debe751-c4e8-4848-aa78-70b95df3efd3@snapp.ir:80?security=&encryption=none&host=hub2.psychodelicoxytocin.ir&type=ws#ترکیبیConfixio@
 vless://3df69e7e-2010-4b2f-aa94-ebde0366c977@94.101.179.129:56658?security=none&encryption=none&headerType=none&type=tcp#🌐 tel : @v2ray_unit
@@ -503,3 +497,9 @@ vless://83345037-0431-42e8-b620-2d2deba8f4ce@blubank.sb24.ir:8880?encryption=non
 vless://8389483a-5064-4b9a-d577-59add9ee927c@5.61.24.228:58864?path=/rocketnet&security=none&encryption=none&headerType=none&type=ws&quicSecurity=none#@v2rayconfigamir 8945
 vless://83c786f4-545e-4d79-b3e8-ebea76b36e38@104.18.26.90:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#Telegram : @V2ynpv
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#@CUSTOMVPNSERVER
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#⚡Telegram =@CUSTOMVPNSERVER
+vless://8481cfbb-49a2-df3b-2af2-949631ef5848@104.20.6.134:2096?encryption=none&security=tls&sni=f927b3b16dff26f5.mizgerdiran.com&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=f927b3b16dff26f5.mizgerdiran.com&path=/iran/ws?ed=2083&mode=auto#@SheriffNet
+vless://8483ffb8-519f-406f-8251-6e34256264a2@185.143.233.235:443?security=tls&encryption=none&insecure=1&host=sw.theretro.ir&type=ws&allowInsecure=1&sni=sw.theretro.ir#🇮🇷26155 | ⚡️Telegram = t.me/SOSkeyNET
+vless://84cad6f3-9d1e-4450-9112-94643af572d6@63.141.252.203:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=shiny-space-palm-tree-jr5vx99vr9v6cpxgp-443.app.github.dev#برای اتصال دائمی جوین شو🗾 prrofile_purple@
+vless://84ee9d31-a721-4236-bb24-c443705e350d@185.143.232.1:80?encryption=none&security=none&type=ws&host=S0.restaurantpro.ir&path=/#@GOLD_VPN_IR
+vless://853a2b26-89eb-404b-b4e5-84521f6960fa@SNApp.ir:80?type=ws&encryption=none&path=/Hoseisecu&host=MMW.abanservers.ir&security=none#V2rayng_Fast
