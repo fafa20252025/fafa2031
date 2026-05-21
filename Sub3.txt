@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 5576
+vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 7542
+vless://7374ce6f-26eb-4231-be10-0775319f53b8@snapp.ir:8080?path=/cdn&security=none&encryption=none&host=Za.movizdl.ir&type=ws#@GOLD_VPN_IR
 vless://7374ce6f-26eb-4231-be10-0775319f53b8@varzesh3.com:8080?path=/cdn&security=none&encryption=none&host=Za.movizdl.ir&type=ws#@GOLD_VPN_IR
 vless://7374ce6f-26eb-4231-be10-0775319f53b8@varzesh3.com:8080?path=/cdn&security=none&encryption=none&host=Za.movizdl.ir&type=ws#@GOLD_VPN_IR بزنید برین اینستا  وصل میشه یا ترکیبی بزنید
 vless://7374ce6f-26eb-4231-be10-0775319f53b8@varzesh3.com:8080?path=/cdn&security=none&encryption=none&host=Za.movizdl.ir&type=ws#@vpnbaz | ترکیبی
@@ -500,6 +503,3 @@ vless://cae75c5e-a157-4cc7-bb0f-8df155319c61@snapp.ir:8080?path=/&security=none&
 vless://cb1c7b0c-b0a7-4aba-ac3e-82b688880e64@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#@GOLD_VPN_IR
 vless://cb84993b-5d9d-4a82-851d-272a1370d66f@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#@V2ray_confiig
 vless://cb8ad1f0-85ef-4659-a65d-b4e01baf587d@sbb.4nel.ir:2052?path=/&security=none&encryption=none&host=sbb.4nel.ir&type=ws#@v2rayRoom
-vless://cbc2cda0-36b7-4de7-a11d-e73762366e45@de1-ws.xvless.xyz:80?path=/websocket&security=none&encryption=none&host=de1-ws.xvless.xyz&type=ws#@v2rayconfigamir 4839
-vless://cbf524f0-4d7c-4173-aafb-e9f0608b3192@127.0.0.1:40443?type=xhttp&encryption=none&path=/Goorbeh&host=focalin.yhbj.store&mode=auto&security=tls&fp=&alpn=h2,http/1.1,h3&sni=focalin.yhbj.store#@V2ray_confiig
-vless://cc463521-50c8-4c4b-bea8-9e2b5784e76e@185.143.233.235:443?encryption=none&type=ws&security=tls&path=/&host=nobitex.ir.bugcdnpl1u.shahramcloud.com&sni=nobitex.ir.bugcdnpl1u.shahramcloud.com&allowInsecure=1#🇮🇷26497 | ⚡️Telegram = t.me/SOSkeyNET
