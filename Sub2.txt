@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2d2685f1-22bd-4821-a69b-9a1f8b0ddb0d@hmt.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws#V2rayng_Fast
 vless://2d2685f1-22bd-4821-a69b-9a1f8b0ddb0d@hmt.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws#🇮🇷27313 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2d461e79-7a79-4891-83c8-b34d5ad48251@varzesh3.com:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#@imokping
 vless://2dc93929-242f-455f-83e4-a85a6a59546a@81.12.46.173:443?security=&encryption=none&headerType=none&type=tcp#🇮🇷27226 | ⚡️Telegram = t.me/SOSkeyNET
@@ -502,4 +503,3 @@ vless://715a4b57-b266-47af-a65b-cd49fa1af20b@104.21.57.220:2083?path=/eyJqdW5rIj
 vless://717ef6a0-1c29-11f1-9350-92000723b4ab@dlc-new11.persianpinggame.com:5111?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://71acfbcc-8825-484e-80e0-c1b920e726f0@blubank.sb24.ir:80?encryption=none&type=ws&path=/&host=static.aliyanserver.ir#[61511] - Telegram : @V2All
 vless://71acfbcc-8825-484e-80e0-c1b920e726f0@blubank.sb24.ir:80?encryption=none&type=ws&path=/&host=static.aliyanserver.ir#[61516] - Telegram : @V2All
-vless://71acfbcc-8825-484e-80e0-c1b920e726f0@blubank.sb24.ir:80?encryption=none&type=ws&path=/&host=static.aliyanserver.ir#🇮🇷27353 | ⚡️Telegram = t.me/SOSkeyNET
