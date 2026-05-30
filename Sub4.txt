@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.244:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#🇩🇪38179 | ⚡️Telegram = t.me/SOSkeyNET
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.244:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#🔵@chillguy_vpn
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.244:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#@filembad
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.244:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#🔵@chillguy_vpn
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.25:443?encryption=none&type=tcp&security=tls&headerType=none&sni=sub.sbrf-cdn342.ru&fp=chrome&allowInsecure=0&flow=xtls-rprx-vision-udp443#🇩🇪38188 | ⚡️Telegram = t.me/SOSkeyNET
 vless://9245d535-66fc-49b9-ba71-6d8c06c38b60@api.naxm.ir:38817?type=grpc&encryption=none&serviceName=/dashboard&authority=home.naxm.ir&security=tls&fp=chrome&alpn=h2,http/1.1&sni=home.naxm.ir#🔵@config_free2
 vless://92676547-950f-4c52-826c-92f4db058c67@snapp.ir:2095?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/sbs&security=none&encryption=none&host=clo-rivv.tonbrownton.com&type=ws#[67605] - Telegram : @V2All
@@ -499,7 +503,3 @@ vless://de7d5622-683b-4662-9f13-b28ca319b6a4@w.vidboxco.ir:2087?encryption=none&
 vless://de7d5622-683b-4662-9f13-b28ca319b6a4@w.vidboxco.ir:2087?mode=auto&path=/game?ed=2048&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=aabbc.sonamii.com&type=xhttp&allowInsecure=0&sni=aabbc.sonamii.com#🔵@chillguy_vpn
 vless://de7d5622-683b-4662-9f13-b28ca319b6a4@w.vidboxco.ir:2087?mode=auto&path=/game?ed=2048&security=tls&encryption=none&insecure=0&host=aabbc.sonamii.com&type=xhttp&allowInsecure=0&sni=aabbc.sonamii.com#@filembad
 vless://de7d5622-683b-4662-9f13-b28ca319b6a4@w.vidboxco.ir:2087?mode=auto&path=/game?ed=2048&security=tls&encryption=none&insecure=0&host=aabbc.sonamii.com&type=xhttp&allowInsecure=0&sni=aabbc.sonamii.com#🔵@chillguy_vpn
-vless://de8b874f-0b15-440c-b257-ce68852ffad0@31.43.179.111:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=eb4e5e9e1e70a46c.hozheen.ir#@VPN_PASARGAD
-vless://de8b874f-0b15-440c-b257-ce68852ffad0@31.43.179.111:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=eb4e5e9e1e70a46c.hozheen.ir#V2rayng_Fast
-vless://de8b874f-0b15-440c-b257-ce68852ffad0@31.43.179.111:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=eb4e5e9e1e70a46c.hozheen.ir#🔵@config_free2
-vless://de8b874f-0b15-440c-b257-ce68852ffad0@45.81.58.159:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=8ddb416cd7e662d1.hozheen.ir#@VPN_PASARGAD
