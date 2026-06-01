@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.13.206:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=juzi.qea.ccwu.cc&type=ws&allowInsecure=0&sni=juzi.qea.ccwu.cc#🔵@config_free2
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.13.20:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=1&host=juzi.qea.ccwu.cc&type=ws&allowInsecure=1&sni=juzi.qea.ccwu.cc#[68930] - Telegram : @V2All
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.13.20:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=1&host=juzi.qea.ccwu.cc&type=ws&allowInsecure=1&sni=juzi.qea.ccwu.cc#🔵@config_free2
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?path=/&security=tls&encryption=none&insecure=0&host=juzi.qea.ccwu.cc&type=ws&allowInsecure=0&sni=juzi.qea.ccwu.cc#v2ray_configs_pool-259
 vless://a865c2b5-e124-4312-a949-858519f3acda@185.143.234.235:8880?path=/wp-content&security=none&encryption=none&host=gold16.qurasub.sbs&type=ws#V2RFA
 vless://a865c2b5-e124-4312-a949-858519f3acda@185.143.234.235:8880?path=/wp-content&security=none&encryption=none&host=gold16.qurasub.sbs&type=ws#V2rayng_Fast
@@ -503,3 +500,6 @@ vless://e6682a34-0875-41f9-88a3-6fe01abe09f8@172.67.74.10:443?path=/download.php
 vless://e69bf3d3-2f7e-4a5a-8fb2-03b9d66a3782@185.143.233.122:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/ed=2080&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cyrus.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus.frtshop.ir#V2rayng_Fast
 vless://e7344606-2a4b-4375-975a-0eac96192b16@solar.appleseraj.ir:2083?path=?ed&security=tls&encryption=none&insecure=0&host=nurenbccc.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbccc.appleseraj.ir#@FreeConffning
 vless://e7344606-2a4b-4375-975a-0eac96192b16@solar.appleseraj.ir:2083?path=?ed&security=tls&encryption=none&insecure=0&host=nurenbccc.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbccc.appleseraj.ir#Echo_Center
+vless://e7344606-2a4b-4375-975a-0eac96192b16@solar.appleseraj.ir:2083?path=?ed=2048&security=tls&encryption=none&insecure=0&host=nurenbccc.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbccc.appleseraj.ir#VpnFardad
+vless://e77b4920-6d01-4a4e-b45b-62ca479f2acc@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/dash&host=Irancellx2.nscl.ir&sni=Irancellx2.nscl.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#@meliproxyy
+vless://e77b4920-6d01-4a4e-b45b-62ca479f2acc@188.114.97.6:443?path=/dash&security=tls&alpn=h2,http/1.1&encryption=none&host=Irancellx2.nscl.ir&fp=chrome&type=ws&sni=Irancellx2.nscl.ir#@hi_proxy_iran :👈کانال تلگرام
