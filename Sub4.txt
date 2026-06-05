@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#@CUSTOMVPNSERVER
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#@KAFING_2
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#Telegram : @V2ynpv
-vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?flow=xtls-rprx-vision&fp=chrome&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&security=reality&sid=132c271e21324e36&sni=googdas.scroogethebest.com&spx=/&type=tcp#@v2rayconfigamir 9259
-vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?type=tcp&security=reality&encryption=none&sni=googdas.scroogethebest.com&fp=chrome&alpn=http/1.1&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&sid=132c271e21324e36&flow=xtls-rprx-vision&headerType=none&allowInsecure=1#@v2rayconfigamir 2872
-vless://31aac68e-8e74-47e9-9217-0ea77a48d8a1@195.123.244.86:443?mode=auto&path=/&security=reality&encryption=none&pbk=0RgLpbNFUMQGoNVx8HSV4bmtIvayQFL0HfV9fdCsBks&fp=chrome&spx=/&type=xhttp&sni=www.google.com&sid=11#@VPsave
-vless://31b07cd0-bb51-4036-9910-4c73aff1848d@185.143.233.122:443?path=/av&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=hvds2.piba82.ir#@VPsave
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#🌾 @ProxyVPN11
 vless://327bf8a4-52ec-4fc1-afab-fc37ecec8be9@150.241.94.160:33199?security=reality&encryption=none&pbk=0paB9-U-QzEBoSQiOP161BPvc2PhWrfQ_5nbfk2AezM&headerType=none&fp=chrome&type=tcp&sni=web.max.ru&sid=a9766c#@HajmVPN_Config ⚡
 vless://329ec84a-e43e-4fd6-832c-3fa2acd354af@82.115.26.170:8443?path=/&security=none&encryption=none&type=ws#@appsooner کانال تلگرام 🕊️
@@ -503,3 +496,10 @@ vless://5931ace4-69b2-4730-8bd0-bdff3e867f71@151.101.110.219:443?path=/&security
 vless://5931ace4-69b2-4730-8bd0-bdff3e867f71@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=1&host=oijji.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#@vpnbaz
 vless://5931ace4-69b2-4730-8bd0-bdff3e867f71@199.232.78.160:443?path=/&security=tls&encryption=none&insecure=1&host=oijji.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#@v2raybaaz
 vless://593f4d6c-aff1-4832-87a7-b5d8e71584ea@kz-1.nodes.ac:443?security=reality&encryption=none&pbk=uz1Lb_2451iPvrwWCZ-4I9_WHdYm7ML0yjeJAZwBk3E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kz-1.nodes.ac&sid=73b4306eb38fe3d6#@v2raybaaz
+vless://59b95438-9d46-409c-b38f-95e30c22a417@snapp.ir:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#@Vasl_b
+vless://5a2dd675-410e-4553-a81b-db7cc8b02d59@45.81.252.61:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=CxjnGHCI3HXN2RAXwytela7jXyOGDCBqzMAqTfm60D0&sid=634435e72c72be12&sni=www.yandex.ru&spx=/#@v2rayconfigamir 2152
+vless://5aa02d95-185d-4205-9d5d-306440cce49f@poli.appleseraj.ir:2083?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=russia2.appleseraj.ir&type=ws&allowInsecure=0&sni=russia2.appleseraj.ir#@KAFING_2
+vless://5aa02d95-185d-4205-9d5d-306440cce49f@poli.appleseraj.ir:2083?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=russia2.appleseraj.ir&type=ws&allowInsecure=0&sni=russia2.appleseraj.ir#Telegram : @V2ynpv
+vless://5aa02d95-185d-4205-9d5d-306440cce49f@poli.appleseraj.ir:2096?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=nurenburges.appleseraj.ir&type=ws&allowInsecure=0&sni=nurenburges.appleseraj.ir#@KAFING_2
+vless://5aa02d95-185d-4205-9d5d-306440cce49f@poli.appleseraj.ir:2096?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=nurenburges.appleseraj.ir&type=ws&allowInsecure=0&sni=nurenburges.appleseraj.ir#Telegram : @V2ynpv
+vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@ai_duet
