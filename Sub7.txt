@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://af194c0e-95c3-417b-85bf-9ac3027f903e@146.0.73.104:8443?security=reality&encryption=none&pbk=xSnNFylG-eUpKDPa2a-R3rdSB1HDrmenM-jU19n-xXA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ads.5ka.ru&sid=612d8fa72c#@Proxy_Vpney (2)
-vless://af77d53f-a0e4-456e-b977-696bf081dcc8@104.17.121.71:80?encryption=none&type=ws&path=/&host=g1.nybaz.space#3https://t.me/ConfigX2ray
 vless://af77d53f-a0e4-456e-b977-696bf081dcc8@104.19.229.21:80?encryption=none&type=ws&path=/&host=g1.nybaz.space#1https://t.me/ConfigX2ray
 vless://af77d53f-a0e4-456e-b977-696bf081dcc8@172.67.133.175:80?security=none&allowInsecure=0&encryption=none&type=ws&host=g1.nybaz.space&path=/#@Netzone_ir
 vless://af77d53f-a0e4-456e-b977-696bf081dcc8@45.130.125.69:80?encryption=none&type=ws&path=/&host=g1.nybaz.space#5https://t.me/ConfigX2ray
@@ -503,3 +501,5 @@ vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443?path=/35.230.
 vless://d87234a4-2a6c-4f0c-87f0-300942338207@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=1&host=jookeji.global.ssl.fastly.neT&type=ws&allowInsecure=1&sni=speedtest.net#haj v2ray_configs_pools
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#@KAFING_2
 vless://d8ade4cc-c672-4195-964b-473f21584100@cf.gafe-marz.ir:2083?mode=multi&security=tls&encryption=none&authority=austrish.digishopcenter.ir&insecure=0&type=grpc&serviceName=Love&allowInsecure=0&sni=austrish.digishopcenter.ir#@KAFING_2
+vless://d8c05f47-6ca7-4c6a-badf-b7e5e818699c@172.67.139.51:443?path=/eyJqdW5rIjoiM25HVThlWGhhcThVT3g2ZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=noiZvPn.aSAd13321.wORkers.dEv#🇷🇺 @on_proxy1
+vless://d8c05f47-6ca7-4c6a-badf-b7e5e818699c@172.67.139.51:443?path=/eyJqdW5rIjoiM25HVThlWGhhcThVT3g2ZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=noiZvPn.aSAd13321.wORkers.dEv#🇨🇦50378 | ⚡️Telegram = t.me/SOSkeyNET
