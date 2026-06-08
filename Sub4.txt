@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4408eafa-2c4d-4b48-aa1f-5ebee616c34e@chatgpt.com:443?security=tls&type=ws&host=&headerType=&path=/download&sni=tr.oneping.space&fp=chrome&alpn=h2,http/1.1#🇩🇪 Germany [Direct]
+vless://4408eafa-2c4d-4b48-aa1f-5ebee616c34e@chatgpt.com:443?security=tls&type=ws&host=&headerType=&path=/home&sni=ca.oneping.space&fp=chrome&alpn=h2,http/1.1#🇳🇱 Netherlands [Direct]
+vless://4408eafa-2c4d-4b48-aa1f-5ebee616c34e@chatgpt.com:443?security=tls&type=ws&host=&headerType=&path=/user&sni=pl.oneping.space&fp=chrome&alpn=h2,http/1.1#🇵🇱 Poland [Direct]
+vless://4408eafa-2c4d-4b48-aa1f-5ebee616c34e@de.oneanime.ir:80?security=none&type=ws&host=de.oneanime.ir&headerType=&path=/admin#🇩🇪 Germany [Direct]
 vless://44098455-565c-4c45-9f9a-7aaeb350990c@188.114.97.6:80?path=/in-do&security=none&encryption=none&host=zaintest.vuclip.com.r3xxe.eu.cc&type=ws#@V2Ray_Hub1200
 vless://44098455-565c-4c45-9f9a-7aaeb350990c@188.114.97.6:80?path=/in-do&security=none&encryption=none&host=zaintest.vuclip.com.r3xxe.eu.cc&type=ws#@meliproxyy
 vless://44098455-565c-4c45-9f9a-7aaeb350990c@188.114.97.6:80?path=/in-do&security=none&encryption=none&host=zaintest.vuclip.com.r3xxe.eu.cc&type=ws#🇨🇦56876 | ⚡️Telegram = t.me/SOSkeyNET
@@ -499,7 +503,3 @@ vless://7294c217-f682-4119-8bcd-852d8fd0b8bc@188.114.97.6:8443?path=/&security=t
 vless://7294c217-f682-4119-8bcd-852d8fd0b8bc@188.114.97.6:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=argoovpn.imanaghapour.ir&fp=chrome&type=ws&allowInsecure=0&sni=argoovpn.imanaghapour.ir#@meliproxyy
 vless://7294c217-f682-4119-8bcd-852d8fd0b8bc@188.114.97.6:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=argoovpn.imanaghapour.ir&fp=chrome&type=ws&allowInsecure=0&sni=argoovpn.imanaghapour.ir#telegram @mtmvpn 47
 vless://72bfeb89-d095-47c7-96c8-d2d624bb9b84@129.121.92.164:11000?security=reality&encryption=none&pbk=PBI0qUBzRCC-_jVxDMel54jOvdUEX6Eif1ep_dwTEUs&headerType=none&type=tcp&sni=wechat.com&sid=fe238b83#🇬🇧GB-🚀@VPNine1
-vless://72bfeb89-d095-47c7-96c8-d2d624bb9b84@129.121.92.164:11000?security=reality&encryption=none&pbk=PBI0qUBzRCC-_jVxDMel54jOvdUEX6Eif1ep_dwTEUs&headerType=none&type=tcp&sni=wechat.com&sid=fe238b83#🇺🇸56918 | ⚡️Telegram = t.me/SOSkeyNET
-vless://72bfeb89-d095-47c7-96c8-d2d624bb9b84@129.121.92.164:11000?security=reality&encryption=none&pbk=PBI0qUBzRCC-_jVxDMel54jOvdUEX6Eif1ep_dwTEUs&headerType=none&type=tcp&sni=wechat.com&sid=fe238b83#🔵@chillguy_vpn
-vless://72bfeb89-d095-47c7-96c8-d2d624bb9b84@mtn.hiapi.cloud:443?mode=auto&security=tls&encryption=none&fp=chrome&type=xhttp&sni=film.tsetmc.uk.com#🔵@chillguy_vpn
-vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 2015
