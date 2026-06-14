@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?path=/&security=none&encryption=none&host=mci.ir&type=httpupgrade#@appsooner کانال تلگرام 🕊️
 vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?path=/&security=none&encryption=none&host=mci.ir&type=httpupgrade#TEL;Father_vpn
 vless://4166019f-0448-4eda-b29a-f824ff017083@blog.arioonlineshop.ir:13465?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp&note=@FreeOnlineVPN#🇫🇮 - FI - @FreeOnlineVPN
 vless://417a471c-6183-495d-87ef-331e7e8842fe@104.17.89.154:2083?mode=auto&path=/SAFIGH5SS&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&insecure=0&host=rana.bardo-chronos.online&fp=chrome&type=xhttp&allowInsecure=0&sni=rana.bardo-chronos.online#@V2dogs_n
@@ -503,3 +502,4 @@ vless://6c22648a-18f5-4249-9ace-72a1639d4190@saleh.velizor.ir:2020?encryption=no
 vless://6c22648a-18f5-4249-9ace-72a1639d4190@saleh.velizor.ir:5020?encryption=none&fp=chrome&pbk=okCWIaLm7TQJ-c4JgqDkJa_1CRaT9LfdGV9vzHsUD3Y&security=reality&sid=8d&sni=news.microsoft.com&spx=/OyN3bEKyCzKXSF7&type=tcp#🇩🇪 t.me/Natrixo AA
 vless://6c22648a-18f5-4249-9ace-72a1639d4190@saleh.velizor.ir:5020?encryption=none&fp=chrome&pbk=okCWIaLm7TQJ-c4JgqDkJa_1CRaT9LfdGV9vzHsUD3Y&security=reality&sid=8d&sni=news.microsoft.com&spx=/OyN3bEKyCzKXSF7&type=tcp#🇩🇪69658 | ⚡️Telegram = t.me/SOSkeyNET
 vless://6c22648a-18f5-4249-9ace-72a1639d4190@saleh.velizor.ir:5020?encryption=none&fp=chrome&pbk=okCWIaLm7TQJ-c4JgqDkJa_1CRaT9LfdGV9vzHsUD3Y&security=reality&sid=8d&sni=news.microsoft.com&spx=/OyN3bEKyCzKXSF7&type=tcp#🔵@chillguy_vpn
+vless://6c22648a-18f5-4249-9ace-72a1639d4190@saleh.velizor.ir:5020?encryption=none&fp=chrome&pbk=okCWIaLm7TQJ-c4JgqDkJa_1CRaT9LfdGV9vzHsUD3Y&security=reality&sid=8d&sni=news.microsoft.com&spx=/OyN3bEKyCzKXSF7&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
