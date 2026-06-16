@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.194:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Channel id: @ShadowProxy66 🇳🇱
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.194:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#T.me/V2raySup0❤️
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.194:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.194:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.194:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#Channel id: @ShadowProxy66 🇳🇱
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.194:8443?security=tls&encryption=none&type=tcp&sni=ams1.fromblancwithlove.com#kurdconfig
@@ -503,3 +500,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.198.50:8880?security=none&all
 vless://6244894e-52bb-4d02-8245-890e8b9d0965@snapp.ir:2087?path=/BetForward&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#🇮🇷73529 | ⚡️Telegram = t.me/SOSkeyNET
 vless://6244894e-52bb-4d02-8245-890e8b9d0965@snapp.ir:2087?path=/BetForward&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#🇮🇷IR-🚀@VPNine1
 vless://6263516e-13f4-4a29-8c6b-a999aafa438b@185.231.115.48:2053?type=tcp&security=none&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+vless://62d26257-546d-a267-c4f1-fb19de937929@151.101.109.223:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=swwwwfgggffffii.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#@FarazV2ray
+vless://62d26257-546d-a267-c4f1-fb19de937929@151.101.109.223:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=wwwfgggffffii.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#@FarazV2ray
+vless://62d26257-546d-a267-c4f1-fb19de937929@cdn-prouk.plusmusical2.ir:80?security=reality&encryption=none&pbk=1qXKdju4-bcHyuLpxvBIvd3sfaDOQP_cby4oHN1vsVk&host=cdn-prouk.plusmusical2.ir&headerType=none&fp=chrome&spx=/softiran&type=tcp&sni=yahoo.com&sid=78f1c17fd58cbb8f#@FarazV2ray

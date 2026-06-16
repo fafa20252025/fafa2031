@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bfccdd5a-824b-4fe8-8163-9ab81c7bc0a4@SnaPp.ir:2082?path=/&security=none&encryption=none&host=aLiReza.mobilesubasa.com&type=ws#@konfig_zub
-vless://c06b2815-c117-4319-8cf2-725fbf864f7e@freeiran-opiran-2.shaygan.site:8880?path=/&security=none&encryption=none&type=ws#@KAFING_2
-vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Sha.artarona.ir&fp=chrome&type=ws&allowInsecure=0&sni=Sha.artarona.ir#TEL;Father_vpn
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=lol6.artarona.ir&type=ws&allowInsecure=0&sni=lol6.artarona.ir#TEL;Father_vpn
 vless://c15d8d1a-a68f-4436-8f68-6fbc7f4e3027@transparency.cloud.appcore.org:34754?security=reality&encryption=none&pbk=MNw8WI6R7SDlWC71MClNgpxNGUa-nYN4nGHn9pG62Ss&headerType=none&fp=chrome&spx=/C3QPpUphD4vVHPh&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=b02cf07a#@Ap_Ir6
 vless://c15d8d1a-a68f-4436-8f68-6fbc7f4e3027@transparency.cloud.appcore.org:34754?security=reality&encryption=none&pbk=MNw8WI6R7SDlWC71MClNgpxNGUa-nYN4nGHn9pG62Ss&headerType=none&fp=chrome&spx=/C3QPpUphD4vVHPh&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=b02cf07a#@V2VODKA_A
@@ -503,3 +500,6 @@ vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?enc
 vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?path=/vless/&security=none&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#@v2raybaaz
 vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?path=/vless/&security=none&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#MiX--@V2rayAlpha--18
 vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2087?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#Telegram : @V2ynpv
+vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2092?security=none&encryption=none&host=www.nobitex.ir&headerType=http&type=tcp#Telegram : @V2ynpv
+vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2096?security=none&encryption=none&host=www.nobitex.ir&headerType=http&type=tcp#Telegram : @V2ynpv
+vless://e7c09821-b1aa-4486-983d-0beb30c2aa7d@www.speedtest.net:443/?type=ws&encryption=none&flow=&host=edm.safirmediamusic.qzz.io&path=/eyJqdW5rIjoieEJWUnNWWmZwVXR4aWQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&sni=Edm.saFirmediamuSIC.qZZ.io&alpn=http/1.1&fp=chrome#🇨🇦73641 | ⚡️Telegram = t.me/SOSkeyNET
