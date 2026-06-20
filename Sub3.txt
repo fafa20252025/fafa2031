@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://mitivpn@188.114.97.6:443?type=ws&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&path=/ed=mitivpn&security=tls&fp=chrome&sni=www.ssl.global.digi.my.mitivpn.xyz&alpn=http/1.1#RzChanel1
-trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=/ed=mitivpn&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&sni=global.fastly.com.mitivpn-a.site&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@hi_proxy_iran :👈کانال تلگرام
-trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
-trojan://mitivpn@45.130.125.220:443?path=index.html=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-a.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-a.ir#@Leecher56
-trojan://mitivpn@45.130.125.220:443?path=index.html=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-a.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-a.ir#@V2ConfigPro
-trojan://mitivpn@45.130.125.220:443?path=index.html=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-a.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-a.ir#@bored_vpn
 trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?security=tls&headerType=&type=tcp&sni=www.game-bridge.click#⚡@V2ray_official
 trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=www.game-bridge.click#@vmesskhodam
 trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=www.game-bridge.click#[79973] - Telegram : @V2All
@@ -503,3 +497,9 @@ vless://24a263c8-3153-404d-a567-4089cba17c10@ansooyefilter-bot.qeshmdiyar.ir:844
 vless://24a263c8-3153-404d-a567-4089cba17c10@ansooyefilter-bot.qeshmdiyar.ir:8443?security=reality&encryption=none&pbk=k-wk6CQguQMtipx1iMfDyZhyUL4FSS4T4ISLC9YTeh4&headerType=none&fp=chrome&spx=/8a2dvjADssH7mCs&type=tcp&sni=www.nvidia.com&sid=fa#🔴@v2rayngsupbot
 vless://24a263c8-3153-404d-a567-4089cba17c10@ansooyefilter.qeshmdiyar.ir:443?security=reality&encryption=none&pbk=xiXg9dXBXx0bVMpxiqu__9Oh6OCYXfNO9DL1l_BIij0&headerType=none&fp=chrome&spx=/emcAx5BYA4fh651&type=tcp&sni=www.amazon.com&sid=03da4f#@ansooyefilter
 vless://24d49ddd-67c1-4821-b5b9-f12107366978@151.101.3.147:80?encryption=none&security=none&type=xhttp&host=baharishomalyour-name.global.ssl.fastly.net&path=/api&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"0"}#canfingV2rayNG-86
+vless://24e39f73-ce06-4052-b631-7efd2589f2ba@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠@Mcv2rayNG  25GB ♻️  𝗝𝗼𝗶𝗻 ➠@Mcv2rayNG
+vless://24f1f7cc-3cfd-48c1-af87-07a50e9db7de@37.152.187.201:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=algorithmmarket.ir#@prrofile_purple  ♥️👈 تلگرام
+vless://25111876-333c-4243-82a4-12c30d324698@104.16.149.244:2053?mode=auto&path=/hrkpJ7KmTIGlNLZ9PlLYtZNS&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=tr.majedtechnical.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=tr.majedtechnical.ir#@filembad
+vless://25111876-333c-4243-82a4-12c30d324698@104.16.149.244:2053?mode=auto&path=/hrkpJ7KmTIGlNLZ9PlLYtZNS&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=tr.majedtechnical.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=tr.majedtechnical.ir#[79969] - Telegram : @V2All
+vless://25111876-333c-4243-82a4-12c30d324698@104.16.149.244:2053?mode=auto&path=/hrkpJ7KmTIGlNLZ9PlLYtZNS&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=tr.majedtechnical.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=tr.majedtechnical.ir#🇨🇦@FreakConfig
+vless://252e7311-477b-4713-96ec-30ee8bb5f694@www.sibzam-poshak.ir:2082?security=reality&encryption=none&pbk=_Ep9rs71EW4BYpupN25Z91tKS4u2jyWERfrb0CY1OiE&headerType=http&fp=chrome&spx=/bsdFquDtebYtRLM/TELEGRAM----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN&type=tcp&sni=yahoo.com&sid=01117aa377a206#@FarazV2ray
