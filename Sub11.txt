@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f5b1fa73-6d0b-40cf-8621-211d9462af7e@141.193.213.10:2087?path=/&security=tls&encryption=none&insecure=0&host=nova-sunny-wave-cf2e.panelc5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-sunny-wave-cf2e.panelc5.workers.dev#@Ap_Ir6
 vless://f5b1fa73-6d0b-40cf-8621-211d9462af7e@141.193.213.10:2087?path=/&security=tls&encryption=none&insecure=0&host=nova-sunny-wave-cf2e.panelc5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-sunny-wave-cf2e.panelc5.workers.dev#@vmesskhodam
 vless://f5b1fa73-6d0b-40cf-8621-211d9462af7e@188.164.248.193:443?path=/&security=tls&encryption=none&insecure=0&host=nova-sunny-wave-cf2e.panelc5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-sunny-wave-cf2e.panelc5.workers.dev#@Ap_Ir6
 vless://f5b1fa73-6d0b-40cf-8621-211d9462af7e@188.164.248.193:443?path=/&security=tls&encryption=none&insecure=0&host=nova-sunny-wave-cf2e.panelc5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-sunny-wave-cf2e.panelc5.workers.dev#@vmesskhodam
@@ -502,4 +503,3 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.204.84:80?path=/%3Fed%3D2048
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?security=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3BheaderType=none&amp%3Btype=tcp&amp%3BallowInsecure=0&amp%3Bsni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40rez1vpn%20%231
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Btype=ws&amp%3BallowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%20%40rez1vpn%20%231
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@www.speedtest.net:2096?path=/ws%3Fed&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=com.hozheen.ir&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=872ede3847653442.hozheen.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40selinc%20%231
-vless://1a6db04f-e089-49d5-8a78-5d362cb9b850@188.114.97.6:443?path=/path&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=ws23.iranservicepro.com&amp%3Bfp=firefox&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=ws23.iranservicepro.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40selinc%20%232

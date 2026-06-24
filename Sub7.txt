@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.6:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#@toot
 vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.6:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#@tootffarangi🍓-9
 vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.45.237:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#@ReleaseNet
 vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.45.237:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#@V2dogs_n 💛
@@ -502,4 +503,3 @@ vless://966db920-cb72-446c-9dd6-45ba53372275@lt.edge-9d7c.com:443?security=reali
 vless://966db920-cb72-446c-9dd6-45ba53372275@lt.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lt.edge-9d7c.com&sid=9d84de9d9f7b85e9#@erfanandroid
 vless://9678a26b-d92f-4b62-8ca9-d02c4edf8e1a@ipadvpn.dpdns.org:80?security=&encryption=none&host=paly.google.com&headerType=http&type=tcp#@FarazV2ray
 vless://9678a26b-d92f-4b62-8ca9-d02c4edf8e1a@ipadvpn.dpdns.org:80?security=none&encryption=none&host=paly.google.com&headerType=http&type=tcp#@Leecher56
-vless://9678a26b-d92f-4b62-8ca9-d02c4edf8e1a@ipadvpn.dpdns.org:80?security=none&encryption=none&host=paly.google.com&headerType=http&type=tcp#@bored_vpn

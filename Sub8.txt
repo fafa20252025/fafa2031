@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9678a26b-d92f-4b62-8ca9-d02c4edf8e1a@ipadvpn.dpdns.org:80?security=none&encryption=none&host=paly.google.com&headerType=http&type=tcp#@bored_vpn
 vless://9678a26b-d92f-4b62-8ca9-d02c4edf8e1a@ipadvpn.dpdns.org:80?security=none&encryption=none&host=paly.google.com&headerType=http&type=tcp#@mehrosaboran
 vless://9678a26b-d92f-4b62-8ca9-d02c4edf8e1a@ipadvpn.dpdns.org:80?security=none&encryption=none&host=paly.google.com&headerType=http&type=tcp#@meliproxyy
 vless://9678a26b-d92f-4b62-8ca9-d02c4edf8e1a@ipadvpn.dpdns.org:80?security=none&encryption=none&host=paly.google.com&headerType=http&type=tcp#تلگرام : mtmvpn
@@ -502,4 +503,3 @@ vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&
 vless://b005cb51-bdac-1344-3a0b-c57d690fdba5@199.181.197.1:8443?path=/sync&security=tls&encryption=none&insecure=0&host=ez-69f0d5.noght-azadi-sub2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-69f0d5.noght-azadi-sub2.workers.dev#@filembad
 vless://b005cb51-bdac-1344-3a0b-c57d690fdba5@199.181.197.1:8443?path=/sync&security=tls&encryption=none&insecure=0&host=ez-69f0d5.noght-azadi-sub2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-69f0d5.noght-azadi-sub2.workers.dev#🔵@chillguy_vpn
 vless://b02fa112-0453-1ba0-79c8-de2b50f1be84@188.114.98.0:443?path=/v2c&security=tls&encryption=none&insecure=0&host=misty-salad-0200.cloudyaccat.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=misty-salad-0200.cloudyaccat.workers.dev#@V2ConfigPro
-vless://b08d2238-2601-4a79-b1db-c4816574b3d1@185.147.27.105:80?encryption=none&type=ws&path=/#@meliproxyy

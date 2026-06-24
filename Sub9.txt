@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b08d2238-2601-4a79-b1db-c4816574b3d1@185.147.27.105:80?encryption=none&type=ws&path=/#@meliproxyy
 vless://b0922ea8-257b-4cef-9514-90697c0df1c4@www.hcaptcha.com:443?path=/eyJqdW5rIjoiRkRQZGVnRE1Pcjl3NSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.ashkanbj00.workers.dev&fp=chrome&type=ws&sni=v2NGfAsT.AShKAnBj00.WorkErs.dEv#🇩🇪 @V2ngFast
 vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@nl-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=chrome&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#@hex_proxy ³
 vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@sw-1.coinbridge.nl:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d&type=grpc&authority=&serviceName=data-sync&mode=gun#hope of freedom - @anotherme_night
@@ -502,4 +503,3 @@ vless://d85ea913-7dfa-44b0-bd66-33414e897991@172.67.73.14:443?path=/35.230.79.26
 vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443?path=/35.230.79.26=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#IR-@V2rayAlpha-11
 vless://d86f0162-82e0-49e5-94cc-32a7b9501f24@ip.perdu.lol:443?encryption=none&security=tls&sni=cloud.perdu.lol&fp=chrome&alpn=h2,http/1.1,h3&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=test1&mode=multi#@ConfigFori-1.00TB📊
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#@KAFING_2
-vless://d8ade4cc-c672-4195-964b-473f21584100@cf.gafe-marz.ir:2083?mode=multi&security=tls&encryption=none&authority=austrish.digishopcenter.ir&insecure=0&type=grpc&serviceName=Love&allowInsecure=0&sni=austrish.digishopcenter.ir#@KAFING_2
