@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#@V2ray_Alpha🌂 4
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#@bored_vpn
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#telegram @mtmvpn
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#@icv2ray
-vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?encryption=none&path=/pourya&security=none&type=ws#💟70@oneclickvpnkeys
 vless://e1b81abf-2c98-487a-9b4d-e678f718f4b9@162.159.38.119:8443?path=/eyJqdW5rIjoiSVIwdkdQSmhrT0xRNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tiny-shadow-2432.quillypanel26.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=Tiny-ShADow-2432.QuillYPaNeL26.woRKers.dev#@V2raySup0 🚀
 vless://e1da4e62-38ad-4481-8330-fc47ace8bd3a@line2.gymplusplus.com:80?path=/&security=none&encryption=none&type=ws#@NetZone_ir
 vless://e1ea855f-d0c2-5ed2-a454-294bb73c0cee@104.16.72.70:8443?path=/ZoRoVpn&security=tls&encryption=none&insecure=0&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&type=ws&allowInsecure=0&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com#@bored_vpn
@@ -503,3 +498,8 @@ vless://fc963b1f-ad85-4b73-93e3-0a5a0ec461da@securitytrails.com:443?mode=auto&pa
 vless://fc963b1f-ad85-4b73-93e3-0a5a0ec461da@securitytrails.com:443?mode=auto&path=/forall&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=ns1.my-miner.info&fp=chrome&type=xhttp&allowInsecure=0&sni=ns1.my-miner.info#@erfanandroid
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#@appsooner کانال تلگرام 🕊️
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.11:443?encryption=none&security=tls&sni=octopusss4.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=octopusss4.com&path=/tsghdws#🇺🇸US_3207_@Surfboardv2ray
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#@hopev2ray💜
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?path=/tsghdws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🚀@VPNine1
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#TEL;Father_vpn
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.1:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=octopusss4.com#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️
+vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?encryption=none&type=tcp&security=reality&headerType=none&sni=amd.com&fp=chrome&insecure=1&allowInsecure=1&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#@freenettir
