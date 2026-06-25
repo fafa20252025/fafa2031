@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5e0179a9-ffe3-40c8-947b-dc6eb053a103@de2.cdnless.com:8880?mode=auto&path=/&security=none&encryption=none&extra={"xmux":{"hKeepAlivePeriod":5}}&host=9ffd0c1f39f16f51.de.cdnless.com&type=xhttp#filembad-295
+vless://5e0179a9-ffe3-40c8-947b-dc6eb053a103@de2.cdnless.com:8880?mode=auto&path=/&security=none&encryption=none&extra={"xmux":{"hKeepAlivePeriod":5}}&host=9ffd0c1f39f16f51.de.cdnless.com&type=xhttp#kurdconfig
 vless://5e0179a9-ffe3-40c8-947b-dc6eb053a103@de2.cdnless.com:8880?mode=auto&path=/&security=none&encryption=none&extra={"xmux":{"hKeepAlivePeriod":5}}&host=9ffd0c1f39f16f51.de.cdnless.com&type=xhttp#🇨🇦@FreakConfig
 vless://5e58c2f5-b27d-4130-bd8f-dd05ee0f4825@ge1.clear-vpn.org:443?mode=gun&security=reality&encryption=none&pbk=AXjwyGxRT-mcOzOSNYYywOWoxZ9tEvfCTo3LZDxS5Dw&fp=chrome&spx=/&type=grpc&serviceName=GrpcFuckRKN2&sni=www.microsoft.com&sid=c0ffee12#وصل که شدی بیا کانالمANA_SERVICE@
 vless://5ec1c445-0cca-4fd6-bac1-09ba3653a8bf@tr.lmproject.top:443?security=reality&encryption=none&pbk=HgSvYRXth0LfM5NaE1bMb9v8AupfFOBqgx-Br8yGr1c&headerType=&fp=chrome&spx=/MnhPFPQSK8k8jyu&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=e42775668c5b2a09#@icv2ray
@@ -501,5 +503,3 @@ vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.50:2083?security=reality&
 vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.50:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#@ReleaseNet
 vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.50:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#@irconfiig
 vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.50:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#Tel-@Alpha_V2rayip😷 1
-vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.50:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#✅  @vistav2ray  👈👈کانال ما ✅
-vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.6:2083?encryption=none&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc&spx=/&flow=xtls-rprx-vision#@vpng3 [11]
