@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://577581e7-d526-42f1-adb0-6559357b0575@5.75.207.247:443?security=reality&encryption=none&pbk=AQdYxjoMA0fxO8O9BX5bW4EMfRyiH09K0Hwjwse51AM&host=//?ed=2560/JOIN%Proxy_Se7en&headerType=none&fp=chrome&spx=/KawBc1lhYo45V8E&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=99c8#Proxy_Se7en
 vless://5781b499-6c56-452d-9e9f-fa43383f3b08@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://5789b16b-91c0-4324-a5b6-d761a52c585a@188.114.97.6:2095?path=/&security=&encryption=none&host=ez-7b9ef1.amirmohammad139318.workers.dev&fp=chrome&type=ws&sni=ez-7b9ef1.amirmohammad139318.workers.dev#Proxy_Se7en
 vless://57a55b8b-8a96-4c90-87a1-b3739126e624@185.226.93.26:34634?path=/&security=none&encryption=none&host=play.google.com&type=ws#telegram @mtmvpn
@@ -503,3 +502,4 @@ vless://8044e8fa-7509-f303-a2b3-a288ad6487e9@cd3.videobazi.com:443?path=/sync&se
 vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security=none&encryption=none&headerType=none&type=tcp#@KAFING_2
 vless://80e1220d-11a9-00d6-20cd-64d4f6039e1b@217.195.200.153:2099?mode=auto&path=/&security=reality&encryption=none&pbk=bm1X5R9OZK5AhcDhrn7j14rvTualxKopRR3lp065yWI&host=brt.rta-lornamason-combaccompany-powerfull.ir.usdtbama.site&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=5a8dba4b#ProxyMtpVPN-338
 vless://8108b2d5-a265-408d-bb9d-b7e5600251b7@65.109.1.138:443?mode=gun&security=reality&encryption=none&authority=speedup&pbk=amn6tV0kGGP_hL2cPt8J1cBj-nVXfLRhVzPCUHM7Ckw&fp=chrome&spx=/sfZB7ixvspFTDq4&type=grpc&serviceName=speedup&sni=speedtest.net&sid=eb71f84110#@V2raySup0🚀
+vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.16.1:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/3BzRkDnEVV1LI56p?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN - Free (4)
