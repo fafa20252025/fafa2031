@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://30689d42-d2f2-4495-a49b-dd0fdba10fb8@liad.maf-tahas.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=harro-likeh2.sdcards1.ir#Telegram : @V2ynpv
 vless://30693e15-1014-443b-88dd-1232b55a06b6@104.16.6.70:443?path=/&security=tls&encryption=none&host=mos.rfiksma.top&fp=chrome&type=ws&sni=sub.rfiksma.top#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://30980fc4-8789-42df-80d1-0c8e5cd26881@127.0.0.1:40443?path=/vpnhu&security=tls&encryption=none&insecure=1&host=cdn.veilvpn.fans&fp=chrome&type=httpupgrade&allowInsecure=1&sni=cdn.veilvpn.fans#@Maznet-Spoof15
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?host=azsv1.drpingservice.com&security=none&path=/&encryption=none&type=ws#@NewsDarya
@@ -502,4 +503,3 @@ vless://52b06c93-5a5e-487a-9e1a-b48f3d6f3768@irani.datammr.ir:8081?path=/&securi
 vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk.bvps.cloud&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&sid=60debb3ab744d8ce&type=tcp&headerType=none#🇬🇧GB_1303_@Surfboardv2ray
 vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?path=/&security=tls&encryption=none&host=alesis724.global.ssl.fastly.net&type=ws&sni=speedtest.net#❤️‍🔥 کانال تل
 vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?path=/&security=tls&encryption=none&host=alesis724.global.ssl.fastly.net&type=ws&sni=speedtest.net#❤️‍🔥 کانال تلگرام HiByeVPNN@
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.29:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#🇸🇨SC-🚀@VPNine1
