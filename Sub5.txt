@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@191.96.94.50:80?encryption=none&security=none&type=ws&host=play.google.com&path=/#🔵@chillguy_vpn
-vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@tr3.vidora4k.ir:80?encryption=none&security=none&type=ws&headerType=none&path=/&host=play.google.com#🇹🇷TR-🚀@VPNine1
 vless://253ded96-665e-420d-86fb-16d4b6701155@stockholm.wizard1.info:2045?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=yahoo.com#@Soul737
 vless://2547fcff-03a0-453d-bc20-acd66ef75611@fans2.mahoshid.ir:9560?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Telegram : @V2ynpv
 vless://2598c743-f9ce-4aa0-a459-bb4c505f0907@s1.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=sub.zynavo.ir&fp=chrome&type=xhttp&sni=sub.zynavo.ir#𝗝𝗼𝗶𝗻 ➠@Mcv2rayNG
@@ -503,3 +501,5 @@ vless://4973357c-6436-4970-b1e6-e21244d2ef94@sw.linuxbase.ir:1152?security=reali
 vless://49898ce0-8865-493c-ae42-01a7bdd81057@GerGame2.soltankabos.ir:34821?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#https://t.me/v2rayNplus |🇩🇪
 vless://49898ce0-8865-493c-ae42-01a7bdd81057@Gerlight.soltankabos.ir:443?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=amtal9.soltankabos.ir&fp=chrome&type=ws&allowInsecure=0&sni=amtal9.soltankabos.ir#https://t.me/v2rayNplus |🇩🇪
 vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.197.224:2566?security=reality&encryption=none&pbk=cs2uxkfzvnJXO3dyLiC1ihoFPwQQlbJknOhNPF0OGyY&host=play.google.com&headerType=none&fp=chrome&spx=/spdnet&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=7d89f79a7baa#SPDNET-VIP2 🇳🇱
+vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.202.15:2566?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=cs2uxkfzvnJXO3dyLiC1ihoFPwQQlbJknOhNPF0OGyY&sid=b220cebe89a795&spx=/N09yNTPL3nb5qa6&type=tcp&headerType=none#SPDNET-V5 🇳🇱
+vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.202.15:2566?security=reality&encryption=none&pbk=cs2uxkfzvnJXO3dyLiC1ihoFPwQQlbJknOhNPF0OGyY&headerType=none&fp=chrome&spx=/N09yNTPL3nb5qa6&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=b220cebe89a795#🇳🇱@FreakConfig
