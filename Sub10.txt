@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@TEHRANARGOکانال تلگرام 🕊️
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@V2dogs_N🩷
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@V2raySup0🚀
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@V2ray_Alpha🥥 4
@@ -503,3 +502,4 @@ vless://c593fbb5-6d6b-4351-bbb8-b51b1ccca6ad@sho1781056.dadashinet10.ir:2044?sec
 vless://c5997b46-9a9b-030f-fada-60efaff29de5@rvg-production-8dd9.up.railway.app:443?encryption=none&security=tls&type=ws&host=rvg-production-8dd9.up.railway.app&path=/ws/c5997b46-9a9b-030f-fada-60efaff29de5&sni=rvg-production-8dd9.up.railway.app&fp=chrome&alpn=http/1.1#RVG-B2
 vless://c5997b46-9a9b-030f-fada-60efaff29de5@rvg-production-8dd9.up.railway.app:443?path=/ws/c5997b46-9a9b-030f-fada-60efaff29de5&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-8dd9.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-8dd9.up.railway.app#پنل-B2
 vless://c5997b46-9a9b-030f-fada-60efaff29de5@rvg-production-8dd9.up.railway.app:443?path=/ws/c5997b46-9a9b-030f-fada-60efaff29de5&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-8dd9.up.railway.app#telegram @mtmvpn
+vless://c5a288bd-3cd2-4fed-83f0-f95a5b26e684@62.133.60.66:8443?path=/?u=1e5b0dc4c9&security=tls&encryption=none&insecure=0&host=nova-comet-core-5d04.ilia-talebi09.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-comet-core-5d04.ilia-talebi09.workers.dev#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪

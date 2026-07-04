@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@46.101.238.160:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#@meliproxyy
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@46.101.238.160:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#All-@V2rayAlpha--3
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.220:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#🍓89@oneclickvpnkeys
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@64.226.95.244:8443?path=/&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Proxy_Se7en
@@ -503,3 +502,4 @@ vless://25e9a8de-9baa-43ac-ada3-7950aa4ad5e0@cdntrkkk.serendpiti.ir:80?path=/mmd
 vless://25e9a8de-9baa-43ac-ada3-7950aa4ad5e0@trktaklink.serendpiti.ir:3063?mode=auto&path=/path&security=reality&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&pbk=EtiM7XLtU6WHAiolMrQLVQfWNsMULqePxiVih0RDhEo&host=hostname&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=8e0d72d781fc925b#🚀@proxy_kafee⚒️ 🇹🇷TR🇹🇷
 vless://25ecfd72-76ff-11f1-9625-ea86131eb9f3@5.188.140.194:2053?encryption=none&type=grpc&security=reality&sni=hh.ru&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=7824dfd19eab1acc&fp=chrome&serviceName=grpc-direct#🇷🇺RU-🚀@VPNine1
 vless://25ecfd72-76ff-11f1-9625-ea86131eb9f3@5.188.140.216:2053?encryption=none&type=grpc&security=reality&sni=hh.ru&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=4b685844d0b4f724&fp=chrome&serviceName=grpc-direct#🇷🇺RU-🚀@VPNine1
+vless://25ecfd72-76ff-11f1-9625-ea86131eb9f3@5.188.141.144:2053?encryption=none&type=grpc&security=reality&sni=hh.ru&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=7824dfd19eab1acc&fp=chrome&serviceName=grpc-direct#🇷🇺RU-🚀@VPNine1

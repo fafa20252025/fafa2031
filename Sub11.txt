@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c5a288bd-3cd2-4fed-83f0-f95a5b26e684@62.133.60.66:8443?path=/?u=1e5b0dc4c9&security=tls&encryption=none&insecure=0&host=nova-comet-core-5d04.ilia-talebi09.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-comet-core-5d04.ilia-talebi09.workers.dev#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://c5d63ef2-5fc7-ea7f-5b71-81102bce34f0@rvg-production-b825.up.railway.app:443?encryption=none&security=tls&sni=rvg-production-b825.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rvg-production-b825.up.railway.app&path=/ws/c5d63ef2-5fc7-ea7f-5b71-81102bce34f0#Telegram:@vpnfreev2rayconfig
 vless://c5ece540-6d4b-4057-85a6-2b651c1697b7@securitytrails.com:2083?mode=auto&path=/forall&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=ns1.mtp-roto.info&fp=chrome&type=xhttp&allowInsecure=0&sni=ns1.mtp-roto.info#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️429🌐🆕️
 vless://c5ee3bba-f737-42d5-b0bc-cccec1ffe7e2@91.107.241.155:2082?mode=auto&path=/&security=reality&encryption=none&pbk=VxW_T8XUwWi2ELxLK4g9LWVNBLRjMLDBKQcJNoIFwi8&host=play.google.com&fp=chrome&spx=/&type=xhttp&sni=play.google.com&sid=72d1809de52ebf95#@NETMelliAnti
@@ -503,3 +502,4 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.25.173:443?path=/&security=t
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.0.0:443?path=/&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Proxy_Se7en
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.0.0:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Proxy_Se7en
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.150.114:443?path=/&security=tls&encryption=none&insecure=1&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#Proxy_Se7en
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.13:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@hex_proxy ²
