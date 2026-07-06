@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇨🇦 Telegram:@ghostvpn141 🇨🇦
 vless://09036778-56fa-4489-945b-dcb66fa304a9@5.75.207.247:2886?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&security=reality&sid=62a8&sni=www.oracle.com&spx=/Fw20Brs0pCyWjZO&type=tcp#@SylphNet | 2026-06-26 10:36
 vless://09548571-364e-4876-8e92-98f423e73913@a.r-o-o-t3.ir:443?security=reality&encryption=none&pbk=nA87ol2_2BADZHfXhH00wy3fNe4R8TiGG_IQbzWbPnA&host=www.linkedin.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.linkedin.com&sid=56c96c1d14#TEL:Father_vpn
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@103.160.204.56:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0#@vmesskhodam
@@ -502,4 +503,3 @@ vless://213426db-afb7-48d1-ae51-5093317212df@104.21.55.47:2087?security=tls&type
 vless://213426db-afb7-48d1-ae51-5093317212df@104.21.55.47:2095?security=none&type=httpupgrade&headerType=&path=/?ed=2096&host=aza002.vaslbash.site&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://213426db-afb7-48d1-ae51-5093317212df@172.64.152.23:2087?security=tls&type=ws&headerType=&path=/&host=iopl90nn.bingnet.online&sni=iopl90nn.bingnet.online&fp=chrome&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://213839be-1717-4302-b374-47f6ec0811ef@172.67.190.118:80?encryption=none&security=none&sni=zeus-panel-o5wimz.zeus-qbrvf4.workers.dev&fp=chrome&type=ws&host=zeus-panel-o5wimz.zeus-qbrvf4.workers.dev&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh#@one_shop_official
-vless://213839be-1717-4302-b374-47f6ec0811ef@172.67.190.118:80?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=none&encryption=none&host=zeus-panel-o5wimz.zeus-qbrvf4.workers.dev&fp=chrome&type=ws&sni=zeus-panel-o5wimz.zeus-qbrvf4.workers.dev#@outline_ir

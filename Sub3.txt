@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://bpb-trojan@vless.herogoing.top:443?path=/tr?ed=2560&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=vless.herogoing.top#🚀 t.me/iProxyChannel 15
 trojan://cap784inp96q2627@38.79.154.34:1818?mode=auto&path=/&security=reality&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=_PvxwvgQue6Gt2nbnPXRtkmLVu_gH2-rBK_7lgUFXUY&fp=chrome&spx=/gmRBpmmkTK1H6Sp&type=xhttp&sni=shop-us-en.amd.com&sid=f0#تلگرام @ange1Vpn
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇭🇰 香港
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇸🇬 新加坡
@@ -502,4 +503,3 @@ vless://083e5c65-d8e3-4ae7-aad9-180c27a2337c@cdnip.speadmaster.ir:2087?mode=auto
 vless://08c063d4-17d8-4d44-8f1c-6a1e782d3a1e@167.82.101.213:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=1&host=vexikopq012.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=global.fastly.com#@prrofile_purple  ♥️👈 تلگرام
 vless://08f314b7-4fdd-44e8-aca6-eba93d75f26e@8q8vky6jb891.dop44.com:42268?encryption=none&security=none&type=httpupgrade&headerType=none&path=/&host=play.google.com#@V2ray_confiig
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&;security=tls&;encryption=none&;insecure=0&;type=ws&;allowInsecure=0#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇨🇦 Telegram:@ghostvpn141 🇨🇦
