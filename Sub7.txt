@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://77a99d74-549d-154c-eea7-536f18117c94@x4g-production-1c57.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-1c57.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-production-1c57.up.railway.app&path=/ws/77a99d74-549d-154c-eea7-536f18117c94#Tel: @Daily_Configs
+vless://77d59f0a-285a-45be-9c18-6f5dfff562f1@zeus-panel-txdli6.wqrewr43r32f.workers.dev:2053?path=/&security=tls&encryption=none&host=zeus-panel-txdli6.wqrewr43r32f.workers.dev&fp=chrome&type=ws&sni=zeus-panel-txdli6.wqrewr43r32f.workers.dev#@appsooner کانال تلگرام 🕊️
+vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&authority=free.ziroxcompany.ir&insecure=1&fp=chrome&type=grpc&serviceName=/dashboard&allowInsecure=1&sni=free.ziroxcompany.ir#@prrofile_purple  ♥️👈 تلگرام
+vless://78174433-c53f-dcbf-1222-02fab7e5b0de@x4g-production-1506.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-1506.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-production-1506.up.railway.app&path=/ws/78174433-c53f-dcbf-1222-02fab7e5b0de#Channel : @Daily_Configs
 vless://78174433-c53f-dcbf-1222-02fab7e5b0de@x4g-production-1506.up.railway.app:443?path=/ws/78174433-c53f-dcbf-1222-02fab7e5b0de&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-1506.up.railway.app&fp=chrome&type=ws&sni=x4g-production-1506.up.railway.app#🇺🇸 @rayhub_ir 0708-12
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.203:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#@v2rayNplus |🇭🇺
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.83:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#@v2rayNplus |🇭🇺
@@ -499,7 +503,3 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.6:8880?mode=gun&securit
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.6:8880?mode=gun&security=none&encryption=none&type=grpc#@meliproxyy
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.6:8880?mode=gun&security=none&encryption=none&type=grpc#@vasl_bashim
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.6:8880?mode=gun&security=none&encryption=none&type=grpc#برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.6:8880?mode=gun&security=none&encryption=none&type=grpc#برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.6:8880?mode=gun&security=none&encryption=none&type=grpc#𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠➜@MetiVIP
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#@v2rayngzendegimamad🕊️
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@V2raySup0 | 🚀
