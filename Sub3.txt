@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@Ap_Ir6
 trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@Soul737
 trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
 trojan://humanity@199.181.197.169:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#@Soul737
@@ -502,4 +503,3 @@ vless://1c405762-61d8-4654-abf0-1ab168a237eb@suupermeat.ir:2035?security=none&en
 vless://1c405762-61d8-4654-abf0-1ab168a237eb@xn--varzesh3-p815gia6uka.server-teamspeak.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@Net2ray Germany 🇩🇪
 vless://1c4a1618-98a8-41c6-b155-5c1a866c8620@63.186.131.33:33681?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
 vless://1c87aa46-693f-4070-8809-53c1124cc99c@1.schwan.ir:443?fp=chrome&spx=/&pbk=u6rvzgZSCPPCzV5ew2nVz72EuurCYHObmNZBcfPB4SM&type=tcp&headerType=none&encryption=none&security=reality&sid=46427d9cc9a289b1&sni=play.google.com#🇺🇸US-🚀@VPNine1
-vless://1c87aa46-693f-4070-8809-53c1124cc99c@1.tstbarber.ir:443?spx=/&fp=chrome&pbk=bBKYDawxhfiBOzpOUFK-9iD274iLKN4iM4DiVsvHels&type=tcp&headerType=none&encryption=none&security=reality&sid=92a4cf275b6f823e&sni=play.google.com#🇬🇧GB-🚀@VPNine1
