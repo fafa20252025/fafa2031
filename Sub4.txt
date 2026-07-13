@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443?encryption=none&security=reality&sni=optim.tildacdn.pub&fp=chrome&pbk=fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY&sid=db78dafb7cd886fb&type=grpc&authority=&serviceName=ebl&mode=gun#Telegram: @Daily_Configs
 vless://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443?encryption=none&security=reality&sni=optim.tildacdn.pub&fp=chrome&pbk=fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY&sid=db78dafb7cd886fb&type=grpc&authority=&serviceName=ebl&mode=gun#🔵@chillguy_vpn
 vless://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443?mode=gun&security=reality&encryption=none&authority=&pbk=fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY&fp=chrome&type=grpc&serviceName=ebl&sni=optim.tildacdn.pub&sid=db78dafb7cd886fb#@filembad
 vless://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443?mode=gun&security=reality&encryption=none&authority=&pbk=fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY&fp=chrome&type=grpc&serviceName=ebl&sni=optim.tildacdn.pub&sid=db78dafb7cd886fb#🔵@chillguy_vpn
@@ -503,3 +502,4 @@ vless://4057e5fc-140f-fac6-8470-9c4e6c98d7e2@x4g-production-88cb7.up.railway.app
 vless://4057e5fc-140f-fac6-8470-9c4e6c98d7e2@x4g-production-88cb7.up.railway.app:443?path=/ws/4057e5fc-140f-fac6-8470-9c4e6c98d7e2&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-88cb7.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-88cb7.up.railway.app#🇺🇸US-🚀@VPNine1
 vless://40601c06-6fbf-4f48-bcff-2a8d57038e37@las.dearhossein-taktaz.ir:47922?security=reality&encryption=none&pbk=-smckvxfg8A2QkVqkQpI3bPMcYJ_69fAxWS7u9VhND8&host=play.google.com&headerType=http&fp=chrome&spx=/C42p6dEeWp6gGTf&type=tcp&sni=www.yahoo.com&sid=09#@Leecher56
 vless://40601c06-6fbf-4f48-bcff-2a8d57038e37@las.dearhossein-taktaz.ir:47922?security=reality&encryption=none&pbk=-smckvxfg8A2QkVqkQpI3bPMcYJ_69fAxWS7u9VhND8&host=play.google.com&headerType=http&fp=chrome&spx=/C42p6dEeWp6gGTf&type=tcp&sni=www.yahoo.com&sid=09#@bored_vpn
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&fp=chrome&type=xhttp&sni=de.xn--q9jyb4c.online#floor 555
