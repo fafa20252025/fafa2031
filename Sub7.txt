@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=1&host=xqkxw.ccwu.cc&type=ws&allowInsecure=1&sni=xqkxw.ccwu.cc#@Evay_vpn
 vless://8a4a1c56-4edb-4c00-9a54-52131884f8aa@152.53.200.69:8443?encryption=none&host=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&path=/&security=tls&sni=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&type=ws#🪭96@oneclickvpnkeys
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@108.162.194.119:443?path=/sea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#⚪t.me/iProxyChannel 11
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=/sea#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=imblo.fastcitylab-byte.info#Proxy_Se7en
@@ -503,3 +502,4 @@ vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=/?mtmvpn---mtmvpn---mtmvpn---mtmvpn&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@prrofile_purple  ♥️👈 تلگرام
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=/?mtmvpn---mtmvpn---mtmvpn---mtmvpn&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#✅  @vistav2ray  👈👈کانال ما ✅
 vless://a198302e-b16f-4955-adf0-d83f16970294@138.16.163.121:2087?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=r3AQoDOR85A5hIACoKWHbZe95vodV3Cfxi_LWDenelo&sid=c226283c4de5b1ad&fp=chrome&serviceName=grpc#🇷🇺113018 | ⚡️Telegram = t.me/SOSkeyNET
+vless://a198302e-b16f-4955-adf0-d83f16970294@138.16.163.121:2087?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=r3AQoDOR85A5hIACoKWHbZe95vodV3Cfxi_LWDenelo&sid=c226283c4de5b1ad&fp=chrome&serviceName=grpc#🇷🇺RU-🚀@VPNine1

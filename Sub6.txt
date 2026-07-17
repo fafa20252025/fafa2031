@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://720642d3-035e-469a-b0a1-6dcd3601a82c@135.125.185.133:8443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
 vless://720642d3-035e-469a-b0a1-6dcd3601a82c@135.125.185.133:8443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 vless://723345e4-9c1b-4d92-a349-7c3742f9b61a@141.11.167.220:28737?mode=stream-one&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=nl8.bioritalin.ir&type=xhttp#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://723345e4-9c1b-4d92-a349-7c3742f9b61a@141.11.167.220:28737?mode=stream-one&path=/&security=none&encryption=none&host=nl8.bioritalin.ir&type=xhttp#چنل عضو شو @v2ra_config
@@ -503,3 +502,4 @@ vless://8a22fde8-e72e-4ce2-96f6-285aeffe66a2@de2.raketa-balance.com:443?security
 vless://8a22fde8-e72e-4ce2-96f6-285aeffe66a2@de2.raketa-balance.com:443?security=reality&encryption=none&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de2.raketa-balance.com&sid=6c6082a2223c1d03#@vmesskhodam
 vless://8a22fde8-e72e-4ce2-96f6-285aeffe66a2@de2.raketa-balance.com:443?security=reality&encryption=none&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de2.raketa-balance.com&sid=6c6082a2223c1d03#☑➜چنلمون: Express_freevpn@
 vless://8a22fde8-e72e-4ce2-96f6-285aeffe66a2@sw.raketa-balance.com:443?security=reality&encryption=none&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw.raketa-balance.com&sid=6c6082a2223c1d03#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️470🌐🆕️
+vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=1&host=xqkxw.ccwu.cc&type=ws&allowInsecure=1&sni=xqkxw.ccwu.cc#@Evay_vpn
