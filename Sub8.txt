@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@united.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#kurdconfig
 vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@united.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#🇺🇸@FreakConfig
 vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@united.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#🇺🇸@V2rayng_Fast
 vless://b1cebe1d-2ca1-46db-bde6-91ac6d78fb57@cahp.shupalp.ir:2086?mode=auto&path=/&security=none&encryption=none&host=cccCccCb.cafearen.ir&type=xhttp#Join mtmvpn
@@ -503,3 +502,4 @@ vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@fcf461cad2d69f6c.monopolitass.ir:56
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@usser1.foot8all.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=2619d1af5cad99b0#@Ap_Ir6
 vless://d79c5260-e0a1-4b44-be6c-87d035877f3b@bot.sobhanpor.ir:443?encryption=none&security=tls&sni=bot.sobhanpor.ir&insecure=0&allowInsecure=0&type=tcp&headerType=none#@Ap_Ir6
 vless://d7b8d855-352f-44fd-a20f-7e8ff06d0f66@31.56.146.93:8443?security=reality&encryption=none&pbk=8i-67NPZNxTU8dgnF5yKYpijyu4GbQsDOdZSHQjsLGQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#✅  @vistav2ray  👈👈کانال ما ✅
+vless://d7fc372d-c057-43ce-8070-9b96abbc60f3@fr.raketa-balance.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr.raketa-balance.com&security=reality&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#channel→@networld_vpn
