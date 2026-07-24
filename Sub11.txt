@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f340ce24-d48a-4d7b-96b0-84872b3fb6ae@continuous-silver.ir:8443?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&host=node-e05de0b506c4cec2.glorious-emerald.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=node-f3c60f6191c97b04.glorious-emerald.ir#Proxy_mtm
+vless://f356ae17-12ad-43ce-9961-56de0725452e@173.199.117.62:3?mode=auto&path=/&security=none&encryption=none&type=xhttp#kurdconfig
+vless://f356ae17-12ad-43ce-9961-56de0725452e@173.199.117.62:3?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇺🇸@FreakConfig
 vless://f356ae17-12ad-43ce-9961-56de0725452e@173.199.117.62:3?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇺🇸@V2rayng_Fast
 vless://f3603472-1148-4fb4-b239-f20dbea93d5b@cd18.almas-cloud.ir:2096?security=&encryption=none&type=ws#Proxy_Se7en
 vless://f3a8da6e-9557-43e3-b8d6-44350d0dc6f7@201.51.12.199:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yFdgeRvZ7pYNp7C5v3sOq1x3gwHxWYem62W2tB9RJ0k&security=reality&sni=max.ru&type=tcp#🇷🇺RU-🚀@VPNine1
@@ -500,6 +503,3 @@ trojan://NQ26071394@engaging-elephant.rooster465.autos:443?allowInsecure=0&sni=e
 trojan://NQ26071394@63.178.193.196:443?fp=chrome&sni=quiet-condor.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://NQ26071394@89.39.70.143:443?fp=chrome&sni=thorough-falcon.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://NQ26071394@79.133.126.190:443?fp=chrome&sni=renewed-phoenix.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://NQ26071394@89.39.70.85:443?fp=chrome&sni=grateful-bedbug.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://NQ26071394@funky-opossum.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE

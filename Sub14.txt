@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?type=grpc&serviceName=grpc&security=reality&sni=speed.cloudflare.com&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&encryption=none#🔵@chillguy_vpn
+vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?mode=gun&security=reality&encryption=none&authority=&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&type=grpc&serviceName=grpc&sni=speed.cloudflare.com#🔵@chillguy_vpn
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?security=tls&insecure=0&sni=hy2.123266.xyz#vip%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%40Sgv2ray%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85```
 vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?encryption=none&type=grpc&security=reality&serviceName=grpc&mode=gun&sni=speed.cloudflare.com&insecure=1&allowInsecure=1&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI#🔵@chillguy_vpn
 vless://5a4ea216-9597-4df7-a119-02949a3b6b82@ger.wafer.fun:443?alpn=h2&encryption=none&security=tls&serviceName=Ts7kIzm7a8mYEa7OOaBF&sni=ger.wafer.fun&type=grpc#%E2%9A%BD49@oneclickvpnkeys
 trojan://PD07395842@pro-crane.rooster465.autos:443?fp=chrome#%E2%9A%BD54@oneclickvpnkeys

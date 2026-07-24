@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@185.191.118.67:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.edge-9d7c.com&sid=9d84de9d9f7b85e9#@IRAN_V2RAY1
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@185.191.118.67:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.edge-9d7c.com&sid=9d84de9d9f7b85e9#@i10VPN⚡
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@185.191.118.67:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.edge-9d7c.com&sid=9d84de9d9f7b85e9#Tel-@ProxyMtAlpha🎖️ 6
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@45.144.53.165:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.buycloud.app&security=reality&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&sid=0a30e2aee95a7571#تو کانال نتورلد نباشید قطع میشن @networld_vpn
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@45.144.53.81:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.buycloud.app&security=reality&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&sid=0a30e2aee95a7571#تو کانال نتورلد نباشید قطع میشن @networld_vpn
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@85.192.49.184:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.buycloud.app&security=reality&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&sid=0a30e2aee95a7571#تو کانال نتورلد نباشید قطع میشن @networld_vpn
@@ -500,6 +503,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.181.25:22222?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.181.25:22223?encryption=none&security=none&type=tcp#🇫🇷120754 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.181.25:22224?encryption=none&security=none&type=tcp#🇫🇷120753 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.181.25:22224?encryption=none&security=none&type=tcp#🇫🇷FR-🚀@VPNine1
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.58.127:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.69.79:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#@GozargahAzad|🇫🇷
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.69.79:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs

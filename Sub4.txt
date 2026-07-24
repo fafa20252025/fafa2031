@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2869afeb-f117-4206-9c29-2cdbeeb87f58@farnce.aliyostd.com:9443?security=reality&encryption=none&pbk=F2YMP337wdfSQlkq8kbeqs0e19HEhV9JdxYf4Om_sS8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=14ac481b178e6dd8#@hi_proxy_iran :👈کانال تلگرام
+vless://2869afeb-f117-4206-9c29-2cdbeeb87f58@farnce.aliyostd.com:9443?security=reality&encryption=none&pbk=F2YMP337wdfSQlkq8kbeqs0e19HEhV9JdxYf4Om_sS8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=14ac481b178e6dd8#@meliproxyy
+vless://2869afeb-f117-4206-9c29-2cdbeeb87f58@farnce.aliyostd.com:9443?security=reality&encryption=none&pbk=F2YMP337wdfSQlkq8kbeqs0e19HEhV9JdxYf4Om_sS8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=14ac481b178e6dd8#@tootffarangi🍓-4
 vless://2869afeb-f117-4206-9c29-2cdbeeb87f58@farnce.aliyostd.com:9443?security=reality&encryption=none&pbk=F2YMP337wdfSQlkq8kbeqs0e19HEhV9JdxYf4Om_sS8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=14ac481b178e6dd8#Channel : @Daily_Configs
 vless://2869afeb-f117-4206-9c29-2cdbeeb87f58@ipwhite-cdncloudflare.reallyclody.ir:8443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=gr.optoMetriStpp.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=gr.optOmeTristpp.ir.#@M4Dvpn
 vless://2869afeb-f117-4206-9c29-2cdbeeb87f58@ipwhite-cdncloudflare.reallyclody.ir:8443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=gr.optoMetriStpp.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=gr.optOmeTristpp.ir.#@meliproxyy
@@ -500,6 +503,3 @@ vless://50ce1a9f-8903-4597-ad18-366afe5588c2@x1.liiliil.ir:8443?mode=auto&securi
 vless://511c1563-2cb6-4064-abc6-a59ee49818a8@45.89.105.74:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#@ShadowFlux2 | کانال ما در تلگرام
 vless://515cd8a4-fd43-489b-813c-b6c4eff67074@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
 vless://515cd8a4-fd43-489b-813c-b6c4eff67074@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸@FreakConfig
-vless://515cd8a4-fd43-489b-813c-b6c4eff67074@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸@V2rayng_Fast
-vless://526be552-290f-47b1-9a61-a13da8a0a43b@bmi.ir:80?path=/&security=&encryption=none&host=fi1.kianorbit.ir&type=httpupgrade#@electvpn0
-vless://52720aa1-a75b-4f72-9af4-d7237c197f3e@77.233.214.31:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&security=reality&pbk=Sw4tAz5d-rLhaSFsEDDxlgwJbK4NMQUFDHF_oyRwUWE&sid=cd5c#تو کانال نتورلد نباشید قطع میشن@networld_vpn
