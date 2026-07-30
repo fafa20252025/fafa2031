@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&security=tls&encryption=none&insecure=0&host=srv10.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv10.perfectbulk.info#@ehsawn8
 vless://f3c0d876-246b-4622-829c-2cab19c26eef@209.38.195.50:50236?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #7
 vless://f3c0d876-246b-4622-829c-2cab19c26eef@209.38.204.145:50236?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #24
 vless://f40ea80a-7848-4d49-b2ff-19585e4db8de@188.164.248.185:2096?path=/&security=tls&encryption=none&insecure=0&host=sw.captainsparo.ir&type=ws&allowInsecure=0&sni=sw.captainsparo.ir#@Hunnter_vpn|اختصاصی کانال
@@ -502,4 +503,3 @@ trojan://humanity@104.18.7.147:443?allowInsecure=1&fp=chrome&host=www.gossipglov
 trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%3E%3E%40v2line%3A%3ANL
 trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40VmessProtocol%3A%3AFR
-trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR
