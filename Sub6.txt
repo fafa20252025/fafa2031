@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@backend.xwhiteness.site:443?security=reality&encryption=none&pbk=gifIrcPX_n54pgouOfegoOXfTtQTE3DUHjjrVqF0qGY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=backend.xwhiteness.site#TEL;Father_vpn
 vless://73c8ad8a-5803-49fb-8183-39f34ad3a3ea@198.44.177.117:60101?security=none&encryption=none&headerType=none&type=tcp#• 🇭🇰 | 𝗛𝗼𝗻𝗴 𝗞𝗼𝗻𝗴 - @HesarWeb
 vless://742e841d-140d-4795-9f16-3cf119129fec@31.129.55.217:443?mode=gun&security=reality&encryption=none&pbk=epKxGHvul2A8tNMFsEDFN2P71B-WbEEwbqbPLyNlYFg&fp=chrome&type=grpc&serviceName=rua-grpc&sni=yandex.ru&sid=e549af0908#🇷🇺RU-🚀@VPNine1
 vless://7481c11c-40b3-4b5b-912f-efab8cd8e067@89.116.250.135:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=h.sadfsadfasqwedwqsjdnasdfasdopasopppaajk.ir#🚀t.me/iProxyChannel 16
@@ -503,3 +502,4 @@ vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@107.189.22.49:2083?security=reality
 vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@107.189.22.49:2083?security=reality&encryption=none&pbk=QT-_de0DVvcCL-9go2gdkwibkyJaRb_81sYQ3vD_aSs&headerType=none&fp=chrome&spx=/qeOlpIYGXskLADh&type=tcp&sni=www.sony.com&sid=698a42#kurdconfig
 vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@107.189.22.49:2083?security=reality&encryption=none&pbk=QT-_de0DVvcCL-9go2gdkwibkyJaRb_81sYQ3vD_aSs&headerType=none&fp=chrome&spx=/qeOlpIYGXskLADh&type=tcp&sni=www.sony.com&sid=698a42#🇳🇱@FreakConfig
 vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@107.189.22.49:2083?security=reality&encryption=none&pbk=QT-_de0DVvcCL-9go2gdkwibkyJaRb_81sYQ3vD_aSs&headerType=none&fp=chrome&spx=/qeOlpIYGXskLADh&type=tcp&sni=www.sony.com&sid=698a42#🇳🇱@V2rayng_Fast
+vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@www.speedtest.net:443?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=pl.sinnerrr.fun&fp=chrome&type=xhttp&allowInsecure=0&sni=pl.sinnerrr.fun#kurdconfig

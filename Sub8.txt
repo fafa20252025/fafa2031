@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b9562d90-904e-4590-b851-8ee1d13e072f@roo.paydar.site:27837?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@VEGAAS_VPNM⚡🇩🇪⚡
 vless://b9727ca3-c68e-400e-a29f-6851e8d2a5a3@3x-ui-production-02e7.up.railway.app:443?path=/in1&security=tls&encryption=none&insecure=0&host=3x-ui-production-02e7.up.railway.app&type=ws&allowInsecure=0&sni=3x-ui-production-02e7.up.railway.app#kurdconfig
 vless://b9727ca3-c68e-400e-a29f-6851e8d2a5a3@3x-ui-production-02e7.up.railway.app:443?path=/in1&security=tls&encryption=none&insecure=0&host=3x-ui-production-02e7.up.railway.app&type=ws&allowInsecure=0&sni=3x-ui-production-02e7.up.railway.app#🇺🇸@FreakConfig
 vless://b9767b88-01ca-4775-ad0d-b1e90f880f3e@91.98.113.22:443?security=reality&encryption=none&pbk=ZbLRIfp7JIWgMCIAzn8OYLpTLODdU9kclqDXzQE2c3U&headerType=none&fp=chrome&spx=/Rwx2MuDWVB7G4db&type=tcp&sni=play.google.com&sid=837366093533865c#🇩🇪@FreakConfig
@@ -503,3 +502,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22224?security=none&en
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22222?security=none&encryption=none&headerType=none&type=tcp#✅  @vistav2ray  👈👈کانال ما ✅
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22222?security=none&encryption=none&headerType=none&type=tcp#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy

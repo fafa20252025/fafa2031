@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://466aee9a-9223-47da-8b98-f2a1ac903c17@tu4.hnetia.ir:3939?security=reality&encryption=none&pbk=C1Va2faTCwpM3r7bMUP7K6LWr8CihPU_hWRvhBcqHVA&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=627d39ad192a523d#🇹🇷@FreakConfig
 vless://466aee9a-9223-47da-8b98-f2a1ac903c17@tu4.hnetia.ir:3939?security=reality&encryption=none&pbk=C1Va2faTCwpM3r7bMUP7K6LWr8CihPU_hWRvhBcqHVA&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=627d39ad192a523d#🇹🇷@V2rayng_Fast
 vless://467bb84e-d527-4fa2-bbe9-d379d0f14dd4@pi.paydar.site:80?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🇩🇪All⁹ | @BigSmoke_Config
 vless://470c7664-3262-afbb-2bef-f6f0f5e83815@yas.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws#@vmess_ir
@@ -503,3 +502,4 @@ vless://729b1131-ac87-4ad1-973f-14c24d30a655@tun.mamadhpbot.ir:2097?security=rea
 vless://72c2b7cc-fcd9-494f-8a2e-21dcd062ff11@45.40.150.4:80?encryption=none&host=holy-breeze-0bac.47-dec.workers.dev&path=/pyip=Telegram🇨🇳++&security=none&type=ws#🧬52@oneclickvpnkeys
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@45.130.125.207:443?path=/jdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#🇩🇪
 vless://73893175-0afb-45eb-a6ca-180f006c8e57@85.133.204.196:1003?type=tcp&host=fast.com&path=/&headerType=http#@v2ray_configs_pools-join-us-on-Telegram
+vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@backend.xwhiteness.site:443?security=reality&encryption=none&pbk=gifIrcPX_n54pgouOfegoOXfTtQTE3DUHjjrVqF0qGY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=backend.xwhiteness.site#TEL;Father_vpn
