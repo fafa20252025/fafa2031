@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f4146152-f622-4466-a233-cc01ca908bcb@b4y7t2p9j6f1m8x3q5kd.th3team.ir:20071?security=none&encryption=mlkem768x25519plus.native.0rtt.igWc0m9QOE9vfCe3gmuUJUPeFp-tjXiwQlBm8srQX04&host=play.google.com&headerType=http&type=tcp#🇺🇸@V2rayng_Fast
-vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
-vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@maincdn.sudonetwork.com:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=mh.sudonetwork.com&fp=chrome&type=ws&allowInsecure=0&sni=mh.sudonetwork.com#TEL;Father_vpn
-vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?mode=stream-up&path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=APP-FI-2.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=1Z6i1nhm.85858569.Xyz#@KAFING_2
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@185.241.42.81:8443/?type=ws&encryption=none&flow=&host=s5gydl.936.us.ci&path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4fp=chrome&security=tls&sni=s5gydl.936.us.ci&fp=chrome&packetEncoding=xudp#🇭🇰
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@23.133.52.10:2053/?type=ws&encryption=none&flow=&host=s5gydl.936.us.ci&path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&sni=s5gydl.936.us.ci&fp=chrome&packetEncoding=xudp#🇹🇼 TW
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@51.77.214.109:8443?path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&encryption=none&insecure=0&host=s5gydl.936.us.ci&fp=chrome&type=ws&allowInsecure=0&sni=s5gydl.936.us.ci#@Selinc
@@ -503,3 +499,7 @@ trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=%2F
 trojan://humanity@2.144.21.112:40443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://142d1453-9cfe-4045-8e54-f3fb33342185@cf.levikogjgfdd.ir:8880?path=%2Fpyip&security=&encryption=none&host=lively-scene-744f.107-47a.workers.dev&type=ws#%3E%3E%40configV2rayNG%3A%3AUS
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@45.138.100.226:2083?encryption=none&fp=chrome&security=tls&serviceName=grpc&sni=using.neobo-tooth.ru&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://1b97d3d9-8320-4015-92d7-c94a07ae48fc@fr-6.flowersyellow.ru:443?security=reality&encryption=none&pbk=SAw2LG0CxynFfpOpX9-5PZOxlz7eQloRLSnbQh9pRUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#%3E%3E%40configV2rayNG%3A%3AFR
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?encryption=none&fp=chrome&security=tls&serviceName=grpc&sni=using.neobo-tooth.ru&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&path=ws&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS

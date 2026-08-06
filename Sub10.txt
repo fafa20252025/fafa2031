@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@199.232.222.178:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@prrofile_purple  ♥️👈 تلگرام
-vless://cc0615e5-cb47-40f2-a06c-d79f594a6fae@2.28.5.45:8443?encryption=none&security=reality&sni=www.amazon.com&fp=chrome&pbk=1b2izbhtR6wHXWblNSX8RC_EXajb8_Ux-rFxBc1Q2G0&sid=55824008eed348&spx=/f62ae31c90331d1&type=xhttp&host=www.speedtest.net&path=/foot&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#@Ap_Ir6
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=cyylr.eu.cc&type=ws&allowInsecure=0&sni=cyylr.eu.cc#TEL:Father_vpn
-vless://cccbfdd9-b6fe-45c5-ac08-da49a001e81e@185.231.183.159:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#@Net2ray DE
 vless://cccdb266-e17a-4411-9017-6935bd2a5fbf@hollowcon-6ogo.onrender.com:443?encryption=none&security=tls&sni=hollowcon-6ogo.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=hollowcon-6ogo.onrender.com&path=/ws/cccdb266-e17a-4411-9017-6935bd2a5fbf#@hollowcon
 vless://cd3d0650-a767-47f2-9b1a-dedc1aceafc9@mahdipok.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
 vless://cd3d0650-a767-47f2-9b1a-dedc1aceafc9@mahdipok.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#چنل تلگرام⚡️Unblocked_ir@
@@ -503,3 +499,7 @@ vless://e53d3c58-c143-4d33-824c-4e3f1ef3b655@104.17.147.22:80?path=/@Vpn_Mikey،
 vless://e58a0802-443e-4ba3-992b-73687bb5b9f0@194.26.229.217:2200?path=/v1&security=&encryption=none&host=rzd.ru&type=ws#🇷🇺134830 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e58a0802-443e-4ba3-992b-73687bb5b9f0@194.26.229.217:2200?path=/v1&security=&encryption=none&host=rzd.ru&type=ws#🇷🇺RU-🚀@VPNine1
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?encryption=none&security=tls&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?encryption=none&type=ws&security=tls&path=/fp&host=hhlfy.twiladaphne.ndjp.net&sni=hhlfy.twiladaphne.ndjp.net&insecure=0&allowInsecure=0#@meliproxyy
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@hex_proxy ⁷
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@hex_proxy ⁸
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@icv2ray
