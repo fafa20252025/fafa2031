@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@185.65.202.156:443?security=reality&encryption=none&pbk=gtKMi9Q9ZMYxe-ZvzmbpPI-uE6YcFM84xYSw7bpKF3w&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ger.leontunel.ru&sid=52c579ed2ce06c26#@ShadowFlux2 | کانال ما در تلگرام
+vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@185.65.202.156:443?sid=52c579ed2ce06c26&fp=chrome&flow=xtls-rprx-vision&pbk=gtKMi9Q9ZMYxe-ZvzmbpPI-uE6YcFM84xYSw7bpKF3w&encryption=none&security=reality&sni=ger.leontunel.ru&type=tcp&headerType=none#@Napsternetvirani
+vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@194.104.10.68:443?security=reality&encryption=none&pbk=z3U2vV7PRNvOraeAs6RnjM8aQbkOFdyp82ogXdS40mI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ned.leontunel.ru&sid=f64c0c7635cbddf5#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #14
 vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@194.104.10.68:443?security=reality&encryption=none&pbk=z3U2vV7PRNvOraeAs6RnjM8aQbkOFdyp82ogXdS40mI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ned.leontunel.ru&sid=f64c0c7635cbddf5#@FarazV2ray
 vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@194.104.10.68:443?security=reality&encryption=none&pbk=z3U2vV7PRNvOraeAs6RnjM8aQbkOFdyp82ogXdS40mI&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ned.leontunel.ru&sid=f64c0c7635cbddf5#@ShadowFlux2 | کانال ما در تلگرام
 vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@194.147.35.83:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ang.leontunel.ru&fp=chrome&pbk=5RK9ivB7UF_89vkywwpZjW3jAJqsEGskRSS7c0OUOXM&sid=2f4761809cf9fbfb&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام
@@ -500,6 +503,3 @@ vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@168.119.156.100:1234/?encryption=no
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@168.119.156.100:1234?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#🪁76@oneclickvpnkeys
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@168.119.156.100:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#@meliproxyy
 vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@168.119.156.100:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@outline_ir
-vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#@CUSTOMVPNSERVER
-vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#⚡Telegram =@CUSTOMVPNSERVER
-vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=r4fnviw9jl4i4rx.zjde5.de5.net#@KAFING_2
