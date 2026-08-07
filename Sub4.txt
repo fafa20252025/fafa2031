@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1b25e81f-98d6-4c69-b9db-3df6c58a7500@rhn.codmaxx.ir:8585?encryption=none&security=tls&type=ws&headerType=none&path=live&host=vip.dokhtaroune.ir&sni=vip.dokhtaroune.ir#🇬🇧 UK
 vless://1b25e81f-98d6-4c69-b9db-3df6c58a7500@rhn.codmaxx.ir:8686?encryption=none&security=tls&type=ws&headerType=none&path=live&host=vip.dokhtaroune.ir&sni=vip.dokhtaroune.ir#🇺🇸 US
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gr4.levikogjgfdd.ir:3031?encryption=none&type=tcp&headerType=http&host=play.google.com&security=none#2🇩🇪 @V2RAYNG_IP
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gr4.levikogjgfdd.ir:3031?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@Ap_Ir6
@@ -503,3 +502,4 @@ vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?mode=auto&path=
 vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?security=reality&encryption=none&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&headerType=none&fp=chrome&type=tcp&sni=www.sony.com&sid=a32e8c4a#%FREE_VPN02
 vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@199.232.239.244:443?alpn=h3&encryption=none&fp=chrome&host=oh3.global.ssl.fastly.net&mode=packet-up&path=/&security=tls&sni=accounts.fastly.com&type=xhttp#🪁53@oneclickvpnkeys
 vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@199.232.239.244:443?alpn=h3&encryption=none&fp=chrome&host=ovd11.global.ssl.fastly.net&mode=packet-up&path=/&security=tls&sni=accounts.fastly.com&type=xhttp#🪁44@oneclickvpnkeys
+vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@199.232.239.244:443?alpn=h3&encryption=none&fp=chrome&host=ovd12.global.ssl.fastly.net&mode=packet-up&path=/&security=tls&sni=accounts.fastly.com&type=xhttp#🪁37@oneclickvpnkeys

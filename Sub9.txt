@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9b9835cf-9e72-472d-82f6-96fba445ce0a@199.232.238.146:443?alpn=h3&encryption=none&fp=chrome&host=lunex.store&mode=packet-up&path=/Lunex&security=tls&sni=accaunt.fastly.com&type=xhttp#🪁26@oneclickvpnkeys
 vless://9bf81377-d077-4569-9fc9-5f0a55180651@104.18.36.122:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=&encryption=none&host=super-feather-91c4.267.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://9c639277-373a-4e66-8987-982b172972ae@144.31.224.240:18443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7cjXiyeAfM-T8WIAKKfqXtNn4Myv0Tm8N0OaXm2QAkU&security=reality&sni=nl.vpnifty.ru&type=tcp#🪁19@oneclickvpnkeys
 vless://9ca41eeb-4b30-4271-a123-22021b1230d0@104.17.121.71:443?mode=auto&path=/Telegram-Zedmodeon&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=mano.tll-far.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mano.tll-far.ir#@v2rayng3
@@ -503,3 +502,4 @@ vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@194.26.229.220:4100?path=/v1&securi
 vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@45.90.32.132:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#@irconfiig 🌶️
 vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@45.90.32.132:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#@meliproxyy
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&encryption=none&headerType=http&type=tcp#@CUSTOMVPNSERVER
+vless://af325624-e28d-44fd-a8a7-058a439d128f@194.26.229.218:2200/?type=ws&encryption=none&flow=&path=/v1#🧅31@oneclickvpnkeys

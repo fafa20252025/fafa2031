@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@199.232.239.244:443?alpn=h3&encryption=none&fp=chrome&host=ovd12.global.ssl.fastly.net&mode=packet-up&path=/&security=tls&sni=accounts.fastly.com&type=xhttp#🪁37@oneclickvpnkeys
 vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@199.232.239.244:443?alpn=h3&encryption=none&fp=chrome&host=ovd9.global.ssl.fastly.net&mode=packet-up&path=/&security=tls&sni=accounts.fastly.com&type=xhttp#🪁62@oneclickvpnkeys
 vless://3e6a3182-5cb6-476f-bbf5-80c4199c5fef@107.181.155.175:8899?security=reality&encryption=none&pbk=wbcRJDNTU7tmBWYu_ik6nY_5nonaiMQjHY11OI5A_B8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=161f1eccd99956a2#@Maznet -SOS504
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.68:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#چنل عضو شو @v2ra_config
@@ -503,3 +502,4 @@ vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=/sg-melbi&sec
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@tootffarangi🍓-3
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@tootffarangi🍓-5
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@tootffarangi🍓-7
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@v2ray_phoenix
