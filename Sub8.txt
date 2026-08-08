@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.16.172.173:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=/?ed=2560#🐋Tel: @pPal03🐋Join🐋
-vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.24.52.41:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=/?ed=2560#🐋Tel: @pPal03🐋Join🐋
 vless://851d552e-8545-4a36-92ca-997f3bf094c6@out.newlinemobile.xyz:443?security=reality&encryption=none&pbk=klzunRrpCD-1ELitLDb07YGfB2aFsmC8Bqm8alo_sWc&headerType=none&fp=chrome&spx=/GFluo7NCZ8LY5ZE&type=tcp&sni=www.aparat.com&sid=b5c0ec#@v2rayng3
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.18.1.1:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=calm-smoke-1a21.alvlirm6262.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=calm-smoke-1a21.alvlirm6262.workers.dev#🇩🇪5
 vless://85288abd-f33b-4571-b2ea-106a8307731e@104.18.10.167:8443?path=/&security=tls&encryption=none&insecure=0&host=hitech.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=hitech.dearhossein-taktaz.ir#@NETMelliAnti
@@ -503,3 +501,5 @@ vless://9e5e0a3f-0fdc-4272-9c6b-bc6f00000001@173.245.49.116:443?encryption=none&
 vless://9e685fe3-e0f9-482d-939c-200a3f89b363@cf.narton.ir:8443?path=/?ed=2560fp=chrome&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=vyznthvt7f5fr.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=vyznthvt7f5fr.zjde5.de5.net#@KAFING_2
 vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.16.144.131:80?encryption=none&security=none&type=ws&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&path=/?ed=2560#🧔🏻Tel: @pPal03🧔🏻Join🧔🏻
 vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.24.66.98:80?encryption=none&security=none&type=ws&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&path=/?ed=2560#🧔🏻Tel: @pPal03🧔🏻Join🧔🏻
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.186.50:443?path=/ws&security=tls&encryption=none&insecure=0&host=s28315.cdn.ngenix.net&type=ws&allowInsecure=0&sni=s28315.cdn.ngenix.net#@v2rayng3
+vless://9f01a1f2-9fd1-45f1-a1c5-435f55e6319c@am255.amin5646.ir:2082?mode=auto&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=&encryption=none&host=am290.amin5646.ir&type=xhttp#Telegram : @BinexTiFy 🇩🇪

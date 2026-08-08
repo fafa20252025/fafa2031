@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://69025202-5091-4893-8930-f530c6fe50e2@3.70.201.52:25332?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
-vless://691a9a35-76a6-48ea-9379-4f4f638c2b66@45.59.125.228:443?encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&pbk=BjickB5Lt_-JIEj40uiaI1Sq4aDh1bzhWI1yBY9nbVc&security=reality&sid=29fcba01&sni=www.amd.com&spx=/eCqQXALOMj68VMF&type=xhttp&x_padding_bytes=100-1000#🦉@FreeConfigForYou
 vless://69310498-49c1-485e-b197-9db9938cceae@49.12.100.150:50399?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#SHOPSEPI🇩🇪-@lionqh50G
 vless://696915f2-5ad4-452b-987c-d83d29d0503a@185.191.118.33:443?security=reality&encryption=none&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.moktana.app&sid=89c7866901c21bce#TEL;Father_vpn
 vless://69794ea1-58df-4a7c-b41b-8e5d2f5ca6d6@194.120.116.157:35551?mode=auto&path=/Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn&security=none&encryption=none&type=xhttp#Arshia
@@ -503,3 +501,5 @@ vless://8481cfbb-49a2-df3b-2af2-949631ef5848@104.20.6.134:2096?encryption=none&t
 vless://84a8c458-72e8-4ad3-a2c3-17a1e3f9e399@snapp.ir:80?path=/&security=none&encryption=none&host=user.neternet.ir&type=ws#@v2rayng3
 vless://84c36cec-6ac4-449f-a9ef-dbed2e892195@marzban-node-production-9471.up.railway.app:443?path=/vless&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=marzban-node-production-9471.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=marzban-node-production-9471.up.railway.app#@prrofile_purple  ♥️👈 تلگرام
 vless://84ec3636-ebf9-47b1-994c-6e5f995675d6@162.159.38.119:443?encryption=none&type=xhttp&mode=packet-up&host=shh2.rfgb.shop&path=/---@Shh_Proxy---@Shh_Proxy---/---@Shh_Proxy---@Shh_Proxy---/---@Shh_Proxy---@Shh_Proxy---/XHTTP-638babe590599ff3/---@Shh_Proxy---@Shh_Proxy---/---@Shh_Proxy---@Shh_Proxy---/---@Shh_Proxy---@Shh_Proxy---&security=tls&fp=chrome&sni=shh2.rfgb.shop&alpn=h2#🇮🇹@Shh_Proxy-All¹
+vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.16.172.173:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=/?ed=2560#🐋Tel: @pPal03🐋Join🐋
+vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.24.52.41:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=/?ed=2560#🐋Tel: @pPal03🐋Join🐋
