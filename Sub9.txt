@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://@V2XNET@104.16.6.189:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=butimcreepimweirdo.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=butimcreepimweirdo.dpdns.org#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://@V2XNET@104.16.6.189:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=butimcreepimweirdo.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=butimcreepimweirdo.dpdns.org#Channel : @Daily_Configs
 vless://@free_conf_iran@104.16.75.127:2095?path=/ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=ws#🔥 @free_conf_iran 🔥 8
 vless://@free_conf_iran@145.239.173.163:443?security=none&encryption=none&headerType=none&type=tcp#@free_conf_iran 👈 کانفیگ جدید
@@ -502,4 +503,3 @@ vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?host=/?&encrypti
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?host=/?&encryption=none&headerType=none&security=none&type=tcp#@v2rayng3
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=&encryption=none&headerType=&type=tcp#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=&encryption=none&headerType=none&type=tcp#@filembad
-vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=&encryption=none&headerType=none&type=tcp#@meliproxyy
