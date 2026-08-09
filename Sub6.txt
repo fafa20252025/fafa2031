@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://501b6afa-f955-473f-8440-1010110a1548@78.17.192.173:2053/?type=grpc&encryption=none&flow=&serviceName=sx-grpc&sni=eh.vk.com&fp=chrome&security=reality&pbk=NP5_ymQeqYr_EP7aAPIl3YBRghX60zLq6m74Ht4bFUI&sid=2c043ed8#荷兰
 vless://501b6afa-f955-473f-8440-1010110a1548@85.234.100.49:6443?encryption=none&fp=&pbk=UJASCPCy2vuNWu3q2C7vVte-HxG0r0XI83pgxBFBv1E&security=reality&sid=9c56af76&sni=max.ru&type=tcp#✨73@oneclickvpnkeys
 vless://501b6afa-f955-473f-8440-1010110a1548@85.234.100.49:6443?encryption=none&fp=&pbk=UJASCPCy2vuNWu3q2C7vVte-HxG0r0XI83pgxBFBv1E&security=reality&sid=9c56af76&sni=max.ru&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://501b6afa-f955-473f-8440-1010110a1548@85.234.100.49:6443?security=reality&encryption=none&pbk=UJASCPCy2vuNWu3q2C7vVte-HxG0r0XI83pgxBFBv1E&headerType=none&type=tcp&sni=max.ru&sid=9c56af76#✨73@ConfigV2RayNG
@@ -503,3 +502,4 @@ vless://6beee13a-f356-4a51-8e65-75f776508e8f@78.159.131.5:443?security=reality&e
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@KAFING_2
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?encryption=none&security=none&type=tcp&headerType=http&host=/---TELEGRAM---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig#کانال تلگرام : Free_VPN_CH@
+vless://6c2dcd99-d0b5-4d63-940e-58e3781ffb90@165.227.174.28:43830?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Tel-@Azaranv2ray
