@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.174.17:22224?encryption=none&security=none&type=tcp#[17727] - Telegram : @V2All
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.174.17:22224?encryption=none&security=none&type=tcp#🇩🇪138942 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22224?security=&encryption=none&headerType=none&type=tcp#[17714] - Telegram : @V2All
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22224?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-528
@@ -502,4 +503,3 @@ vless://f4146152-f622-4466-a233-cc01ca908bcb@b4y7t2p9j6f1m8x3q5kd.th3team.ir:200
 vless://f43bbd21-6560-4d0f-9f25-5c477c916260@91.98.154.118:57775?encryption=none&host=play.google.com&path=/&security=none&type=ws#@filembad
 vless://f43bbd21-6560-4d0f-9f25-5c477c916260@91.98.154.118:57775?encryption=none&host=play.google.com&path=/&security=none&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://f43bbd21-6560-4d0f-9f25-5c477c916260@91.98.154.118:57775?encryption=none&host=play.google.com&path=/&security=none&type=ws#🇩🇪138949 | ⚡️Telegram = t.me/SOSkeyNET
-vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
