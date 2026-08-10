@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=vh.mojaz-persian-music.ir#🔥 @free_conf_iran 🔥 11
 vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?security=reality&encryption=none&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&headerType=none&fp=chrome&type=tcp&sni=www.sony.com&sid=a32e8c4a#%FREE_VPN02
 vless://3e17eee7-5113-a4bd-b727-7744da605c76@69.46.46.53:443?path=/ws/3e17eee7-5113-a4bd-b727-7744da605c76&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-6eb4.up.railway.app&fp=chrome&type=ws&sni=x4g-production-6eb4.up.railway.app#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://3e17eee7-5113-a4bd-b727-7744da605c76@69.46.46.53:443?path=/ws/3e17eee7-5113-a4bd-b727-7744da605c76&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-6eb4.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-6eb4.up.railway.app#Channel : @Daily_Configs
@@ -502,4 +503,3 @@ vless://501b6afa-f955-473f-8440-1010110a1548@85.234.100.49:6443?security=reality
 vless://501b6afa-f955-473f-8440-1010110a1548@85.234.100.49:7443?security=reality&encryption=none&pbk=UJASCPCy2vuNWu3q2C7vVte-HxG0r0XI83pgxBFBv1E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=9c56af76#🇩🇪 ConfigV2RayNG
 vless://501b6afa-f955-473f-8440-1010110a1548@85.234.100.49:7443?security=reality&encryption=none&pbk=UJASCPCy2vuNWu3q2C7vVte-HxG0r0XI83pgxBFBv1E&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=9c56af76#@v2raybaaz
 vless://501b6afa-f955-473f-8440-1010110a1548@85.234.100.49:7443?security=reality&encryption=none&pbk=UJASCPCy2vuNWu3q2C7vVte-HxG0r0XI83pgxBFBv1E&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=9c56af76#[18031] - Telegram : @V2All
-vless://501b6afa-f955-473f-8440-1010110a1548@85.234.100.49:7443?security=reality&encryption=none&pbk=UJASCPCy2vuNWu3q2C7vVte-HxG0r0XI83pgxBFBv1E&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=9c56af76#filembad-218

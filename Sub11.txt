@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#TEL;Father_vpn
 vless://c85a6219-5105-4786-bfb4-92f57f8c32e0@mahdipok.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@bored_vpn
 vless://c85a6219-5105-4786-bfb4-92f57f8c32e0@mahdipok.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@mehrosaboran
 vless://c875b3c0-3896-496a-a355-ab878595d7c2@poland.vpnserverhub.com:443?security=reality&encryption=none&pbk=5vNAgd2gzZUUJAU-njR7Sz542IJHdLdea9TtgwBttl4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#@Ap_Ir6
@@ -502,4 +503,3 @@ vless://df301b32-1152-4526-9a63-beedd93d3156@104.16.27.134:80?security=none&type
 vless://df301b32-1152-4526-9a63-beedd93d3156@172.67.75.172:80?encryption=none&host=vl.dalazhi.cloudns.biz&path=/&security=none&type=ws#@filembad
 vless://df301b32-1152-4526-9a63-beedd93d3156@172.67.75.172:80?encryption=none&host=vl.dalazhi.cloudns.biz&path=/&security=none&type=ws#🔵@chillguy_vpn
 vless://df6bcab7-8445-44c7-a6d0-c1a688eef0db@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
-vless://dfb753f8-8f55-41ca-8a8c-19fa33d34d87@77.110.110.146:29449?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=efFJVITWqfR1Wl1aa7roJxI3zd_aykqA-QY-Ffbh2g8&sid=49b8b51c33edabb4&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#@filembad
