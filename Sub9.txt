@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a893f940-8725-4b3e-8b77-caa1380e95dc@77.83.245.171:43816?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU&sid=2aa4fcbeaed2ad23&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.87:443/?type=grpc&encryption=none&flow=&serviceName=api.v1.StreamService&sni=api.noneok.com&fp=chrome&security=reality&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#T.me/Vpn_Mafia 🇩🇪
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.87:443?encryption=none&type=grpc&security=reality&serviceName=api.v1.StreamService&mode=gun&sni=api.noneok.com&insecure=1&allowInsecure=1&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#@meliproxyy
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.87:443?mode=gun&security=reality&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30b&type=grpc&serviceName=api.v1.StreamService&sni=api.noneok.com&sid=1ea59febb8d4fc8e#@meliproxyy
@@ -502,4 +503,3 @@ vless://c6014186-2d90-4114-b8fc-4b6d9e2d0a2c@sourceforge.net:80?path=/&security=
 vless://c61ac406-6661-4f55-a731-fd48f4c03079@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB 🇫🇷
 vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#v2rayng3
 vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#❤️‍🔥 کانال تلگرام HiByeVPNN@
-vless://c67eb9b2-f600-4b59-ba90-258e5a72d498@de1.miyazono-kaori.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.siemens.com&fp=chrome&security=reality&pbk=aEAdhhksLgyI_GWf7l_ES5hMZhigMAIWBn9emSXdaHc&sid=56f276ac52#德国
