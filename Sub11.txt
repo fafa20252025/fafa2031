@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e13123f8-5b2e-4d86-a63a-806fb905000f@5.202.13.69:80?security=none&encryption=none&headerType=none&type=tcp#@Hope_Net-join-us-on-Telegram
 vless://e1e26ef7-3291-45ac-b821-a11dcdbfdb4d@109.73.193.169:4100?path=/v1&security=none&encryption=none&type=ws#@hex_proxy ⁷
 vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689?path=/host&security=none&encryption=none&host=www.filimo.com&type=httpupgrade#@Begoo_VPN ²⁷⁶
 vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=/&security=tls&encryption=none&host=jp.aniua.qzz.io&type=ws&sni=jp.aniua.qzz.io#@v2rayng3
@@ -503,3 +502,4 @@ vless://f4d70ca7-cdf8-4bfe-ac45-c6143a654b20@maincdn.sudonetwork.com:2096?path=/
 vless://f4d98bd0-fc89-9b5a-1c0a-595d06cb92b6@69.46.46.10:443?path=/ws/f4d98bd0-fc89-9b5a-1c0a-595d06cb92b6&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-36db.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-36db.up.railway.app#@V2ray_Alpha🤪 6
 vless://f4d98bd0-fc89-9b5a-1c0a-595d06cb92b6@69.46.46.10:443?path=/ws/f4d98bd0-fc89-9b5a-1c0a-595d06cb92b6&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-36db.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-36db.up.railway.app#@bisto4_service
 vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@144.31.3.136:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=proud-dynamo.cdn.cachefleet.com&fp=chrome&security=reality&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&sid=#波兰
+vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@164.37.105.38:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com&fp=chrome&security=reality&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&sid=#英国
