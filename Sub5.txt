@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&fp=chrome&type=xhttp&sni=de.xn--q9jyb4c.online#floor 555
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@free_conf_iran 👈 کانفیگ بیشتر
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@brayirani •☕ | عضو شید قطع نشید.
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=1&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=1&sni=de.xn--q9jyb4c.online#@free_conf_iran 👈 کانفیگ بیشتر
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#@v2rayng3
@@ -501,5 +503,3 @@ vless://592ae5c3-6cae-4948-a7f0-4d4cdc0b8612@zmaoz.faculty.ucdavis.edu:80?encryp
 vless://592ae5c3-6cae-4948-a7f0-4d4cdc0b8612@zmaoz.faculty.ucdavis.edu:80?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=Vistitrohamfastvipnexttt.net&type=xhttp#@v2ray_phoenix
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.16.203.166:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel: @pPal03🥸جوین بدید گوگولیا🥸
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel: @pPal03🥸جوین بدید گوگولیا🥸
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@visa.cn:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#@V2rayi_net
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.70.47:440?encryption=none&security=none&type=tcp&headerType=http&host=store.steampowered.com#@freenettir
