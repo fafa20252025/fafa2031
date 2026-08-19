@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#@hopev2ray❤️
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?path=/v1&security=none&encryption=none&type=ws#@hopev2ray🤎
-vless://1596f601-b9c8-6a13-e78f-538a871b0c2b@69.46.46.123:443?path=/ws/1596f601-b9c8-6a13-e78f-538a871b0c2b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-fb14.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-fb14.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
-vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:2053?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=chess.sorza.ir&path=/?ed=2560/PuLaFreeBOT/Telegram/PuLaVPN/Telegram/PuLaVPN/Telegram/PuLaVPN#کانال تلگرام : Free_VPN_CH@
-vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:8443?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=takken.sorza.ir&path=/#کانال تلگرام : Free_VPN_CH@
-vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:8443?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=takken.sorza.ir&path=/?ed=2560/PuLaFreeBOT/Telegram/PuLaVPN/Telegram/PuLaVPN/Telegram/PuLaVPN#کانال تلگرام : Free_VPN_CH@
-vless://15e83ced-7544-422e-863d-deafe29a1dbe@81.90.21.59:8444?mode=stream-one&path=/xh&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&fp=chrome&type=xhttp&sni=dl.google.com&sid=635a76c25a4b1820#🇸🇪 Sweden, Stockholm | [BL]
 vless://15e83ced-7544-422e-863d-deafe29a1dbe@81.90.21.59:8444?mode=stream-one&path=/xh&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&fp=chrome&type=xhttp&sni=images.samsung.com&sid=635a76c25a4b1820#🇸🇪 Sweden, Stockholm | [BL]
 vless://15e83ced-7544-422e-863d-deafe29a1dbe@81.90.21.59:8444?mode=stream-one&path=/xh&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&fp=chrome&type=xhttp&sni=www.amd.com&sid=635a76c25a4b1820#🇸🇪 Sweden, Stockholm | [BL]
 vless://15e83ced-7544-422e-863d-deafe29a1dbe@81.90.21.59:8444?mode=stream-one&path=/xh&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&fp=chrome&type=xhttp&sni=www.apple.com&sid=635a76c25a4b1820#🇸🇪 Sweden, Stockholm | [BL]
@@ -503,3 +496,10 @@ vless://35d2a009-4f71-4b99-85ef-369bb75908e1@172.66.213.38:2096?path=/?u&securit
 vless://35d60353-8aaa-4b8a-d2db-b9270cd763cd@inetchnl-production-676b.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=auto&host=inetchnl-production-676b.up.railway.app&path=/xhttp-siz10/35d60353-8aaa-4b8a-d2db-b9270cd763cd&sni=inetchnl-production-676b.up.railway.app&fp=chrome&alpn=h2,http/1.1#🇺🇸@iNetChnl-XHTTP
 vless://35dd6ec8-acb7-44be-9cde-7f03c6b9ef5b@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=SvnTeamChannel.global.ssl.fastly.net&sni=ssl.fastly.com#📦 60.46 GB 𓏺 ∞ Day
 vless://35e8826f-0873-492d-8b8a-d495c9947480@104.16.100.215:8880?host=super-sunset-010c.24-43d.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net &security=none&type=ws#🚀@VPNine1
+vless://35f955ac-6904-4eae-81d5-432dbb545c21@85.234.69.247:2083?security=none&encryption=none&host=icloud.com&headerType=http&type=tcp#kurdconfig
+vless://35f955ac-6904-4eae-81d5-432dbb545c21@85.234.69.247:2083?security=none&encryption=none&host=icloud.com&headerType=http&type=tcp#🇩🇪@FreakConfig
+vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?encryption=none&security=tls&sni=german.sarzamiiinahang.ir&fp=chrome&allowinsecure=0&type=xhttp&mode=auto&path=/Meh?di=443#@freenettir
+vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?encryption=none&security=tls&sni=german.sarzamiiinahang.ir&fp=chrome&allowinsecure=0&type=xhttp&mode=auto&path=/Meh?di=443#@meliproxyy
+vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?encryption=none&security=tls&sni=german.sarzamiiinahang.ir&fp=chrome&allowinsecure=0&type=xhttp&mode=auto&path=/Meh?di=443#vpnsal
+vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?encryption=none&security=tls&sni=german.sarzamiiinahang.ir&fp=chrome&allowinsecure=0&type=xhttp&mode=auto&path=/Meh?di=443#🇩🇪All¹⁴ | @BigSmoke_Config
+vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?encryption=none&security=tls&sni=german.sarzamiiinahang.ir&fp=chrome&allowinsecure=0&type=xhttp&mode=auto&path=/Meh?di=443#🇩🇪All⁵ | @BigSmoke_Config
