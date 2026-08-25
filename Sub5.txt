@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=neth.lckdwn.ru#@outline_ir
 vless://32bf865b-e98c-494d-bcb6-23c3cde2429c@144.31.207.4:443?security=reality&encryption=none&pbk=Hcg9T_s9LuWkVQW14TzIPuyZio32WbA6irp782TUXnM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=plot.whit3.net&sid=0138875bd7d8725a#Channel id: @ConfigV2RayNG 🇳🇱
 vless://32bf865b-e98c-494d-bcb6-23c3cde2429c@177.3.212.189:443?security=reality&encryption=none&pbk=I81tkGsfVOK0JNnjsHRluXcXI-DyV_4mLQ4e8QJuSxU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gd-0z.whit3.net&sid=d7d38e70e3362842#Channel id: @ConfigV2RayNG 🇳🇱
 vless://32bf865b-e98c-494d-bcb6-23c3cde2429c@plot.whit3.net:443?security=reality&encryption=none&pbk=Hcg9T_s9LuWkVQW14TzIPuyZio32WbA6irp782TUXnM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=plot.whit3.net&sid=0138875bd7d8725a#@FarazV2ray
@@ -503,3 +502,4 @@ vless://49c0ae46-767c-47d1-9703-8740e0c4b15a@104.18.1.1:443?path=/eyJqdW5rIjoiZU
 vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/all&security=tls&alpn=h2&encryption=none&insecure=0&host=feywi.goldleaflab-psr.sbs&fp=chrome&type=ws&allowInsecure=0&sni=feywi.goldleaflab-psr.sbs#@confiig_hub
 vless://4a09b051-3e49-425a-9fd3-1f074d7e587a@hgvh-production.up.railway.app:443?encryption=none&type=ws&security=tls&path=/ws/4a09b051-3e49-425a-9fd3-1f074d7e587a&host=hgvh-production.up.railway.app&sni=hgvh-production.up.railway.app&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@configprxy
 vless://4a2d276f-94eb-4a51-a247-7a89e1b4820d@mainline.proxy.rlwy.net:47169?type=xhttp&encryption=none&path=/&host=&mode=auto&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000","mode":"auto","scMaxEachPostBytes":"1000000"}&security=reality&pbk=1XwIBKNPP_W38KDiQkrC7tYmo8ebldvZaDf_85fudSI&fp=chrome&sni=is1-ssl.mzstatic.com&sid=86181bd63f&spx=/#🇺🇸151922 | ⚡️Telegram = t.me/SOSkeyNET
+vless://4a40e7a6-9179-42c1-9bd7-eefec23a62f8@skk.moe:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=soft-meadow-980a.458.workers.dev&type=ws#@hex_proxy ⁸

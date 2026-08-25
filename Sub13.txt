@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f4146152-f622-4466-a233-cc01ca908bcb@b4y7t2p9j6f1m8x3q5kd.th3team.ir:20071?security=none&encryption=mlkem768x25519plus.native.0rtt.igWc0m9QOE9vfCe3gmuUJUPeFp-tjXiwQlBm8srQX04&host=play.google.com&headerType=http&type=tcp#kurdconfig
 vless://f4146152-f622-4466-a233-cc01ca908bcb@b4y7t2p9j6f1m8x3q5kd.th3team.ir:20071?security=none&encryption=mlkem768x25519plus.native.0rtt.igWc0m9QOE9vfCe3gmuUJUPeFp-tjXiwQlBm8srQX04&host=play.google.com&headerType=http&type=tcp#کانال ما
 vless://f4146152-f622-4466-a233-cc01ca908bcb@b4y7t2p9j6f1m8x3q5kd.th3team.ir:20071?security=none&encryption=mlkem768x25519plus.native.0rtt.igWc0m9QOE9vfCe3gmuUJUPeFp-tjXiwQlBm8srQX04&host=play.google.com&headerType=http&type=tcp#🇺🇸@FreakConfig
 vless://f4146152-f622-4466-a233-cc01ca908bcb@b4y7t2p9j6f1m8x3q5kd.th3team.ir:20071?security=none&encryption=mlkem768x25519plus.native.0rtt.igWc0m9QOE9vfCe3gmuUJUPeFp-tjXiwQlBm8srQX04&host=play.google.com&headerType=http&type=tcp#🌍152030 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%3E%3E%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk%3D@15.235.75.71:8388#%3E%3E%40V2rayNG3%3A%3ACA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@nl1.levikogjgfdd.ir:8388#%3E%3E%40oneclickvpnkeys%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#%3E%3E%40configV2rayNG%3A%3ALT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno@103.120.178.193:31348#%3E%3E%40oneclickvpnkeys%3A%3AIN

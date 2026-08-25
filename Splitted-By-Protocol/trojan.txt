@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://MiTiVPN@140.248.185.253:443?allowInsecure=1&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&sni=ssl.fastly.com&type=ws#%F0%9F%AB%9F98@oneclickvpnkeys
 trojan://MiTiVPN@140.248.185.253:443?alpn=http%2F1.1&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&sni=ssl.fastly.com&type=ws#%F0%9F%AB%9F18@oneclickvpnkeys
 trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev:2087?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev&path=/?ed=2560#کانال تلگرام : Free_VPN_CH@
 trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&path=/?ed=2560#کانال تلگرام : Free_VPN_CH@
@@ -241,7 +242,6 @@ trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#%F0%9F%87%B1%F0%9F%87%BBLV-85.159.228.28-0225
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?security=tls&sni=fleet-bonefish.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-44.246.163.102-0146
 trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-44.246.163.102-0154
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.5:10822?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.5-4927
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.234:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.234-0086
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.228:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.228-0085
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.127:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.127-0084
@@ -256,6 +256,7 @@ trojan://f033bd38-fe03-4705-883c-e45654eaa082@202.8.9.67:28443?security=tls&sni=
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@141.147.191.85:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%AF%F0%9F%87%B5JP-141.147.191.85-0056
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@155.248.172.87:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%AF%F0%9F%87%B5JP-155.248.172.87-0055
 trojan://oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw@scottie.golfland.club:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.216-0047
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@212.90.123.130:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BA%F0%9F%87%B8US-212.90.123.130-0044
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10821?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-0198
 trojan://ND91608427@ace-starling.rooster465.autos:443?security=tls&sni=ace-starling.rooster465.autos#%F0%9F%87%AD%F0%9F%87%B0HK-185.244.208.13-0200
 trojan://AE62539071@together-dingo.rooster465.autos:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.162-0203
@@ -264,7 +265,7 @@ trojan://AE62539071@game-firefly.rooster465.autos:443?security=tls&sni=game-fire
 trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.164-0206
 trojan://ND91608427@202.78.163.148:443?security=tls&sni=discrete-basilisk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.148-0207
 trojan://AE62539071@relative-locust.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.132-0208
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@212.90.123.130:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BA%F0%9F%87%B8US-212.90.123.130-0044
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@45.82.253.234:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%A8%F0%9F%87%BECY-45.82.253.234-0043
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?security=tls&sni=relaxed-gull.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.248-0210
 trojan://AE62539071@enough-basilisk.rooster465.autos:443?security=tls&sni=enough-basilisk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.100-0211
 trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.160-0212
@@ -275,7 +276,6 @@ trojan://FH72359861@magnetic-caiman.rooster465.autos:443?security=tls&sni=magnet
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?security=tls&sni=discrete-basilisk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.148-0217
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.4:10826?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.4-0222
 trojan://atKbXl2I4rKzHGiRybV7fOp%2BOCYPz%2BbO@vip-us-6.hkd4fwmg.xyz:13758?security=tls&sni=vip-us-6.hkd4fwmg.xyz#%F0%9F%87%BA%F0%9F%87%B8US-23.19.230.63-0224
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@45.82.253.234:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%A8%F0%9F%87%BECY-45.82.253.234-0043
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@45.88.148.234:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.234-0042
 trojan://7f0dcf73-bc93-4038-b683-c4728f06e7d7@trojannmfan5.ripwallllc.com:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-104.238.160.138-0226
 trojan://Sn%2BJPr7a1JGWKxUrlhKrgTGajkOxbxUg@vip-sg-2.hkd4fwmg.vip:58277?security=tls&sni=vip-sg-2.hkd4fwmg.vip#%F0%9F%87%B8%F0%9F%87%ACSG-142.91.102.42-0231
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@45.88.148.234:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.234-0042
