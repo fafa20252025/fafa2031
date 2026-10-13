@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@188.114.97.6:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷@FreakConfig
 trojan://humanity@188.114.97.6:443?security=tls&sni=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.calmlunch.com&path=/assignment#Telegram : @Daily_Configs
 trojan://humanity@188.114.97.6:443?security=tls&sni=www.pleadcourt.org&fp=chrome&alpn=http/1.1&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&host=www.pleadcourt.org&path=/assignment#Channel : @Daily_Configs
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@B2Hub
@@ -502,4 +503,3 @@ vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.106:443?path=/ws/Default&s
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.106:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=core-d1cc3c-bbaab5-production.up.railway.app&fp=chrome&type=ws&sni=core-d1cc3c-bbaab5-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.106:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=service-d9e57f-a4f63f-production.up.railway.app&fp=chrome&type=ws&sni=service-d9e57f-a4f63f-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.107:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=api-c72c99-afd3e6-production.up.railway.app&fp=chrome&type=ws&sni=api-c72c99-afd3e6-production.up.railway.app#All Operators @MaSTeRSeRVeR1
-vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.107:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=api-xvdhdv8374gdv-dyehgd638-6b85bd-production.up.railway.app&fp=chrome&type=ws&sni=api-xvdhdv8374gdv-dyehgd638-6b85bd-production.up.railway.app#All Operators @MaSTeRSeRVeR1
