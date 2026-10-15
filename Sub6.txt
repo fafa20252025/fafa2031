@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://419f25c1-bc35-412e-93fb-258efee859b5@ru2.oshost.network:80?path=/api/v2/stream&security=none&encryption=none&type=ws#🇳🇱@EliV2ray
 vless://41a7af38-0bb1-4493-aa8d-634af0c2548b@82.29.36.250:443?security=reality&encryption=none&pbk=09XPceP705hC-5sEDXDSLeL2eMOrF-mFISK8JaJ7q2g&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=09353d6dc5b789#@MARAMBASHI 🇦🇲
 vless://41a7af38-0bb1-4493-aa8d-634af0c2548b@82.29.36.250:443?security=reality&encryption=none&pbk=09XPceP705hC-5sEDXDSLeL2eMOrF-mFISK8JaJ7q2g&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=09353d6dc5b789#@V2rayng_Fast 🇦🇲
 vless://41a7af38-0bb1-4493-aa8d-634af0c2548b@82.29.36.250:443?security=reality&encryption=none&pbk=09XPceP705hC-5sEDXDSLeL2eMOrF-mFISK8JaJ7q2g&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=09353d6dc5b789#@vmess_ir
@@ -502,4 +503,3 @@ vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@152.53.186.202:443?sni=deinfo.chaos
 vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@152.53.186.202:443?sni=deinfo.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@152.53.186.202:443?sni=deinfo.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls#🇩🇪194841 | ⚡️Telegram = t.me/SOSkeyNET
 vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@152.53.186.202:443?sni=deinfo.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls#🇩🇪DE-🚀@VPNine1
-vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@87.121.47.183:443?sni=1cdinfo.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls#[71554] - Telegram : @V2All

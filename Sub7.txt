@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@87.121.47.183:443?sni=1cdinfo.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls#[71554] - Telegram : @V2All
 vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@87.121.47.183:443?sni=1cdinfo.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@87.121.47.183:443?sni=1cdinfo.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls#🇩🇪194842 | ⚡️Telegram = t.me/SOSkeyNET
 vless://5538eaaa-ac3d-4414-a1f5-280212949ed9@87.121.47.183:443?sni=1cdinfo.chaosnetwork.app&alpn=http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls#🇩🇪DE-🚀@VPNine1
@@ -502,4 +503,3 @@ vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?path=/free-serve
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?path=/free-server.techsonic.dev&security=tls&encryption=none&insecure=0&host=free-server.techsonic.dev&fp=chrome&type=ws&allowInsecure=0&sni=free-server.techsonic.dev#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?path=/free-server.techsonic.dev&security=tls&encryption=none&insecure=0&host=free-server.techsonic.dev&fp=chrome&type=ws&allowInsecure=0&sni=free-server.techsonic.dev#برای اتصال دائمی جوین شو🥏 TelegramID ⌲v2ray_configs_pools 🪩
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?path=/free-server.techsonic.dev&security=tls&encryption=none&insecure=0&host=free-server.techsonic.dev&type=ws&allowInsecure=0&sni=free-server.techsonic.dev#72
-vless://6e8ca04d-52f1-4e4d-bf9e-b9f50fc5fde7@turk.karmatel.ir:2087?path=/&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&host=vs1.karmatel.ir&fp=chrome&type=ws&allowInsecure=0&sni=trt.karmatel.ir#10392@proxy_online_net
