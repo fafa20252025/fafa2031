@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#@vmesskhodam
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#@FarazV2ray
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@i10VPN⁹
-trojan://humanity@188.114.98.0:443?security=tls&sni=www.volumeroot.com&fp=chrome&alpn=http/1.1&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&host=www.volumeroot.com&path=/assignment#@Daily_Configs : کانال تلگرام
-trojan://humanity@188.114.98.0:443?security=tls&sni=www.volumeroot.com&fp=chrome&alpn=http/1.1&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&host=www.volumeroot.com&path=/assignment#Channel : @Daily_Configs
-trojan://humanity@188.226.181.61:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@FarazV2ray
 trojan://humanity@188.226.181.61:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY
 trojan://humanity@188.226.181.61:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@V2ray_Alpha🐓 9
 trojan://humanity@188.226.181.61:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@V2ray_Alpha💠 1
@@ -503,3 +497,9 @@ vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.16.132.136:80?encryption=none&s
 vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.24.192.51:80?encryption=none&security=none&type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=/?ed=2560#🙃Tel:@pPal03🙃Join🙃
 vless://0ce9e6d8-fa4f-4746-8d8a-1da5c46c964f@play.qeshmdiyar.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/2559020cc4f5e93&type=tcp&sni=www.github.com&sid=ab5b#@Shh_Proxy-New⁷
 vless://0ce9e6d8-fa4f-4746-8d8a-1da5c46c964f@shop.jarorobo.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/2559020cc4f5e93&type=tcp&sni=www.github.com&sid=ab5b#@Shh_Proxy-New¹
+vless://0ce9e6d8-fa4f-4746-8d8a-1da5c46c964f@store.qeshmdiyar.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/2559020cc4f5e93&type=tcp&sni=www.github.com&sid=ab5b#@Shh_Proxy-New⁸
+vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@2.26.89.14:443?security=reality&encryption=none&pbk=fyG6EMB247gGPXLK1YqvbWd_Q9fnoMWkbmGfG1BRJUE&headerType=&type=tcp&flow=xtls-rprx-vision&sni=assets-ms-33.ecom-ai-solutions.com&sid=c90408131c6d00b0#@V2ray_confiig
+vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@2.26.89.14:443?security=reality&encryption=none&pbk=fyG6EMB247gGPXLK1YqvbWd_Q9fnoMWkbmGfG1BRJUE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=assets-ms-33.ecom-ai-solutions.com&sid=c90408131c6d00b0#@tootffarangi🍓-6
+vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@31.76.227.58:443?security=reality&encryption=none&pbk=kInywP138eVlHbS7wodX2Q_R1OC0JdViypEeguSvpQ0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=assets-mi-27.spbstudentlife.com&sid=33e6fe7545082926#✅ t.me/bigAVPN ایران آزاد 👑
+vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@83.147.245.126:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=assets-str-53.nexus-infinitus.com&fp=chrome&pbk=gLO2GRqV0iVDmVdytcJLqGyZEB5Swxb-NAOC9AL13UM&sid=344f1f56582dda0f&type=tcp&headerType=none#Channel : @Daily_Configs
+vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@83.147.245.126:443?security=reality&encryption=none&pbk=gLO2GRqV0iVDmVdytcJLqGyZEB5Swxb-NAOC9AL13UM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=assets-str-53.nexus-infinitus.com&sid=344f1f56582dda0f#@V2ray_confiig
