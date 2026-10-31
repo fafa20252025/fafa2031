@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.64.30:8880?path=/&security=&encryption=none&host=vms.lifetime36.workers.dev&type=ws#@Tarkshodeh 🇺🇲
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.40:8880?security=&encryption=none&host=vms.lifetime37.workers.dev&type=ws#@Tarkshodeh 🇺🇲
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net#
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.30:8880?path=/&security=none&encryption=none&host=vms.lifetime38.workers.dev&type=ws#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.30:8880?path=/&security=none&encryption=none&host=vms.lifetime59.workers.dev&type=ws#@tootffarangi🍓
@@ -503,3 +501,5 @@ vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@179.198.49.218:443?encryption=none&
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@179.254.92.134:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=OQu-e59wDwOSwiBBawquNAPhg8Li1hmioWU2Up1TGDw&sid=c33807f76b689c9a&sni=assets-70.topp-con.xyz#@VPsave
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@186.246.9.62:443?flow=xtls-rprx-vision&security=reality&sni=media-27.topp-con.xyz&fp=chrome&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba#@VPsave
 vless://7b102311-43fd-4e8f-877e-8090623c101d@103.102.228.113:443?&security=tls&fp=chrome&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=/TelegramU0001F1E8U0001F1F3 @VPNine1fp=chrome#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
+vless://7b102311-43fd-4e8f-877e-8090623c101d@103.102.228.113:443?&security=tls&fp=chrome&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=/TelegramU0001F1E8U0001F1F3 @VPNine1fp=chrome#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
+vless://7b102311-43fd-4e8f-877e-8090623c101d@103.102.228.113:443?sni=vp58.cc.cd&type=ws&host=vp58.cc.cd&path=/TelegramU0001F1E8U0001F1F3 @VPNine1fp=chromefp=chrome&security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
