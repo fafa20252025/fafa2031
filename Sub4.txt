@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&headerType=none&type=tcp&sni=www.discovergreatjobsandadvanceyourcareer.com#@v2ray_phoenix
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.discovergreatjobsandadvanceyourcareer.com#@ConfigV2RayNG
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&headerType=none&type=tcp&sni=api.discovergreatjobsandadvanceyourcareer.com#✰𝗝𝗼𝗶𝗻 ➠ @v2ray_configs_pools✰
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#@ConfigV2RayNG
@@ -502,4 +503,3 @@ trojan://mitivpn@199.232.78.188:443?path=@rzea8pppooopppppppp&security=tls&alpn=
 trojan://mitivpn@199.232.78.188:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Telegram 🆔@Cnetvpn
 trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
 trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=chrome#[132150]
-trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree

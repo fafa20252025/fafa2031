@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d662d09d-61e8-42ba-bc17-a40121589b26@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#@leviconfigs🪐-12
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#@leviconfigs🪐-16
 vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.140.106:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
@@ -502,4 +503,3 @@ vless://eaf76557-2219-4799-8171-d7020adfefd0@104.18.151.231:2053?path=/ws&securi
 vless://eaf76557-2219-4799-8171-d7020adfefd0@45.130.125.151:443?encryption=none&security=tls&type=ws&path=/ws&host=fancy-mouse-6aff.wixit71180.workers.dev&sni=fancy-mouse-6aff.wixit71180.workers.dev&fp=chrome&alpn=http/1.1#@VPsave
 vless://eb19f904-2a70-41d0-8187-e425879aee8e@139.28.221.213:48004?encryption=none&security=tls&type=ws&path=/?ed&host=yp1.yupeng123.dpdns.org&sni=yp1.yupeng123.dpdns.org&fp=chrome#@VPsave
 vless://eb64e036-d64e-42d7-94ac-9800d8f16b08@46.8.228.52:28329?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000","xPaddingObfsMode":true}&pbk=EmrdveO2Gy-rvuyzUEDtbRO7Kp0Zc5tIwoCHsMIr5Xs&fp=chrome&spx=/64450295bb9870c&type=xhttp&sni=g.co&sid=c179ed#@NETMelliAnti
-vless://eb6ba095-8184-4a85-992f-7a42049124cc@www.zeenvio.ir:49054?security=reality&encryption=mlkem768x25519plus.native.0rtt.Bg4V8F4h98igrHnu5gErCiQUAqJr1DAJWKhoFNh0ZEc&pbk=4vWyTSLXJwt3k3nHFM7o6I5xzV8QijATPS_THsiUlQM&headerType=none&fp=chrome&type=tcp&sni=token.safebrowsing.apple&sid=2c98412b4dc3fed0#Channel : @Daily_Configs

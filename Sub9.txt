@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.187.145:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&sni=swedenafteraventura.space&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY#⚡️ @Nap_v2ray 🇺🇸
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@finlandlanzarotte.live:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=finlandlanzarotte.live&fp=chrome&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo#kurdconfig
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@finlandlanzarotte.live:443?security=reality&encryption=none&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=finlandlanzarotte.live#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️655🌐🆕
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@hollandlanzerotte.xyz:443?security=reality&encryption=none&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hollandlanzerotte.xyz#@V2ray_Alpha⛽ 7
@@ -502,4 +503,3 @@ vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?security=reality&
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@KAFING_2
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://6bf83eb4-6e1a-49e7-b966-30de57239621@nl1.melkban24.ir:3102?security=none&encryption=mlkem768x25519plus.xorpub.0rtt.vttlu-JKxHijJDTOT5WyFwDkTKSIeXOqeZr6IRxyci0&host=Copy_Shode_az_Chanel0111Net&headerType=none&type=tcp&flow=xtls-rprx-vision#@sora1co
-vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@cape.flowzari.info:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cape.flowzari.info&fp=chrome&pbk=5DdSLIpnYjqYTI4-yC-ulr8PGMA8YML_EWdKvOjdinc&sid=693e339ad3613446&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn

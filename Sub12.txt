@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@176.124.218.80:443?encryption=none&fp=chrome&host=bg2-ws.gacvpn.site&path=/static/js/vendor.f857f795.js&security=tls&sni=bg2-ws.gacvpn.site&type=ws#@VPsave
 vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@62.113.42.147:995?encryption=none&fp=chrome&host=fi.gacvpn.site&path=/static/js/runtime.6dc28486.js&security=tls&sni=fi.gacvpn.site&type=ws#@VPsave
 vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@lte-v2-ws.gacvpn.site:8443?type=ws&security=tls&sni=lte-v2-ws.gacvpn.site&path=/static/js/runtime.9d03c7.js&encryption=none&fp=chrome#🇷🇺10 | ⚡Telegram = t.me/ex_proxies
 vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@msk2.gacvpn.site:993?type=ws&headerType=none&security=tls&encryption=none&sni=msk2.gacvpn.site&fp=chrome&path=/static/js/vendor.549bd856.js?ed=2048&host=msk2.gacvpn.site#@VPsave
@@ -502,4 +503,3 @@ vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@aml6.mechanicir.ir:38479?encryption
 vless://ab9a739f-2dab-4f5f-a207-693c99dec6be@itl4.mechanicir.ir:10694?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb&allowinsecure=0&type=tcp&headerType=none#@meliproxyy
 vless://abca037b-bee5-41cc-a888-0668e4c66176@597dad6b.con.fernarchive.online:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=597dad6b.con.fernarchive.online&fp=chrome&path=/conv4/stream/77dd2aeeb94331fbff325bb48850392b&mode=auto#[129947]
 vless://abdaf951-a2be-4b3d-988a-da255823f78b@xray1-direct-mci1-fs-ce.freesocks.work:443?security=reality&encryption=none&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#@VPsave
-vless://abed056e-6391-45ad-a3e8-b3055e189677@18.219.73.42:443?encryption=none&fp=chrome&pbk=GMHIBvSiXrCP3eAsPUKYpenhPCv_Q-YQYALUev-sGFM&security=reality&sid=7e13ddc4badf8197&sni=corporate.amazon.com&spx=/ae74f918e31d202&type=tcp#@V2ray_confiig
