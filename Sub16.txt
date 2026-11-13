@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=get.jarbook.net&fp=chrome&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&spx=/&type=tcp&headerType=none&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#@meliproxyy
 vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=get.jarbook.net&fp=chrome&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&spx=/&type=tcp&headerType=none&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#Channel : @Daily_Configs
 vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=get.jarbook.net&fp=chrome&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&spx=/&type=tcp&headerType=none&host=/?Telegram—PLANB_NET—PLANB_NET—PLANB_NET—PLANB_NET#@VPNConnectd
 vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=get.jarbook.net&fp=chrome&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&spx=/&type=tcp&headerType=none&host=copy_Shode_az_Chanel0111Net#Channel : @Daily_Configs
@@ -502,4 +503,3 @@ vless://eda6b321-aa59-4b1e-b823-3616af020b4a@194.5.207.6:443?type=tcp&sid=d6c3c9
 vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?security=reality&type=tcp&packetEncoding=none&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=a44ff7d2e80213c2&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@138.124.79.6:443?security=reality&encryption=none&pbk=ydN3DRKjNC6q7JI_Zegj3hhvdHussmralsnSQGQVdws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-nl-1.nztpro.com&sid=25f4a40b9fdd9780#@v2ray313 کانالمون 🧿
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@216.173.71.43:443?security=reality&encryption=none&pbk=miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lv.nztvpn.com&sid=0da7e14db353e7d0#@EXPRESSVPN_420
-vless://ee4bdede-a6cf-4931-a6cf-7ee4792ee76e@1conf.top:3333?security=none&encryption=none&headerType=http&type=tcp#Arshiavpn12

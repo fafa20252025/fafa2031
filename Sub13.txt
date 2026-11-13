@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9a46fb8c-fde6-492c-b5c6-8b44af0ce75f@151.101.36.235:443?encryption=none&security=tls&type=xhttp&sni=accounts.fastly.com&fp=chrome#@VPsave
 vless://9a46fb8c-fde6-492c-b5c6-8b44af0ce75f@151.101.36.246:443?encryption=none&security=tls&type=xhttp&sni=accounts.fastly.com#@VPsave
 vless://9a46fb8c-fde6-492c-b5c6-8b44af0ce75f@151.101.36.2:443?encryption=none&security=tls&type=xhttp&sni=accounts.fastly.com#@VPsave
 vless://9a46fb8c-fde6-492c-b5c6-8b44af0ce75f@151.101.36.61:443?encryption=none&security=tls&type=xhttp&sni=accounts.fastly.com#@VPsave
@@ -502,4 +503,3 @@ vless://ad926312-b7ea-41f6-ace4-d01038088653@pro.riziro.ir:50272?encryption=none
 vless://ad926312-b7ea-41f6-ace4-d01038088653@pro2.riziro.ir:443?encryption=none&fp=chrome&pbk=xYKZqhFmtdVvWN-Zz0dn-sXwBJZ_Uy0HXO7wh7liSFs&security=reality&sid=f27a23d61cff&sni=www.nvidia.com&spx=/iZyGyhRSJ1n5XPr&type=tcp#🇱🇻vless
 vless://adb08572-e2b9-4cde-aebb-70abbf558a20@flamenova.waldron.ir:48146?flow=xtls-rprx-vision&encryption=none&security=reality&sni=dynu.com&fp=chrome&pbk=7rhNYX_jD0fobfvXIIxkokKDuCX4Q-mYXbDbUEQzUnA&sid=be50ba4dadd9555c&type=tcp&headerType=none#🇩🇪All² | @BigSmoke_Config
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@2.59.253.251:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nvidia.com&sid=db04ce8bdb8900f1#@hopev2ray🖤
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api.vk.me&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @AZARBAYJAB1
